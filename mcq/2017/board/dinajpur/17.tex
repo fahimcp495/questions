@@ -1,0 +1,37 @@
+\begin{tikzpicture}
+
+    % Define the coordinates
+    \coordinate (O) at (0, 0);      % Origin point O
+    \coordinate (P) at (-3, 0);     % Point P on the left
+    \coordinate (R) at (3, 0);      % Point R on the right
+    \coordinate (S) at (0, 3);      % Point S directly above O
+    \coordinate (T) at (2.12, 2.12); % Point T at approximately 45 degrees
+    
+    % Draw the horizontal line P-O-R
+    \draw[thick] (P) -- (R);
+    
+    % Draw the vertical line O-S (perpendicular to PR)
+    \draw[thick] (O) -- (S);
+    
+    % Draw the line O-T
+    \draw[thick] (O) -- (T);
+    
+    % Draw the arc for angle between OS and OT
+    \draw (0, 0.5) arc (90:0:0.5);
+    
+    % Label point P
+    \node[left] at (P) {P};
+    
+    % Label point O
+    \node[below] at (O) {O};
+    
+    % Label point R
+    \node[right] at (R) {R};
+    
+    % Label point S
+    \node[above] at (S) {S};
+    
+    % Label point T
+    \node[above right] at (T) {T};
+    
+    \end{tikzpicture}

@@ -1,0 +1,62 @@
+\begin{tikzpicture}
+
+    % Define the coordinates
+    \coordinate (C) at (0, 0);       % Point C at origin
+    \coordinate (B) at (5, 0);       % Point B on the horizontal line
+    \coordinate (A) at (3.5, 3);     % Point A at top
+    \coordinate (E) at (-1.5, 0);    % Point E extending left from C (on horizontal line ECB)
+    \coordinate (F) at (-1.17, -1);  % Point F - extension of line CA beyond C
+    \coordinate (D) at (5.5, -1);  % Point D - extension of line AB beyond B
+    
+    % Draw the line E-C-B (horizontal base line)
+    \draw[thick] (E) -- (B);
+    
+    % Draw the line from C to A
+    \draw[thick] (C) -- (A);
+    
+    % Draw the line from A to B
+    \draw[thick] (A) -- (B);
+    
+    % Draw the extension line C-F (continuation of line AC beyond C)
+    \draw[thick] (C) -- (F);
+    
+    % Draw the extension line B-D (continuation of line AB beyond B)
+    \draw[thick] (B) -- (D);
+    
+    % Draw the arc for angle at C (30 degrees) - between CE and CF (below the horizontal)
+    \draw (C) ++(-0.6, 0) arc (180:220.6:0.6);
+    
+    % Draw the arc for angle at B (105 degrees) - angle CBD (between CB going left and BD going down)
+    \draw (B) ++(-0.5, 0) arc (180:295:0.5);
+    
+    % Draw the arc for angle R at A (angle CAB)
+    \draw (A) ++(-0.35, -0.3) arc (220:300:0.45);
+    
+    % Label point A
+    \node[above] at (A) {A};
+    
+    % Label point B
+    \node[above right] at (B) {B};
+    
+    % Label point C
+    \node[below right] at (C) {C};
+    
+    % Label point E
+    \node[above left] at (E) {E};
+    
+    % Label point F
+    \node[below] at (F) {F};
+    
+    % Label point D
+    \node[below right] at (D) {D};
+    
+    % Label angle R at A
+    \node[below] at (3.5, 2.5) {R};
+    
+    % Label 30 degrees at C (below the horizontal line)
+    \node[below left] at (-0.38, -0.10) {$30^{\circ}$};
+    
+    % Label 105 degrees at B
+    \node[below left] at (4.8, -0.45) {$105^{\circ}$};
+    
+    \end{tikzpicture}
