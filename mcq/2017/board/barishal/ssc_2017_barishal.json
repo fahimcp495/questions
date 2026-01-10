@@ -1,0 +1,616 @@
+{
+    "paper": {
+      "id": "ssc_2017_barishal",
+      "title": "বরিশাল বোর্ড - ২০১৭",
+      "titleEn": "বরিশাল বোর্ড - ২০১৭",
+      "year": 2017,
+      "type": "board",
+      "board": "barishal",
+      "school": null,
+      "totalQuestions": 30,
+      "durationMinutes": 30,
+      "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+    },
+    "questions": [
+      {
+        "questionNumber": 1,
+        "chapterId": "chapter_01",
+        "questionPreamble": null,
+        "question": "$0.\\dot{2} + 0.0\\dot{4}$ এর মান কত?",
+        "options": [
+          "$0.5$",
+          "$0.\\dot{5}$",
+          "$5$",
+          "$9$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 2,
+        "chapterId": "chapter_02",
+        "questionPreamble": "",
+        "question": "$\\{\\phi\\}$ কোন ধরনের সেট?",
+        "options": [
+          "কোনো সেট নয়",
+          "ফাঁকা সেট",
+          "পূরক সেট",
+          "ফাঁকা সেটের Power (পাওয়ার) সেট"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 3,
+        "chapterId": "chapter_04",
+        "questionPreamble": "",
+        "question": "$16^{\\frac{3}{4}}$ এর মান কত?",
+        "options": [
+          "$2$",
+          "$4$",
+          "$6$",
+          "$8$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 4,
+        "chapterId": "chapter_12",
+        "questionPreamble": "",
+        "question": "$y = 2x$ লেখচিত্র হলো-\n$i.$ মূলবিন্দুগামী\n$ii.$ অক্ষদ্বয়কে ছেদকারী\n$iii.$ একটি সরলরেখা\nনিচের কোনটি সঠিক?",
+        "options": [
+          "$i$ ও $ii$",
+          "$ii$ ও $iii$",
+          "$i$ ও $iii$",
+          "$i$, $ii$ ও $iii$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 5,
+        "chapterId": "chapter_04",
+        "questionPreamble": "",
+        "question": "$144$ এর $\\log$ (লগ) $4$ হলে, ভিত্তি কত?",
+        "options": [
+          "$2\\sqrt{3}$",
+          "$3\\sqrt{2}$",
+          "$5\\sqrt{2}$",
+          "$2\\sqrt{5}$"
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 6,
+        "chapterId": "chapter_03",
+        "questionPreamble": "নিচের তথ্যের সাহায্যে ৬ ও ৭ নং প্রশ্নের উত্তর দাও :\n$x + \\frac{1}{x} = 2$ হলে -",
+        "question": "$x^{3} + \\frac{1}{x^{3}}$ এর মান কত?",
+        "options": [
+          "$2$",
+          "$3$",
+          "$4$",
+          "$6$"
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 7,
+        "chapterId": "chapter_03",
+        "questionPreamble": "নিচের তথ্যের সাহায্যে ৬ ও ৭ নং প্রশ্নের উত্তর দাও :\n$x + \\frac{1}{x} = 2$ হলে -",
+        "question": "$x^{4} + \\frac{1}{x^{4}}$ এর মান কত?",
+        "options": [
+          "$4$",
+          "$2$",
+          "$3$",
+          "$6$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 8,
+        "chapterId": "chapter_06",
+        "questionPreamble": "",
+        "question": "রশ্মির প্রান্তবিন্দু কতটি?",
+        "options": [
+          "$2$",
+          "$0$",
+          "$1$",
+          "অসংখ্য"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 9,
+        "chapterId": "chapter_06",
+        "questionPreamble": "নিচের তথ্যের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও :\nএকটি ত্রিভুজের তিনটি কোণের অনুপাত $1 : 1 : 2$",
+        "question": "ত্রিভুজটির বৃহত্তম কোণের পরিমাণ কত?",
+        "options": [
+          "$60^{\\circ}$",
+          "$90^{\\circ}$",
+          "$100^{\\circ}$",
+          "$180^{\\circ}$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 10,
+        "chapterId": "chapter_06",
+        "questionPreamble": "নিচের তথ্যের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও :\nএকটি ত্রিভুজের তিনটি কোণের অনুপাত $1 : 1 : 2$",
+        "question": "ত্রিভুজটি কোন ধরনের?",
+        "options": [
+          "সমবাহু",
+          "সমদ্বিবাহু",
+          "সমকোণী",
+          "সমদ্বিবাহু সমকোণী"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 11,
+        "chapterId": "chapter_03",
+        "questionPreamble": "",
+        "question": "যে কোনো অভেদ চলকের কতটি মানের জন্য সত্য?",
+        "options": [
+          "$1$",
+          "$2$",
+          "$0$",
+          "অসংখ্য"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 12,
+        "chapterId": "chapter_12",
+        "questionPreamble": "",
+        "question": "$x + 3y = 1$, $2x + 6y = 2$ সমীকরণ জোটটি হলো -\n$i.$ নির্ভরশীল\n$ii.$ সমঞ্জস\n$iii.$ অসংখ্য সমাধান আছে\nনিচের কোনটি সঠিক?",
+        "options": [
+          "$i$ ও $ii$",
+          "$ii$ ও $iii$",
+          "$i$ ও $iii$",
+          "$i$, $ii$ ও $iii$"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 13,
+        "chapterId": "chapter_13",
+        "questionPreamble": null,
+        "question": "$1 + 4 + 16 + \\dots $ ধারাটির কততম পদ $1024$?",
+        "options": [
+          "৬ষ্ট",
+          "৫ম",
+          "৭ম",
+          "৮ম"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 14,
+        "chapterId": "chapter_07",
+        "questionPreamble": null,
+        "question": "একটি নির্দিষ্ট চতুর্ভুজ অঙ্কনের জন্য কয়টি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+        "options": [
+          "$5$",
+          "$4$",
+          "$3$",
+          "$2$"
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 15,
+        "chapterId": "chapter_13",
+        "questionPreamble": "",
+        "question": "$-16 - 8 - 0 + .....$ ধারাটির সাধারণ অন্তর কত?",
+        "options": [
+          "$-8$",
+          "$8$",
+          "$2$",
+          "$\\frac{1}{2}$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 16,
+        "chapterId": "chapter_08",
+        "questionPreamble": "",
+        "question": "কোনো বৃত্তে অন্তর্লিখিত সামান্তরিক একটি-",
+        "options": [
+          "বর্গ",
+          "রম্বস",
+          "আয়ত",
+          "ট্রাপিজিয়াম"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 17,
+        "chapterId": "chapter_06",
+        "questionPreamble": "",
+        "question": "ত্রিভুজের ক্ষেত্রে নিচের বাক্যগুলো খেয়াল কর-\n$i.$ ত্রিভুজ একটি রেখাচিত্র\n$ii.$ ত্রিভুজ একটি সমতলীয় ক্ষেত্র\n$iii.$ সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয় পরস্পর পূরক\nনিচের কোনটি সঠিক?",
+        "options": [
+          "$i$ ও $ii$",
+          "$ii$ ও $iii$",
+          "$i$ ও $iii$",
+          "$i$, $ii$ ও $iii$"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 18,
+        "chapterId": "chapter_14",
+        "questionPreamble": null,
+        "question": "একটি সমবাহু ত্রিভুজের প্রতিসাম্য রেখা কয়টি?",
+        "options": [
+          "$9$",
+          "$8$",
+          "$6$",
+          "$3$"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 19,
+        "chapterId": "chapter_16",
+        "questionPreamble": "উপরের চিত্রের আলোকে ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :",
+        "question": "$ABCD$ রম্বসের $\\triangle AOB$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+        "options": [
+          "$6$",
+          "$12$",
+          "$4$",
+          "$3$"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq19.svg?alt=media&token=9b3c72c5-06b9-4ff3-bca7-d37eeb5b65df",
+        "imageCaption": "ABCD রম্বস যার কর্ণদ্বয় O বিন্দুতে ছেদ করেছে, DO = 4 cm এবং OC = 3 cm",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 20,
+        "chapterId": "chapter_16",
+        "questionPreamble": "উপরের চিত্রের আলোকে ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :",
+        "question": "$ABCD$ রম্বসের পরিসীমা কত মিটার?",
+        "options": [
+          "$20$",
+          "$0.2$",
+          "$16$",
+          "$0.16$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": null,
+        "imageCaption": "ABCD রম্বস যার কর্ণদ্বয় O বিন্দুতে ছেদ করেছে, DO = 4 cm এবং OC = 3 cm",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 21,
+        "chapterId": "chapter_14",
+        "questionPreamble": "",
+        "question": "বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+        "options": [
+          "$0$",
+          "$2$",
+          "$4$",
+          "অসীম"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 22,
+        "chapterId": "chapter_08",
+        "questionPreamble": null,
+        "question": "উপরের চিত্রে $\\angle AOC = 86^{\\circ}$ হলে $\\angle ABC$ এর মান কত ডিগ্রী?",
+        "options": [
+          "$94^{\\circ}$",
+          "$86^{\\circ}$",
+          "$137^{\\circ}$",
+          "$172^{\\circ}$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq22.svg?alt=media&token=c945dbcc-29be-42f3-954d-2ef8715cf3f2",
+        "imageCaption": "বৃত্তে O কেন্দ্র, A, B, C, D বৃত্তের উপর অবস্থিত চতুর্ভুজের শীর্ষবিন্দু এবং কেন্দ্রীয় কোণ AOC = 86°",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 23,
+        "chapterId": "chapter_08",
+        "questionPreamble": "",
+        "question": "$4$ সে.মি. এবং $5$ সে.মি. ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পর অন্তঃস্পর্শ করলে ভাদের কেন্দ্রদ্বয়ের দূরত্ব হবে -",
+        "options": [
+          "$1$ সে.মি.",
+          "$4$ সে.মি.",
+          "$5$ সে.মি.",
+          "$9$ সে.মি."
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 24,
+        "chapterId": "chapter_06",
+        "questionPreamble": "নিচের চিত্রের আলোকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :\n$PQR$ একটি সমবাহু ত্রিভুজ যার $PS \\perp QR$ এবং $PQ = 4$ সে.মি.",
+        "question": "$QS$ এর দৈর্ঘ্য কত সে.মি.?",
+        "options": [
+          "$2$",
+          "$4$",
+          "$3$",
+          "$1$"
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq24.svg?alt=media&token=39b65ff5-cb09-476c-813e-64939b6cac9a",
+        "imageCaption": "সমবাহু ত্রিভুজ PQR যেখানে PS লম্ব QR এর উপর, PQ = 4 সে.মি.",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 25,
+        "chapterId": "chapter_06",
+        "questionPreamble": "নিচের চিত্রের আলোকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :\n$PQR$ একটি সমবাহু ত্রিভুজ যার $PS \\perp QR$ এবং $PQ = 4$ সে.মি.",
+        "question": "ত্রিভুজটির উচ্চতা $(PS)$ কত সে.মি.?",
+        "options": [
+          "$5\\sqrt{2}$",
+          "$20$",
+          "$2\\sqrt{3}$",
+          "$3$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq25.svg?alt=media&token=84c64312-957f-4574-854f-2496548e92b2",
+        "imageCaption": "সমবাহু ত্রিভুজ PQR যেখানে PS লম্ব QR এর উপর, PQ = 4 সে.মি.",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 26,
+        "chapterId": "chapter_10",
+        "questionPreamble": "",
+        "question": "ভূতল ও উল্লম্বতলের মধ্যবর্তী কোণ হলো -",
+        "options": [
+          "$0^{\\circ}$",
+          "$360^{\\circ}$",
+          "$180^{\\circ}$",
+          "$90^{\\circ}$"
+        ],
+        "correctOption": 3,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 27,
+        "chapterId": "chapter_09",
+        "questionPreamble": null,
+        "question": "উল্লিখিত চিত্রে $\\tan(90^{\\circ} - \\theta)$ এর মান কত?",
+        "options": [
+          "$\\sqrt{3}$",
+          "$\\frac{1}{\\sqrt{3}}$",
+          "$\\frac{1}{2}$",
+          "$\\frac{1}{\\sqrt{2}}$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq27.svg?alt=media&token=24f5a65e-8eff-40c5-93d9-129e201fb8d7",
+        "imageCaption": "সমকোণী ত্রিভুজ যার ভূমি 3 cm, উচ্চতা 3√3 cm এবং কোণ θ",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 28,
+        "chapterId": "chapter_16",
+        "questionPreamble": "",
+        "question": "কোনো বৃত্তের ব্যাস $28$ সে.মি. হলে এর পরিধি কত সে.মি.?",
+        "options": [
+          "$42.48$",
+          "$87.96$",
+          "$48.94$",
+          "$44.43$"
+        ],
+        "correctOption": 1,
+        "explanation": "",
+        "difficulty": "easy",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 29,
+        "chapterId": "chapter_16",
+        "questionPreamble": "",
+        "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল $216$ বর্গ মি. । এর আয়তন কত ঘন মি.?",
+        "options": [
+          "$6\\sqrt{6}$",
+          "$36$",
+          "$216$",
+          "$144$"
+        ],
+        "correctOption": 2,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "",
+        "imageCaption": "",
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      },
+      {
+        "questionNumber": 30,
+        "chapterId": "chapter_17",
+        "questionPreamble": null,
+        "question": "কোনো শ্রেণির $60$ জন শিক্ষার্থীর গণিতে প্রাপ্ত নম্বরের নিবেশন নিম্নরূপ :\nমধ্যক কোন শ্রেণিতে?",
+        "options": [
+          "$75-79$",
+          "$80-84$",
+          "$65-69$",
+          "$70-74$"
+        ],
+        "correctOption": 0,
+        "explanation": "",
+        "difficulty": "medium",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_barishal%2Fq30.svg?alt=media&token=0cff289a-0a28-4fc3-bbee-09179bc346bb",
+        "imageCaption": null,
+        "imagePosition": "aboveQuestion",
+        "isPublished": true,
+        "isExplanationPublished": false
+      }
+    ]
+  }
