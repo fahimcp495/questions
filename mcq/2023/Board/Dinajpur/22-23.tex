@@ -1,0 +1,31 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{fontspec}
+\usetikzlibrary{matrix}
+
+% Set up Bengali font (use any Bengali font installed on your system)
+\newfontfamily\bengalifont{Noto Sans Bengali}[Script=Bengali]
+
+\begin{document}
+\begin{tikzpicture}
+
+\matrix (table) [
+  matrix of nodes,
+  nodes={draw, minimum height=0.8cm, text depth=0.25ex, text height=2ex, anchor=center},
+  column 1/.style={nodes={minimum width=2.4cm}},
+  column 2/.style={nodes={minimum width=1.1cm}},
+  column 3/.style={nodes={minimum width=1.1cm}},
+  column 4/.style={nodes={minimum width=1.1cm}},
+  column 5/.style={nodes={minimum width=1.1cm}},
+  column 6/.style={nodes={minimum width=1.1cm}},
+  column 7/.style={nodes={minimum width=1.1cm}},
+  row sep=-\pgflinewidth,
+  column sep=-\pgflinewidth
+]
+{
+  {\bengalifont শ্রেণি ব্যাপ্তি} & 31--35 & 36--40 & 41--45 & 46--50 & 51--55 & 56--60 \\
+  {\bengalifont গণসংখ্যা} & 5 & 8 & 18 & 25 & 12 & 10 \\
+};
+
+\end{tikzpicture}
+\end{document}

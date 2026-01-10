@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_dinajpur",
+    "title": "SSC 2023 - দিনাজপুর বোর্ড",
+    "titleEn": "SSC 2023 - দিনাজপুর বোর্ড",
+    "year": 2023,
+    "type": "board",
+    "board": "dinajpur",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণ নিচের কোনটি?",
+      "options": [
+        "স্থূলকোণ",
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $OS = 3$ সে.মি. হলে $PQ = $ কত?",
+      "options": [
+        "$4$ সে.মি.",
+        "$8$ সে.মি.",
+        "$2\\sqrt{17}$ সে.মি.",
+        "$4\\sqrt{17}$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2023_dinajpur%2Fq02.svg?alt=media&token=d07dd7f7-edec-4fae-8dad-55f7718f5679",
+      "imageCaption": "বৃত্তের কেন্দ্র O, ব্যাসার্ধ 5, জ্যা PQ এবং OS কেন্দ্র থেকে জ্যা-এর উপর লম্ব",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি কত ডিগ্রি?",
+      "options": [
+        "$60°$",
+        "$90°$",
+        "$120°$",
+        "$180°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে $৪$ ও $৫$ নং প্রশ্নের উত্তর দাও :\\nচিত্রে $O$ বৃত্তের কেন্দ্র।",
+      "question": "$\\angle AOB = $ কত?",
+      "options": [
+        "$180°$",
+        "$145°$",
+        "$135°$",
+        "$90°$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2023_dinajpur%2Fq04.svg?alt=media&token=f7c96d91-1e7e-4c7d-94dd-6f10c729bc75",
+      "imageCaption": "বৃত্তের কেন্দ্র O, বৃত্তের উপর বিন্দু A ও B, বৃত্তের বাইরে বিন্দু P, PA ও PB বৃত্তের স্পর্শক, কোণ APB = 35°",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $O$ বৃত্তের কেন্দ্র। \\n$PO = 13$ সে.মি., $OB = 5$ সে.মি. হলে $PA = $ কত?",
+      "options": [
+        "$\\sqrt{119}$ সে.মি.",
+        "$12$ সে.মি.",
+        "$13$ সে.মি.",
+        "$\\sqrt{194}$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "বৃত্তের কেন্দ্র O, বৃত্তের উপর বিন্দু A ও B, বৃত্তের বাইরে বিন্দু P, PA ও PB বৃত্তের স্পর্শক, কোণ APB = 35°",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি নির্দিষ্ট চতুর্ভুজ অঙ্কনের জন্য কয়টি স্বতন্ত্র উপাত্তের প্রয়োজন?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের একটি শীর্ষকোণ কত?",
+      "options": [
+        "$104°$",
+        "$108°$",
+        "$110°$",
+        "$120°$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$3$ সে.মি., $4$ সে.মি. ও $5$ সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পর বহিঃস্পর্শক হলে কেন্দ্রত্রয়দ্বারা গঠিত ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$24$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{a, b, c, d, e\\}$ এর প্রকৃত উপসেটের সংখ্যা কত?",
+      "options": [
+        "$25$",
+        "$31$",
+        "$32$",
+        "$33$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি বইয়ের মূল্য $30$ টাকা যা তৈরির ব্যয়ের $60\\%$ । বইটির প্রকৃত মূল্য কত টাকা?",
+      "options": [
+        "$50$",
+        "$48$",
+        "$20$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x) = m^3 + km^2 - 4m - 8$ হলে $k$ এর কোন মানের জন্য $f(-2) = 0$ হবে?",
+      "options": [
+        "$-6$",
+        "$-2$",
+        "$2$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$2p^3 - 3p^2 + 3p - 1$ এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$2p - 1$",
+        "$2p + 1$",
+        "$p^2 - p - 1$",
+        "$p^2 + p + 1$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p + \\frac{1}{p} = 2$ হলে $p^5 + \\frac{1}{p^5} = $ কত?",
+      "options": [
+        "$14$",
+        "$10$",
+        "$6$",
+        "$2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3 + 5 + 7 + 9 + ............$ ধারাটির $62$ তম পদ কত?",
+      "options": [
+        "$125$",
+        "$122$",
+        "$65$",
+        "$59$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$5 - 5 + 5 - 5 + ............$ ধারাটির $20$ পদের সমষ্টি কত?",
+      "options": [
+        "$-5$",
+        "$-1$",
+        "$0$",
+        "$5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2 + p + 6 + q + 10 + r + ..........$ সমান্তর ধারাভুক্ত হলে-\n$i.$ $p$ এর মান $4$\n$ii.$ $r$ এর মান $12$\n$iii.$ প্রথম 6 টি পদের সমষ্টি $42$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$-এ $AB = BC = CA = 6$ সে.মি. হলে মধ্যমা $AD = $ কত সে.মি.?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$3\\sqrt{5}$",
+        "$6\\sqrt{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য $6$ সে.মি. হলে তার পরিসীমা কত সে.মি.?",
+      "options": [
+        "$12\\sqrt{2}$",
+        "$4\\sqrt{3}$",
+        "$3\\sqrt{2}$",
+        "$2\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের কেন্দ্রস্থ কোণ $144°$ এবং ব্যাসার্ধ $10$ সে.মি. হলে বৃত্তচাপের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$16\\pi$",
+        "$12\\pi$",
+        "$8\\pi$",
+        "$4\\pi$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$13$ সে.মি. উচ্চতাবিশিষ্ট বেলনের ভূমির ব্যাসার্ধ $6$ সে.মি. হলে-\n$i.$ ভূমির ক্ষেত্রফল $113.10$ বর্গ সে.মি. (প্রায়)\n$ii.$ বক্রতলের ক্ষেত্রফল $490.09$ বর্গ সে.মি. (প্রায়)\n$iii.$ আয়তন $1470.27$ ঘন সে.মি. (প্রায়)\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$-5$ থেকে $5$ পর্যন্ত পূর্ণ সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$-5$",
+        "$-1$",
+        "$0$",
+        "$5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক শ্রেণির নিম্নসীমা কত?",
+      "options": [
+        "$31$",
+        "$36$",
+        "$41$",
+        "$46$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "শ্রেণিবিভাগ: 31-35, 36-40, 41-45, 46-50, 51-55, 56-60; গণসংখ্যা: 5, 8, 18, 15, 12, 10",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক শ্রেণির পূর্বের শ্রেণীর ক্রমযোজিত গণসংখ্যা কত?",
+      "options": [
+        "$31$",
+        "$18$",
+        "$13$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "শ্রেণিবিভাগ: 31-35, 36-40, 41-45, 46-50, 51-55, 56-60; গণসংখ্যা: 5, 8, 18, 15, 12, 10",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.0000235$ সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$5$",
+        "$4$",
+        "$\\bar4$",
+        "$\\bar5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{5})^{x+3} = (\\sqrt{5^4})^{2x-1}$ হলে $x$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{7}$",
+        "$1$",
+        "$\\frac{5}{3}$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{49} 7 + \\log_{\\sqrt{7}} 7$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$",
+        "$\\frac{5}{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে $২৭$ ও $২৮$ নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\tan\\theta + \\sin\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{27}{20}$",
+        "$\\frac{7}{5}$",
+        "$\\frac{29}{15}$",
+        "$\\frac{29}{12}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2023_dinajpur%2Fq27.svg?alt=media&token=2a47eee9-6c42-475f-8be7-b83f3ceca888",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR, কোণ Q সমকোণ, PQ = 3, QR = 4, কোণ PRQ = θ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{1 - \\sec\\theta}{1 + \\sec\\theta} = $ কত?",
+      "options": [
+        "$\\frac{-1}{9}$",
+        "$\\frac{-1}{8}$",
+        "$\\frac{-1}{7}$",
+        "$\\frac{-1}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR, কোণ Q সমকোণ, PQ = 3, QR = 4, কোণ PRQ = θ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রে-\n$i.$ $p = 45°$\n$ii.$ $\\sin A = \\frac{1}{2}$\n$iii.$ $\\tan B = \\sqrt{3}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2023_dinajpur%2Fq29.svg?alt=media&token=a6267049-c2d1-4913-a1a0-12675e63aded",
+      "imageCaption": "ত্রিভুজ ABC, কোণ C সমকোণ, AC = 2√3, BC উপর বিন্দু D, CD = p+q, কোণ CAD = p, কোণ DAB = q",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan 6A = \\sec 6A$ হলে $A = $ কত?",
+      "options": [
+        "$0°$",
+        "$15°$",
+        "$30°$",
+        "$60°$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
