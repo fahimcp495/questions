@@ -1,0 +1,30 @@
+\documentclass[tikz,border=10pt]{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+% Define the coordinates for the right triangle
+\coordinate (A) at (0, 0);       % Bottom left vertex (right angle)
+\coordinate (B) at (3, 0);       % Bottom right vertex
+\coordinate (C) at (0, 5.196);   % Top vertex (3*sqrt(3) ≈ 5.196)
+
+% Draw the triangle sides
+\draw[thick] (A) -- (B);         % Base (horizontal side)
+\draw[thick] (A) -- (C);         % Vertical side
+\draw[thick] (B) -- (C);         % Hypotenuse
+
+% Draw the arc for angle theta at B
+\draw (B) ++(-0.7, 0) arc (180:120:0.7);
+
+% Label the angle theta at B
+\node[above left] at (2.5, 0.4) {$\theta$};
+
+% Label the measurement 3√3 cm on the vertical side
+\node[left] at (-0.3, 2.6) {$3\sqrt{3}$ cm};
+
+% Label the measurement 3 cm on the base
+\node[below] at (1.5, -0.3) {3 cm};
+
+\end{tikzpicture}
+\end{document}
