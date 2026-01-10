@@ -23,11 +23,11 @@
         "সমকোণ",
         "প্রবৃদ্ধ কোণ"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -163,7 +163,7 @@
         "$24$",
         "$12$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -203,7 +203,7 @@
         "$20$",
         "$18$"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -303,7 +303,7 @@
         "$0$",
         "$5$"
       ],
-      "correctOption": 1,
+      "correctOption": 2,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -323,7 +323,7 @@
         "$ii$ ও $iii$",
         "$i$, $ii$ ও $iii$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -403,7 +403,7 @@
         "$ii$ ও $iii$",
         "$i$, $ii$ ও $iii$"
       ],
-      "correctOption": 0,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -443,7 +443,7 @@
         "$41$",
         "$46$"
       ],
-      "correctOption": 1,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
@@ -523,7 +523,7 @@
         "$2$",
         "$\\frac{5}{2}$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",

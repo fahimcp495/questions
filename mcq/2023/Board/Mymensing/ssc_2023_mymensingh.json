@@ -155,7 +155,7 @@
     {
       "questionNumber": 8,
       "chapterId": "chapter_02",
-      "questionPreamble": "",
+      "questionPreamble": null,
       "question": "$X = \\{-1, 0, 1, 2\\}$ এর প্রকৃত উপসেট সংখ্যা কত?",
       "options": [
         "$16$",
@@ -163,11 +163,11 @@
         "$8$",
         "$4$"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -423,7 +423,7 @@
         "$ii$ ও $iii$",
         "$i$, $ii$ ও $iii$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
