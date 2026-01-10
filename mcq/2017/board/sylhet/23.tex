@@ -1,0 +1,32 @@
+\begin{tikzpicture}
+
+% Define the coordinates of the triangle vertices
+\coordinate (R) at (0,0);
+\coordinate (Q) at (5,0);
+\coordinate (P) at (5,3);
+
+% Draw the triangle sides
+% Side RQ (horizontal base)
+\draw[thick] (R) -- (Q);
+% Side QP (vertical right side)
+\draw[thick] (Q) -- (P);
+% Side RP (hypotenuse)
+\draw[thick] (R) -- (P);
+
+% Draw the right angle symbol at Q
+\draw (Q) ++(0,0.4) -- ++(-0.4,0) -- ++(0,-0.4);
+
+% Draw the angle arc at vertex P (60 degrees)
+\draw (P) ++(-90:0.7) arc (-90:-149:0.7);
+
+% Label the vertices
+\node[above right] at (P) {P};
+\node[below right] at (Q) {Q};
+\node[left] at (R) {R};
+
+% Label the angle at P (60 degrees)
+\node at (4.5,2.1) {$60^{\circ}$};
+
+\node[right] at (5.3,1.5) {$1$ cm};
+
+\end{tikzpicture}

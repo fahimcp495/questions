@@ -1,0 +1,30 @@
+\begin{tikzpicture}
+
+% Define the coordinates of the triangle vertices
+\coordinate (Q) at (0,0);
+\coordinate (P) at (0,3);
+\coordinate (R) at (4,0);
+
+% Draw the triangle sides
+% Side PQ (vertical left side)
+\draw[thick] (P) -- (Q);
+% Side QR (horizontal base)
+\draw[thick] (Q) -- (R);
+% Side PR (hypotenuse)
+\draw[thick] (P) -- (R);
+
+% Draw the right angle symbol at Q
+\draw (Q) ++(0,0.4) -- ++(0.4,0) -- ++(0,-0.4);
+
+% Label the vertices
+\node[above] at (P) {P};
+\node[below left] at (Q) {Q};
+\node[below right] at (R) {R};
+
+% Label the side PQ with "4" (on the left side)
+\node[left] at (0,1.5) {$4$};
+
+% Label the side PR with "5" (on the hypotenuse)
+\node[above right] at (2,1.7) {$5$};
+
+\end{tikzpicture}
