@@ -1,0 +1,28 @@
+\documentclass[tikz,border=5pt]{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+  % Define points
+  \coordinate (Q) at (0,0);
+  \coordinate (R) at (3,0);
+  \coordinate (P) at (0,2);
+  
+  % Draw triangle
+  \draw[very thick] (P) -- (Q) -- (R) -- cycle;
+  
+  % Right angle marker at Q
+  \draw[very thick] (0,0.4) -- (0.4,0.4) -- (0.4,0);
+  
+  % Point labels
+  \node[above] at (P) {P};
+  \node[left] at (Q) {Q};
+  \node[right] at (R) {R};
+  
+  % Side labels
+  \node[below] at (1.5,0) {3};
+  \node[above right] at (1.5,1) {5};
+  
+\end{tikzpicture}
+\end{document}
