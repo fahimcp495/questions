@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_dhaka",
+    "title": "ঢাকা বোর্ড - ২০২৫",
+    "titleEn": "ঢাকা বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "dhaka",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": null
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে, BD এর দৈর্ঘ্য কত?",
+      "options": [
+        "$20\\sqrt{3}$ মি.",
+        "$40\\sqrt{3}$ মি.",
+        "$60$ মি.",
+        "$80$ মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/UdRbILE.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "$\\triangle PQR$ আঁকার জন্য নিচের কোন তথ্যগুলো প্রযোজ্য হবে?",
+      "options": [
+        "$\\angle P = 60°$, $\\angle Q = 50°$, $\\angle R = 70°$",
+        "$\\angle P = 50°$, $\\angle Q = 50°$, $\\angle R = 80°$",
+        "$PQ = 4$ সেমি, $QR = 7$ সেমি, $PR = 11$ সেমি",
+        "$PQ = 6$ সেমি, $QR = 9$ সেমি, $PR = 12$ সেমি"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "রম্বসের প্রতিসাম্য রেখার সংখ্যা কয়টি?",
+      "options": [
+        "$4$",
+        "$2$",
+        "$1$",
+        "$0$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস 12 সে.মি. হলে এর পরিসীমা কত হবে?",
+      "options": [
+        "$37.70$ সে.মি.",
+        "$75.40$ সে.মি.",
+        "$113.10$ সে.মি.",
+        "$452.39$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্য 20% ক্ষতিতে বিক্রয় করা হল, ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কোনটি?",
+      "options": [
+        "$4 : 5$",
+        "$5 : 4$",
+        "$5 : 6$",
+        "$6 : 5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.6\\dot{9}$ এর সামান্য ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        "$\\frac{69}{100}$",
+        "$\\frac{69}{10}$",
+        "$\\frac{23}{30}$",
+        "$\\frac{7}{10}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.6\\dot{9} = 0.6999... = 0.7 = \\frac{7}{10}$",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "একটি বর্গের ঘূর্ণন প্রতিসমতার মাত্রা কত হবে?",
+      "options": [
+        "$45°$",
+        "$60°$",
+        "$90°$",
+        "$360°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$F(y) = y^{4} + 5y^{2} - 3$ হলে, $F(-1)$ এর মান কত?",
+      "options": [
+        "$-9$",
+        "$-7$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos^{2}\\theta - \\sin^{2}\\theta = 1$ হলে, $\\theta$ এর মান কত?",
+      "options": [
+        "$0°$",
+        "$45°$",
+        "$60°$",
+        "$90°$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$M + N = 5$ এবং $M - N = 3$ হলে $M^{2} + N^{2}$ এর মান কত?",
+      "options": [
+        "$4$",
+        "$11$",
+        "$17$",
+        "$36$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "মূলদ সংখ্যার ক্ষেত্রে $-$\n$i.$ $\\sqrt{49}$ একটি বিজোড় সংখ্যা\n$ii.$ $0.21$ একটি অপ্রকৃত ভগ্নাংশ\n$iii.$ $0$ একটি পূর্ণসংখ্যা\nনিচের কোনটি সঠিক?",
+      "options": [
+        "i ও ii",
+        "i ও iii",
+        "ii ও iii",
+        "i, ii ও iii"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$D = \\{y : y \\in \\mathbb{N}$ এবং $5 \\leq y \\leq 10\\}$ সেটটিকে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হবে?",
+      "options": [
+        "$\\{5, 6, 7, 8, 9, 10\\}$",
+        "$\\{6, 7, 8, 9\\}$",
+        "$\\{5, 6, 7, 8, 9\\}$",
+        "$\\{6, 7, 8, 9, 10\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "নিচের তথ্যের আলোকে ১৩ ও ১৪নং প্রশ্নের উত্তর দাও :\n$P = 3 + 2\\sqrt{2}$\n$P + \\frac{1}{P}$ এর মান কত?",
+      "options": [
+        "$5\\sqrt{2}$",
+        "$6$",
+        "$5$",
+        "$4\\sqrt{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "নিচের তথ্যের আলোকে ১৩ ও ১৪নং প্রশ্নের উত্তর দাও :\\n\n$P^{3} - \\frac{1}{P^{3}}$ এর মান কত?",
+      "options": [
+        "$234$",
+        "$198$",
+        "$197.99$",
+        "$164.04$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.0043$ এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$\\overline{3}$",
+        "$\\overline{2}$",
+        "$2$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রের আলোকে ১৬ ও ১৭নং প্রশ্নের উত্তর দাও :\nচিত্রে, $PQ = 30$ সে.মি., $OP = 17$ সে.মি., $\\angle PSQ = 120°$\n$\\angle POQ$ এর মান কত?",
+      "options": [
+        "$60°$",
+        "$90°$",
+        "$120°$",
+        "$240°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/gbrDqTl.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রের আলোকে ১৬ ও ১৭নং প্রশ্নের উত্তর দাও :\nচিত্রে, $PQ = 30$ সে.মি., $OP = 17$ সে.মি., $\\angle PSQ = 120°$\n\n$RS$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$8$ সে.মি.",
+        "$9$ সে.মি.",
+        "$15$ সে.মি.",
+        "$17$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/gbrDqTl.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$2, 10, 5, 1, 0, 7, 3, 4$ সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$0.5$",
+        "$1.0$",
+        "$3.5$",
+        "$4.0$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{\\sqrt{5}} 125$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$5$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$3 : 8 : : z : 32$ হলে $z$ এর মান কত?",
+      "options": [
+        "$0.75$",
+        "$3$",
+        "$12$",
+        "$85.33$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "বার্ষিক $9\\%$ সরল মুনাফায় $5000$ টাকার $6$ বছরের সরল মুনাফা কত টাকা হবে?",
+      "options": [
+        "$3333.33$ টাকা",
+        "$2700.00$ টাকা",
+        "$7700.00$ টাকা",
+        "$8385.50$ টাকা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^{2} = 9x$ এর সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\{0, 9\\}$",
+        "$\\{0, 3\\}$",
+        "$\\{-3, 3\\}$",
+        "$\\{-9, 9\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে, $\\angle PRS$ এর মান কত?",
+      "options": [
+        "$40°$",
+        "$70°$",
+        "$110°$",
+        "$140°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Pfe13ZG.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x + 3y = 2$ সমীকরণে $x = -2$ বসালে, সমীকরণের প্রাপ্ত বিন্দুটি কোন চতুর্ভাগে পড়ে?",
+      "options": [
+        "১ম",
+        "২য়",
+        "৩য়",
+        "৪র্থ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$4 + a + b + 32 + ...$ ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$5x + 3y = 4$, $2x + 7y = 9$ সমীকরণ জোটটি-\ni. সামঞ্জস্য\nii. অসংখ্য সমাধান আছে\niii. পরস্পর অনির্ভরশীল\nনিচের কোনটি সঠিক?",
+      "options": [
+        "i ও ii",
+        "i ও iii",
+        "ii ও iii",
+        "i, ii ও iii"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে, $\\angle MAD$ এর মান কত?",
+      "options": [
+        "$30°$",
+        "$60°$",
+        "$90°$",
+        "$120°$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/wfa67n6.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan x = \\frac{5}{2}$ হলে $\\cos^{2}x$ এর মান কত?",
+      "options": [
+        "$\\frac{21}{4}$",
+        "$\\frac{25}{29}$",
+        "$\\frac{21}{25}$",
+        "$\\frac{4}{29}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $M = \\{a, b, 1, 2\\}$ এবং $N = \\{1, 2\\}$ হয়, তবে $N - M$ এর মান কত?",
+      "options": [
+        "$\\{a, b\\}$",
+        "$\\{0\\}$",
+        "$\\{\\phi\\}$",
+        "$\\{\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$1$ থেকে $19$ পর্যন্ত মৌলিক সংখ্যাগুলোর গাণিতিক গড় কত?",
+      "options": [
+        "$11.00$",
+        "$10.57$",
+        "$9.57$",
+        "$9.63$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
