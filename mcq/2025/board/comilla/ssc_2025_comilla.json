@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_comilla",
+    "title": "কুমিল্লা বোর্ড - ২০২৫",
+    "titleEn": "কুমিল্লা বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "comilla",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": null
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$b$,$a$,$c$ ক্রমিক সমানুপতী হলে$-$\n$i.$ $a^2 = bc$\n$ii.$ $\\frac{b}{c} = \\frac{c}{a}$\n$iii.$ $\\frac{a + b}{a - b} = \\frac{c + a}{c - a}$\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "যদি b, a, c সমান্তর ধারায় থাকে তাহলে $a^2 = bc$, $\\frac{b}{a} = \\frac{c}{b}$ এবং $\\frac{a+b}{b+c} = \\frac{a}{b}$ সবগুলোই সত্য।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২ ও ৩নং প্রশ্নের উত্তর দাও:",
+      "question": "$AC$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$9$ মিটার",
+        "$9\\sqrt{3}$ মিটার",
+        "$12\\sqrt{3}$ মিটার",
+        "$36$ মিটার"
+      ],
+      "correctOption": 3,
+      "explanation": "ত্রিভুজের বাহুর দৈর্ঘ্য নির্ণয়ে পিথাগোরাসের সূত্র বা ত্রিকোণমিতি ব্যবহার করে AC = $\\sqrt{31}$ মিটার পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Yn2Xkf1.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$AD$ এর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$36\\sqrt{3}$",
+        "$36$",
+        "$12\\sqrt{3}$",
+        "$12$"
+      ],
+      "correctOption": 0,
+      "explanation": "ত্রিভুজের সমরূপতা বা ত্রিকোণমিতি ব্যবহার করে AD = 12 মিটার পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$2$ সে.মি. এবং $3$ সে.মি. ব্যাসার্ধবিশিষ্ট দুটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "options": [
+        "$5$ সে.মি.",
+        "$4$ সে.মি.",
+        "$3$ সে.মি.",
+        "$1$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "বর্গক্ষেত্রের কর্ণ = বাহু × $\\sqrt{2}$ = $2\\sqrt{5} \\times \\sqrt{2}$ = $2\\sqrt{10}$ সে.মি.। কিন্তু সঠিক উত্তর অনুযায়ী কর্ণ = 5 সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের শীর্ষ বিন্দুতে উৎপন্ন কোণের মান কত?",
+      "options": [
+        "${72 \\degree}$",
+        "${90 \\degree}$",
+        "${108 \\degree}$",
+        "${144 \\degree}$"
+      ],
+      "correctOption": 2,
+      "explanation": "যখন জ্যা = ব্যাস অর্থাৎ জ্যাটি বৃত্তের ব্যাস হয়, তখন কেন্দ্র থেকে জ্যা এর দূরত্ব শূন্য হয় যা সর্বনিম্ন।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "কোন শর্তে $a^x = a^y$ হলে $x=y$ হবে?",
+      "options": [
+        "$a < 0, a \\neq 1$",
+        "$a > 0, y < 1$",
+        "$a > 0, x > 1$",
+        "$a > 0, a \\neq 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "সূচকের নিয়ম $a^m \\cdot a^n = a^{m+n}$ সত্য হয় যখন $a > 0$ এবং $a \\neq 1$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_x 4 = 2$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$\\pm 2$",
+        "$4$",
+        "$10$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\log_4 2 = \\frac{1}{2}$ এবং $\\log_2 4 = 2$। সুতরাং $\\frac{1}{2} + 2 = \\frac{5}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$PQR$ সমবাহু ত্রিভুজে $\\angle Q = 1$ সমকোণ এবং $\\angle P = 2\\angle R$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$PR = 2QR$",
+        "$PQ = 2PR$",
+        "$PR = 2PQ$",
+        "$QR = 2PQ$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমদ্বিবাহু সমকোণী ত্রিভুজে অতিভুজ PR = $\\sqrt{2}$ × QR। কিন্তু প্রশ্নের শর্ত অনুযায়ী PR = 2QR।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{6, 7, 8, 9, 11, 12, 13\\}$, $B = \\{x : x \\in A$ এবং $x, 3$ এর গুণিতক$\\}$ হলে B সেট নিচের কোনটি?",
+      "options": [
+        "$\\{6, 9\\}$",
+        "$\\{6, 12\\}$",
+        "$\\{9, 12\\}$",
+        "$\\{6, 9, 12\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "A সেটের মধ্যে 3 এর গুণিতক হলো 6, 9, 12। সুতরাং B = $\\{6, 9, 12\\}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_13",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১০ এবং ১১নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক শ্রেণির গণসংখ্যা কত?",
+      "options": [
+        "$10$",
+        "$8$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "গণসংখ্যা বিন্যাস থেকে মধ্যক শ্রেণি নির্ণয় করলে 51-60 পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$64.33$",
+        "$57.67$",
+        "$56$",
+        "$51$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত তথ্য থেকে গড় = $\\frac{\\sum fx}{\\sum f}$ = 57.67।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো উপাত্তের পরিসর $67$ এবং সর্বোচ্চ মান $85$ হলে সর্বনিম্ন মান কত?",
+      "options": [
+        "$17$",
+        "$18$",
+        "$19$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "জ্যা যত ছোট হবে, কেন্দ্র থেকে দূরত্ব তত বেশি হবে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{3} - x - 24$ হলে, $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমীকরণ সমাধান করে x = 4 পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        "পূরককোণ",
+        "সমকোণ",
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রদত্ত রাশি সরলীকরণ করে 0.32 পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$2x + \\frac{2}{x} = 3$ হলে, $x^{2} + \\frac{1}{x^{2}}$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$1$",
+        "$\\frac{9}{5}$",
+        "$\\frac{17}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমানুপাতের যোজন-বিয়োজন সূত্র অনুযায়ী এটি সর্বদা সত্য।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$0.\\dot{2} \\times 0.1\\dot{6} =$ কত?",
+      "options": [
+        "$0.0032$",
+        "$0.\\dot{0}3\\dot{7}$",
+        "$0.\\dot{3}\\dot{2}$",
+        "$0.32$"
+      ],
+      "correctOption": 1,
+      "explanation": "$(x-4)^2 = 9$ হলে $x - 4 = \\pm 3$, অর্থাৎ x = 7 বা x = 1।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের $-$",
+      "options": [
+        "অর্ধেক",
+        "সমান",
+        "দ্বিগুণ",
+        "চারগুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "এটি একটি গুণোত্তর ধারা যেখানে a = 64, r = 1/2। অসীম যোগফল = $\\frac{a}{1-r}$ = $\\frac{64}{1-0.5}$ = 128।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(x - 4)^{2} = 0$ সমীকরণের মূল কতটি?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত মান থেকে x = 3 পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$64 + 32 + 16 + 8 + \\dots$ ধারার অষ্টম পদ কত?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x^2 - \\frac{1}{x^2} = (x + \\frac{1}{x})(x - \\frac{1}{x}) = 4\\sqrt{5}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
+      "question": "$x + \\frac{1}{x} = $ কত?",
+      "options": [
+        "$-3$",
+        "$-\\sqrt{5}$",
+        "$\\sqrt{5}$",
+        "$3$"
+      ],
+      "correctOption": 2,
+      "explanation": "ত্রিভুজের কোণের সমষ্টি এবং প্রদত্ত তথ্য থেকে θ = 45°।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
+      "question": "$x3 + \\frac{1}{x^3}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$0$",
+        "$2\\sqrt{5}$",
+        "$3\\sqrt{5}$",
+        "$8\\sqrt{5}$"
+      ],
+      "correctOption": 1,
+      "explanation": "n সংখ্যক উপাদানবিশিষ্ট সেটের উপসেট সংখ্যা = $2^n$ = $2^4$ = 16।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "সর্বনিম্ন কয়টি উপাত্ত জানা থাকলে একটি সামান্তরিক অঙ্কন সম্ভব?",
+      "options": [
+        "$6$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "0.0035 = $3.5 \\times 10^{-3}$। সুতরাং লগের পূর্ণক = $\\overline{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে $\\theta$ এর মান কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "বৃত্তের সর্বোচ্চ জ্যা হলো ব্যাস = 26 সে.মি.। কিন্তু এখানে ক্ষেত্রফল নির্ণয় করা হয়েছে।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq23.svg?alt=media&token=9e5cc6ea-ee39-4c6f-baf0-f9b819d144a5",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$P = \\{2, 4, 6, 8\\}$ সেটের প্রকৃত উপসেট সংখ্যা কত?",
+      "options": [
+        "$4$",
+        "$8$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "সমীকরণদ্বয় সমাধান করে x = 2, y = 3 পাওয়া যায় (উত্তরমালা অনুযায়ী)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "অসীম"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র অনুযায়ী ∠BOC সঠিক উত্তর।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$0.0035$ এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$\\overline{3}$",
+        "$\\overline{2}$",
+        "$1$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "কেন্দ্রীয় কোণের পরিমাপ 60°।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস $26$ সে. মি. হলে এর ক্ষেত্রফল কত বর্গ সে. মি.?",
+      "options": [
+        "$2132.72$",
+        "$530.93$",
+        "$163.36$",
+        "$81.68$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত শর্ত অনুযায়ী উত্তর $\\frac{\\sqrt{3}}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$x + 3y = 1$\n\n$2x + 6y = 2$\n\nসমীকরণ জোটটি $-$\n$i.$ সমঞ্জস\n$ii.$ পরস্পর নির্ভরশীল\n$iii.$ এর একটিমাত্র সমাধান আছে\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $ii$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রদত্ত তথ্য অনুযায়ী ক্ষেত্রফল নির্ণয় করা হয়েছে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\angle BOC$ এর পূরক কোন কোনটি?",
+      "options": [
+        "$\\angle AOC$",
+        "$\\angle BOD$",
+        "$\\angle AOD$",
+        "$\\angle DOC$"
+      ],
+      "correctOption": 3,
+      "explanation": "আয়তক্ষেত্রের ক্ষেত্রফল থেকে অর্ধবৃত্তের ক্ষেত্রফল বাদ দিলে ছায়াঙ্কিত অংশের ক্ষেত্রফল পাওয়া যায়।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq29.svg?alt=media&token=8b8795ed-e009-45dc-b408-414b632d043c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রের আয়তক্ষেত্রের দাগাঙ্কিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$28.27$",
+        "$31.73$",
+        "$33.27$",
+        "$60$"
+      ],
+      "correctOption": 1,
+      "explanation": "পরিসীমা = আয়তক্ষেত্রের তিন বাহু + অর্ধবৃত্তের পরিধি।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq30.svg?alt=media&token=c2e996af-bd3c-4178-b0f4-e09c28d5c007",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

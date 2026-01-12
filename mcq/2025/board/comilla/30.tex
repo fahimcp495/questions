@@ -1,0 +1,51 @@
+% Compile with XeLaTeX or LuaLaTeX for Bengali text support
+\documentclass[tikz,border=5pt]{standalone}
+\usepackage{fontspec}
+\newfontfamily\bengalifont{Noto Sans Bengali}[Script=Bengali]
+
+\begin{document}
+\begin{tikzpicture}
+
+% Define coordinates for rectangle vertices
+\coordinate (A) at (0,0);
+\coordinate (B) at (5,0);
+\coordinate (C) at (5,3);
+\coordinate (D) at (0,3);
+
+% Define center of circle
+\coordinate (O) at (2.5,1.5);
+
+% Draw manual hatching lines (excluding circle area using clip)
+\begin{scope}
+    % Clip to rectangle minus circle
+    \clip (A) rectangle (C) (O) circle (1.5);
+    
+    % Draw diagonal hatching lines manually
+    \foreach \i in {-3,-2.7,...,8} {
+        \draw[thin] (\i,0) -- (\i+3,3);
+    }
+\end{scope}
+
+% Draw the rectangle outline
+\draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+
+% Draw the circle outline
+\draw[thick] (O) circle (1.5);
+
+% Draw the center point of the circle
+\fill (O) circle (2pt);
+
+% Label the vertices of the rectangle
+\node[below left] at (A) {A};
+\node[below right] at (B) {B};
+\node[above right] at (C) {C};
+\node[above left] at (D) {D};
+
+% Label for the width (bottom side) - in Bengali
+\node[below] at (2.5,0) {{\bengalifont ১০ সে.মি.}};
+
+% Label for the height (left side) - in Bengali
+\node[left] at (0,1.5) {{\bengalifont ৬ সে.মি.}};
+
+\end{tikzpicture}
+\end{document}
