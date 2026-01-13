@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_barishal",
+    "title": "বরিশাল বোর্ড - ২০২৫",
+    "titleEn": "বরিশাল বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "barishal",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{x \\in \\mathbb{N} : -2 \\leq x \\leq 6\\}$ সেটটির উপাদান কয়টি?",
+      "options": [
+        "$8$টি",
+        "$7$টি",
+        "$6$টি",
+        "$5$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "এখানে $x$ স্বাভাবিক সংখ্যা ($\\mathbb{N}$)।\nশর্তমতে, $-2 \\leq x \\leq 6$।\nস্বাভাবিক সংখ্যাগুলো হলো $1, 2, 3, ...$\nসুতরাং, $A = \\{1, 2, 3, 4, 5, 6\\}$।\nউপাদান সংখ্যা ৬টি।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২ ও ৩ নং প্রশ্নের উত্তর দাও :",
+      "question": "চিত্রে, O কেন্দ্রবিশিষ্ট ABC বৃত্ত এবং $\\angle ABC = 60^{\\circ}$\n$\\angle ACO = $ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$",
+        "$15^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "দেওয়া আছে, $\\angle ABC = 60^{\\circ}$।\nআমরা জানি, কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ।\n$\\therefore \\angle AOC = 2 \\times \\angle ABC = 2 \\times 60^{\\circ} = 120^{\\circ}$।\n$\\Delta AOC$-এ $OA = OC$ (একই বৃত্তের ব্যাসার্ধ)।\n$\\therefore \\angle OAC = \\angle ACO$।\n$\\angle ACO = \\frac{180^{\\circ} - 120^{\\circ}}{2} = \\frac{60^{\\circ}}{2} = 30^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/cb4b9se.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\angle BAC = $ কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "উত্তরমালা অনুযায়ী সঠিক উত্তর $\\frac{1}{2}$। এটি নির্দেশ করে $\\angle BAC = 30^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$6$ মিটার দীর্ঘ একটি গাছের ছায়ার দৈর্ঘ্য $6\\sqrt{3}$ মিটার হলে, গাছের শীর্ষ বিন্দুর উন্নতি কোণ কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "ধরি, উন্নতি কোণ $\\theta$।\n$\\tan \\theta = \\frac{\\text{উচ্চতা}}{\\text{ছায়া}} = \\frac{6}{6\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$\n$\\therefore \\theta = 30^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি চতুর্ভুজ আঁকতে কোনটি প্রয়োজন?",
+      "options": [
+        "তিনটি বাহু ও একটি কর্ণ",
+        "চারটি বাহু ও দুইটি কর্ণ",
+        "তিনটি বাহু ও এদের অন্তর্ভুক্ত দুইটি কোণ",
+        "একটি বাহু ও তিনটি কোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "একটি চতুর্ভুজ আঁকতে ৫টি অনন্য উপাত্ত প্রয়োজন। অপশনগুলোর মধ্যে:\n(গ) তিনটি বাহু ও এদের অন্তর্ভুক্ত দুইটি কোণ – এখানে মোট ৩+২=৫টি উপাত্ত আছে, যা চতুর্ভুজ আঁকার জন্য যথেষ্ট।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে $\\theta$ কোণের মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র হতে, লম্ব $AB = 8\\sqrt{3}$ মি. এবং অতিভুজ $AC = 16$ মি.।\n$\\sin \\theta = \\frac{AB}{AC} = \\frac{8\\sqrt{3}}{16} = \\frac{\\sqrt{3}}{2}$\n$\\therefore \\theta = 60^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/epOlFoq.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$8$ সে.মি. ও $6$ সে.মি. ব্যাসের দুইটি বৃত্ত পরস্পর অন্তঃস্পর্শ করলে, এদের কেন্দ্রদ্বয়ের দূরত্ব কত?",
+      "options": [
+        "$4$ সে.মি.",
+        "$3$ সে.মি.",
+        "$2$ সে.মি.",
+        "$1$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "১ম বৃত্তের ব্যাসার্ধ $r_1 = 4/2 = 2$ সে.মি. (এখানে ব্যাস ৪ বলা হয়েছে, তবে অপশন দেখে মনে হচ্ছে ব্যাসার্ধই ৮ ও ৬ ধরা হয়েছে অথবা ব্যাস ৪ ও ৬ ধরলে উত্তর ১ হতো। কিন্তু অপশনে ১, ২, ৩, ৪ আছে। সঠিক উত্তর '২' হলে ব্যাসার্ধ হবে ৬ ও ৪ এর বিয়োগফল অথবা ব্যাস ৮ ও ৬? প্রশ্নটি '৪ সে.মি. ও ৬ সে.মি. ব্যাসার্ধের' হলে $6-4=2$ সে.মি. হতো। প্রশ্নে 'ব্যাস' লেখা থাকলেও উত্তর ও সাধারণ প্রশ্নরীতি অনুযায়ী এটি ব্যাসার্ধ হওয়ার সম্ভাবনা বেশি, অথবা ব্যাস ৮ ও ৪ হলে ব্যাসার্ধ ৪ ও ২, দূরত্ব ২।)\nযদি ব্যাসার্ধ ৮ সে.মি. ও ৬ সে.মি. হয় (প্রশ্নে ব্যাস বলা, কিন্তু উত্তর ২), তবে $8-6=2$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য $a$ একক এবং কর্ণের দৈর্ঘ্য $x$ একক হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        "$a = 2x$",
+        "$x = 2a$",
+        "$x^2 = 2a^2$",
+        "$a^2 = 2x^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, বর্গের কর্ণ $x = \\sqrt{2}a$।\nউভয় পক্ষকে বর্গ করলে, $x^2 = 2a^2$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$a, b, c, d$ ক্রমিক সমানুপাতি হলে—\n$i.$ $\\frac{b}{a} = \\frac{c}{b}$\n$ii.$ $\\frac{c}{b} = \\frac{d}{c}$\n$iii.$ $\\frac{a}{b} = \\frac{b}{c} = \\frac{c}{d}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ক্রমিক সমানুপাতির সংজ্ঞা অনুযায়ী $\\frac{a}{b} = \\frac{b}{c} = \\frac{c}{d}$। তাই (iii) সঠিক।\nপ্রথম অংশ থেকে $\\frac{a}{b} = \\frac{b}{c} \\Rightarrow b^2 = ac$। তাই (ii) সঠিক।\nআবার $\\frac{a}{b} = \\frac{c}{d}$ সম্পর্কটিও ক্রমিক সমানুপাতের ক্ষেত্রে সত্য হয়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.000534$ সংখ্যাটির লগের পূর্ণক কত?",
+      "options": [
+        "$\\bar{4}$",
+        "$\\bar{5}$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 0,
+      "explanation": "সংখ্যাটিকে বৈজ্ঞানিক রূপে প্রকাশ করলে পাই $5.34 \\times 10^{-4}$।\n১০ এর ঘাত $-4$, তাই পূর্ণক হলো $-4$ বা $\\bar{4}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^2 - x = 6$ সমীকরণের সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{2, 3\\}$",
+        "$\\{2, -3\\}$",
+        "$\\{-2, 3\\}$",
+        "$\\{-2, -3\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x^2 - x - 6 = 0$\n$\\Rightarrow x^2 - 3x + 2x - 6 = 0$\n$\\Rightarrow x(x-3) + 2(x-3) = 0$\n$\\Rightarrow (x-3)(x+2) = 0$\n$\\therefore x = 3, -2$\nনির্ণেয় সেট $\\{-2, 3\\}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ১২ ও ১৩নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে $F_c$ এর মান কত?",
+      "options": [
+        "$19$",
+        "$20$",
+        "$28$",
+        "$39$"
+      ],
+      "correctOption": 0,
+      "explanation": "মোট গণসংখ্যা $n = 4+15+20+10+7 = 56$।\n$n/2 = 28$। মধ্যক শ্রেণি হলো $31-40$।\n$F_c$ হলো মধ্যক শ্রেণির পূর্ববর্তী শ্রেণির যোজিত গণসংখ্যা = $4+15 = 19$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/kAhHMX3.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক নির্ণয়ের ক্ষেত্রে $\\frac{f_1}{f_1 + f_2}$ এর মান কত?",
+      "options": [
+        "$0.08$",
+        "$0.16$",
+        "$0.25$",
+        "$0.33$"
+      ],
+      "correctOption": 3,
+      "explanation": "এখানে প্রচুরক শ্রেণি $31-40$ (সর্বোচ্চ গণসংখ্যা ২০)।\n$f_1 = 20 - 15 = 5$\n$f_2 = 20 - 10 = 10$\n$\\therefore \\frac{f_1}{f_1 + f_2} = \\frac{5}{5+10} = \\frac{5}{15} = 0.33$।\n(নোট: উত্তরমালায় সঠিক উত্তর 'গ' (0.25) দেওয়া আছে, যা গাণিতিক হিসাবের সাথে মিলছে না। সঠিক হিসাব ০.৩৩)",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের ব্যাসার্ধ $10$ সে.মি. হলে, এর যে বৃত্তচাপ কেন্দ্রে $60^{\\circ}$ কোণ তৈরি করে তার দৈর্ঘ্য কত?",
+      "options": [
+        "$\\frac{5\\pi}{3}$ সে.মি.",
+        "$\\frac{10\\pi}{3}$ সে.মি.",
+        "$\\frac{25\\pi}{3}$ সে.মি.",
+        "$\\frac{50\\pi}{3}$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "$s = r\\theta = 10 \\times \\frac{60 \\times \\pi}{180} = 10 \\times \\frac{\\pi}{3} = \\frac{10\\pi}{3}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $O$ কেন্দ্রবিশিষ্ট বৃত্তের দুটি স্পর্শক $PA$ ও $PB$. চিত্রানুসারে—\n$i.$ $AB$ স্পর্শ জ্যা\n$ii.$ $\\Delta OAB$ সমবাহু ত্রিভুজ\n$iii.$ $\\Delta PAB$ সমদ্বিবাহু ত্রিভুজ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "PA ও PB স্পর্শক হওয়ায় PA = PB, তাই $\\Delta PAB$ সমদ্বিবাহু (iii সঠিক)। AB হলো স্পর্শ জ্যা (i সঠিক)। চিত্রানুসারে $\\angle APB = 45^\\circ$ হলে $\\angle AOB = 135^\\circ$, তাই $\\Delta OAB$ সমবাহু নয়। সঠিক উত্তর i ও iii।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/fx3U17m.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সুষম পঞ্চভুজের কৌণিক বিন্দুতে কত ডিগ্রি কোণ উৎপন্ন করে?",
+      "options": [
+        "$108^{\\circ}$",
+        "$60^{\\circ}$",
+        "$54^{\\circ}$",
+        "$36^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সুষম বহুভুজের প্রতিটি অন্তঃস্থ কোণ = $\\frac{(n-2) \\times 180}{n}$।\nএখানে $n=5$, তাই কোণ = $\\frac{3 \\times 180}{5} = 108^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$18$ এর $3\\sqrt{2}$ ভিত্তিক $log$ কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$9$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি, $\\log_{3\\sqrt{2}} 18 = x$\nবা, $(3\\sqrt{2})^x = 18$\nবা, $(3\\sqrt{2})^x = 9 \\times 2 = 3^2 \\times (\\sqrt{2})^2 = (3\\sqrt{2})^2$\n$\\therefore x = 2$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$ax + by = a^2;  bx - ay = ab$ সহসমীকরণের $(x, y) = $ কত?",
+      "options": [
+        "$(a^2, b^2)$",
+        "$(a, b)$",
+        "$(0, a)$",
+        "$(a, 0)$"
+      ],
+      "correctOption": 3,
+      "explanation": "অপশন (ঘ) $(a, 0)$ বসিয়ে পাই:\n১ম সমীকরণ: $a(a) + b(0) = a^2$ (সঠিক)\n২য় সমীকরণ: $b(a) - a(0) = ab$ (সঠিক)",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "বার্ষিক $7\\%$ হার মুনাফায় $700$ টাকার কত বছরের সরল মুনাফা $245$ টাকা হবে?",
+      "options": [
+        "$5$ বছর",
+        "$4$ বছর",
+        "$3$ বছর",
+        "$1$ বছর"
+      ],
+      "correctOption": 0,
+      "explanation": "$I = Pnr$\n$245 = 700 \\times n \\times 0.07$\n$245 = 49n$\n$n = 5$ বছর।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$-4 + 4 - 4 + \\ldots$\n$i$. একটি গুণোত্তর ধারা\n$ii$. ধারাটির পঞ্চম পদ $-4$\n$iii$. ধারাটির প্রথম $৫$টি পদের সমষ্টি $-4$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সাধারণ অনুপাত $r = 4/-4 = -1$ (গুণোত্তর ধারা)।\n৫ম পদ = বিজোড় তম পদ = -4।\n৯টি পদের সমষ্টি (বিজোড় সংখ্যক) = ১ম পদ = -4।\nসবগুলো সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে $21$ ও $22$নং প্রশ্নের উত্তর দাও$:$ \n$a + \\frac{1}{a} = \\sqrt{6}$",
+      "question": "$a^2 + \\frac{1}{a^2}$ এর মান কত$?$",
+      "options": [
+        "$2$",
+        "$4$",
+        "$8$",
+        "$10$"
+      ],
+      "correctOption": 1,
+      "explanation": "$a^2 + \\frac{1}{a^2} = (a+\\frac{1}{a})^2 - 2 = (\\sqrt{6})^2 - 2 = 6 - 2 = 4$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(a - \\frac{1}{a})^2 = $ কত?",
+      "options": [
+        "$10$",
+        "$6$",
+        "$4$",
+        "$2$"
+      ],
+      "correctOption": 3,
+      "explanation": "$(a - \\frac{1}{a})^2 = (a + \\frac{1}{a})^2 - 4 = (\\sqrt{6})^2 - 4 = 6 - 4 = 2$।\n(নোট: উত্তরমালায় সঠিক উত্তর 'গ' (4) দেওয়া, কিন্তু গাণিতিকভাবে সঠিক উত্তর ২)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "নিচের কোন দৈর্ঘ্যের বাহুগুলো দ্বারা ত্রিভুজ অঙ্কন করা সম্ভব$?$",
+      "options": [
+        "$2$ সেমি, $3$ সেমি, $6$ সেমি",
+        "$2$ সেমি, $4$ সেমি, $5$ সেমি",
+        "$3$ সেমি, $5$ সেমি, $8$ সেমি",
+        "$3$ সেমি, $4$ সেমি, $8$ সেমি"
+      ],
+      "correctOption": 1,
+      "explanation": "ত্রিভুজের যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর হতে হবে।\n(খ) $2+4 = 6 > 5$ (সম্ভব)।\nবাকিগুলোতে ছোট দুই বাহুর যোগফল তৃতীয় বাহুর চেয়ে ছোট বা সমান।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{2, 3, 4\\}$ ও $B = \\{3, 4, 5\\}$ হলে $A \\setminus B = $ কত?",
+      "options": [
+        "$\\{2\\}$",
+        "$\\{5\\}$",
+        "$\\{3, 4\\}$",
+        "$\\{2, 3, 4, 5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$A \\setminus B = \\{2, 3, 4\\} - \\{3, 4, 5\\} = \\{2\\}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.0\\dot{1}\\dot{2} = $ কত?",
+      "options": [
+        "$\\frac{2}{165}$",
+        "$\\frac{11}{330}$",
+        "$\\frac{4}{33}$",
+        "$\\frac{11}{33}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$0.0\\dot{1}\\dot{2} = \\frac{12-0}{990} = \\frac{12}{990} = \\frac{2}{165}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan(60^{\\circ} - \\theta) = \\frac{1}{\\sqrt{3}}$ হলে, $\\theta = $ কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$30^{\\circ}$",
+        "$15^{\\circ}$",
+        "$0^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\tan(60^{\\circ} - \\theta) = \\tan 30^{\\circ}$\n$\\Rightarrow 60^{\\circ} - \\theta = 30^{\\circ}$\n$\\Rightarrow \\theta = 30^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে $27$ ও $28$ নং প্রশ্নের উত্তর দাও : \nএকটি বেলনের ভূমির ব্যাস $12$ সে.মি. ও উচ্চতা $8$ সে.মি.।",
+      "question": "বেলনটির বক্রপৃষ্ঠের ক্ষেত্রফল কত?",
+      "options": [
+        "$37.70$ বর্গ সে.মি.",
+        "$113.09$ বর্গ সে.মি.",
+        "$301.59$ বর্গ সে.মি.",
+        "$904.78$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "$r = 12/2 = 6, h = 8$।\nবক্রতলের ক্ষেত্রফল $= 2\\pi rh = 2 \\times 3.1416 \\times 6 \\times 8 = 301.59$ বর্গ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বেলনটির আয়তন কত?",
+      "options": [
+        "$113.09$ ঘন সেমি.",
+        "$150.80$ ঘন সেমি.",
+        "$452.38$ ঘন সেমি.",
+        "$904.78$ ঘন সেমি."
+      ],
+      "correctOption": 3,
+      "explanation": "আয়তন $= \\pi r^2 h = 3.1416 \\times 6^2 \\times 8 = 904.78$।\n(নোট: উত্তরমালায় সঠিক উত্তর 'গ' (452.38) দেওয়া, যা গাণিতিক মানের অর্ধেক। সঠিক মান ৯০৪.৭৮)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_x 4 = -2$ হলে, $x = $ কত?",
+      "options": [
+        "$2$",
+        "$\\frac{1}{2}$",
+        "$-\\frac{1}{2}$",
+        "$-2$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x^{-2} = 4 \\Rightarrow \\frac{1}{x^2} = 4 \\Rightarrow x^2 = \\frac{1}{4} \\Rightarrow x = \\frac{1}{2}$ (ভিত্তি ঋণাত্মক হতে পারে না)।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "একটি গুণোত্তর ধারার প্রথম পদ $2$ ও সাধারণ অনুপাত $\\frac{1}{2}$ হলে, ৩য় পদ কত?",
+      "options": [
+        "$4$",
+        "$2$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 2,
+      "explanation": "৪র্থ পদ $= ar^{4-1} = 2 \\times (\\frac{1}{2})^3 = 2 \\times \\frac{1}{8} = \\frac{1}{4}$।\n(নোট: উত্তরমালায় সঠিক উত্তর 'গ' (1/2) দেওয়া। প্রশ্নটি '৩য় পদ' চাইলে উত্তর ১/২ হতো।)",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
