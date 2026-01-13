@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2019_dinajpur",
+    "title": "দিনাজপুর বোর্ড - ২০১৯",
+    "titleEn": "দিনাজপুর বোর্ড - ২০১৯",
+    "year": 2019,
+    "type": "board",
+    "board": "dinajpur",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$x : y = 3 : 2$ হলে, $4x : 5y = কত?$",
+      "options": [
+        "$15 : 8$",
+        "$8 : 15$",
+        "$5 : 6$",
+        "$6 : 5$"
+      ],
+      "correctOption": 3,
+      "explanation": "দেওয়া আছে, $\\frac{x}{y} = \\frac{3}{2}$। তাহলে, $\\frac{4x}{5y} = \\frac{4}{5} \\times \\frac{x}{y} = \\frac{4}{5} \\times \\frac{3}{2} = \\frac{12}{10} = \\frac{6}{5}$। সুতরাং অনুপাতটি $6 : 5$ [cite: 134, 136, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$8$ এর ঘূর্ণন কোণ কত ডিগ্রি?",
+      "options": [
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "সাধারণত '৮' সংখ্যাটিকে ১৮০ ডিগ্রি ঘুরালে তা একই দেখায়। যদিও প্রশ্নে '৪' লেখা আছে, উত্তরমালা অনুযায়ী $180^{\\circ}$ সঠিক [cite: 139, 153, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সুষম ষড়ভুজের প্রত্যেক কোণের পরিমাণ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$108^{\\circ}$",
+        "$120^{\\circ}$",
+        "$135^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "সুষম বহুভুজের প্রত্যেক কোণের মান $= \\frac{(n-2) \\times 180^{\\circ}}{n}$। ষড়ভুজের ক্ষেত্রে $n=6$, তাই কোণ $= \\frac{(6-2) \\times 180^{\\circ}}{6} = \\frac{4 \\times 180^{\\circ}}{6} = 120^{\\circ}$ [cite: 160, 161, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্য থেকে ৪ ও ৫নং প্রশ্নের উত্তর দাও : \\n$O$ বৃত্তের কেন্দ্র, $GE = 10 cm, GD = 4 cm$",
+      "question": "$\\frac{1}{2} \\angle EFG = কত?$",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "এখানে $GE$ বৃত্তের ব্যাস, তাই অর্ধবৃত্তস্থ কোণ $\\angle GFE = 90^{\\circ}$। সুতরাং, $\\frac{1}{2} \\angle EFG = \\frac{1}{2} \\times 90^{\\circ} = 45^{\\circ}$ [cite: 179, 180, 181, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/w7vcG2g.pnghttps://i.imgur.com/w7vcG2g.png",
+      "imageCaption": "একটি বৃত্তের অভ্যন্তরে ত্রিভুজ এবং কেন্দ্র ও থেকে লম্ব",
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\Delta DOF$ এর পরিসীমা কত?",
+      "options": [
+        "$12 \\text{ cm}$",
+        "$13 \\text{ cm}$",
+        "$16 \\text{ cm}$",
+        "$18 \\text{ cm}$"
+      ],
+      "correctOption": 0,
+      "explanation": "ব্যাসার্ধ $OG = OF = 5$। সমকোণী ত্রিভুজ $\\Delta ODG$ হতে, $OD = \\sqrt{OG^2 - GD^2} = \\sqrt{5^2 - 4^2} = 3$। কেন্দ্র থেকে লম্ব জ্যা-কে সমদ্বিখণ্ডিত করে, তাই $DF = GD = 4$। $\\Delta DOF$ এর পরিসীমা $= OD + DF + OF = 3 + 4 + 5 = 12$ সে.মি [cite: 179, 182, 183, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "একটি বৃত্তের অভ্যন্তরে ত্রিভুজ এবং কেন্দ্র ও থেকে লম্ব",
+      "imagePosition": "abovePreamble",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": "পাশের চিত্রে$-$",
+      "question": "$i.$$\\angle RPQ = 30^{\\circ}$\n$ii.$$PQ = 8\\sqrt{3} \\text{ cm}$\n$iii.$$RQ = 8 \\text{ cm}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ত্রিভুজ $PQR$ এ $\\angle Q=90^{\\circ}, \\angle R=60^{\\circ}$ হলে $\\angle P = 180^{\\circ} - (90^{\\circ}+60^{\\circ}) = 30^{\\circ}$।\n$RQ = PR \\sin 30^{\\circ} = 16 \\times 0.5 = 8$ সে.মি।\n$PQ = PR \\cos 30^{\\circ} = 16 \\times \\frac{\\sqrt{3}}{2} = 8\\sqrt{3}$ সে.মি। তিনটি উক্তিই সঠিক [cite: 187, 214, 221, 225, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_dinajpur%2Fq06.svg?alt=media&token=4b1675e6-1be5-4296-a6e0-d8935739e253",
+      "imageCaption": "একটি সমকোণী ত্রিভুজ PQR যেখানে অতিভুজ ১৬ সেমি এবং এক কোণ ৬০ ডিগ্রি",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{5x - \\frac{5}{2}} + 2 = 1$ সমীকরণের সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{\\frac{3}{10}\\}$",
+        "$\\{\\frac{7}{10}\\}$",
+        "$\\{\\phi\\}$",
+        "$\\{\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt{5x - \\frac{5}{2}} = 1 - 2 = -1$। বর্গমূলের মান কখনো ঋণাত্মক হতে পারে না, তাই সমীকরণটির কোনো বাস্তব সমাধান নেই। সমাধান সেট ফাঁকা সেট $(\\emptyset)$ [cite: 244, 255, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.5\\dot{7}$ এর সাধারণ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        "$\\frac{31}{45}$",
+        "$\\frac{26}{45}$",
+        "$\\frac{52}{99}$",
+        "$\\frac{57}{90}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$0.5\\dot{7} = \\frac{57 - 5}{90} = \\frac{52}{90} = \\frac{26}{45}$ [cite: 260, 263, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$Q=\\{0, 2\\}, R=\\{-1, 0, 1\\}$ হলে$-$",
+      "question": "$i.$ $Q$ এর প্রকৃত উপসেট সংখ্যা $3$\n$ii$. $Q \\cap R = \\{0\\}$\n$iii.$ $R \\setminus Q = R$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "i. $Q$ এর সদস্য সংখ্যা ২, তাই প্রকৃত উপসেট সংখ্যা $2^2 - 1 = 3$।\nii. $Q \\cap R = \\{0\\}$।\niii. $R \\setminus Q = \\{-1, 1\\} \\neq R$। সুতরাং i ও ii সঠিক [cite: 265, 266, 267, 268, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের রাশি থেকে ১০ ও ১১নং প্রশ্নের উত্তর দাও : $p + \\frac{1}{p} = \\sqrt{6}$",
+      "question": "$p^2 + \\frac{1}{p^2}$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$8$",
+        "$10$"
+      ],
+      "correctOption": 1,
+      "explanation": "$p^2 + \\frac{1}{p^2} = (p + \\frac{1}{p})^2 - 2 \\cdot p \\cdot \\frac{1}{p} = (\\sqrt{6})^2 - 2 = 6 - 2 = 4$ [cite: 274, 275, 276, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p^3 + \\frac{1}{p^3}$ এর মান কত?",
+      "options": [
+        "$9\\sqrt{6}$",
+        "$8\\sqrt{6}$",
+        "$4\\sqrt{6}$",
+        "$3\\sqrt{6}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$p^3 + \\frac{1}{p^3} = (p + \\frac{1}{p})^3 - 3 \\cdot p \\cdot \\frac{1}{p} (p + \\frac{1}{p}) = (\\sqrt{6})^3 - 3\\sqrt{6} = 6\\sqrt{6} - 3\\sqrt{6} = 3\\sqrt{6}$ [cite: 137, 156, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_4 x = \\frac{1}{2}$ হলে $x = কত?$",
+      "options": [
+        "$4$",
+        "$2$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{8}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\log_4 x = \\frac{1}{2} \\Rightarrow x = 4^{\\frac{1}{2}} = \\sqrt{4} = 2$ [cite: 162, 168, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি অভেদ?",
+      "options": [
+        "$(x - 3)^2 + (x + 3)^2 = 2(x^2 + 9)$",
+        "$(x + 2)^2 + (x - 2)^2 = x^2 + 4$",
+        "$x^3 - y^3 = (x + y)(x^2 + xy + y^2)$",
+        "$(x + y)^2 + (x - y)^2 = 4xy$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি $(a-b)^2 + (a+b)^2 = 2(a^2 + b^2)$। এখানে $(x-3)^2 + (x+3)^2 = 2(x^2 + 3^2) = 2(x^2 + 9)$ একটি অভেদ [cite: 176, 188, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্য থেকে ১৪ ও ১৫নং প্রশ্নের উত্তর দাও : \\n$\\angle QPS = \\angle PQS = 45^{\\circ}$, $\\angle RPT = \\angle PRT = 30^{\\circ}$, $QS = 4.5$ cm",
+      "question": "$\\Delta PQS$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$4.50 \\text{ cm}^2$",
+        "$7.16 \\text{ cm}^2$",
+        "$10.13 \\text{ cm}^2$",
+        "$20.25 \\text{ cm}^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\Delta PQS$ এ $\\angle QPS = \\angle PQS = 45^{\\circ}$। সুতরাং এটি একটি সমকোণী সমদ্বিবাহু ত্রিভুজ যেখানে $PS = QS = 4.5$ সে.মি। ক্ষেত্রফল $= \\frac{1}{2} \\times 4.5 \\times 4.5 = 10.125 \\approx 10.13$ বর্গ সে.মি [cite: 191, 192, 193, 219, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/zmRwP39.png",
+      "imageCaption": "একটি ত্রিভুজ PQR যার উচ্চতা PS এবং বিভিন্ন কোণের মান দেওয়া আছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$\\angle SPT = কত?$",
+      "options": [
+        "$75^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$",
+        "$15^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\Delta PSR$ সমকোণী ত্রিভুজে $\\angle R = 30^{\\circ}$, সুতরাং $\\angle SPR = 90^{\\circ} - 30^{\\circ} = 60^{\\circ}$। দেওয়া আছে $\\angle RPT = 30^{\\circ}$। তাহলে $\\angle SPT = \\angle SPR - \\angle RPT = 60^{\\circ} - 30^{\\circ} = 30^{\\circ}$ [cite: 192, 224, 230, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "একটি ত্রিভুজ PQR যার উচ্চতা PS এবং বিভিন্ন কোণের মান দেওয়া আছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$6 + 12 + a + 48 + \\dots$ একটি গুণোত্তর ধারা, $a$ এর মান কত?",
+      "options": [
+        "$36$",
+        "$30$",
+        "$24$",
+        "$18$"
+      ],
+      "correctOption": 2,
+      "explanation": "ধারার সাধারণ অনুপাত $r = \\frac{12}{6} = 2$। সুতরাং $a = 12 \\times 2 = 24$ [cite: 241, 242, 246, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$p^{2} - 2p + 1 = 0$ হলে$-$",
+      "question": "$i.$ $p$ এর সহগ $-2$\n$ii.$ $p + \\frac{1}{p} = 2$\n$iii.$ $p - \\frac{1}{p} = 0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$p^2 - 2p + 1 = 0 \\Rightarrow (p-1)^2 = 0 \\Rightarrow p = 1$।\ni. $p$ এর সহগ $-2$ (সঠিক)।\nii. $1 + 1/1 = 2$ (সঠিক)।\niii. $1 - 1/1 = 0$ (সঠিক)। তিনটি উক্তিই সঠিক [cite: 250, 251, 277, 278, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র কোথায় অবস্থিত?",
+      "options": [
+        "ত্রিভুজের অভ্যন্তরে",
+        "ত্রিভুজের বহির্ভাগে",
+        "লম্বের উপর",
+        "অতিভুজের উপর"
+      ],
+      "correctOption": 3,
+      "explanation": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র অতিভুজের মধ্যবিন্দুতে অবস্থিত হয় [cite: 283, 289, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে বৃত্ত দুইটির মধ্যে সর্বোচ্চ কয়টি সাধারণ স্পর্শক আঁকা যায়?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "দুইটি বৃত্ত বহিঃস্পর্শ করলে দুইটি সরল সাধারণ স্পর্শক এবং স্পর্শবিন্দু দিয়ে একটি তির্যক সাধারণ স্পর্শক আঁকা যায়, মোট ৩টি [cite: 291, 295, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ $4$ সে.মি. উচ্চতা $12$ সে.মি. হলে এর বক্রতলের ক্ষেত্রফল কত?",
+      "options": [
+        "$96 \\pi \\text{ cm}^2$",
+        "$128 \\pi \\text{ cm}^2$",
+        "$192 \\pi \\text{ cm}^2$",
+        "$384 \\pi \\text{ cm}^2$"
+      ],
+      "correctOption": 0,
+      "explanation": "বক্রতলের ক্ষেত্রফল $= 2\\pi rh = 2 \\cdot \\pi \\cdot 4 \\cdot 12 = 96\\pi$ বর্গ সে.মি [cite: 299, 300, 324, 327, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুই বাহুর দৈর্ঘ্য $6 \\text{ cm}$ ও $7 \\text{ cm}$ এবং বাহুদ্বয়ের অন্তর্ভুক্ত কোণ $60^{\\circ}$ হলে, ত্রিভুজের ক্ষেত্রফল কত?",
+      "options": [
+        "$10.50 \\text{ cm}^2$",
+        "$14.85 \\text{ cm}^2$",
+        "$18.19 \\text{ cm}^2$",
+        "$36.37 \\text{ cm}^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "ক্ষেত্রফল $= \\frac{1}{2} ab \\sin \\theta = \\frac{1}{2} \\cdot 6 \\cdot 7 \\cdot \\sin 60^{\\circ} = 21 \\cdot \\frac{\\sqrt{3}}{2} \\approx 18.19$ বর্গ সে.মি [cite: 150, 151, 152, 163, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চাকার ব্যাস $8$ সে.মি. হলে এর ক্ষেত্রফল কত?",
+      "options": [
+        "$8 \\pi \\text{ cm}^2$",
+        "$16 \\pi \\text{ cm}^2$",
+        "$32 \\pi \\text{ cm}^2$",
+        "$64 \\pi \\text{ cm}^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "ব্যাসার্ধ $r = 8/2 = 4$ সে.মি। ক্ষেত্রফল $= \\pi r^2 = \\pi (4)^2 = 16\\pi$ বর্গ সে.মি [cite: 165, 170, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_12",
+      "questionPreamble": "$2x - y = 13$ এবং $5x + 6y = 7$ সমীকরণদ্বয়$-$",
+      "question": "$i.$ পরস্পর নির্ভরশীল\n$ii.$ এর একটি সমাধান আছে\n$iii.$ পরস্পর সমঞ্জস\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "এখানে $\\frac{2}{5} \\neq \\frac{-1}{6}$। সুতরাং সমীকরণদ্বয় সমঞ্জস ও অনির্ভরশীল এবং এদের একটিমাত্র সমাধান আছে। উক্তি ii ও iii সঠিক [cite: 195, 197, 198, 238, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$\\sqrt{\\frac{12}{75}}$ কোন ধরনের সংখ্যা?",
+      "options": [
+        "স্বাভাবিক",
+        "মূলদ",
+        "অমূলদ",
+        "মৌলিক"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sqrt{\\frac{12}{75}} = \\sqrt{\\frac{3 \\cdot 4}{3 \\cdot 25}} = \\sqrt{\\frac{4}{25}} = \\frac{2}{5}$, যা একটি মূলদ সংখ্যা [cite: 202, 207, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$S = \\{(3, 1), (3, 2), (4, 2)\\}$ অন্বয়ের রেঞ্জ কোনটি?",
+      "options": [
+        "$\\{1, 2\\}$",
+        "$\\{3, 4\\}$",
+        "$(1, 2)$",
+        "$(3, 4)$"
+      ],
+      "correctOption": 0,
+      "explanation": "অন্বয়ের দ্বিতীয় উপাদানগুলোর সেটই হলো রেঞ্জ। এখানে রেঞ্জ $= \\{1, 2\\}$ [cite: 209, 217, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{4^{-x}} = 64$ হলে, $x = কত?$",
+      "options": [
+        "$3$",
+        "$4$",
+        "$-3$",
+        "$-4$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\frac{1}{4^{-x}} = 64 \\Rightarrow 4^x = 4^3 \\Rightarrow x = 3$ [cite: 232, 233, 235, 322]।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_14",
+      "questionPreamble": "চিত্রে $MN \\parallel XY$ হলে$-$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$LM : LN = LX : XY$",
+        "$LM : MX = XY : NY$",
+        "$LM : LN = LX : LY$",
+        "$LM : MX = LN : LY$"
+      ],
+      "correctOption": 2,
+      "explanation": "থ্যালিসের উপপাদ্য বা ত্রিভুজের সদৃশতা অনুযায়ী, $MN \\parallel XY$ হলে $\\frac{LX}{LM} = \\frac{LY}{LN}$ বা $LM : LN = LX : LY$ [cite: 241, 243, 247, 303, 322]。",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/GhxEceS.png",
+      "imageCaption": "একটি ত্রিভুজ LMN যার XY রেখা MN এর সমান্তরাল",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্য থেকে ২৮ ও ২৯নং প্রশ্নের উত্তর দাও : \\n৩৬ জন শিক্ষার্থীর ভর (কেজিতে) এর গণসংখ্যা সারণি দেওয়া হলো।",
+      "question": "প্রচুরক নিচের কোনটি?",
+      "options": [
+        "$47.14$",
+        "$46.29$",
+        "$42.86$",
+        "$42.71$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রচুরক শ্রেণি ৪২-৪৭ (যেখানে গণসংখ্যা সর্বোচ্চ ১২)। প্রচুরক $= L + \\frac{f_1}{f_1 + f_2} \\times h = 42 + \\frac{1}{1 + 6} \\times 6 = 42 + \\frac{6}{7} \\approx 42.86$ [cite: 308, 309, 310, 322]।",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_dinajpur%2Fq28.svg?alt=media&token=39f29793-655a-4ab0-b1ee-78bb37946d76",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক শ্রেণির ঊর্ধ্বসীমা কত?",
+      "options": [
+        "$41$",
+        "$42$",
+        "$47$",
+        "$48$"
+      ],
+      "correctOption": 2,
+      "explanation": "মোট শিক্ষার্থী $n = 36$, মধ্যক পদ $n/2 = 18$। যোজিত গণসংখ্যা ৩, ১৪, ২৬। ১৮তম পদটি ৪২-৪৭ শ্রেণিতে আছে। এই শ্রেণির ঊর্ধ্বসীমা ৪৭ [cite: 308, 311, 313, 322]।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": "$\\Delta PQR$ এ $PR > PQ$ এবং $\\angle P$ এর সমদ্বিখণ্ডক $QR$ কে $O$ বিন্দুতে ছেদ করলে$-$",
+      "question": "$i.$ $\\angle POR = \\angle PQO + \\angle OPR$\n$ii.$ $\\Delta POQ : \\Delta POR = QO^2 : OR^2$\n$iii.$ $PQ : PR = QO : OR$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "i. ত্রিভুজের বহিঃস্থ কোণ অন্তঃস্থ বিপরীত কোণদ্বয়ের সমষ্টির সমান (সঠিক)।\niii. কোণ সমদ্বিখণ্ডক উপপাদ্য অনুযায়ী $PQ : PR = QO : OR$ (সঠিক)। i ও iii সঠিক [cite: 315, 317, 319, 322]।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
