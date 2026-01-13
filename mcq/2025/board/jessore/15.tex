@@ -1,0 +1,41 @@
+\begin{tikzpicture}[scale=1.5]
+
+% Define points
+% A is at the bottom left
+% B is at the bottom right
+% C is above and between A and B, on line AD
+% D is at top right, extension of AC line
+
+\coordinate (A) at (0, 0);
+\coordinate (B) at (4, 0);
+\coordinate (C) at (2.4, 1.2);
+\coordinate (D) at (4, 2);
+
+% Draw line segment AB (horizontal base)
+\draw (A) -- (B);
+
+% Draw line segment from A through C to D
+\draw (A) -- (C) -- (D);
+
+% Draw line segment CB
+\draw (C) -- (B);
+
+% Draw line segment BD (vertical, perpendicular to AB)
+\draw (B) -- (D);
+
+% Draw right angle symbol at B (AB perpendicular to BD)
+% \draw (3.85, 0) -- (3.85, 0.15) -- (4, 0.15);
+
+% Label point A
+\node[left] at (A) {A};
+
+% Label point B
+\node[below right] at (B) {B};
+
+% Label point C
+\node[above] at (C) {C};
+
+% Label point D
+\node[right] at (D) {D};
+
+\end{tikzpicture}

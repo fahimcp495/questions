@@ -1,0 +1,46 @@
+\begin{tikzpicture}[scale=1.5]
+
+% Define points
+% A is at the top (apex of triangle)
+% B is at the bottom left
+% C is at the bottom right
+% D is on BC (base), below A
+% E is on AC, between A and C
+
+\coordinate (A) at (2, 3);
+\coordinate (B) at (0, 0);
+\coordinate (C) at (4, 0);
+\coordinate (D) at (2, 0);
+\coordinate (E) at (3, 1.5);
+
+% Draw line segment AB (left side of triangle)
+\draw (A) -- (B);
+
+% Draw line segment AC (right side of triangle)
+\draw (A) -- (C);
+
+% Draw line segment BC (base of triangle)
+\draw (B) -- (C);
+
+% Draw line segment AD (altitude from A to D)
+\draw (A) -- (D);
+
+% Draw line segment DE (connecting D to E)
+\draw (D) -- (E);
+
+% Label point A
+\node[above] at (A) {A};
+
+% Label point B
+\node[below left] at (B) {B};
+
+% Label point C
+\node[below right] at (C) {C};
+
+% Label point D
+\node[below] at (D) {D};
+
+% Label point E
+\node[right] at (E) {E};
+
+\end{tikzpicture}

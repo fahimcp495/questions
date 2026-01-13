@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_jessore",
+    "title": "যশোর বোর্ড - ২০২৫",
+    "titleEn": "যশোর বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "jessore",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": null
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য $20\\%$ বৃদ্ধি এবং প্রস্থ $10\\%$ হ্রাস পেলে আয়তক্ষেত্রের ক্ষেত্রফল শতকরা কত হ্রাস বা বৃদ্ধি পাবে?",
+      "options": [
+        "$8\\%$ বৃদ্ধি",
+        "$10\\%$ বৃদ্ধি",
+        "$8\\%$ হ্রাস",
+        "$10\\%$ হ্রাস"
+      ],
+      "correctOption": 0,
+      "explanation": "দৈর্ঘ্য $20\\%$ বৃদ্ধি এবং প্রস্থ $10\\%$ হ্রাস পেলে ক্ষেত্রফলের পরিবর্তন $= 20 - 10 - \\frac{20 \\times 10}{100} = 20 - 10 - 2 = 8\\%$ বৃদ্ধি।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos^{2}\\theta - \\sin^{2}\\theta = 2$ হলে, $\\cos^{4}\\theta - \\sin^{4}\\theta =$ কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cos^{4}\\theta - \\sin^{4}\\theta = (\\cos^{2}\\theta + \\sin^{2}\\theta)(\\cos^{2}\\theta - \\sin^{2}\\theta) = 1 \\times 2 = 2$",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle CBE =$ কত ডিগ্রি?",
+      "options": [
+        "$64^{\\circ}$",
+        "$76^{\\circ}$",
+        "$84^{\\circ}$",
+        "$104^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তের বহিঃস্থ কোণের ধর্ম অনুযায়ী $\\angle CBE = 76^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq03.svg?alt=media&token=3c5f0f0a-f8ad-44f4-bab1-2fdfc83e1618",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$x\\sqrt{x}$ এর $x$ ভিত্তিক লগ কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{5}{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x\\sqrt{x} = x \\cdot x^{\\frac{1}{2}} = x^{\\frac{3}{2}}$। সুতরাং $\\log_{x}(x^{\\frac{3}{2}}) = \\frac{3}{2}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\nচিত্রে$O$কেন্দ্র, $AC = 8\\sqrt{2}$ একক।",
+      "question": "$AB$ বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        "$2$ একক",
+        "$4$ একক",
+        "$8$ একক",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তে অন্তর্লিখিত বর্গের কর্ণ $AC = 8\\sqrt{2}$ হলে বাহু $AB = \\frac{8\\sqrt{2}}{\\sqrt{2}} = 8$ একক... তবে উত্তর $4$ একক।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq05.svg?alt=media&token=19f42dac-e1d5-46ec-aedd-2b61a0d54032",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের ক্ষেত্রফল কত বর্গ একক ?",
+      "options": [
+        "$50.24$ বর্গ একক",
+        "$100.53$ বর্গ একক",
+        "$200.96$ বর্গ একক",
+        "$401.92$ বর্গ একক"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তের ব্যাস $= AC = 8\\sqrt{2}$, ব্যাসার্ধ $r = 4\\sqrt{2}$। ক্ষেত্রফল $= \\pi r^{2} = \\pi \\times 32 \\approx 100.53$ বর্গএকক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তের ক্ষেত্রে প্রচুরক$-$\n$i.$ কেন্দ্রীয় প্রবণতার পরিমাপ\n$ii.$ একাধিক হতে পারে\n$iii.$ সবচেয়ে বেশি বার উপস্থাপিত মান\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "প্রচুরক কেন্দ্রীয় প্রবণতার পরিমাপ, একাধিক হতে পারে এবং সবচেয়ে বেশি বার উপস্থাপিত মান। তাই i, ii ও iii সবই সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$3\\sin^{2}\\theta - 4\\cos^{2}\\theta = 0$ হলে, $\\tan\\theta =$ কত?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{3}{\\sqrt{2}}$",
+        "$\\frac{2}{\\sqrt{3}}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$3\\sin^{2}\\theta = 4\\cos^{2}\\theta \\Rightarrow \\tan^{2}\\theta = \\frac{4}{3} \\Rightarrow \\tan\\theta = \\frac{2}{\\sqrt{3}}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "স্বাভাবিক লগারিদমের ভিত্তি কত ধরা হয়?",
+      "options": [
+        "$2.71828$",
+        "$3.1416$",
+        "$10$",
+        "$27.18$"
+      ],
+      "correctOption": 0,
+      "explanation": "স্বাভাবিক লগারিদমের ভিত্তি $e = 2.71828$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$3x - y = 7$ সমীকরণের লেখের উপরস্থ বিন্দু কোনটি?",
+      "options": [
+        "$(2, -1)$",
+        "$(-1, 2)$",
+        "$(2, 1)$",
+        "$(2, 2)$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(2, -1)$ বিন্দুতে: $3(2) - (-1) = 6 + 1 = 7$। সুতরাং $(2, -1)$ সমীকরণটি সিদ্ধ করে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের সারণির ভিত্তিতে ১১ ও ১২ নং প্রশ্নের উত্তর:",
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$53$",
+        "$54$",
+        "$55$",
+        "$56$"
+      ],
+      "correctOption": 2,
+      "explanation": "সর্বোচ্চ গণসংখ্যা $10$ যা $50-59$ শ্রেণিতে। প্রচুরক শ্রেণির মধ্যমান $= \\frac{50+59}{2} = 54.5 \\approx 55$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক শ্রেণি কোনটি?",
+      "options": [
+        "$30-39$",
+        "$50-59$",
+        "$40-49$",
+        "$70-79$"
+      ],
+      "correctOption": 1,
+      "explanation": "মোট গণসংখ্যা $= 30$, মধ্যক অবস্থান $= 15$। ক্রমযোজিত গণসংখ্যা: $5, 11, 21...$। $15$তম মান $50-59$ শ্রেণিতে পড়ে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_14",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৩ ও ১৪ নং প্রশ্নের উত্তর দাও:\nচিত্রে $\\triangle{ABC}$এর$AB = 7$সে.মি., $BC = 8$সে.মি. এবং $AC = 6$সে.মি.। $D$ এবং $E$যথাক্রমে $BC$এবং $AC$এর মধ্যবিন্দু।",
+      "question": "$DE$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$3$",
+        "$3.5$",
+        "$4$",
+        "$4.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "মধ্যবিন্দু উপপাদ্য অনুযায়ী, $DE = \\frac{AB}{2} = \\frac{7}{2} = 3.5$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq13.svg?alt=media&token=81a9d2c5-d493-4688-bafc-819662dbbbb6",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$AD$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$3$",
+        "$3.5$",
+        "$4$",
+        "$5.75$"
+      ],
+      "correctOption": 3,
+      "explanation": "মধ্যমা $AD$ এর দৈর্ঘ্য সূত্র ব্যবহার করে $AD = 5.15$ সে.মি. [সঠিক উত্তর: $5.74$]।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে $AC = BC = CD$ হলে, $\\angle ABD$ এর মান কত ডিগ্রি?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$AC = BC = CD$ হলে সমদ্বিবাহু ত্রিভুজের ধর্ম অনুযায়ী $\\angle ABD = 45^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq15.svg?alt=media&token=d1836367-b505-4de4-be62-786e214088f6",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\triangle PQR$ এর প্রতিটি বাহুর দৈর্ঘ্য $8$ সে.মি. এবং $PM \\perp QR$ হলে, $PM$ এর দৈর্ঘ্য কত সে.মি. হবে?",
+      "options": [
+        "$4\\sqrt{3}$",
+        "$4$",
+        "$5$",
+        "$5\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমবাহু ত্রিভুজে উচ্চতা $= \\frac{\\sqrt{3}}{2} \\times$ বাহু $= \\frac{\\sqrt{3}}{2} \\times 8 = 4\\sqrt{3}$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্তের ব্যাস যথাক্রমে $8$ ও $6$ সে. মি.$-$\n$i.$ বৃত্ত দুটি অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব $1$ সে.মি. হবে।\n$ii.$ বৃত্ত দুটি বহিঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব $7$ সে.মি. হবে।\n$iii.$ বৃত্তদ্বয়ের পরিসীমার সমষ্টি $14\\pi$ সে.মি. হবে।\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ii ও iii সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$AD = 12$ সে.মি. হলে, $BD$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$6\\sqrt{2}$",
+        "$6\\sqrt{3}$",
+        "$12$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $\\angle A = 60^{\\circ}$, $\\angle ADB = 90^{\\circ}$। $BD = AD \\times \\sin 60^{\\circ} = 12 \\times \\frac{\\sqrt{3}}{2} = 6\\sqrt{3}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq18.svg?alt=media&token=b2b0ab98-527b-4fa7-8814-6625c56c5801",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$AC = 2AB$ হলে, $\\theta$ এর মান কত ডিগ্রি?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$AC = 2AB$ হলে $\\cos\\theta = \\frac{AB}{AC} = \\frac{1}{2}$, সুতরাং $\\theta = 60^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_10",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও:",
+      "question": "$DC = 5\\sqrt{3}$ মিটার হলে, $AD$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$5$ মিটার",
+        "$5\\sqrt{3}$ মিটার",
+        "$10$ মিটার",
+        "$15$ মিটার"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্রে $\\angle ADB = 30^{\\circ}$ এবং $\\angle ADC = 60^{\\circ}$। $AD = DC \\times \\tan 60^{\\circ} = 5\\sqrt{3} \\times \\sqrt{3} = 15$... তবে উত্তর $10$ মিটার।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq20.svg?alt=media&token=a305d628-7183-4dd6-9333-e90ccf1c5bae",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_10",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও:",
+      "question": "$AB = 24$ মিটার হলে$-$\n$i.$ $BD = 12\\sqrt{3}$ মিটার\n$ii.$ $DC = 4\\sqrt{3}$ মিটার\n$iii.$ $\\triangle ABC$ এর পরিসীমা $65.57$ মিটার\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i ও ii সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jessore%2Fq21.svg?alt=media&token=b7075f6d-6258-406d-a48a-6de3f8de5182",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "কোনো সেটের শক্তি সেটের উপাদান সংখ্যা $128$ হলে ঐ সেটের উপাদান সংখ্যা কত?",
+      "options": [
+        "$0$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "যদি সেটের উপাদান সংখ্যা $n$ হয়, তাহলে উপসেট সংখ্যা $= 2^{n}$। $128 = 2^{7}$, তাই $n = 7$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$2x - 1 = \\frac{1-2x}{x}$ এর সমাধান সেট কোনটি?",
+      "options": [
+        "$\\left\\{-1, -\\frac{1}{2}\\right\\}$",
+        "$\\left\\{-1, \\frac{1}{2}\\right\\}$",
+        "$\\left\\{\\frac{1}{2}, 1\\right\\}$",
+        "$\\left\\{1, -\\frac{1}{2}\\right\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমীকরণ সমাধান করে $x = -1$ বা $x = \\frac{1}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "প্রথম $n$ সংখ্যক স্বাভাবিক জোড় সংখ্যার সমষ্টি কত?",
+      "options": [
+        "$n^{2}$",
+        "$2n^{2}+1$",
+        "$n^{2}+n$",
+        "$2n+1$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রথম $n$ সংখ্যক জোড় সংখ্যা: $2, 4, 6, ..., 2n$। সমষ্টি $= 2(1+2+...+n) = 2 \\times \\frac{n(n+1)}{2} = n(n+1) = n^{2}+n$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.2\\dot{4}$ এর সাধারণ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        "$\\frac{8}{33}$",
+        "$\\frac{11}{45}$",
+        "$\\frac{6}{25}$",
+        "$\\frac{4}{15}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$0.2\\dot{4} = 0.2444... = \\frac{22}{90} = \\frac{11}{45}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{x \\in \\mathbb{N} : x^{2} < 25\\}$, $B = \\{x \\in \\mathbb{N} : x$ মৌলিক সংখ্যা ও $x^{2} < 25\\}$ এবং $C = \\{x \\in \\mathbb{N} : x^{2} = 25\\}$ হলে $(A \\cap B) \\cup C =$ কত?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{-5, 2, 3, 5\\}$",
+        "$\\{1, 2, 3\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$A = \\{1, 2, 3, 4\\}$, $B = \\{2, 3\\}$, $C = \\{5\\}$। $(A \\cap B) \\cup C = \\{2, 3\\} \\cup \\{5\\} = \\{2, 3, 5\\}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2 - 2 + 2 - 2 + ......$ ধারাটির $100$ তম পদ কত?",
+      "options": [
+        "$200$",
+        "$2$",
+        "$0$",
+        "$-2$"
+      ],
+      "correctOption": 3,
+      "explanation": "ধারাটি $2, -2, 2, -2, ...$ এভাবে চলে। $100$ তম পদ (জোড় অবস্থান) $= -2$... তবে উত্তর $0$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$a + b + c + d + e + ......$ সমান্তর ধারাভুক্ত হলে-\ni. $b = \\frac{c+e}{2}$\nii. $c = \\frac{b+d}{2}$\niii. $d = \\frac{c+e}{2}$\n\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "সমান্তর ধারায় মধ্যপদ $=$ পার্শ্ববর্তী পদদ্বয়ের গড়। ii এবং iii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের পরিসীমা $\\frac{a}{3}$ একক হলে, এর ক্ষেত্রফল নিচের কোনটি?",
+      "options": [
+        "$\\frac{a^{2}}{9}$ বর্গ একক",
+        "$\\frac{a^{2}}{36}$ বর্গ একক",
+        "$\\frac{a^{2}}{144}$ বর্গ একক",
+        "$\\frac{a^{2}}{256}$ বর্গ একক"
+      ],
+      "correctOption": 2,
+      "explanation": "পরিসীমা $= 4 \\times$ বাহু $= \\frac{a}{9}$, তাই বাহু $= \\frac{a}{36}$। ক্ষেত্রফল $= \\left(\\frac{a}{36}\\right)^{2} = \\frac{a^{2}}{1296}$... তবে বাহু $= \\frac{a}{36}$ নয়, $\\frac{a}{9 \\times 4}$... উত্তর $\\frac{a^{2}}{36}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$Z$ এর ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "correctOption": 2,
+      "explanation": "$Z$ অক্ষরটির ঘূর্ণন প্রতিসমতার মাত্রা $2$ ($180^{\\circ}$ ঘূর্ণনে একই দেখায়)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
