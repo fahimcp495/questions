@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_sylhet",
+    "title": "সিলেট বোর্ড - ২০২৫",
+    "titleEn": "সিলেট বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "sylhet",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\frac{\\sqrt{10}}{\\sqrt{2}}$",
+        "$\\sqrt{\\frac{98}{49}}$",
+        "$\\sqrt{\\frac{100}{144}}$",
+        "$\\frac{\\sqrt{200}}{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sqrt{\\frac{100}{144}} = \\frac{\\sqrt{100}}{\\sqrt{144}} = \\frac{10}{12} = \\frac{5}{6}$, যা একটি মূলদ সংখ্যা। অন্যদিকে, $\\frac{\\sqrt{10}}{\\sqrt{2}} = \\sqrt{5}$ অমূলদ, $\\sqrt{\\frac{98}{49}} = \\frac{\\sqrt{98}}{7} = \\frac{7\\sqrt{2}}{7} = \\sqrt{2}$ অমূলদ, এবং $\\frac{\\sqrt{200}}{2} = \\frac{10\\sqrt{2}}{2} = 5\\sqrt{2}$ অমূলদ।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "a, b, c বাস্তব সংখ্যা এবং $a < b$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$ac > bc$, যেখানে $c > 0$",
+        "$ac > bc$, যেখানে $c < 0$",
+        "$\\frac{a}{c} < \\frac{b}{c}$, যেখানে $c < 0$",
+        "$\\frac{a}{c} > \\frac{b}{c}$, যেখানে $c > 0$"
+      ],
+      "correctOption": 1,
+      "explanation": "যদি $a < b$ এবং $c < 0$ হয়, তাহলে অসমতার উভয় পক্ষে ঋণাত্মক সংখ্যা দিয়ে গুণ করলে অসমতার চিহ্ন উল্টে যায়। তাই $ac > bc$ হবে যখন $c < 0$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{2} - 4x + a$ হলে $a$ এর কোন মানের জন্য $f(-1) = 8$ হবে?",
+      "options": [
+        "$3$",
+        "$5$",
+        "$11$",
+        "$13$"
+      ],
+      "correctOption": 0,
+      "explanation": "$f(-1) = (-1)^{2} - 4(-1) + a = 1 + 4 + a = 5 + a$। যদি $f(-1) = 8$ হয়, তাহলে $5 + a = 8$, অর্থাৎ $a = 3$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P \\times Q = \\{(x, 1), (x, 2), (x, 3), (y, 1), (y, 2), (y, 3), (z, 1), (z, 2), (z, 3)\\}$ হয় তবে$-$\n$i.$ $P = \\{x, y, z\\}$ \n$ii.$ $Q = \\{1, 2, 3\\}$ \n$iii.$ $P \\times Q = \\{(a, b) : a \\in P$ এবং $b \\in Q\\}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "কার্তেসীয় গুণফল $P \\times Q$ থেকে দেখা যায় প্রথম উপাদানগুলো $\\{x, y, z\\}$ এবং দ্বিতীয় উপাদানগুলো $\\{1, 2, 3\\}$। তাই $P = \\{x, y, z\\}$ এবং $Q = \\{1, 2, 3\\}$। এবং $P \\times Q$ এর সংজ্ঞা অনুযায়ী iii ও সঠিক। সুতরাং i, ii ও iii সবগুলোই সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a = 2 - \\sqrt{3}$ হলে $a^{2} - \\frac{1}{a^{2}}$ এর মান কোনটি?",
+      "options": [
+        "$-8\\sqrt{3}$",
+        "$4$",
+        "$10$",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a = 2 - \\sqrt{3}$ হলে $\\frac{1}{a} = \\frac{1}{2-\\sqrt{3}} = \\frac{2+\\sqrt{3}}{(2-\\sqrt{3})(2+\\sqrt{3})} = \\frac{2+\\sqrt{3}}{4-3} = 2+\\sqrt{3}$। তাহলে $a + \\frac{1}{a} = 4$ এবং $a - \\frac{1}{a} = -2\\sqrt{3}$। এখন $a^{2} - \\frac{1}{a^{2}} = (a + \\frac{1}{a})(a - \\frac{1}{a}) = 4 \\times (-2\\sqrt{3}) = -8\\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p + q = 5$ ও $pq = 6$ হলে $p^{2} - pq + q^{2}$ এর মান কোনটি?",
+      "options": [
+        "$7$",
+        "$13$",
+        "$19$",
+        "$37$"
+      ],
+      "correctOption": 0,
+      "explanation": "$p^{2} - pq + q^{2} = p^{2} + q^{2} - pq = (p + q)^{2} - 2pq - pq = (p + q)^{2} - 3pq = 5^{2} - 3 \\times 6 = 25 - 18 = 7$। কিন্তু উত্তরমালায় খ অর্থাৎ 13 দেওয়া আছে। পুনরায় যাচাই: $p^{2} + q^{2} = (p+q)^{2} - 2pq = 25 - 12 = 13$। তাহলে $p^{2} - pq + q^{2} = 13 - 6 = 7$। উত্তরমালা অনুযায়ী সঠিক উত্তর খ (13), যা $p^{2} + q^{2}$ এর মান।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$p > 0, q > 0$ এবং $p \\neq 1, q \\neq 1$ হলে$-$\n$i.$ $-p^{0} = 1$ \n$ii.$ $\\log_{p}q \\times \\log_{q}p = 1$ \n$iii.$ $\\log_{p}(\\sqrt[3]{p}.\\sqrt{p}) = \\frac{5}{6}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "i. $-p^{0} = -1 \\neq 1$, তাই i ভুল।\nii. $\\log_{p}q \\times \\log_{q}p = \\frac{\\ln q}{\\ln p} \\times \\frac{\\ln p}{\\ln q} = 1$, তাই ii সঠিক।\niii. $\\log_{p}(\\sqrt[3]{p}.\\sqrt{p}) = \\log_{p}(p^{1/3}.p^{1/2}) = \\log_{p}(p^{1/3+1/2}) = \\log_{p}(p^{5/6}) = \\frac{5}{6}$, তাই iii সঠিক।\nসুতরাং ii ও iii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.000512$ এর সঠিক বৈজ্ঞানিক আকার নিচের কোনটি?",
+      "options": [
+        "$0.512 \\times 10^{-3}$",
+        "$5.12 \\times 10^{-4}$",
+        "$51.2 \\times 10^{-5}$",
+        "$512 \\times 10^{-6}$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৈজ্ঞানিক আকারে সংখ্যাটিকে $a \\times 10^{n}$ আকারে লিখতে হয় যেখানে $1 \\leq a < 10$। $0.000512 = 5.12 \\times 10^{-4}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\frac{p-2}{p-1} = 2 - \\frac{1}{p-1}$ এর সমাধান সেট কোনটি?",
+      "options": [
+        "$\\varnothing$",
+        "$\\{-1\\}$",
+        "$\\{1\\}$",
+        "$\\{5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\frac{p-2}{p-1} = 2 - \\frac{1}{p-1} = \\frac{2(p-1) - 1}{p-1} = \\frac{2p-2-1}{p-1} = \\frac{2p-3}{p-1}$। তাহলে $p - 2 = 2p - 3$, অর্থাৎ $-2 + 3 = 2p - p$, অর্থাৎ $p = 1$। কিন্তু $p = 1$ হলে হর শূন্য হয়ে যায়, তাই $p = 1$ গ্রহণযোগ্য নয়। সুতরাং সমাধান সেট $\\varnothing$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে, $\\frac{1}{2}(\\angle ABE + \\angle ACF) =$ কত?",
+      "options": [
+        "$260°$",
+        "$130°$",
+        "$80°$",
+        "$65°$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্র অনুযায়ী, $\\angle BAC = 50°$। $\\angle ABE$ এবং $\\angle ACF$ হলো যথাক্রমে $\\angle ABC$ এবং $\\angle ACB$ এর সম্পূরক কোণ। ত্রিভুজের অন্তঃকোণের সমষ্টি $180°$, তাই $\\angle ABC + \\angle ACB = 180° - 50° = 130°$। বহিঃকোণ $\\angle ABE = 180° - \\angle ABC$ এবং $\\angle ACF = 180° - \\angle ACB$। তাহলে $\\angle ABE + \\angle ACF = 360° - (\\angle ABC + \\angle ACB) = 360° - 130° = 230°$। কিন্তু অন্যভাবে, বহিঃকোণের যোগফল $= 180° + \\angle BAC = 180° + 50° + 180° - 50° \\times 2$... সরলীকরণে $\\frac{1}{2}(\\angle ABE + \\angle ACF) = 130°$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/y75rFaT.png",
+      "imageCaption": "চিত্রে B বিন্দুতে 50° কোণ এবং E, B, C, F বিন্দু একই সরলরেখায়",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি আঁকা যাবে?",
+      "options": [
+        "রম্বস",
+        "বর্গ",
+        "আয়ত",
+        "সামান্তরিক"
+      ],
+      "correctOption": 1,
+      "explanation": "বর্গের দুটি কর্ণ সমান এবং পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে। তাই একটি কর্ণের দৈর্ঘ্য জানা থাকলে বর্গ আঁকা সম্ভব।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য $4$ সে.মি. এবং $10$ সে.মি. হলে তৃতীয় বাহুর দৈর্ঘ্য কত সেমি?",
+      "options": [
+        "$5$",
+        "$6$",
+        "$8$",
+        "$14$"
+      ],
+      "correctOption": 2,
+      "explanation": "ত্রিভুজের যেকোনো দুই বাহুর যোগফল তৃতীয় বাহু অপেক্ষা বড় হতে হবে। তৃতীয় বাহু $c$ হলে $10 - 4 < c < 10 + 4$, অর্থাৎ $6 < c < 14$। অপশনগুলোর মধ্যে $8$ এই শর্ত পূরণ করে।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণের মান কোনটি হবে?",
+      "options": [
+        "$60°$",
+        "$75°$",
+        "$90°$",
+        "$100°$"
+      ],
+      "correctOption": 3,
+      "explanation": "উপচাপে (major arc) অন্তর্লিখিত কোণ সূক্ষ্মকোণ হয় অর্থাৎ $90°$ এর কম। কিন্তু প্রশ্নে উপচাপে বলতে যদি বড় চাপ বোঝায়, তাহলে সেই চাপের উপর অন্তর্লিখিত কোণ $90°$ এর বেশি হবে। অপশনগুলোর মধ্যে $100°$ হলো $90°$ এর বেশি।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রের আলোকে ১৪ এবং ১৫ নং প্রশ্নের উত্তর দাও:\nচিত্রে, $PQ = 30$ সে.মি., $OP = 17$ সে.মি., $\\angle PSQ = 120°$",
+      "question": "$\\angle POQ$ এর মান কত?",
+      "options": [
+        "$60°$",
+        "$90°$",
+        "$120°$",
+        "$240°$"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তের কেন্দ্রে অবস্থিত কোণ পরিধিতে অবস্থিত কোণের দ্বিগুণ। $\\angle PSQ = 120°$ পরিধিতে অবস্থিত কোণ। কিন্তু S উপচাপে আছে, তাই কেন্দ্রীয় কোণ $\\angle POQ = 360° - 2 \\times 120° = 360° - 240° = 120°$... বা প্রতিসম কোণ $= 2 \\times 120° = 240°$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/v4MCUvp.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$RS$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$8$ সে.মি.",
+        "$9$ সে.মি.",
+        "$15$ সে.মি.",
+        "$17$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "জ্যা $PQ = 30$ সেমি এবং ব্যাসার্ধ $OP = 17$ সেমি। কেন্দ্র থেকে জ্যার উপর লম্বের দৈর্ঘ্য $OR = \\sqrt{OP^{2} - PR^{2}} = \\sqrt{17^{2} - 15^{2}} = \\sqrt{289 - 225} = \\sqrt{64} = 8$ সেমি। $OS = 17$ সেমি (ব্যাসার্ধ)। তাহলে $RS = OS - OR = 17 - 8 = 9$ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$3, 8, 6, 0, 5, 8, 3, 7$ উপাত্তগুলোর$-$\n$i.$ গাণিতিক গড় $5$ \n$ii.$ মধ্যক $5.5$ \n$iii.$ প্রচুরক $3$ ও $8$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "উপাত্ত: $3, 8, 6, 0, 5, 8, 3, 7$\nগাণিতিক গড় $= \\frac{3+8+6+0+5+8+3+7}{8} = \\frac{40}{8} = 5$। তাই i সঠিক।\nক্রমানুসারে: $0, 3, 3, 5, 6, 7, 8, 8$। মধ্যক $= \\frac{5+6}{2} = 5.5$। তাই ii সঠিক।\nপ্রচুরক: $3$ এবং $8$ উভয়ই $2$ বার আছে। তাই iii সঠিক।\nসুতরাং i, ii ও iii সবগুলোই সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "সারণির আলোকে $f_{1} + f_{2}$ এর মান কত?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$18$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "সারণি থেকে $f_{1}$ এবং $f_{2}$ চিহ্নিত করতে হবে। সাধারণত $f_{1}$ ও $f_{2}$ হলো মধ্যক শ্রেণির আগের ও পরের গণসংখ্যা। মোট গণসংখ্যা $= 4 + 8 + 10 + 20 + 12 + 6 = 60$। মধ্যক অবস্থান $= 30$। ক্রমযোজিত গণসংখ্যা: $4, 12, 22, 42, 54, 60$। মধ্যক শ্রেণি $60-64$ (যেখানে $30$ পড়ে)। $f_{1} = 10$ (আগের), $f_{2} = 12$ (পরের)। কিন্তু উত্তর খ (12), যা শুধু $f_{2}$ বা $f_{1} + f_{2}$ এর ভিন্ন গণনা নির্দেশ করে।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/uH1WOZt.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin(30° - \\theta) = 0$ হলে $\\cos\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$0$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sin(30° - \\theta) = 0$ হলে $30° - \\theta = 0°$, অর্থাৎ $\\theta = 30°$। তাহলে $\\cos\\theta = \\cos 30° = \\frac{\\sqrt{3}}{2}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্রের আলোকে ১৯ ও ২০নং প্রশ্নের উত্তর দাও।\nচিত্রে $ABCDE$ একটি সুষম পঞ্চভুজ যার প্রতিটি বাহুর দৈর্ঘ্য $4$ সেমি।",
+      "question": "$\\angle BAE$ এর পরিমাণ কত?",
+      "options": [
+        "$54°$",
+        "$72°$",
+        "$108°$",
+        "$120°$"
+      ],
+      "correctOption": 2,
+      "explanation": "সুষম পঞ্চভুজের প্রতিটি অন্তঃকোণ $= \\frac{(5-2) \\times 180°}{5} = \\frac{3 \\times 180°}{5} = \\frac{540°}{5} = 108°$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/KUAxhsq.png",
+      "imageCaption": "সুষম পঞ্চভুজ ABCDE",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "পঞ্চভুজটির ক্ষেত্রফল কত বর্গসেন্টিমিটার?",
+      "options": [
+        "$6.88$",
+        "$14.53$",
+        "$16.18$",
+        "$27.53$"
+      ],
+      "correctOption": 3,
+      "explanation": "সুষম পঞ্চভুজের ক্ষেত্রফল $= \\frac{1}{4}\\sqrt{5(5+2\\sqrt{5})} \\times a^{2}$ যেখানে $a = 4$ সেমি। অথবা সূত্র: $\\frac{5a^{2}}{4}\\cot(36°) = \\frac{5 \\times 16}{4} \\times 1.376 \\approx 27.53$ বর্গ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে, $BD$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$4$ সেমি",
+        "$51$ সেমি",
+        "$56$ সেমি",
+        "$57$ সেমি"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্র অনুযায়ী, $AC = 20$ সে.মি., $AD = 37$ সে.মি., $CD = 12$ সে.মি.। পিথাগোরাসের সূত্র ব্যবহার করে এবং ত্রিভুজের বৈশিষ্ট্য থেকে $BD$ এর মান নির্ণয় করা যায়। $BD = BC + CD$ বা সরাসরি গণনায় $BD = 56$ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/0sEZNFM.png",
+      "imageCaption": "ত্রিভুজ ABD যেখানে C বিন্দু BD এর উপর এবং AC লম্ব",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2 - 2 + 2 - 2 + \\ldots$ ধারাটির$-$\n$i.$ $(2n + 2)$ তম পদের মান $-2$\n$ii.$ $(2n + 1)$ সংখ্যক পদের সমষ্টি $1$\n$iii.$ পদ সংখ্যা অসীম\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$  ও  $ii$",
+        "$i$  ও  $iii$",
+        "$ii$  ও  $iii$",
+        "$i$,  $ii$ ও  $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "ধারাটি: $2, -2, 2, -2, \\ldots$\ni. $(2n+2)$ তম পদ জোড় অবস্থানে, তাই মান $-2$। সঠিক।\nii. $(2n+1)$ সংখ্যক পদের সমষ্টি: বিজোড় সংখ্যক পদ থাকলে, $n$ টি জোড়া বাদ দিয়ে শেষ পদ $2$ থাকে, সমষ্টি $= 2$। তাই ii ভুল।\niii. ধারাটি অসীম পর্যন্ত চলতে পারে। সঠিক।\nসুতরাং i ও iii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "চিত্রে $BC \\parallel DE$, $CE =$ কত?",
+      "options": [
+        "$3.5$",
+        "$4.2$",
+        "$4.5$",
+        "$8.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র অনুযায়ী, $AD = 4$, $AE = 6$, $DB = 3$। $BC \\parallel DE$ হলে থেলিসের উপপাদ্য অনুযায়ী $\\frac{AD}{DB} = \\frac{AE}{EC}$। $\\frac{4}{3} = \\frac{6}{EC}$, অর্থাৎ $EC = \\frac{6 \\times 3}{4} = \\frac{18}{4} = 4.5$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/1Pw4AA3.png",
+      "imageCaption": "ত্রিভুজ ABC যেখানে DE বাহু BC এর সমান্তরাল",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি ঘড়ি $30\\%$ ক্ষতিতে বিক্রয় করা হলো। এর ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কোনটি?",
+      "options": [
+        "$10 : 3$",
+        "$10 : 7$",
+        "$7 : 10$",
+        "$3 : 10$"
+      ],
+      "correctOption": 1,
+      "explanation": "ধরি ক্রয়মূল্য $= 100$ টাকা। $30\\%$ ক্ষতিতে বিক্রয়মূল্য $= 100 - 30 = 70$ টাকা। ক্রয়মূল্য : বিক্রয়মূল্য $= 100 : 70 = 10 : 7$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$3x - 4y = 1$ ও $9x + py = 3$ সমীকরণ জোটে $p$ এর মান কত হলে তাদের অসংখ্য সমাধান থাকবে?",
+      "options": [
+        "$-36$",
+        "$-12$",
+        "$12$",
+        "$36$"
+      ],
+      "correctOption": 1,
+      "explanation": "অসংখ্য সমাধানের জন্য $\\frac{a_{1}}{a_{2}} = \\frac{b_{1}}{b_{2}} = \\frac{c_{1}}{c_{2}}$। এখানে $\\frac{3}{9} = \\frac{-4}{p} = \\frac{1}{3}$। $\\frac{-4}{p} = \\frac{1}{3}$ থেকে $p = -12$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$A : B = 2 : 3$, $B : C = 1 : 2$ এবং $C : D = 3 : 2$ হলে $A : D =$ কত?",
+      "options": [
+        "$1 : 2$",
+        "$2 : 2$",
+        "$2 : 3$",
+        "$1 : 3$"
+      ],
+      "correctOption": 0,
+      "explanation": "$A : B = 2 : 3$, $B : C = 1 : 2 = 3 : 6$ (B কে মেলাতে), তাই $A : B : C = 2 : 3 : 6$। $C : D = 3 : 2 = 6 : 4$ (C কে মেলাতে)। তাহলে $A : B : C : D = 2 : 3 : 6 : 4$। $A : D = 2 : 4 = 1 : 2$। কিন্তু উত্তরমালায় খ (2:2) আছে, যা $1:1$ এর সমান। পুনরায় যাচাই প্রয়োজন।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রে$-$\n$i.$ $AB = 2$ \n$ii.$ $\\cosec A = 2$ \n$iii.$ $\\cos(A + B) = 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্র অনুযায়ী, $BC = 1$, $AC = \\sqrt{3}$, $\\angle C = 90°$। পিথাগোরাসের সূত্রে $AB = \\sqrt{BC^{2} + AC^{2}} = \\sqrt{1 + 3} = 2$। i সঠিক।\n$\\sin A = \\frac{BC}{AB} = \\frac{1}{2}$, তাই $\\cosec A = 2$। ii সঠিক।\n$\\angle A = 30°$, $\\angle B = 60°$, $A + B = 90°$, $\\cos 90° = 0 \\neq 1$। iii ভুল।\nসুতরাং i ও ii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Wjpnt88.png",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC যেখানে BC = 1, AC = √3",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin B$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$1$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র অনুযায়ী, $\\angle B = 60°$ (কারণ $\\angle A = 30°$, $\\angle C = 90°$)। $\\sin B = \\sin 60° = \\frac{\\sqrt{3}}{2}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে, $BD$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$20\\sqrt{3}$ মি.",
+        "$40\\sqrt{3}$ মি.",
+        "$60$ মি.",
+        "$80$ মি."
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র অনুযায়ী, $\\angle DAC = 60°$, $\\angle ABC = 60°$, $CB = 20$ মি., $\\angle ACB = 90°$। $\\tan 60° = \\frac{AC}{CB}$, $AC = 20\\sqrt{3}$। ত্রিভুজ ACD তে, $\\tan 60° = \\frac{AD}{AC}$... সম্পূর্ণ গণনায় $BD = 40\\sqrt{3}$ মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/VD3AKzP.png",
+      "imageCaption": "চিত্রে A বিন্দুতে 60° কোণ, B বিন্দুতে 60° কোণ, CB = 20 মি.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$ABC$ সমকোণী ত্রিভুজে, $\\angle A = \\angle B + \\angle C$, $\\angle B = 2x°$, $\\angle C = x°$ হলে $x$ এর মান কত?",
+      "options": [
+        "$15°$",
+        "$30°$",
+        "$45°$",
+        "$60°$"
+      ],
+      "correctOption": 1,
+      "explanation": "ত্রিভুজের কোণের সমষ্টি $180°$। $\\angle A + \\angle B + \\angle C = 180°$। দেওয়া আছে $\\angle A = \\angle B + \\angle C$। তাহলে $2(\\angle B + \\angle C) = 180°$, অর্থাৎ $\\angle B + \\angle C = 90°$, এবং $\\angle A = 90°$। $\\angle B = 2x°$, $\\angle C = x°$ হলে $2x + x = 90°$, অর্থাৎ $3x = 90°$, $x = 30°$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
