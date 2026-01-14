@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2019_dhaka",
+    "title": "ঢাকা বোর্ড - ২০১৯",
+    "titleEn": "ঢাকা বোর্ড - ২০১৯",
+    "year": 2019,
+    "type": "board",
+    "board": "dhaka",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{2x - 5} + 3 = 2$ এর সঠিক সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{ \\}$",
+        "$\\{-3\\}$",
+        "$\\{\\pm 3\\}$",
+        "$\\{3\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমবাহু ত্রিভুজের একটি বাহুকে উভয়দিকে বর্ধিত করলে যে বহিঃস্থ কোণদ্বয় উৎপন্ন হয় তাদের সমষ্টি কত?",
+      "options": [
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$240^{\\circ}$",
+        "$270^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "পরিসীমা ও একটি কোণের মান জানা প্রয়োজন কোনটি আঁকতে?",
+      "options": [
+        "বর্গ",
+        "রম্বস",
+        "আয়তক্ষেত্র",
+        "সামান্তরিক"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_09",
+      "questionPreamble": "ত্রিকোণমিতিক অনুপাতের ক্ষেত্রে$-$\n$i.$ $\\tan 30^{\\circ} \\cot 30^{\\circ} = 1$\n$ii.$ $\\sec^{2} 60^{\\circ} - \\tan^{2} 60^{\\circ} = 1$\n$iii.$ $\\tan \\theta \\sqrt{1 - \\sin^{2} \\theta} = \\sin \\theta$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তে অধিচাপের অন্তর্লিখিত কোণ হচ্ছে—",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধকোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$1 + \\tan^{2} \\theta = 4$ হলে $\\theta$ এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": "প্রদত্ত উদ্দীপক থেকে ৭ ও ৮ নং প্রশ্নের উত্তর দাও :\nচিত্রে $O$ বৃত্তের কেন্দ্র",
+      "question": "$\\angle BAC = \\text{কত?}$",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/K5x0gos.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "প্রবৃদ্ধকোণ $\\angle BOC$ এর মান কত?",
+      "options": [
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$240^{\\circ}$",
+        "$280^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "চিত্রে O বৃত্তের কেন্দ্র।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.\\dot23\\dot{4}$ এর সামান্য ভগ্নাংশে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        "$\\frac{211}{900}$",
+        "$\\frac{234}{909}$",
+        "$\\frac{234}{900}$",
+        "$\\frac{26}{111}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{2, 3, 4\\}$ এর প্রকৃত উপসেটের সংখ্যা কত?",
+      "options": [
+        "$3$ টি",
+        "$7$ টি",
+        "$8$ টি",
+        "$9$ টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{4} + 7x^{2} - 5$ হলে, $f(-1)$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$3$",
+        "$11$",
+        "$13$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a = \\sqrt{5}, b = \\sqrt{3}$ হলে $(a + b)^{2} - 2ab$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$\\sqrt{15}$",
+        "$2\\sqrt{15}$",
+        "$8$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{32}{(64)^{x}} = 8$ হলে $x$ এর মান কত?",
+      "options": [
+        "$-4$",
+        "$-\\frac{1}{3}$",
+        "$\\frac{1}{3}$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{2\\sqrt{2}} 64$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^{4} - 6x^{2}y^{2} + y^{4}$ এর উৎপাদকে বিশ্লেষিত রূপ হচ্ছে$-$",
+      "options": [
+        "$(x^2 + 3y^2)(x^2 - 2y^2)$",
+        "$(x^2 - 3y^2)(x^2 + 2y^2)$",
+        "$(x^2 + 2xy + y^2)(x^2 - 2xy + y^2)$",
+        "$(x^2 + 2xy - y^2)(x^2 - 2xy - y^2)$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.00357$ এর পূর্ণক কত?",
+      "options": [
+        "$\\bar{3}$",
+        "$3$",
+        "$\\bar{2}$",
+        "$2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "রম্বসের প্রতিসাম্য রেখা কয়টি?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1 + 3 + 5 + 7 + \\dots$ ধারার প্রথম $n$ সংখ্যক পদের সমষ্টি কত?",
+      "options": [
+        "$n^2$",
+        "$\\left\\{\\frac{n(n+1)}{2}\\right\\}^2$",
+        "$\\frac{n(n+1)}{2}$",
+        "$\\frac{n^2}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের উদ্দীপক থেকে ১৯ ও ২০ নং প্রশ্নের উত্তর দাও \n$O$ কেন্দ্রবিশিষ্ট $ACBD$ বৃত্তে $AB = 10$ সে.মি., $OE \\perp AD, OE = 3$ সে.মি., $AC \\perp BC.$:",
+      "question": "$\\triangle OAE$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$6$ বর্গ সে.মি.",
+        "$12$ বর্গ সে.মি.",
+        "$15$ বর্গ সে.মি.",
+        "$20$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/qQlAM0e.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\triangle ACB$ এর পরিসীমা কত?",
+      "options": [
+        "$15.14$ সে.মি. (প্রায়)",
+        "$20.14$ সে.মি. (প্রায়)",
+        "$24.14$ সে.মি. (প্রায়)",
+        "$30.14$ সে.মি. (প্রায়)"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "O কেন্দ্রবিশিষ্ট ACBD বৃত্তে AB = 10 সে.মি., OE $\\perp$ AD (or chord), OE = 3 সে.মি., AC $\\perp$ BC.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের উদ্দীপক থেকে ২১ ও ২২ নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$45.5$",
+        "$51.5$",
+        "$55.5$",
+        "$65.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/cyl0GN9.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_17",
+      "questionPreamble": "মধ্যক নির্ণয়ের ক্ষেত্রে$-$\n$i.$ $\\frac{n}{2} = 20$\n$ii.$ $f_m = 12$\n$iii.$ $F_c = 15$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$M$ এর ঘূর্ণন প্রতিসাম্য কোণ কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$270^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের উদ্দীপক থেকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\angle ACB$ কোণের মান কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_dhaka%2Fq24.svg?alt=media&token=45bad886-8e39-4e3d-9d63-d578bdc990ff",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$BC = \\text{কত?}$",
+      "options": [
+        "$2\\sqrt{2}$ সে.মি.",
+        "$2\\sqrt{3}$ সে.মি.",
+        "$4\\sqrt{2}$ সে.মি.",
+        "$4\\sqrt{3}$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC, যার $\\angle B = 90^{\\circ}$, $AB = 4$ সে.মি., $\\angle A = 2x$, $\\angle C = x$",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{a}{b} = \\frac{b}{c} = \\frac{2}{3}$ হলে, $a : c$ এর মান কত?",
+      "options": [
+        "$2 : 3$",
+        "$3 : 4$",
+        "$4 : 9$",
+        "$9 : 4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বর্গক্ষেত্রের এক বাহুর পরিমাপ $x$ একক হলে, উহার পরিসীমা ও কর্ণের দৈর্ঘ্যের অনুপাত কত?",
+      "options": [
+        "$2\\sqrt{2} : 4$",
+        "$2\\sqrt{2} : 3$",
+        "$2\\sqrt{2} : 2$",
+        "$2\\sqrt{2} : 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1 + 4 + 16 + \\dots$ ধারার কোন পদ $1024$?",
+      "options": [
+        "৫ম",
+        "৬ষ্ঠ",
+        "১০ম",
+        "১১তম"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_06",
+      "questionPreamble": "$\\triangle ABC$ সমকোণী ত্রিভুজ হবে, যদি এর বাহুগুলোর পরিমাপ হয়$-$\n$i.$ $5, 12, 13$ একক\n$ii$.$ 6, 8, 10$ একক\n$iii.$ $14, 16, 20$ একক",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "তাপমাত্রা",
+        "পাখির সংখ্যা",
+        "বয়স",
+        "উচ্চতা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

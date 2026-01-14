@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164.45049pt" height="167.95515pt" viewBox="-72 -72 164.45049 167.95515" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(11.552459716796873,18.26264953613281)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="1.2">
+ <path d=" M 0.0 0.0 M 76.82251 0.0 C 76.82251 42.42844 42.42844 76.82251 0.0 76.82251 C -42.42844 76.82251 -76.82251 42.42844 -76.82251 0.0 C -76.82251 -42.42844 -42.42844 -76.82251 0.0 -76.82251 C 42.42844 -76.82251 76.82251 -42.42844 76.82251 0.0 Z M 0.0 0.0  " fill="none"/>
+ </g>
+ <g stroke-width="1.2">
+ <path d=" M 0.0 0.0 L -66.53984 -38.41669  " fill="none"/>
+ </g>
+ <g stroke-width="1.2">
+ <path d=" M 0.0 0.0 L 66.53984 -38.41669  " fill="none"/>
+ </g>
+ <g stroke-width="1.2">
+ <path d=" M 0.0 76.83339 L -66.53984 -38.41669  " fill="none"/>
+ </g>
+ <g stroke-width="1.2">
+ <path d=" M 0.0 76.83339 L 66.53984 -38.41669  " fill="none"/>
+ </g>
+ <path d=" M -7.11296 64.5023 C -2.7121 61.9615 2.7121 61.9615 7.11296 64.5023  " fill="none"/>
+ <g transform="translate(-5.15625,47.77208)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmmi10;" font-size="10">x</text>
+<text alignment-baseline="baseline" y="14.633728027343746" x="20.601072311401364" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ <path d=" M -12.3202 -7.11296 C -8.39178 -13.9173 0.30862 -16.24863 7.11296 -12.3202 C 9.27504 -11.07195 11.07195 -9.27504 12.3202 -7.11296  " fill="none"/>
+ <g transform="translate(-20.15623,-28.1075)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmr10;" font-size="10">(</text>
+<text alignment-baseline="baseline" y="18.26264953613281" x="18.774690628051754" style="font-family: cmmi10;" font-size="10">x</text>
+<text alignment-baseline="baseline" y="18.26264953613281" x="26.71214294433593" style="font-family: cmr10;" font-size="10">+</text>
+<text alignment-baseline="baseline" y="18.26264953613281" x="36.71211624145507" style="font-family: cmr10;" font-size="10">20)</text>
+<text alignment-baseline="baseline" y="14.633728027343746" x="50.60105705261229" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-3.75,80.36636)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmr10;" font-size="10">A</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-77.15616,-41.83334)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmr10;" font-size="10">B</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(70.07281,-41.83334)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmr10;" font-size="10">C</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-3.8889,3.53297)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(14.885787963867184,18.26264953613281)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="18.26264953613281" x="14.885787963867184" style="font-family: cmr10;" font-size="10">O</text>
+</g> </g>
+ </g></g>
+ </g>
+ </g>
+ </g></g></svg>

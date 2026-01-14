@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2022_chattogram_math_mcq",
+    "title": "চট্টগ্রাম বোর্ড - ২০২২",
+    "titleEn": "চট্টগ্রাম বোর্ড - ২০২২",
+    "year": 2022,
+    "type": "board",
+    "board": "chattogram",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 20,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2+\\text{p}+\\text{q}+\\text{r}+162$ গুণোত্তর ধারটির চতুর্থ পদ কোনটি?",
+      "options": [
+        "$18$",
+        "$27$",
+        "$54$",
+        "$81$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রথম পদ $a=2$, পঞ্চম পদ $ar^4 = 162$।\n$\\Rightarrow 2r^4 = 162 \\Rightarrow r^4 = 81 \\Rightarrow r = 3$।\nচতুর্থ পদ = $ar^3 = 2 \\times 3^3 = 2 \\times 27 = 54$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1+3+5+\\dots$ ধারাটির ১ম $n$ সংখ্যক পদের যোগফল কোনটি?",
+      "options": [
+        "$\\frac{n(n+1)}{2}$",
+        "$\\left\\{\\frac{n(n+1)}{2}\\right\\}^2$",
+        "$\\frac{n^2}{2}$",
+        "$n^2$"
+      ],
+      "correctOption": 3,
+      "explanation": "প্রথম $n$ সংখ্যক স্বাভাবিক বিজোড় সংখ্যার সমষ্টির সূত্র হলো $n^2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\text{cosec } A + \\cot A = \\frac{1}{2}.$\\nউপরের তথ্যের আলোকে ৩ ও ৪নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\text{cosec } A - \\cot A = ?$",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$2$",
+        "$\\frac{1}{3}$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "আমরা জানি, $\\text{cosec}^2 A - \\cot^2 A = 1$\n$\\Rightarrow (\\text{cosec } A + \\cot A)(\\text{cosec } A - \\cot A) = 1$\n$\\Rightarrow \\frac{1}{2} \\times (\\text{cosec } A - \\cot A) = 1$\n$\\therefore \\text{cosec } A - \\cot A = 2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec A = $ কত?",
+      "options": [
+        "$\\frac{5}{3}$",
+        "$-\\frac{5}{3}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\text{cosec } A + \\cot A = 0.5$ এবং $\\text{cosec } A - \\cot A = 2$ যোগ করে পাই,\n$2\\text{cosec } A = 2.5 = \\frac{5}{2} \\Rightarrow \\text{cosec } A = \\frac{5}{4}$।\n$\\therefore \\sin A = \\frac{4}{5}$।\n$\\cos A = \\sqrt{1 - (\\frac{4}{5})^2} = \\sqrt{\\frac{9}{25}} = \\frac{3}{5}$।\n$\\therefore \\sec A = \\frac{1}{\\cos A} = \\frac{5}{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$4 \\sin A = 3$ হলে, $\\tan A$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{\\sqrt{7}}{3}$",
+        "$\\frac{3}{\\sqrt{7}}$",
+        "$\\frac{4}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{4}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sin A = \\frac{3}{4}$ (লম্ব/অতিভুজ)।\nভূমি = $\\sqrt{4^2 - 3^2} = \\sqrt{16-9} = \\sqrt{7}$।\n$\\therefore \\tan A = \\frac{\\text{লম্ব}}{\\text{ভূমি}} = \\frac{3}{\\sqrt{7}}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta \\sqrt{\\text{cosec}^2 \\theta - 1} = $ কত?",
+      "options": [
+        "$\\sin \\theta$",
+        "$\\cos \\theta$",
+        "$\\sin \\theta . \\cos \\theta$",
+        "$\\sec \\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sin \\theta \\sqrt{\\cot^2 \\theta} = \\sin \\theta . \\cot \\theta = \\sin \\theta . \\frac{\\cos \\theta}{\\sin \\theta} = \\cos \\theta$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin (A-B) = \\frac{1}{2}$ এবং $B = 30^{\\circ}$ হলে, $A$ এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sin (A-B) = \\sin 30^{\\circ} \\Rightarrow A - B = 30^{\\circ}$।\n$\\Rightarrow A - 30^{\\circ} = 30^{\\circ} \\Rightarrow A = 60^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো সমবাহু ত্রিভুজের এক বাহুর দৈর্ঘ্য $\\sqrt{3}$ সে.মি. হলে, এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{3\\sqrt{3}}{4}$",
+        "$\\frac{9}{4}$",
+        "$\\frac{9\\sqrt{3}}{4}$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমবাহু ত্রিভুজের ক্ষেত্রফল = $\\frac{\\sqrt{3}}{4} a^2 = \\frac{\\sqrt{3}}{4} (\\sqrt{3})^2 = \\frac{\\sqrt{3}}{4} \\times 3 = \\frac{3\\sqrt{3}}{4}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের আয়তন $24\\sqrt{3}$ ঘন সে.মি. হলে এর কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$2\\sqrt{3}$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি বাহুর দৈর্ঘ্য $a$।\n$a^3 = 24\\sqrt{3} = 8 \\times 3\\sqrt{3} = 2^3 \\times (\\sqrt{3})^3 = (2\\sqrt{3})^3$।\n$\\therefore a = 2\\sqrt{3}$।\nকর্ণের দৈর্ঘ্য = $\\sqrt{3}a = \\sqrt{3}(2\\sqrt{3}) = 2 \\times 3 = 6$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবৃত্তভূমিক বেলনের উচ্চতা $2$ মিটার এবং ভূমির ব্যাসার্ধ $1$ মিটার হলে, এর$-$\n$i.$ বক্রতলের ক্ষেত্রফল $3\\pi$ বর্গমিটার\n$ii.$ আয়তন $2\\pi$ ঘন মিটার\n$iii.$ ভূমির ক্ষেত্রফল $\\pi$ বর্গমিটার\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "i. বক্রতল = $2\\pi rh = 2\\pi(1)(2) = 4\\pi \\neq 3\\pi$। (মিথ্যা)\nii. আয়তন = $\\pi r^2 h = \\pi(1)^2(2) = 2\\pi$। (সত্য)\niii. ভূমির ক্ষেত্রফল = $\\pi r^2 = \\pi(1)^2 = \\pi$। (সত্য)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": "প্রদত্ত তথ্যের আলোকে ১১ ও ১২নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক শ্রেণির ক্রমযোজিত গণসংখ্যা কোনটি?",
+      "options": [
+        "$20$",
+        "$35$",
+        "$42$",
+        "$50$"
+      ],
+      "correctOption": 1,
+      "explanation": "$N=50$, তাই মধ্যক $\\frac{N}{2}=25$ তম পদে অবস্থিত।\nক্রমযোজিত গণসংখ্যা: $8, (8+12)=20, (20+15)=35$।\n২৫তম পদ ৭১-৮০ শ্রেণিতে অবস্থিত। এই শ্রেণির ক্রমযোজিত গণসংখ্যা ৩৫।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Uhjbbso.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক নির্ণয়ের ক্ষেত্রে $f_1 + f_2 = $ কত?",
+      "options": [
+        "$11$",
+        "$8$",
+        "$5$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রচুরক শ্রেণি ৭১-৮০ (সর্বোচ্চ গণসংখ্যা ১৫)।\n$f_1 = 15 - 12 = 3$\n$f_2 = 15 - 7 = 8$\n$\\therefore f_1 + f_2 = 3 + 8 = 11$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "পরীক্ষায় প্রাপ্ত জিপিএ কোন ধরনের চলক?",
+      "options": [
+        "বিচ্ছিন্ন চলক",
+        "অবিচ্ছিন্ন চলক",
+        "অবিন্যস্ত চলক",
+        "বিন্যস্ত চলক"
+      ],
+      "correctOption": 1,
+      "explanation": "জিপিএ সাধারণত দশমিক যুক্ত সংখ্যায় প্রকাশ করা হয় এবং এটি একটি পরিসরের মান নির্দেশ করে, তাই বোর্ড উত্তর অনুযায়ী এটি অবিচ্ছিন্ন চলক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি নির্ণয়ের জন্য ক্রমযোজিত গণসংখ্যা সারণি প্রয়োজন?",
+      "options": [
+        "গাণিতিক গড়",
+        "ব্যবধি",
+        "প্রচুরক",
+        "মধ্যক"
+      ],
+      "correctOption": 3,
+      "explanation": "মধ্যক নির্ণয়ের জন্য বা অজিভ রেখা আঁকার জন্য ক্রমযোজিত গণসংখ্যা সারণির প্রয়োজন হয়।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$H=(a, b)$ হলে, $P(H)$ এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "উপাদান সংখ্যা $n=2$। শক্তি সেটের উপাদান সংখ্যা $2^n = 2^2 = 4$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P(x) = x^3 - 4x + 3$ হলে, $P(2) = ?$",
+      "options": [
+        "$0$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "$P(2) = 2^3 - 4(2) + 3 = 8 - 8 + 3 = 3$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A=\\{0, 2\\}, B=\\{-1, 0, 1\\}$ হলে$-$\n$i.$ $B \\setminus A$ এর প্রকৃত উপসেট সংখ্যা $3$\n$ii.$ $A \\cap B = \\{0\\}$\n$iii.$ $A - B = \\{2\\}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i. $B \\setminus A = \\{-1, 1\\}$, উপাদান ২ টি। প্রকৃত উপসেট $2^2-1=3$। (সঠিক)\nii. $A \\cap B = \\{0\\}$। (সঠিক)\niii. $A - B = \\{2\\}$। (সঠিক)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 + \\frac{1}{x^2} = 18$ হলে, $x + \\frac{1}{x} = $ কত?",
+      "options": [
+        "$2\\sqrt{5}$",
+        "$4$",
+        "$\\sqrt{14}$",
+        "$2\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(x + \\frac{1}{x})^2 - 2 = 18 \\Rightarrow (x + \\frac{1}{x})^2 = 20$\n$\\therefore x + \\frac{1}{x} = \\sqrt{20} = 2\\sqrt{5}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে $4$ একক ও $6$ একক। তৃতীয় বাহুর দৈর্ঘ্য কত একক হলে ত্রিভুজটি আঁকা যাবে?",
+      "options": [
+        "$11$ একক",
+        "$7$ একক",
+        "$2$ একক",
+        "$1$ একক"
+      ],
+      "correctOption": 1,
+      "explanation": "ত্রিভুজের যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর।\nএখানে $4+6=10$। তৃতীয় বাহু অবশ্যই ১০ এর চেয়ে ছোট এবং $(6-4)=2$ এর চেয়ে বড় হতে হবে।\nঅপশনগুলোর মধ্যে একমাত্র ৭ শর্ত পূরণ করে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :\\n$\\frac{a}{b}+\\frac{b}{a}=2$",
+      "question": "$a-b = ?$",
+      "options": [
+        "$0$",
+        "$1$",
+        "$ab$",
+        "$\\sqrt{ab}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\frac{a^2+b^2}{ab} = 2 \\Rightarrow a^2-2ab+b^2 = 0 \\Rightarrow (a-b)^2 = 0 \\Rightarrow a-b=0$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$(\\frac{a}{b})^3 + (\\frac{b}{a})^3$ এর মান নিচের কোনটি?",
+      "options": [
+        "$8$",
+        "$6$",
+        "$4$",
+        "$2$"
+      ],
+      "correctOption": 3,
+      "explanation": "যেহেতু $a=b$, তাই $\\frac{a}{b}=1$।\nরাশিটি = $1^3 + 1^3 = 1+1 = 2$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\sqrt[n]{32} = 2$ হলে, $n$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "$32^{\\frac{1}{n}} = 2 \\Rightarrow (2^5)^{\\frac{1}{n}} = 2^1$\n$\\Rightarrow \\frac{5}{n} = 1 \\Rightarrow n = 5$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য $5^{\\circ}$ হলে, ক্ষুদ্রতম কোণটির মান কত?",
+      "options": [
+        "$41.5^{\\circ}$",
+        "$42.5^{\\circ}$",
+        "$47.5^{\\circ}$",
+        "$48.5^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x+y=90$ এবং $x-y=5$।\nবিয়োগ করলে, $2y = 85 \\Rightarrow y = 42.5^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$4^{x+1} = 32$ হলে, $x = $ কত?",
+      "options": [
+        "$1$",
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{7}{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$2^{2(x+1)} = 2^5 \\Rightarrow 2x+2 = 5 \\Rightarrow 2x = 3 \\Rightarrow x = \\frac{3}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি রম্বস আঁকা যাবে যদি দেওয়া থাকে$-$\n$i.$ ১টি বাহুর দৈর্ঘ্য\n$ii.$ ১টি বাহু ও ১টি কর্ণের দৈর্ঘ্য\n$iii.$ ১টি বাহু ও ১টি কোণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "রম্বসের একটি বাহু জানলে চারটি বাহুই জানা যায়, কিন্তু আকৃতি নির্দিষ্ট করতে একটি কোণ বা কর্ণ প্রয়োজন। তাই শুধু বাহু দিয়ে আঁকা সম্ভব নয়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\Delta PQR$ সমবাহু ত্রিভুজের পরিকেন্দ্র $C$ হলে, $\\angle QCR = $ কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমবাহু ত্রিভুজের প্রতি কোণ $60^{\\circ}$।\nকেন্দ্রস্থ কোণ $\\angle QCR = 2 \\times \\angle QPR = 2 \\times 60^{\\circ} = 120^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ কীরূপ?",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তের অধিচাপে অন্তর্লিখিত কোণ সূক্ষ্মকোণ এবং উপচাপে অন্তর্লিখিত কোণ স্থূলকোণ হয়।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রে, $O$ কেন্দ্র। $OA = 4$ সে.মি., $OC = 3$ সে.মি.।\\nউপরের তথ্যের আলোকে ২৮ ও ২৯নং প্রশ্নের উত্তর দাও :",
+      "question": "জ্যা $AB$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$7$ সে.মি.",
+        "$\\sqrt{7}$ সে.মি.",
+        "$2\\sqrt{7}$ সে.মি.",
+        "$2\\sqrt{5}$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "সমকোণী ত্রিভুজ $\\Delta OCA$-এ $AC = \\sqrt{4^2 - 3^2} = \\sqrt{7}$।\nকেন্দ্র থেকে জ্যা-এর ওপর অঙ্কিত লম্ব জ্যা-কে সমদ্বিখণ্ডিত করে।\n$\\therefore AB = 2AC = 2\\sqrt{7}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/xoXQulu.png",
+      "imageCaption": "Circle with chord AB and perpendicular OC",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle AOC = 55\\frac{1}{2}^{\\circ}$ হলে, $\\angle OBC = $ কত?",
+      "options": [
+        "$34.5^{\\circ}$",
+        "$55.5^{\\circ}$",
+        "$65.5^{\\circ}$",
+        "$95.5^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\Delta OCA$-এ $\\angle C = 90^{\\circ}$।\n$\\therefore \\angle OAC = 90^{\\circ} - 55.5^{\\circ} = 34.5^{\\circ}$।\n$\\Delta OAB$ সমদ্বিবাহু (OA=OB ব্যাসার্ধ), তাই $\\angle OBC = \\angle OAC = 34.5^{\\circ}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{\\sqrt{7}}, -1, \\sqrt{7}, \\dots$ অনুক্রমটির সাধারণ অনুপাত কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{7}}$",
+        "$-\\frac{1}{\\sqrt{7}}$",
+        "$\\sqrt{7}$",
+        "$-\\sqrt{7}$"
+      ],
+      "correctOption": 3,
+      "explanation": "সাধারণ অনুপাত $r = \\frac{-1}{1/\\sqrt{7}} = -\\sqrt{7}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2019_chittagong",
+    "title": "চট্টগ্রাম বোর্ড - ২০১৯",
+    "titleEn": "চট্টগ্রাম বোর্ড - ২০১৯",
+    "year": 2019,
+    "type": "board",
+    "board": "chittagong",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$5+7+9+11+ \\dots$ ধারাটির $12$ তম পদ কত?",
+      "options": [
+        "$27$",
+        "$29$",
+        "$192$",
+        "$194$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধারাটি সমান্তর। ১ম পদ $a=5$, অন্তর $d=2$। 12 তম পদ $= a+(n-1)d = 5+11(2) = 27$। [cite: 563]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$p+q+r+s+ \\dots$ গুণোত্তর ধারাভুক্ত হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$q-p=s-r$",
+        "$\\frac{p}{q}=\\frac{s}{r}$",
+        "$\\frac{q}{p}=\\frac{s}{r}$",
+        "$p-q=r-s$"
+      ],
+      "correctOption": 2,
+      "explanation": "গুণোত্তর ধারার সাধারণ অনুপাত $r = \\frac{q}{p} = \\frac{s}{r}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $6\\sqrt{3}$ বর্গমিটার হলে এর পরিসীমা কত?",
+      "options": [
+        "$4.89$ মিটার",
+        "$14.69$ মিটার",
+        "$19.59$ মিটার",
+        "$72.00$ মিটার"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{\\sqrt{3}}{4}a^2 = 6\\sqrt{3} \\Rightarrow a^2 = 24 \\Rightarrow a \\approx 4.898$। পরিসীমা $= 3a \\approx 14.69$। [cite: 551, 579]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সিলিন্ডারের উচ্চতা $8$ সে.মি. এবং ভূমির ব্যাসার্ধ $4$ সে.মি. হলে$-$\n$i.$ সমগ্রতলের ক্ষেত্রফল $301.59$ বর্গ সে.মি.\n$ii.$ বক্রতলের ক্ষেত্রফল $201.06$ বর্গ সে.মি.\n$iii$. আয়তন $100.53$ ঘন সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "বক্রতলের ক্ষেত্রফল $= 2\\pi rh \\approx 201.06$। সমগ্রতল $= 2\\pi r(r+h) \\approx 301.59$। আয়তন $= \\pi r^2 h \\approx 402.12$। [cite: 596-602]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৫ ও ৬নং প্রশ্নের উত্তর দাও :",
+      "question": "প্রদত্ত সারণি থেকে মধ্যক নির্ণয়ের $f_m$ কত?",
+      "options": [
+        "$10$",
+        "$20$",
+        "$22$",
+        "$30$"
+      ],
+      "correctOption": 1,
+      "explanation": "মোট গণসংখ্যা $N=60$, মধ্যক পদ অবস্থান ৩০তম, যা ২১-৩০ শ্রেণিতে অবস্থিত। সুতরাং $f_m = 20$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_chittagong%2Fq05.svg?alt=media&token=fdb24545-95c8-438f-8e7f-674214059a9f",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$35.50$",
+        "$32.25$",
+        "$31.71$",
+        "$29.33$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রচুরক শ্রেণি ৩১-৪০। প্রচুরক $= L + \\frac{f_1}{f_1+f_2} \\times h = 31 + \\frac{2}{2+14} \\times 10 = 32.25$। [cite: 625-630]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$6x - 8y = 10$ এবং $12x - 16y = 18$ সমীকরণ জোটের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        "সমীকরণ জোট সমঞ্জস ও অনির্ভরশীল",
+        "অনন্য সমাধান রয়েছে",
+        "সমীকরণ জোট সমঞ্জস, নির্ভরশীল",
+        "সমীকরণ জোট অসমঞ্জস ও অনির্ভরশীল"
+      ],
+      "correctOption": 3,
+      "explanation": "সহগ অনুপাত $\\frac{6}{12} = \\frac{-8}{-16} \\neq \\frac{10}{18}$। এটি অসমঞ্জস ও অনির্ভরশীল। [cite: 633, 678]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের কত গুণ?",
+      "options": [
+        "$\\frac{1}{4}$গুণ",
+        "$\\frac{1}{2}$গুণ",
+        "$2$গুণ",
+        "$4$গুণ"
+      ],
+      "correctOption": 1,
+      "explanation": "বর্গের ক্ষেত্রফল $a^2$, কর্ণের বর্গের ক্ষেত্রফল $(\\sqrt{2}a)^2 = 2a^2$। অনুপাত $1/2$। [cite: 679]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{5})^{x+1} = (\\sqrt[3]{5})^{2x-1}$ হলে $x$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{7}$",
+        "$\\frac{5}{7}$",
+        "$1$",
+        "$5$"
+      ],
+      "correctOption": 3,
+      "explanation": "$5^{\\frac{x+1}{2}} = 5^{\\frac{2x-1}{3}} \\Rightarrow 3x+3 = 4x-2 \\Rightarrow x=5$। [cite: 681]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "কোনো ভগ্নাংশের লবের সাথে $1$ যোগ করলে মান $1$ হয় এবং হরের সাথে $4$ যোগ করলে মান $\\frac{1}{2}$ হয়। ভগ্নাংশটি কত?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{6}$",
+        "$\\frac{6}{5}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\frac{5+1}{6}=1$ এবং $\frac{5}{6+4} = \\frac{1}{2}$। ভগ্নাংশটি $\\frac{5}{6}$। [cite: 684, 711]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$ABC$ সমকোণী ত্রিভুজে $\\angle C =$ সমকোণ, $\\angle B = 2 \\angle A$ এবং $BC = 4$ সে.মি. হলে $AB$ এর মান কত?",
+      "options": [
+        "$2$ সে.মি.",
+        "$4$ সে.মি.",
+        "$6$ সে.মি.",
+        "$8$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "$\\angle A = 30^{\\circ}$। $\\sin 30^{\\circ} = \\frac{BC}{AB} \\Rightarrow \\frac{1}{2} = \\frac{4}{AB} \\Rightarrow AB = 8$। [cite: 564]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১২ ও ১৩নং প্রশ্নের উত্তর দাও :",
+      "question": "$BA\\ ||\\ CE$ হলে $\\angle ACE$ এর মান কত?",
+      "options": [
+        "$50^{\\circ}$",
+        "$60^{\\circ}$",
+        "$70^{\\circ}$",
+        "$110^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "একান্তর কোণ ও ত্রিভুজের তিন কোণের সমষ্টির নিয়ম অনুযায়ী এটি $70^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/oN5d3E1.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\Delta ABC$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$6\\sqrt{3}$ বর্গ সে.মি.",
+        "$12$ বর্গ সে.মি.",
+        "$24$ বর্গ সে.মি.",
+        "$12\\sqrt{3}$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "$\frac{1}{2} \\times AB \\times BC \\times \\sin 60^{\\circ}$ সূত্র অনুযায়ী এটি $6\\sqrt{3}$। [cite: 600]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$A = 15^{\\circ}$ হলে$-$\n$i.$ $\\tan 3A = \\sqrt{2}\\sin 3A$\n$ii.$ $\\cot 4A = \\frac{1}{\\sqrt{3}}$\n$iii.$ $\\sin 4A = \\cos 2A$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "তিনটি উক্তিই ত্রিকোণমিতিক মান অনুযায়ী সঠিক। [cite: 617, 641]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "একটি গাছের দৈর্ঘ্য ও গাছটির ছায়ার দৈর্ঘ্যের অনুপাত $3 : \\sqrt{3}$ হলে উন্নতি কোণ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$",
+        "$15^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\tan \\theta = \\frac{3}{\\sqrt{3}} = \\sqrt{3} \\Rightarrow \\theta = 60^{\\circ}$। [cite: 643]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি সমানুপাতিক রাশি?",
+      "options": [
+        "$1:2=3:4$",
+        "$2:5=6:15$",
+        "$4:6=6:4$",
+        "$3:5=9:25$"
+      ],
+      "correctOption": 1,
+      "explanation": "$2 \\times 15 = 5 \\times 6 = 30$, তাই এটি সমানুপাতিক। [cite: 655]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "ইংরেজি $S$ বর্ণের ঘূর্ণন কোণ কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$270^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "S অক্ষরটিকে $180^{\\circ}$ ঘুরালে একই রকম দেখায়। [cite: 665]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি রম্বসের দুইটি কর্ণের দৈর্ঘ্য যথাক্রমে $12$ সে.মি. ও $15$ সে.মি.। এর ক্ষেত্রফল কত?",
+      "options": [
+        "$45$ বর্গ সে.মি.",
+        "$90$ বর্গ সে.মি.",
+        "$180$ বর্গ সে.মি.",
+        "$360$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= \\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 12 \\times 15 = 90$। [cite: 672]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য $80$ মিটার। এর প্রত্যেক বাহুর দৈর্ঘ্য $10$% বাড়লে$-$\n$i.$ প্রত্যেক বাহুর দৈর্ঘ্য হবে $88$ মিটার\n$ii.$ এর ক্ষেত্রফল বাড়বে $21$%\n$iii.$ এর কর্ণের দৈর্ঘ্য বাড়বে $10\\sqrt{2}$ মিটার\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "বাহু $40+4=44$। ক্ষেত্রফল বৃদ্ধি $(1.1)^2 - 1 = 21\\%$। কর্ণ $44\\sqrt{2}$ হয়, বৃদ্ধি $4\\sqrt{2}$। [cite: 690]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\cos \\theta$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{\\frac{2}{3}}$",
+        "$\\sqrt{\\frac{3}{2}}$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "অতিভুজ $= \\sqrt{2^2 + (2\\sqrt{2})^2} = \\sqrt{12} = 2\\sqrt{3}$। $\\cos \\theta = \\frac{2\\sqrt{2}}{2\\sqrt{3}} = \\sqrt{\\frac{2}{3}}$। [cite: 565, 571]",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_chittagong%2Fq20.svg?alt=media&token=ea71eef3-9885-4da2-8ea0-35eee7a0a842",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{\\tan^{2}\\theta + 1}{\\cosec^{2}\\theta - 1}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{9}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "মান বসিয়ে হিসাব করলে এটি $\\frac{3}{4}$ হয়। [cite: 569, 581]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "O বৃত্তের কেন্দ্র হলে $x$-এর মান কত?",
+      "options": [
+        "$20^{\\circ}$",
+        "$30^{\\circ}$",
+        "$40^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x+80 = 2(x+10) \\Rightarrow x+80 = 2x+20 \\Rightarrow x=60$। [cite: 608]",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_chittagong%2Fq22.svg?alt=media&token=5189734e-3890-4946-b042-cc986c13594b",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\frac{\\sqrt{5}}{\\sqrt{10}}$",
+        "$\\frac{\\sqrt{27}}{\\sqrt{48}}$",
+        "$\\frac{\\sqrt{6}}{3}$",
+        "$\\frac{\\sqrt{8}}{\\sqrt{7}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{\\sqrt{27}}{\\sqrt{48}} = \\frac{3\\sqrt{3}}{4\\sqrt{3}} = \\frac{3}{4}$, যা একটি মূলদ সংখ্যা। [cite: 618]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.3\\dot{1}$ এর সাধারণ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        "$\\frac{28}{99}$",
+        "$\\frac{31}{100}$",
+        "$\\frac{14}{45}$",
+        "$\\frac{31}{90}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\frac{31-3}{90} = \\frac{28}{90} = \\frac{14}{45}$। [cite: 648]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{x \\in \\mathbb{N} : 3 \\leq x \\leq 7\\}$ হলে$-$\n$i.$$A$ সেটে মৌলিক সংখ্যা $3$ টি\n$ii.$$P(A)$ এর উপাদান সংখ্যা $16$\n$iii.$$A$ সেটে $3$ দ্বারা বিভাজ্য সংখ্যা $2$ টি\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$A=\\{3,4,5,6,7\\}$। মৌলিক: 3,5,7। $P(A)=2^5=32$। 3 দ্বারা বিভাজ্য: 3,6। [cite: 650-653]",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $A=\\{a,b,c\\}, B=\\{b,c,d\\}$ হয় তবে A\\B নিচের কোনটি?",
+      "options": [
+        "{a}",
+        "{d}",
+        "{a, b, c, d}",
+        "{b, c}"
+      ],
+      "correctOption": 0,
+      "explanation": "A থেকে B এর উপাদানগুলো বাদ দিলে থাকে শুধু {a}। [cite: 671, 673]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৭ ও ২৮নং প্রশ্নের উত্তর দাও :\\n$a^2 - 4a - 1 = 0$",
+      "question": "$a^{2}+\\frac{1}{a^{2}}$ এর মান কত?",
+      "options": [
+        "$12$",
+        "$14$",
+        "$18$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "$a-\\frac{1}{a}=4 \\Rightarrow a^2+\\frac{1}{a^2} = (4)^2+2 = 18$। [cite: 701]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + \\frac{1}{a}$ এর মান কত? $[$যখন $a > 0]$",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$\\sqrt{14}$",
+        "$3\\sqrt{2}$",
+        "$2\\sqrt{5}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$(a+\\frac{1}{a})^2 = (a-\\frac{1}{a})^2 + 4 = 16+4 = 20 \\Rightarrow a+\\frac{1}{a} = 2\\sqrt{5}$। [cite: 707]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "কোন শর্তে $a^{\\circ} = 1$?",
+      "options": [
+        "$a \\neq 0$",
+        "$a > 0$",
+        "$a < 0$",
+        "$a = 0$"
+      ],
+      "correctOption": 0,
+      "explanation": "সূচকের নিয়ম অনুযায়ী ভিত্তি শূন্য হতে পারবে না। [cite: 708]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^{2}-x-56 = 0$ সমীকরণের মূলদ্বয় নিচের কোনটি?",
+      "options": [
+        "$8, -7$",
+        "$-8, 7$",
+        "$-7, -8$",
+        "$7, 8$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(x-8)(x+7)=0 \\Rightarrow x=8, -7$। [cite: 718]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

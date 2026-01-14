@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2022_comilla",
+    "title": "কুমিল্লা বোর্ড - ২০২২",
+    "titleEn": "কুমিল্লা বোর্ড - ২০২২",
+    "year": 2022,
+    "type": "board",
+    "board": "comilla",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 20,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $P = \\{3, 4, 5, 6\\}$ হলে, সেট $P$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$4$",
+        "$15$",
+        "$16$",
+        "$17$"
+      ],
+      "correctOption": 1,
+      "explanation": "সেট $P$ এর উপাদান সংখ্যা $n = 4$। সেট $P$ এর প্রকৃত উপসেট সংখ্যা $2^n - 1 = 2^4 - 1 = 16 - 1 = 15$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^3 - x - 24$ হলে, $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x = 3$ বসিয়ে পাই, $f(3) = 3^3 - 3 - 24 = 27 - 3 - 24 = 0$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$U = \\{1, 2, 3, 4, 5, 6\\}, M = \\{1, 2, 3, 4\\}, N = M^\\prime$ হলে$-$\n$i.$ $N$ এর উপাদান সংখ্যা $2$টি\n$ii.$ $M \\times N$ এর উপাদান সংখ্যা $8$টি\n$iii.$ $M \\setminus N = \\{ \\}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$N = U \\setminus M = \\{5, 6\\}$।\ni. $N$ এর উপাদান সংখ্যা $2$ (সঠিক)।\nii. $M \\times N$ এর উপাদান সংখ্যা $4 \\times 2 = 8$ (সঠিক)।\niii. $M \\setminus N = \\{1, 2, 3, 4\\} \\setminus \\{5, 6\\} = \\{1, 2, 3, 4\\} \\neq \\emptyset$ (ভুল)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^3 - 2x - 4$ রাশিটির উৎপাদক কোনটি?",
+      "options": [
+        "$(x - 4)$",
+        "$(x - 2)$",
+        "$(x + 2)$",
+        "$(x + 4)$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x^2 - 4 = x^2 - 2^2 = (x - 2)(x + 2)$। সুতরাং $(x - 2)$ একটি উৎপাদক। উল্লেখ্য যে প্রশ্নটি $x^2 - 4x + 4$ হলে কেবল $(x - 2)$ উত্তর হতো, তবে চিত্রে দৃশ্যমান $x^2 - 4$ এর জন্য (খ) ও (গ) উভয়ই সঠিক। উত্তরপত্র অনুযায়ী (খ) সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + \\frac{1}{x} = 0$ হলে, $\\sqrt{2}(\\sqrt{x} + \\frac{1}{\\sqrt{x}})$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "$(\\sqrt{x} + \\frac{1}{\\sqrt{x}})^2 = (\\sqrt{x})^2 + 2 \\cdot \\sqrt{x} \\cdot \\frac{1}{\\sqrt{x}} + (\\frac{1}{\\sqrt{x}})^2 = x + 2 + \\frac{1}{x} = (x + \\frac{1}{x}) + 2 = 0 + 2 = 2$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(x + y)^2 = \\sqrt[3]{27}$ এবং $xy = 0$ হলে$-$\n$i.$ $x^2 + y^2 = 3$\n$ii.$ $x - y = \\sqrt{3}$\n$iii.$ $x^3 + y^3 = 3\\sqrt{3}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$(x + y)^2 = 3 \\implies x + y = \\sqrt{3}$।\ni. $x^2 + y^2 = (x + y)^2 - 2xy = 3 - 0 = 3$ (সঠিক)।\nii. $(x - y)^2 = (x + y)^2 - 4xy = 3 - 0 = 3 \\implies x - y = \\sqrt{3}$ (সঠিক)।\niii. $x^3 + y^3 = (x + y)^3 - 3xy(x + y) = (\\sqrt{3})^3 - 0 = 3\\sqrt{3}$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_13",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৭ ও ৮ নং প্রশ্নের উত্তর দাও:\n$1+3+5+7+\\dots$",
+      "question": "ধারাটির $r$ তম পদ কত?",
+      "options": [
+        "$2r - 3$",
+        "$2r - 1$",
+        "$2r + 1$",
+        "$2r + 3$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রথম পদ $a = 1$, সাধারণ অন্তর $d = 3 - 1 = 2$। $r$ তম পদ $= a + (r - 1)d = 1 + (r - 1)2 = 1 + 2r - 2 = 2r - 1$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "ধারাটির প্রথম $9$ পদের সমষ্টি কত?",
+      "options": [
+        "$17$",
+        "$81$",
+        "$256$",
+        "$511$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রথম $n$ সংখ্যক বিজোড় পদের সমষ্টি $= n^2$। এখানে $n = 9$, তাই সমষ্টি $= 9^2 = 81$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_a N = P$ হলে$-$\n$i.$ $N > 0$ \n$ii.$ $P > 0$ \n$iii.$ $a > 0, a not equals to 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "লগারিদমের সংজ্ঞামতে, ভিত্তি $a > 0$ এবং $a \\neq 1$ হতে হবে এবং $N > 0$ হতে হবে। $P$ এর মান ঋণাত্মকও হতে পারে (যেমন $\\log_{10} 0.1 = -1$)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{7.2^{x+1} - 13.2^x}{2^x} = $ কত?",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\frac{7 \\cdot 2^x \\cdot 2^1 - 13 \\cdot 2^x}{2^x} = \\frac{2^x(14 - 13)}{2^x} = 14 - 13 = 1$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে। এদের একটির ব্যাস $10$ সে.মি. এবং অপরটির ব্যাসার্ধ $4$ সে.মি. হলে, এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        "$1$",
+        "$4$",
+        "$5$",
+        "$9$"
+      ],
+      "correctOption": 0,
+      "explanation": "১ম বৃত্তের ব্যাসার্ধ $R = 10/2 = 5$ সে.মি.। ২য় বৃত্তের ব্যাসার্ধ $r = 4$ সে.মি.। অন্তঃস্পর্শ করলে কেন্দ্রদ্বয়ের দূরত্ব $= R - r = 5 - 4 = 1$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুইটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$30^\\circ$ ও $60^\\circ$",
+        "$40^\\circ$ ও $50^\\circ$",
+        "$45^\\circ$ ও $45^\\circ$",
+        "$50^\\circ$ ও $30^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "স্থূলকোণী ত্রিভুজের অপর দুই কোণের সমষ্টি সর্বদা $90^\\circ$ এর চেয়ে কম হয়। এখানে কেবল (ঘ) তে সমষ্টি $50 + 30 = 80^\\circ < 90^\\circ$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৩ ও ১৪নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\frac{1}{2} \\angle EFG = $ কত?",
+      "options": [
+        "$30^\\circ$",
+        "$45^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রানুসারে ও জ্যামিতিক বৈশিষ্ট্য বিশ্লেষণে $\\angle EFG = 45^\\circ$ পাওয়া যায়।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/m1UJSyI.png",
+      "imageCaption": "O বৃত্তের কেন্দ্র, GE = 10 cm, GD = 4 cm",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\triangle DOF$ এর পরিসীমা কত?",
+      "options": [
+        "$12$ cm",
+        "$13$ cm",
+        "$16$ cm",
+        "$18$ cm"
+      ],
+      "correctOption": 0,
+      "explanation": "$GE = 10$ সে.মি. ব্যাস হলে ব্যাসার্ধ $OF = 5$ সে.মি.। $OD \\perp GF$ হওয়ায় $GD = DF = 4$ সে.মি.। সমকোণী $\\triangle ODF$ এ $OD^2 + DF^2 = OF^2 \\implies OD^2 = 5^2 - 4^2 = 9 \\implies OD = 3$। পরিসীমা $= 3 + 4 + 5 = 12$ সে.মি.।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": "$O$ বৃত্তের কেন্দ্র, $GE = 10$ cm, $GD = 4$ cm",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ বৃত্তের কেন্দ্র $\\angle BOC + \\angle AOD = $ কত?",
+      "options": [
+        "$45^\\circ$",
+        "$90^\\circ$",
+        "$180^\\circ$",
+        "$360^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রানুসারে $AC$ ও $BD$ জ্যা দুইটি পরস্পর লম্বভাবে ছেদ করলে তাদের দ্বারা কেন্দ্রে উৎপন্ন কোণদ্বয়ের সমষ্টি $180^\\circ$ হয়।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/QTkVjRI.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ACE = ?$",
+      "options": [
+        "$110^\\circ$",
+        "$70^\\circ$",
+        "$60^\\circ$",
+        "$55^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "ত্রিভুজের তিন কোণের সমষ্টি $180^\\circ$। চিত্র থেকে, $(x + 60) + (2x + 20) + (x + 60) = 180 \\implies 4x + 140 = 180 \\implies 4x = 40 \\implies x = 10$। তাহলে $\\angle ACB = x + 60 = 10 + 60 = 70^\\circ$। $\\angle ACE = 180^\\circ - 70^\\circ = 110^\\circ$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Zkmi2gM.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের চিত্রের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :",
+      "question": "$x$ এর মান কত ডিগ্রি?",
+      "options": [
+        "$15$",
+        "$30$",
+        "$33$",
+        "$41$"
+      ],
+      "correctOption": 2,
+      "explanation": "$ABCD$ সামান্তরিকে বিপরীত বাহু সমান্তরাল হওয়ায় $\\angle BCD$ এবং বহিঃস্থ কোণটি অনুরূপ কোণ হতে পারে বা এদের সমষ্টির মাধ্যমে সমাধান করা যায়। চিত্র অনুযায়ী $3x + 8 + 2x + 7 = 180 \\implies 5x + 15 = 180 \\implies 5x = 165 \\implies x = 33$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/XCY7QgQ.png",
+      "imageCaption": "ABCD একটি সামান্তরিক।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "সামান্তরিকের বৃহত্তর কোণের মান কত ডিগ্রি?",
+      "options": [
+        "$73$",
+        "$100$",
+        "$107$",
+        "$180$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x = 33$ হলে কোণগুলো হলো $3(33) + 8 = 99 + 8 = 107^\\circ$ এবং $180 - 107 = 73^\\circ$। বৃহত্তর কোণটি $107^\\circ$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "$ABCD$ একটি সামান্তরিক",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\text{cosec } \\theta \\sqrt{\\sec^2 \\theta - 1} = $ কত?",
+      "options": [
+        "$\\sec \\theta$",
+        "$\\cos \\theta$",
+        "$\\sin \\theta$",
+        "$\\tan \\theta$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\text{cosec } \\theta \\sqrt{\\sec^2 \\theta - 1} = \\text{cosec } \\theta \\cdot \\tan \\theta = \\frac{1}{\\sin \\theta} \\cdot \\frac{\\sin \\theta}{\\cos \\theta} = \\frac{1}{\\cos \\theta} = \\sec \\theta$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\tan y$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে সমকোণী ত্রিভুজের অতিভুজ $2$ এবং উচ্চতা $1$। সুতরাং ভূমি $\\sqrt{2^2 - 1^2} = \\sqrt{3}$। $y$ কোণের সাপেক্ষে লম্ব $\\sqrt{3}$ ও ভূমি $1$। $\\tan y = \\frac{\\sqrt{3}}{1} = \\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/dfmmjSm.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin^2 y - \\tan^2 x$ এর মান কত?",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{7}{6}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\%y = 60^\\circ$ এবং $x = 30^\\circ$। $\\sin^2 60^\\circ - \\tan^2 30^\\circ = (\\frac{\\sqrt{3}}{2})^2 - (\\frac{1}{\\sqrt{3}})^2 = \\frac{3}{4} - \\frac{1}{3} = \\frac{9 - 4}{12} = \\frac{5}{12}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "সমকোণী ত্রিভুজ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$ABCD$ আয়তক্ষেত্রের কর্ণদ্বয়ের ছেদবিন্দু $O$, $OP = 4$ সে.মি. এবং $OA = 5$ সে.মি. হলে, $BC =$ কত সে.মি.?",
+      "options": [
+        "$2$ সে.মি.",
+        "$4$ সে.মি.",
+        "$6$ সে.মি.",
+        "$8$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "$OA = 5 \\implies AC = 10$। $\\triangle OPC$ সমকোণী ত্রিভুজে $OC = OA = 5$ এবং $OP = 4$ হলে $PC = \\sqrt{5^2 - 4^2} = 3$। যেহেতু $P$, $BC$ এর মধ্যবিন্দু, তাই $BC = 2 \\times 3 = 6$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/BAN9rcq.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের ব্যাস ও পরিধির অনুপাত কোনটি?",
+      "options": [
+        "$1 : \\pi$",
+        "$2 : \\pi$",
+        "$\\pi : 1$",
+        "$\\pi : 2$"
+      ],
+      "correctOption": 0,
+      "explanation": "ব্যাস $= 2r$, পরিধি $= 2\\pi r$। অনুপাত $= 2r : 2\\pi r = 1 : \\pi$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সুষম ষড়ভুজের কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব $6$ মি. হলে, এর ক্ষেত্রফল কত বর্গমিটার?",
+      "options": [
+        "$108\\sqrt{3}$",
+        "$54\\sqrt{3}$",
+        "$27\\sqrt{3}$",
+        "$9\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব বাহুর সমান, $a = 6$। ক্ষেত্রফল $= \\frac{3\\sqrt{3}}{2} a^2 = \\frac{3\\sqrt{3}}{2} \\times 36 = 54\\sqrt{3}$।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তসমূহ সারণিভুক্ত করা হলে প্রতি শ্রেণিতে যতগুলো উপাত্ত অন্তর্ভুক্ত হয় তার নির্দেশক নিচের কোনটি?",
+      "options": [
+        "শ্রেণিসীমা",
+        "শ্রেণির মধ্যবিন্দু",
+        "শ্রেণিসংখ্যা",
+        "শ্রেণির গণসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "একটি শ্রেণিতে উপাত্তের সংখ্যাকে ঐ শ্রেণির গণসংখ্যা (Frequency) বলা হয়।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের অন্তর্বৃত্তের ব্যাসার্ধ $3$ সে.মি. হলে, বর্গের বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        "$\\sqrt{3}$ সে.মি.",
+        "$\\sqrt{6}$ সে.মি.",
+        "$3$ সে.মি.",
+        "$6$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "বর্গের অন্তর্বৃত্তের ব্যাস বর্গের বাহুর সমান। ব্যাস $= 2 \\times 3 = 6$ সে.মি.। সুতরাং বাহু $= 6$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের উদ্দীপক থেকে ২৭ ও ২৮নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$45.5$",
+        "$51.5$",
+        "$55.5$",
+        "$65.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "মোট গণসংখ্যা $40$। মধ্যক অবস্থান $20$-তম উপাত্তে, যা $51-60$ শ্রেণিতে অবস্থিত। এর মধ্যমান $= \\frac{51 + 60}{2} = 55.5$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/2qYmEIm.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে$-$\n$i.$ $\\frac{n}{2} = 20$\n$ii.$ $f_m = 12$\n$iii.$ $F_c = 15$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$n = 40 \\implies n/2 = 20$ (সঠিক)। মধ্যক শ্রেণির গণসংখ্যা $f_m = 12$ (সঠিক)। পূর্ববর্তী শ্রেণির যোজিত গণসংখ্যা $F_c = 5 + 8 = 13$ (ভুল, উদ্দীপকে ১৫ নেই)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "গণসংখ্যা সারণি",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$1$ হতে $22$ পর্যন্ত স্বাভাবিক সংখ্যার মধ্যে $3$ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কোনটি?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "সংখ্যাগুলো হলো: $3, 6, 9, 12, 15, 18, 21$। মোট $7$টি সংখ্যা। মধ্যক হলো ৪র্থ সংখ্যাটি, যা $12$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot x \\sqrt{1 - \\cos^2 x} = $ কত?",
+      "options": [
+        "$\\sin x$",
+        "$\\tan x$",
+        "$\\sec x$",
+        "$\\cos x$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cot x \\sqrt{1 - \\cos^2 x} = \\cot x \\cdot \\sin x = \\frac{\\cos x}{\\sin x} \\cdot \\sin x = \\cos x$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
