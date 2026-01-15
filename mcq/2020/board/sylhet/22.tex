@@ -1,0 +1,28 @@
+\begin{tikzpicture}[scale=1.5]
+    % Draw circle and center
+    \draw[thick] (0,0) circle (1);
+    \node at (0,0.2) {O};
+    \fill (0,0) circle (1pt);
+
+    % Coordinates
+    \coordinate (S) at (90:1);
+    \coordinate (P) at (210:1);
+    \coordinate (Q) at (330:1);
+    \coordinate (R) at (270:1);
+
+    % Draw lines
+    \draw[thick] (P) -- (S) -- (Q);
+    \draw[thick] (P) -- (R) -- (Q);
+    \draw[thick] (0,0) -- (P);
+    \draw[thick] (0,0) -- (Q);
+
+    % Angle marker
+    \draw (210:0.25) arc (210:330:0.25);
+    \node at (270:0.4) {\small $88^{\circ}$};
+
+    % Labels
+    \node at (S) [above] {S};
+    \node at (P) [left] {P};
+    \node at (Q) [right] {Q};
+    \node at (R) [below] {R};
+\end{tikzpicture}

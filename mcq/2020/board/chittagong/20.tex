@@ -1,0 +1,29 @@
+\begin{tikzpicture}
+    % Circle
+    \draw[thick] (0,0) circle (2);
+    \coordinate (O) at (0,0);
+    
+    % Points
+    \coordinate (D) at (0,-1.2);
+    \coordinate (A) at (-1.6,-1.2);
+    \coordinate (B) at (1.6,-1.2);
+    
+    % Lines
+    \draw[thick] (A) -- (B);
+    \draw[thick] (O) -- (D);
+    \draw[thick] (O) -- (B);
+    \draw[thick] (O) -- (A);
+    
+    % Labels
+    \node[above] at (O) {O};
+    \node[left] at (A) {A};
+    \node[right] at (B) {B};
+    \node[below] at (D) {D};
+    
+    % Measurements
+    \node[right] at (0.8,-0.5) {5 cm};
+    \node[below] at (0.8,-1.2) {4 cm};
+    
+    % Right angle
+    \draw (0,-1.0) -- (0.2,-1.0) -- (0.2,-1.2);
+\end{tikzpicture}

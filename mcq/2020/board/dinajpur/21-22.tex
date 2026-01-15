@@ -1,0 +1,21 @@
+\begin{tikzpicture}[scale=1.5]
+    % Coordinates for Right Triangle
+    \coordinate (B) at (0,0);
+    \coordinate (A) at (0,1);
+    \coordinate (C) at (1.732,0); % BC = sqrt(3)
+
+    % Draw Triangle
+    \draw[thick] (A) -- (B) -- (C) -- cycle;
+
+    % Right angle marker
+    \draw (0,0.1) -- (0.1,0.1) -- (0.1,0);
+
+    % Labels
+    \node at (A) [above] {A};
+    \node at (B) [below left] {B};
+    \node at (C) [below right] {C};
+
+    % Angle markers for A and C
+    \draw (0,0.8) arc (-90:-30:0.2);
+    \draw (1.532,0) arc (180:150:0.2);
+\end{tikzpicture}

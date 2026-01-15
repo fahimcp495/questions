@@ -1,0 +1,24 @@
+\begin{tikzpicture}[scale=1]
+% Vertices
+\coordinate (B) at (0,0);
+\coordinate (A) at (0,3);
+\coordinate (C) at (1.73,0);
+
+% Triangle
+\draw[thick] (A) -- (B) -- (C) -- cycle;
+
+% Labels
+\node[above] at (A) {A};
+\node[left] at (B) {B};
+\node[right] at (C) {C};
+
+% Angle marking
+\draw (1.43,0) arc (180:120:0.3);
+\node at (1.2,0.3) {$60^{\circ}$};
+
+% Length
+\node[left] at (0,1.5) {6m};
+
+% Right angle symbol
+\draw (0,0.3) -- (0.3,0.3) -- (0.3,0);
+\end{tikzpicture}

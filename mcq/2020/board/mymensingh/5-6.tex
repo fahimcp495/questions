@@ -1,0 +1,39 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{fontspec}
+\usetikzlibrary{matrix}
+
+% Set up Bengali font (use any Bengali font installed on your system)
+\newfontfamily\bengalifont{Noto Sans Bengali}[Script=Bengali]
+
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+    % Circle with center O
+    \draw (0,0) circle (2.5);
+    \node at (0,0.3) {O};
+    \filldraw (0,0) circle (1.5pt);
+    
+    % Chord AB
+    \coordinate (A) at (-1.5, -2);
+    \coordinate (C) at (-1.5, 2);
+    \coordinate (B) at (1.5, -2);
+    \draw (A) -- (B);
+    \draw (A) -- (C);
+    \draw (O) -- (C);
+    \node[left] at (A) {A};
+    \node[left] at (C) {C};
+    \node[right] at (B) {B};
+    
+    % Midpoint D and line OD
+    \coordinate (D) at (0, -2);
+    \draw (0,0) -- (D);
+    \node[below] at (D) {D};
+    
+    % Radii OA and OB
+    \draw (0,0) -- (A);
+    \draw (0,0) -- (B);
+    
+    % Right angle marker
+    \draw (0,-1.8) -- (0.2,-1.8) -- (0.2,-2);
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,21 @@
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+    \draw[thick] (0,0) coordinate (R) -- (5,0) coordinate (Q) -- (5,8.66) coordinate (P) -- cycle;
+    
+    % Labels
+    \node[left] at (R) {R};
+    \node[right] at (Q) {Q};
+    \node[above] at (P) {P};
+    
+    % Measurements
+    \node[left] at (2.5,4.5) {10 মি.};
+    \draw (1,0.3) arc (0:60:1);
+    \node at (1.5,0.6) {$60^\circ$};
+    
+    % Right angle
+    \draw (4.6,0) -- (4.6,0.4) -- (5,0.4);
+\end{tikzpicture}
+\end{document}

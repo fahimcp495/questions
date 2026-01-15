@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279.92271pt" height="132.41724pt" viewBox="-72 -72 279.92271 132.41724" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(69.42745971679686,-7.033599853515623)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M -123.68916 -33.1426 L 13.8094 -51.53714 L 123.68916 33.1426 L -13.8094 51.53714 Z  " fill="none"/>
+ </g>
+ <path d=" M -123.68916 -33.1426 L 123.68916 33.1426  " fill="none"/>
+ <path d=" M 13.8094 -51.53714 L -13.8094 51.53714  " fill="none"/>
+ <g transform="translate(-135.03116,-43.50888)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(72.76078796386717,-7.033599853515623)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-7.033599853515623" x="72.76078796386717" style="font-family: cmmi10;" font-size="10">P</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(17.34238,-61.90343)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(72.76078796386717,-7.033599853515623)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-7.033599853515623" x="72.76078796386717" style="font-family: cmmi10;" font-size="10">Q</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(127.22214,36.67557)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(72.76078796386717,-7.033599853515623)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-7.033599853515623" x="72.76078796386717" style="font-family: cmmi10;" font-size="10">R</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-24.05069,55.07011)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(72.76078796386717,-7.033599853515623)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-7.033599853515623" x="72.76078796386717" style="font-family: cmmi10;" font-size="10">S</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(1.53297,-11.68294)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(72.76078796386717,-7.033599853515623)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-7.033599853515623" x="72.76078796386717" style="font-family: cmmi9;" font-size="9">O</text>
+</g> </g>
+ </g></g>
+ <path d=" M 0.0 0.0 M 3.0 0.0 C 3.0 1.65688 1.65688 3.0 0.0 3.0 C -1.65688 3.0 -3.0 1.65688 -3.0 0.0 C -3.0 -1.65688 -1.65688 -3.0 0.0 -3.0 C 1.65688 -3.0 3.0 -1.65688 3.0 0.0 Z M 0.0 0.0  " stroke="none"/>
+ </g>
+ </g>
+ </g></g></svg>

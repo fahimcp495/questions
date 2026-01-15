@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.00267pt" height="144.62154pt" viewBox="-72 -72 100.00267 144.62154" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-58.04293823242186,64.62968444824217)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 71.13185 0.0 L 71.13185 123.20042 Z  " fill="none"/>
+ </g>
+ <g transform="translate(-10.89409,-3.41666)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-54.70960998535155,64.62968444824217)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="64.62968444824217" x="-54.70960998535155" style="font-family: cmr10;" font-size="10">R</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(74.66483,-2.44444)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-54.70960998535155,64.62968444824217)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="64.62968444824217" x="-54.70960998535155" style="font-family: cmr10;" font-size="10">Q</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(67.72906,126.7334)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-54.70960998535155,64.62968444824217)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="64.62968444824217" x="-54.70960998535155" style="font-family: cmr10;" font-size="10">P</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(10.36623,60.79645)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-54.70960998535155,64.62968444824217)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="64.62968444824217" x="-54.70960998535155" style="font-family: cmr10;" font-size="10">10</text>
+<text alignment-baseline="baseline" y="64.62968444824217" x="-41.37624359130859" style="font-family: cmr10;" font-size="10">m</text>
+</g> </g>
+ </g></g>
+ <path d=" M 14.22636 4.26794 C 14.22636 9.34993 11.51419 14.04749 7.11317 16.58836  " fill="none"/>
+ <g transform="translate(14.04092,5.09297)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-54.70960998535155,64.62968444824217)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="64.62968444824217" x="-54.70960998535155" style="font-family: cmr10;" font-size="10">60</text>
+<text alignment-baseline="baseline" y="61.00076293945311" x="-44.7095718383789" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ <path d=" M 65.44139 0.0 L 65.44139 5.69046 L 71.13185 5.69046  " fill="none"/>
+ </g>
+ </g>
+ </g></g></svg>

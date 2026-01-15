@@ -1,0 +1,18 @@
+\begin{tikzpicture}[scale=1]
+    % Circle and tangents
+    \draw (0,0) circle (1.5);
+    \coordinate (O) at (0,0);
+    \coordinate (P) at (-3.5, 0);
+    \coordinate (A) at (-0.75, 1.299); % approx 120 deg
+    \coordinate (B) at (-0.75, -1.299);
+    
+    \draw (P) -- (A) -- (O) -- (B) -- (P);
+    \draw (A) -- (B);
+   % \draw (P) -- (O); % line through middle
+    
+    % Labels
+    \node[left] at (P) {P};
+    \node[above] at (A) {A};
+    \node[below] at (B) {B};
+    \node[right] at (O) {O};
+\end{tikzpicture}

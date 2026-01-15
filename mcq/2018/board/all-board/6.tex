@@ -1,0 +1,20 @@
+\begin{tikzpicture}[scale=0.8]
+% Draw Circle
+\draw[thick] (0,0) circle (3cm);
+\node at (0.3,3.3) {C};
+
+% Center and Chord
+\coordinate (O) at (0,0);
+\coordinate (D) at (0,-2);
+\draw[thick] (-2.24,-2) node[left]{A} -- (2.24,-2) node[right]{B};
+\draw[thick] (O) -- (-2.24,-2);
+\draw[thick] (O) -- (D) node[below]{D};
+
+% Labels
+\node[above] at (O) {O};
+\node[left] at (-1, -0.5) {4 cm};
+\node[right] at (0, -1) {3 cm};
+
+% Right angle symbol
+\draw (0,-1.7) -- (-0.3,-1.7) -- (-0.3,-2);
+\end{tikzpicture}

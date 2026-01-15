@@ -1,0 +1,20 @@
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+    \draw[thick] (0,0) coordinate (z) -- (1.73,0) coordinate (y) -- (1.73,1) coordinate (x) -- cycle;
+    
+    % Labels
+    \node[below] at (z) {z};
+    \node[below] at (y) {y};
+    \node[above] at (x) {x};
+    
+    % Measurements
+    \node[above left] at (0.86,0.5) {2};
+    \node[right] at (1.73,0.5) {1};
+    
+    % Right angle
+    \draw (1.53,0) -- (1.53,0.2) -- (1.73,0.2);
+\end{tikzpicture}
+\end{document}

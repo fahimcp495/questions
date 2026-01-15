@@ -1,0 +1,16 @@
+\begin{tikzpicture}[scale=1.2]
+% Circle and sector
+\draw[thick] (0,0) circle (1.5);
+\draw[thick] (0,0) -- (1.5,0) coordinate (A);
+\draw[thick] (0,0) -- (60:1.5) coordinate (B);
+\draw[thick] (0,0) -- (180:1.5) coordinate (C);
+% Labels
+\node[below] at (0,0) {O};
+\node[right] at (A) {A};
+\node[above right] at (B) {B};
+\node[left] at (C) {C};
+\node at (1.5,1) {S};
+% Angle
+\draw (0.3,0) arc (0:60:0.3);
+\node at (0.5,0.2) {$60^\circ$};
+\end{tikzpicture}

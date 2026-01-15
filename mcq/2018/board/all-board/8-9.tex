@@ -1,0 +1,19 @@
+\begin{tikzpicture}[scale=1]
+% Triangle vertices
+\coordinate (B) at (0,0);
+\coordinate (C) at (2.5,0);
+\coordinate (A) at (1.25,2.16);
+\coordinate (D) at (4.5,0);
+
+% Draw Triangle
+\draw[thick] (A) -- (B) -- (C) -- cycle;
+
+% Extended line
+\draw[thick, ->] (C) -- (D);
+
+% Labels
+\node[above] at (A) {A};
+\node[left] at (B) {B};
+\node[below] at (C) {C};
+\node[right] at (D) {D};
+\end{tikzpicture}

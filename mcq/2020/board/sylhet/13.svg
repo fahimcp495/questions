@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.6817pt" height="57.30548pt" viewBox="-72 -72 49.6817 57.30548" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-47.429153442382805,-43.617263793945305)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <path d=" M 24.64085 14.22636 L 0.0 28.45274  " fill="none"/>
+ <path d=" M 0.0 28.45274 L -24.64085 14.22636  " fill="none"/>
+ <path d=" M -24.64085 14.22636 L -24.64085 -14.22636  " fill="none"/>
+ <path d=" M -24.64085 -14.22636 L 0.0 -28.45274  " fill="none"/>
+ <path d=" M 0.0 -28.45274 L 24.64085 -14.22636  " fill="none"/>
+ <path d=" M 24.64085 -14.22636 L 24.64085 14.22636  " fill="none"/>
+ </g>
+ </g>
+ </g></g></svg>

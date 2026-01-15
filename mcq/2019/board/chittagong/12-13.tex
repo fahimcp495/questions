@@ -1,0 +1,32 @@
+\begin{tikzpicture}[scale=0.8]
+    % Points
+    \coordinate (B) at (0,0);
+    \coordinate (C) at (3,0);
+    \coordinate (D) at (4.5,0);
+    \coordinate (A) at (1.5,2.5);
+    \coordinate (E) at (4,2.5);
+    
+    % Draw triangle and lines
+    \draw[thick] (B) -- (D);
+    \draw[thick] (A) -- (B);
+    \draw[thick] (A) -- (C);
+    \draw[thick] (C) -- (E);
+    
+    % Labels
+    \node[above] at (A) {A};
+    \node[left] at (B) {B};
+    \node[below] at (C) {C};
+    \node[right] at (D) {D};
+    \node[right] at (E) {E};
+    
+    % Measurements and angles
+    \node[left] at (0.75, 1.25) {4 cm};
+    \node[below] at (1.5, 0) {6 cm};
+    \draw (0.4,0) arc (0:60:0.4);
+    \node at (0.6,0.3) {$60^\circ$};
+    \draw (2.6,0) arc (180:130:0.4);
+    \node at (2.3,0.3) {$50^\circ$};
+    
+    % Indicating parallel lines
+    %\node[above] at (2.75, 2.5) {BA || CE};
+\end{tikzpicture}
