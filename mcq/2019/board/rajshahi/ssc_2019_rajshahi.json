@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2019_rajshahi",
+    "title": "রাজশাহী বোর্ড - ২০১৯",
+    "titleEn": "রাজশাহী বোর্ড - ২০১৯",
+    "year": 2019,
+    "type": "board",
+    "board": "rajshahi",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রদত্ত উপাত্তের মধ্যক শ্রেণির ঊর্ধ্বসীমা কত?",
+      "options": [
+        "$40$",
+        "$41$",
+        "$50$",
+        "$51$"
+      ],
+      "correctOption": 2,
+      "explanation": "মোট গণসংখ্যা $N = 4+12+8+10 = 34$।\nমধ্যক হলো $\\frac{N}{2} = \\frac{34}{2} = 17$-তম পদ।\nক্রমযোজিত গণসংখ্যা: $4, (4+12)=16, (16+8)=24$।\nসুতরাং, ১৭তম পদটি $41-50$ শ্রেণিতে অবস্থিত।\nএই শ্রেণির ঊর্ধ্বসীমা $50$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/AZaBFcL.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপরোক্ত তথ্যের প্রচুরক কত?",
+      "options": [
+        "$27.07$",
+        "$37.67$",
+        "$47.67$",
+        "$57.67$"
+      ],
+      "correctOption": 1,
+      "explanation": "এখানে সর্বাধিক গণসংখ্যা ১২, যা $31-40$ শ্রেণিতে অবস্থিত। সুতরাং প্রচুরক শ্রেণি $31-40$।\n$L=31, f_1 = 12-4=8, f_2 = 12-8=4, h=10$।\nপ্রচুরক $= L + \\frac{f_1}{f_1+f_2} \\times h = 31 + \\frac{8}{8+4} \\times 10 = 31 + \\frac{80}{12} = 31 + 6.67 = 37.67$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের আয়তন $24\\sqrt{3}$ ঘন সে.মি. হলে এর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        "$2\\sqrt{3}$ সে.মি.",
+        "$3\\sqrt{2}$ সে.মি.",
+        "$6$ সে.মি.",
+        "$18$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "মনে করি, ঘনকের বাহুর দৈর্ঘ্য $a$।\nআয়তন $a^3 = 24\\sqrt{3}$।\nকর্ণের দৈর্ঘ্য $d = \\sqrt{3}a$ বা $a = \\frac{d}{\\sqrt{3}}$।\nপ্রশ্নমতে, $\\left(\\frac{d}{\\sqrt{3}}\\right)^3 = 24\\sqrt{3}$ \n$\\Rightarrow \\frac{d^3}{3\\sqrt{3}} = 24\\sqrt{3}$ \n$\\Rightarrow d^3 = 24\\sqrt{3} \\times 3\\sqrt{3} = 72 \\times 3 = 216$\n$\\Rightarrow d = 6$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.0426$ এর বৈজ্ঞানিক রূপ কোনটি?",
+      "options": [
+        "$4.26 \\times 10^{3}$",
+        "$4.26 \\times 10^{2}$",
+        "$4.26 \\times 10^{-2}$",
+        "$4.26 \\times 10^{-3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "দশমিক বিন্দুকে প্রথম সার্থক অঙ্ক $4$ এর পরে নিতে হলে ২ ঘর ডানে সরাতে হবে। তাই $10$ এর ঘাত হবে $-2$।\n$0.0426 = 4.26 \\times 10^{-2}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি $x^2 - 11x - 12$ রাশিটির একটি উৎপাদক?",
+      "options": [
+        "$x - 12$",
+        "$x - 4$",
+        "$x - 3$",
+        "$x - 1$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x^2 - 11x - 12$\n$= x^2 - 12x + x - 12$\n$= x(x-12) + 1(x-12)$\n$= (x-12)(x+1)$।\nসুতরাং, একটি উৎপাদক হলো $x-12$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.55\\dot{5}$ এর সামান্য ভগ্নাংশের রূপ কোনটি?",
+      "options": [
+        "$\\frac{5}{9}$",
+        "$\\frac{11}{18}$",
+        "$\\frac{11}{9}$",
+        "$\\frac{50}{99}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$0.5\\dot{5}$ বা $0.\\dot{5}$ এর সাধারণ ভগ্নাংশ রূপ হলো $\\frac{5}{9}$।\n(মিশ্র আবৃত্ত দশমিকের নিয়ম অনুযায়ী: $\\frac{55-5}{90} = \\frac{50}{90} = \\frac{5}{9}$)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P=\\{-3, -2, -1, 0, 1, 2\\}, Q=\\{-3, -2, 0, 1, 3\\}$ হলে $Q-P=$ কত?",
+      "options": [
+        "$\\{-3, -2, -1, 0, 1, 2, 3\\}$",
+        "$\\{-3, -2, 0, 1\\}$",
+        "$\\{-1, 2\\}$",
+        "$\\{3\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$Q-P$ মানে $Q$ সেটের উপাদান যা $P$ সেটে নেই।\n$Q = \\{-3, -2, 0, 1, 3\\}$\n$P$ তে $\\{-3, -2, 0, 1\\}$ আছে, কিন্তু $3$ নেই।\nসুতরাং, $Q-P = \\{3\\}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x + \\frac{1}{x} = 1$ হলে$-$\n$i.$ $\\left(x+\\frac{1}{x}\\right)^2 = 1$\n$ii.$ $\\left(x-\\frac{1}{x}\\right)^2 = -3$\n$iii.$ $x^2 + \\frac{1}{x^2} = -1$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "দেওয়া আছে, $x + \\frac{1}{x} = 1$\ni. $\\left(x+\\frac{1}{x}\\right)^2 = 1^2 = 1$ (সঠিক)\nii. $\\left(x-\\frac{1}{x}\\right)^2 = \\left(x+\\frac{1}{x}\\right)^2 - 4 = 1 - 4 = -3$ (সঠিক)\niii. $x^2 + \\frac{1}{x^2} = \\left(x+\\frac{1}{x}\\right)^2 - 2 = 1 - 2 = -1$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a+b=\\sqrt{16}$ এবং $ab=1$ হলে, $(a-b)^2=$ কত?",
+      "options": [
+        "$12$",
+        "$14$",
+        "$18$",
+        "$20$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a+b = \\sqrt{16} = 4$।\nআমরা জানি, $(a-b)^2 = (a+b)^2 - 4ab$\n$= 4^2 - 4(1)$\n$= 16 - 4 = 12$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{7.2^{x+1} - 13.2^x}{2^x} =$ কত?",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "লব থেকে $2^x$ কমন নিয়ে পাই:\n$\\frac{2^x(7 \\cdot 2^1 - 13)}{2^x}$\n$= 7 \\times 2 - 13$\n$= 14 - 13$\n$= 1$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{2x-5} + 3 = 2$ সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\{-3\\}$",
+        "$\\{2\\}$",
+        "$\\{3\\}$",
+        "$\\{\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt{2x-5} = 2 - 3$\n$\\sqrt{2x-5} = -1$\nবাস্তব সংখ্যায় বর্গমূলের মান ঋণাত্মক হতে পারে না। তাই এর কোনো সমাধান নেই।\nসমাধান সেট: ফাঁকা সেট $\\emptyset$ বা $\\{\\}$। (অপশন 'ঘ' সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\text{cosec}\\theta + \\cot\\theta = \\frac{1}{2}$ হলে, $\\text{cosec}\\theta - \\cot\\theta =$ কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$-1$",
+        "$-2$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি, $\\text{cosec}^2\\theta - \\cot^2\\theta = 1$\n$\\Rightarrow (\\text{cosec}\\theta + \\cot\\theta)(\\text{cosec}\\theta - \\cot\\theta) = 1$\n$\\Rightarrow \\frac{1}{2} \\times (\\text{cosec}\\theta - \\cot\\theta) = 1$\n$\\Rightarrow \\text{cosec}\\theta - \\cot\\theta = 2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan\\theta = \\frac{3}{4}$ হলে, $\\sec^2\\theta =$ কত?",
+      "options": [
+        "$\\frac{9}{16}$",
+        "$\\frac{16}{25}$",
+        "$\\frac{25}{16}$",
+        "$\\frac{9}{25}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sec^2\\theta = 1 + \\tan^2\\theta$\n$= 1 + (\\frac{3}{4})^2$\n$= 1 + \\frac{9}{16}$\n$= \\frac{16+9}{16} = \\frac{25}{16}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$q, r, s, t$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{r}{q} = \\frac{s}{r}$\n$ii.$ $\\frac{s}{r} = \\frac{t}{s}$\n$iii.$ $\\frac{r}{q} = \\frac{t}{s}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ক্রমিক সমানুপাতী হলে: $\\frac{q}{r} = \\frac{r}{s} = \\frac{s}{t}$।\ni. ব্যস্তকরণ করলে $\\frac{r}{q} = \\frac{s}{r}$ (সঠিক)।\nii. $\\frac{s}{r} = \\frac{r}{s}$ কেবল যদি $r=s$ হয় (সাধারণভাবে সঠিক নয়)।\niii. যেহেতু $\\frac{q}{r} = \\frac{s}{t}$, তাই ব্যস্তকরণ করলে $\\frac{r}{q} = \\frac{t}{s}$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$PQR$ ত্রিভুজে $\\angle Q = 1$ সমকোণ ও $\\angle PRQ = 60^\\circ$ এবং $PR = 8$ সে.মি. হলে $QR=$ কত?",
+      "options": [
+        "$4$ সে.মি.",
+        "$4\\sqrt{3}$ সে.মি.",
+        "$4\\sqrt{5}$ সে.মি.",
+        "$16$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "এখানে $PR$ অতিভুজ এবং $QR$ ভূমি।\n$\\cos(60^\\circ) = \\frac{QR}{PR}$\n$\\frac{1}{2} = \\frac{QR}{8}$\n$QR = 4$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$6x - y = 5$ এবং $5x - 2y = 2$ হলে, $x+y=$ কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 1,
+      "explanation": "$6x - y = 5 \\Rightarrow y = 6x-5$\nদ্বিতীয় সমীকরণে বসিয়ে পাই: $5x - 2(6x-5) = 2$\n$\\Rightarrow 5x - 12x + 10 = 2$\n$\\Rightarrow -7x = -8 \\Rightarrow x = 8/7$\n$y = 6(8/7) - 5 = 48/7 - 35/7 = 13/7$\n$x+y = 8/7 + 13/7 = 21/7 = 3$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_13",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও:\n$1 + 3 + 5 + 7 + ... ...$",
+      "question": "ধারাটির $r$ তম পদ কত?",
+      "options": [
+        "$2r-3$",
+        "$2r-1$",
+        "$2r+1$",
+        "$2r+3$"
+      ],
+      "correctOption": 1,
+      "explanation": "এটি একটি সমান্তর ধারা যার প্রথম পদ $a=1$, সাধারণ অন্তর $d=2$।\n$r$-তম পদ $= a + (r-1)d = 1 + (r-1)2 = 1 + 2r - 2 = 2r - 1$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "ধারাটির প্রথম $9$ পদের সমষ্টি কত?",
+      "options": [
+        "$17$",
+        "$81$",
+        "$256$",
+        "$511$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রথম $n$ সংখ্যক বিজোড় স্বাভাবিক সংখ্যার সমষ্টি $n^2$।\nএখানে $n=9$, তাই সমষ্টি $= 9^2 = 81$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$AB=BC=CA=4$ সে.মি. হলে $AD=$ কত?",
+      "options": [
+        "$2\\sqrt{3}$ সে.মি.",
+        "$2\\sqrt{5}$ সে.মি.",
+        "$3\\sqrt{2}$ সে.মি.",
+        "$5\\sqrt{2}$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "ত্রিভুজটি সমবাহু। সমবাহু ত্রিভুজের উচ্চতা $AD = \\frac{\\sqrt{3}}{2} \\times \\text{বাহু}$\n$= \\frac{\\sqrt{3}}{2} \\times 4 = 2\\sqrt{3}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/J0XqA1s.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\Delta PQR$ এর $\\angle Q$ ও $\\angle R$ এর সমদ্বিখণ্ডকদ্বয় $O$ বিন্দুতে মিলিত হয়েছে। $\\angle P = 50^\\circ$ হলে, $\\angle QOR=$ কত?",
+      "options": [
+        "$40^\\circ$",
+        "$65^\\circ$",
+        "$115^\\circ$",
+        "$130^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $\\angle QOR = 90^\\circ + \\frac{1}{2}\\angle P$\n$= 90^\\circ + \\frac{50}{2}^\\circ$\n$= 90^\\circ + 25^\\circ = 115^\\circ$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "সামন্তরিকের পরিসীমা $28$ সে.মি. এবং সন্নিহিত বাহুদ্বয়ের অনুপাত $4:3$ হলে, বৃহত্তম ও ক্ষুদ্রতম বাহুর দৈর্ঘ্যের অন্তর কত?",
+      "options": [
+        "$2$ সে.মি.",
+        "$4$ সে.মি.",
+        "$8$ সে.মি.",
+        "$14$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি বাহুদ্বয় $4x$ ও $3x$।\nপরিসীমা $= 2(4x+3x) = 28 \\Rightarrow 14x = 28 \\Rightarrow x = 2$।\nবাহু দুটি $8$ সে.মি. ও $6$ সে.মি.।\nঅন্তর $= 8 - 6 = 2$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $O$ কেন্দ্রবিশিষ্ট বৃত্তে $PQRS$ অন্তরলিখিত হয়েছে। $\\angle SPQ =$ কত?",
+      "options": [
+        "$80^\\circ$",
+        "$90^\\circ$",
+        "$180^\\circ$",
+        "$360^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রানুযায়ী $SQ$ রেখাটি বৃত্তের কেন্দ্র $O$ দিয়ে গমন করেছে, অর্থাৎ $SQ$ একটি ব্যাস।\nআমরা জানি, অর্ধবৃত্তস্থ কোণ এক সমকোণ।\nযেহেতু $\\angle SPQ$ অর্ধবৃত্তস্থ কোণ, তাই $\\angle SPQ = 90^\\circ$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Za3w0KP.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "চিত্রের সুষম বহুভুজটির$-$\n$i.$ ঘূর্ণনমাত্রা $4$\n$ii.$ ঘূর্ণনকোণ $60^\\circ$\n$iii.$ প্রতিটি কোণ $120^\\circ$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রটি একটি সুষম ষড়ভুজ (Hexagon)।\ni. বাহু ৬টি, তাই ঘূর্ণনমাত্রা $6$ (৪ নয়)।\nii. ঘূর্ণনকোণ $= \\frac{360^\\circ}{6} = 60^\\circ$ (সঠিক)।\niii. প্রতিটি অন্তঃস্থ কোণ $= \\frac{(6-2) \\times 180^\\circ}{6} = 120^\\circ$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/qwDLXoY.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{2})^{x+1} = 16$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$16$",
+        "$9$",
+        "$8$",
+        "$7$"
+      ],
+      "correctOption": 3,
+      "explanation": "$(\\sqrt{2})^{x+1} = 16 = 2^4$\n$\\Rightarrow (2^{\\frac{1}{2}})^{x+1} = 2^4$\n$\\Rightarrow \\frac{x+1}{2} = 4$\n$\\Rightarrow x+1 = 8$\n$\\Rightarrow x = 7$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের ব্যাসার্ধ দ্বিগুণ করলে ক্ষেত্রফল কতগুণ বাড়বে?",
+      "options": [
+        "তিনগুণ",
+        "চারগুণ",
+        "আটগুণ",
+        "নয়গুণ"
+      ],
+      "correctOption": 1,
+      "explanation": "আদি ক্ষেত্রফল $A = \\pi r^2$।\nনতুন ব্যাসার্ধ $2r$ হলে, নতুন ক্ষেত্রফল $A' = \\pi (2r)^2 = 4\\pi r^2 = 4A$।\nসুতরাং ক্ষেত্রফল ৪ গুণ হবে।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের এক বাহুর দৈর্ঘ্য $\\sqrt{3}$ সে.মি. হলে, ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$\\frac{3}{4}$ বর্গ সে.মি.",
+        "$\\frac{3\\sqrt{3}}{4}$ বর্গ সে.মি.",
+        "$\\frac{9}{4}$ বর্গ সে.মি.",
+        "$\\frac{9\\sqrt{3}}{4}$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "সমবাহু ত্রিভুজের ক্ষেত্রফল $= \\frac{\\sqrt{3}}{4} a^2$\n$= \\frac{\\sqrt{3}}{4} (\\sqrt{3})^2$\n$= \\frac{3\\sqrt{3}}{4}$ বর্গ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য $12$ সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$\\sqrt{72}$ বর্গ সে.মি.",
+        "$\\sqrt{144}$ বর্গ সে.মি.",
+        "$36$ বর্গ সে.মি.",
+        "$144$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "সমকোণী সমদ্বিবাহু ত্রিভুজের সমান বাহুদ্বয় $a$ হলে অতিভুজ $a\\sqrt{2} = 12$।\n$\\Rightarrow a = \\frac{12}{\\sqrt{2}} = 6\\sqrt{2}$।\nক্ষেত্রফল $= \\frac{1}{2} a^2 = \\frac{1}{2} (6\\sqrt{2})^2 = \\frac{1}{2} \\times 72 = 36$ বর্গ সে.মি.।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "যদি $a+b=\\sqrt{5}$ এবং $a-b=\\sqrt{3}$ হয়, তবে $a^2+b^2=$ কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$8$",
+        "$64$"
+      ],
+      "correctOption": 1,
+      "explanation": "$2(a^2+b^2) = (a+b)^2 + (a-b)^2$\n$= (\\sqrt{5})^2 + (\\sqrt{3})^2$\n$= 5 + 3 = 8$\nসুতরাং, $a^2+b^2 = 4$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$D = \\{2, e\\}$ হলে, $P(D)$ নিচের কোনটি?",
+      "options": [
+        "$\\{2\\}, \\{e\\}$",
+        "$\\{2, e\\}$",
+        "$\\{\\{2\\}, \\{e\\}, \\{2, e\\}\\}$",
+        "$\\{\\{2\\}, \\{e\\}, \\{2, e\\}, \\emptyset\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$P(D)$ হলো $D$ এর শক্তিসেট (Power Set), যা সকল উপসেট নিয়ে গঠিত।\nউপসেটগুলো: $\\{2\\}, \\{e\\}, \\{2, e\\}, \\emptyset$।\nসঠিক উত্তর: $\\{\\{2\\}, \\{e\\}, \\{2, e\\}, \\emptyset\\}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$9x^2 + 30x$ এর সাথে কমপক্ষে কত যোগ করলে যোগফল পূর্ণ বর্গ হবে?",
+      "options": [
+        "$100$",
+        "$64$",
+        "$36$",
+        "$25$"
+      ],
+      "correctOption": 3,
+      "explanation": "$9x^2 + 30x = (3x)^2 + 2(3x)(5)$\nপূর্ণবর্গ রাশি $(a+b)^2 = a^2 + 2ab + b^2$ বানাতে হলে $5^2$ বা $25$ যোগ করতে হবে।\nতাহলে রাশিটি হবে $(3x+5)^2$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
