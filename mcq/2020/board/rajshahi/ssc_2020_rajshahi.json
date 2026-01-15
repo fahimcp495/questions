@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_rajshahi",
+    "title": "রাজশাহী বোর্ড - ২০২০",
+    "titleEn": "রাজশাহী বোর্ড - ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "rajshahi",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan (\\theta - 60^{\\circ}) = \\frac{1}{\\sqrt{3}}$ হলে, $\\sin \\theta =$ কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রটির মোট কতটি প্রতিসাম্য রেখা আছে?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$4$",
+        "$8$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_rajshahi%2Fq02.svg?alt=media&token=550cc6a5-8507-4eb9-b3f1-5b8c1d2b3f96",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.000060302$ সংখ্যাটির আদর্শ রূপ কোনটি?",
+      "options": [
+        "$0.60302 \\times 10^{-4}$",
+        "$6.0302 \\times 10^{-5}$",
+        "$60.302 \\times 10^{-6}$",
+        "$603.02 \\times 10^{-7}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য কয়টি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্য $\\frac{25}{2}\\%$ ক্ষতিতে বিক্রয় করলে বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        "$7 : 8$",
+        "$8 : 9$",
+        "$9 : 8$",
+        "$8 : 7$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\sqrt[3]{7} \\cdot \\sqrt[3]{7}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sqrt[6]{7}$",
+        "$\\sqrt[3]{7^{2}}$",
+        "$\\sqrt[3]{7^{3}}$",
+        "$\\sqrt{7^{2}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 5$ এবং এদের গ.সা.গু. $4$ হলে সংখ্যা দুইটির ল.সা.গু. কত?",
+      "options": [
+        "$12$",
+        "$15$",
+        "$20$",
+        "$60$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোন সংখ্যাটি অমূলদ?",
+      "options": [
+        "$\\frac{\\sqrt[3]{64}}{\\sqrt{36}}$",
+        "$\\frac{\\sqrt[3]{8}}{\\sqrt[3]{27}}$",
+        "$\\sqrt{\\frac{81}{625}}$",
+        "$\\frac{\\sqrt[3]{8}}{\\sqrt{7}}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও :",
+      "question": "প্রদত্ত সারণির মধ্যক কোনটি?",
+      "options": [
+        "$60$",
+        "$62.5$",
+        "$65$",
+        "$67.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_rajshahi%2Fq09.svg?alt=media&token=15317c0f-8c22-483e-aed2-10a972a15277",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত সারণির গড় কোনটি?",
+      "options": [
+        "$65.00$",
+        "$63.25$",
+        "$62.50$",
+        "$60.00$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "একটি নৌকা দাঁড় বেয়ে স্রোতের অনুকূলে ঘণ্টায় $15$ কি.মি. এবং স্রোতের প্রতিকূলে $5$ ঘণ্টায় $25$ কি.মি. যায়। স্রোতের বেগ ঘণ্টায় কত কি.মি.?",
+      "options": [
+        "$20$",
+        "$10$",
+        "$5$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বর্গের এক বাহুর দৈর্ঘ্য $x$ সে.মি. হলে বর্গটির কর্ণের উপর অঙ্কিত বর্গের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$2x^{2}$",
+        "$x^{2}$",
+        "$x\\sqrt{3}$",
+        "$x\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$0^{\\circ} \\le \\theta \\le 90^{\\circ}$ হলে, $2 \\cos^{2} \\theta + 3 \\sin \\theta - 3 = 0$ সমীকরণের সমাধান নিচের কোনটি?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $4$ সে. মি. হলে, ত্রিভুজটির উচ্চতা কত সে.মি.?",
+      "options": [
+        "$20$",
+        "$12$",
+        "$8\\sqrt{3}$",
+        "$2\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{3} - x - 24$ হলে, $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "দুই সমকোণ অপেক্ষা বড় কিন্তু চার সমকোণ অপেক্ষা ছোট কোণকে কী বলে?",
+      "options": [
+        "স্থূল কোণ",
+        "সম্পূরক কোণ",
+        "পূরক কোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{1, 2, 3, 4\\}$ হলে, সেট $A$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$4$",
+        "$14$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + y = 2, xy = 1$ হলে, $(x - y)^{2}$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :",
+      "question": "$CD$ এর মান কত?",
+      "options": [
+        "$\\frac{60}{13}$",
+        "$5$",
+        "$\\frac{120}{13}$",
+        "$12$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_rajshahi%2Fq19.svg?alt=media&token=b6a0a0d4-cc6f-46ca-a315-36c0f7a62ea2",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$\\Delta ADC : \\Delta BDC =$\n$i.$ $AD : BD$\n$ii.$ $CD : CD$\n$iii.$ $AD^{2} : CD^{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$iii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "একটি সমকোণী ত্রিভুজ $ABC$ যেখানে $CD \\perp AB$ এবং বাহুগুলোর দৈর্ঘ্য দেওয়া আছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta = \\frac{1}{2}$ হলে, $\\tan \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{3}$",
+        "$2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$35$ বর্গ সে.মি. ক্ষেত্রফল বিশিষ্ট একটি আয়তক্ষেত্রের দৈর্ঘ্য $x$ সে.মি. এবং প্রস্থ $(x - 2)$ সে.মি. হলে, $x$ এর মান কত?",
+      "options": [
+        "$7$",
+        "$5$",
+        "$-5$",
+        "$-7$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল $96$ বর্গমিটার। এর পৃষ্ঠতলের কর্ণের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$16\\sqrt{3}$",
+        "$16\\sqrt{2}$",
+        "$4\\sqrt{3}$",
+        "$4\\sqrt{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$6 + 10 + 14 + \\dots \\dots$ ধারার$-$\n$i.$ সাধারণ অন্তর $4$\n$ii.$ $20$ তম পদ $82$\n$iii.$ প্রথম $10$টি পদের সমষ্টি $240$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{3} - 4x + 3$ হলে, $f(-1)$ এর মান কত?",
+      "options": [
+        "$-2$",
+        "$0$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে। এদের একটির ব্যাস $10$ সে.মি. এবং অপরটির ব্যাসার্ধ $4$ সে.মি. হলে, এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        "$1$",
+        "$4$",
+        "$5$",
+        "$9$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.\\dot{3}\\dot{3}$ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": [
+        "$\\frac{33}{100}$",
+        "$\\frac{33}{90}$",
+        "$\\frac{33}{99}$",
+        "$\\frac{30}{99}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + y = 3$ এবং $xy = 1$ হলে, $x^{3} + y^{3} + (x - y)^{2}$ এর মান কত?",
+      "options": [
+        "$23$",
+        "$31$",
+        "$41$",
+        "$49$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৯ ও ৩০ নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\Delta ABC$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$32$",
+        "$24$",
+        "$16$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_rajshahi%2Fq29.svg?alt=media&token=31dc4ea5-d309-4b56-96a3-9e4787d5ac10",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "চিত্রের গাঢ় চিহ্নিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$40$",
+        "$28$",
+        "$24$",
+        "$12$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "একটি চতুর্ভুজ $ABCD$ যার বাহুগুলোর দৈর্ঘ্য দেওয়া আছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
