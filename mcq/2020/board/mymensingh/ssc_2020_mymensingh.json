@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_mymensingh",
+    "title": "ময়মনসিংহ বোর্ড - ২০২০",
+    "titleEn": "ময়মনসিংহ বোর্ড - ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "mymensingh",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$2 \\log x - \\log(2x-1) = 0$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "$2 \\log x - \\log(2x-1) = 0 \\Rightarrow \\log x^2 = \\log(2x-1) \\Rightarrow x^2 = 2x-1 \\Rightarrow x^2 - 2x + 1 = 0 \\Rightarrow (x-1)^2 = 0 \\Rightarrow x = 1$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$2x-1 = \\frac{1-2x}{x}$ এর সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{\\frac{1}{2}, 1\\}$",
+        "$\\{-1, -\\frac{1}{2}\\}$",
+        "$\\{-1, \\frac{1}{2}\\}$",
+        "$\\{1, -\\frac{1}{2}\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x(2x-1) = 1-2x \\Rightarrow 2x^2 - x - 1 + 2x = 0 \\Rightarrow 2x^2 + x - 1 = 0 \\Rightarrow 2x^2 + 2x - x - 1 = 0 \\Rightarrow 2x(x+1) - 1(x+1) = 0 \\Rightarrow (x+1)(2x-1) = 0$। অতএব $x = -1, \\frac{1}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের পরিসীমা $16$ সে.মি.। এর ভূমি $6$ সে.মি., উচ্চতা কত?",
+      "options": [
+        "$12$ সে.মি.",
+        "$8$ সে.মি.",
+        "$6$ সে.মি.",
+        "$4$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "সমান বাহুর দৈর্ঘ্য $a$ হলে, $2a + 6 = 16 \\Rightarrow 2a = 10 \\Rightarrow a = 5$। উচ্চতা $h = \\sqrt{a^2 - (\\frac{b}{2})^2} = \\sqrt{5^2 - 3^2} = \\sqrt{16} = 4$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "ত্রিভুজের ক্ষেত্রে$-$\n$i.$ যে কোনো দুই বাহুর অন্তর তৃতীয় বাহু অপেক্ষা বৃহত্তর\n$ii.$ যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোজক রেখাংশ তৃতীয় বাহুর সমান্তরাল\n$iii.$ সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয় পরস্পর পূরক কোণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "i মিথ্যা কারণ ত্রিভুজের যে কোনো দুই বাহুর অন্তর তৃতীয় বাহু অপেক্ষা ক্ষুদ্রতর। ii এবং iii সঠিক উপপাদ্য ও ধর্ম।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্য হতে ৫ ও ৬ নং প্রশ্নের উত্তর দাও : $O$ কেন্দ্রবিশিষ্ট বৃত্তের $AB$ জ্যা এর মধ্যবিন্দু $D$।",
+      "question": "$OA = 5$ সে.মি., $OD = 4$ সে.মি., $AB = $ কত?",
+      "options": [
+        "$6$ সে.মি.",
+        "$8$ সে.মি.",
+        "$10$ সে.মি.",
+        "$12$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "সমকোণী ত্রিভুজ $\\triangle OAD$ এ, $AD = \\sqrt{OA^2 - OD^2} = \\sqrt{5^2 - 4^2} = 3$। তাহলে $AB = 2 \\times AD = 6$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/3y8AoYe.png",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে AB জ্যা ও OD লম্ব",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle OAB = 50^{\\circ}$ হলে, $\\angle AOB = $ কত?",
+      "options": [
+        "$75^{\\circ}$",
+        "$80^{\\circ}$",
+        "$90^{\\circ}$",
+        "$100^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\triangle OAB$ এ $OA=OB$ (ব্যাসার্ধ), তাই $\\angle OBA = \\angle OAB = 50^{\\circ}$। $\\angle AOB = 180^{\\circ} - (50^{\\circ} + 50^{\\circ}) = 80^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "চিত্রে, $QR \\parallel DE$ হলে$-$\n$i.$ $\\frac{PQ}{PD} = \\frac{PR}{PE}$\n$ii.$ $\\frac{PQ}{QD} = \\frac{PR}{RE}$\n$iii.$ $\\frac{PQ}{QR} = \\frac{PR}{DE}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "সদৃশকোণী ত্রিভুজের ধর্ম অনুযায়ী i ও ii সঠিক। iii সঠিক নয় কারণ $\\frac{PQ}{QR}$ এর অনুপাত $\\frac{PD}{DE}$ এর সমান হওয়ার কথা।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/oUz8jkb.png",
+      "imageCaption": "ত্রিভুজ PQR এ QR ও DE সমান্তরাল",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের ব্যাস ও পরিধির অনুপাত কোনটি?",
+      "options": [
+        "$1 : \\pi$",
+        "$2 : \\pi$",
+        "$\\pi : 1$",
+        "$\\pi : 2$"
+      ],
+      "correctOption": 0,
+      "explanation": "ব্যাস $= 2r$, পরিধি $= 2\\pi r$। অনুপাত $= 2r : 2\\pi r = 1 : \\pi$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য তিনগুণ করলে এর ক্ষেত্রফল কত গুণ বৃদ্ধি পাবে?",
+      "options": [
+        "$3$ গুণ",
+        "$6$ গুণ",
+        "$8$ গুণ",
+        "$9$ গুণ"
+      ],
+      "correctOption": 2,
+      "explanation": "আদি ক্ষেত্রফল $a^2$। বাহু $3a$ হলে ক্ষেত্রফল $(3a)^2 = 9a^2$। ক্ষেত্রফল বৃদ্ধি $= 9a^2 - a^2 = 8a^2$, যা আদি ক্ষেত্রফলের ৮ গুণ।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$(-2, -3)$ বিন্দুটি কোন সমীকরণের উপর অবস্থিত?",
+      "options": [
+        "$x-y=1$",
+        "$2x+y=7$",
+        "$x+3y=5$",
+        "$2x+2y=6$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(-2) - (-3) = -2 + 3 = 1$। প্রথম সমীকরণটি সিদ্ধ হয়।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $PA$ এবং $PB$ দুইটি স্পর্শক এবং $\\angle PAB = 30^{\\circ}$ হলে, $\\angle AOB$ এর মান কত?",
+      "options": [
+        "$120^{\\circ}$",
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\angle OAP = 90^{\\circ}$। $\\angle OAB = 90^{\\circ} - 30^{\\circ} = 60^{\\circ}$। যেহেতু $OA=OB$, তাই $\\angle OBA = 60^{\\circ}$। $\\angle AOB = 180^{\\circ} - (60^{\\circ} + 60^{\\circ}) = 60^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Lg2yr24.png",
+      "imageCaption": "বৃত্তে বহিঃস্থ বিন্দু P থেকে স্পর্শক PA ও PB",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$x : y = 2 : 3$ এবং $2 : x = 1 : 2$ হলে, $y = $ কত?",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{3}{2}$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "$2 : x = 1 : 2 \\Rightarrow \\frac{2}{x} = \\frac{1}{2} \\Rightarrow x = 4$। আবার $\\frac{4}{y} = \\frac{2}{3} \\Rightarrow 2y = 12 \\Rightarrow y = 6$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "প্রথম $n$ সংখ্যক স্বাভাবিক জোড় সংখ্যার সমষ্টি কত?",
+      "options": [
+        "$n^2$",
+        "$2n^2$",
+        "$n^2+n$",
+        "$2n+1$"
+      ],
+      "correctOption": 2,
+      "explanation": "জোড় সংখ্যার সমষ্টির সূত্র $n(n+1) = n^2 + n$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "ক্রমযোজিত গণসংখ্যা প্রয়োজন$-$\n$i.$ প্রচুরক নির্ণয়ে\n$ii.$ মধ্যক নির্ণয়ে\n$iii.$ অজিভ রেখা নির্ণয়ে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "মধ্যক এবং অজিভ রেখা অঙ্কনের জন্য ক্রমযোজিত গণসংখ্যা প্রয়োজন, প্রচুরকের জন্য নয়।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$1$ হতে $22$ পর্যন্ত স্বাভাবিক সংখ্যার মধ্যে $3$ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কোনটি?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "৩ দ্বারা বিভাজ্য সংখ্যাগুলো: $3, 6, 9, 12, 15, 18, 21$। এখানে ৭টি পদ আছে, তাই মধ্যকটি হলো ৪র্থ পদ অর্থাৎ $12$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$\\frac{2}{9}$ কোন ধরণের সংখ্যা?",
+      "options": [
+        "মূলদ",
+        "অমূলদ",
+        "স্বাভাবিক",
+        "অনাবৃত দশমিক"
+      ],
+      "correctOption": 0,
+      "explanation": "$\frac{2}{9}$ একটি সাধারণ ভগ্নাংশ যা $p/q$ আকারে প্রকাশ করা যায়, তাই এটি মূলদ সংখ্যা।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$a = \\sqrt{3}$ এবং $b = \\sqrt{12}$ হলে নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        "$a + b$",
+        "$ab$",
+        "$\\frac{a}{b}$",
+        "$\\frac{b}{a}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a+b = \\sqrt{3} + 2\\sqrt{3} = 3\\sqrt{3}$ (অমূলদ)। বাকি অপশনগুলো চেক করলে $ab = 6, a/b = 1/2, b/a = 2$ যা সবই মূলদ।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{x \\in N; x^2 > 15$ এবং $x^3 < 36\\}$ সেটটির তালিকা রূপ কোনটি?",
+      "options": [
+        "$\\{4, 5, 6\\}$",
+        "$\\{1, 2, 3\\}$",
+        "$\\{3\\}$",
+        "$\\varnothing$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x=4$ হলে $x^2 = 16 > 15$ কিন্তু $x^3 = 64 > 36$। $x=3$ হলে $x^2 = 9 < 15$। শর্ত পূরণ করার মতো কোনো স্বাভাবিক সংখ্যা নেই।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$U = \\{2, 6, 7\\}, A = \\{2, 7\\}, B = \\{2, 6\\}$ হলে$-$\n$i.$ $A \\cap B = U$\n$ii.$ $A, B$ এর ডোমেইন $\\{2\\}$\n$iii.$ $(A')' = A$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "শুধু $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "$A \\cap B = \\{2\\} \\neq U$। ডোমেইন ফাংশনের ক্ষেত্রে প্রযোজ্য, এখানে সেট হিসেবে তা অপ্রাসঙ্গিক। $(A')' = A$ সেটের একটি মৌলিক ধর্ম।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x = \\sqrt{2x-1}$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "$-1$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x^2 = 2x - 1 \\Rightarrow x^2 - 2x + 1 = 0 \\Rightarrow (x-1)^2 = 0 \\Rightarrow x = 1$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্য হতে ২১ ও ২২ নং প্রশ্নের উত্তর দাও : \\nএকটি কলমের প্রকৃত মূল্যের $20\\%$ কমিশনে $48$ টাকায় ক্রয় করা হলো।",
+      "question": "কলমের প্রকৃত মূল্য কত?",
+      "options": [
+        "$96$ টাকা",
+        "$72$ টাকা",
+        "$60$ টাকা",
+        "$56$ টাকা"
+      ],
+      "correctOption": 2,
+      "explanation": "$20\\%$ কমিশনে বিক্রয় মূল্য $80\\%$। $80\\%$ যদি $48$ টাকা হয়, তবে $100\\%$ হবে $48 \\div 0.8 = 60$ টাকা।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "বিক্রয় মূল্য প্রকৃত মূল্যের শতকরা কত?",
+      "options": [
+        "$80\\%$",
+        "$64\\%$",
+        "$48\\%$",
+        "$32\\%$"
+      ],
+      "correctOption": 0,
+      "explanation": "$20\\%$ কমিশনে বিক্রয় করলে বিক্রয় মূল্য হয় $(100-20)\\% = 80\\%$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\sqrt{x^3} \\times x^{\\frac{1}{2}}$ এর মান কত?",
+      "options": [
+        "$x^{\\frac{3}{2}}$",
+        "$x^{\\frac{1}{4}}$",
+        "$x^{\\frac{2}{3}}$",
+        "$x^2$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x^{\\frac{3}{2}} \\times x^{\\frac{1}{2}} = x^{\\frac{3}{2} + \\frac{1}{2}} = x^{\\frac{4}{2}} = x^2$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "সুষম ষড়ভুজের কয়টি প্রতিসাম্য রেখা রয়েছে?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$8$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "সুষম বহুভুজের প্রতিসাম্য রেখার সংখ্যা তার বাহুর সংখ্যার সমান।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\theta = 0^{\\circ}$ কোণের ক্ষেত্রে$-$\n$i.$ $\\text{cosec } \\theta$ ও $\\text{cot } \\theta$ এর মান অসংজ্ঞায়িত\n$ii.$ প্রান্তীয় বাহু ও আদি বাহু একই রশ্মি\n$iii.$ $\\text{sec } \\theta$ ও $\\text{tan } \\theta$ এর মান সংজ্ঞায়িত\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\text{cosec } 0^{\\circ}$ ও $\\text{cot } 0^{\\circ}$ অসংজ্ঞায়িত। $0^{\\circ}$ কোণে বাহু দুটি মিলে যায়। $\\text{sec } 0^{\\circ}=1$ এবং $\\text{tan } 0^{\\circ}=0$ যা সংজ্ঞায়িত।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$BC$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}}$ মিটার",
+        "$2$ মিটার",
+        "$2\\sqrt{3}$ মিটার",
+        "$8$ মিটার"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\cos 60^{\\circ} = \\frac{BC}{AC} \\Rightarrow \\frac{1}{2} = \\frac{BC}{4} \\Rightarrow BC = 2$ মিটার।",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_mymensingh%2Fq26.svg?alt=media&token=b116a6cc-6c2e-4157-aa48-aac33356f768",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC, AC=4, কোণ C=60",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের $30^{\\circ}$ কোণ অঙ্কনের ক্ষেত্রে$-$\n$i.$ ভূমি $>$ লম্ব\n$ii.$ লম্ব $=$ ভূমি\n$iii.$ ভূমি $<$ অতিভুজ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$30^{\\circ}$ কোণের ক্ষেত্রে ভূমি লম্বের চেয়ে বড় হয়। এবং অতিভুজ ত্রিভুজের বৃহত্তম বাহু।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের একটি শীর্ষ কোণ কত ডিগ্রি?",
+      "options": [
+        "$108^{\\circ}$",
+        "$110^{\\circ}$",
+        "$120^{\\circ}$",
+        "$144^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "শীর্ষ কোণ $= \\frac{(n-2) \\times 180}{n} = \\frac{(5-2) \\times 180}{5} = \\frac{3 \\times 180}{5} = 108^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের পরিসীমা $16$ মি.। এর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        "$2\\sqrt{3}$ মি.",
+        "$3\\sqrt{2}$ মি.",
+        "$3\\sqrt{3}$ মি.",
+        "$4\\sqrt{2}$ মি."
+      ],
+      "correctOption": 3,
+      "explanation": "$4a = 16 \\Rightarrow a = 4$। কর্ণের দৈর্ঘ্য $= a\\sqrt{2} = 4\\sqrt{2}$ মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "তলের মাত্রা কয়টি?",
+      "options": [
+        "শূন্য",
+        "একটি",
+        "দুইটি",
+        "তিনটি"
+      ],
+      "correctOption": 2,
+      "explanation": "তলের দৈর্ঘ্য ও প্রস্থ আছে, তাই তলের মাত্রা দুইটি।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

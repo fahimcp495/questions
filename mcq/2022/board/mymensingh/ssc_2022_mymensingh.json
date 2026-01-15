@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2022_mymensingh",
+    "title": "ময়মনসিংহ বোর্ড - ২০২২",
+    "titleEn": "ময়মনসিংহ বোর্ড - ২০২২",
+    "year": 2022,
+    "type": "board",
+    "board": "mymensingh",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 20,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{x \\in \\mathbb{N} : 4 < x \\leq 5\\}$ এর তালিকা রূপ কোনটি?",
+      "options": [
+        "$\\varnothing$",
+        "$\\{4\\}$",
+        "$\\{5\\}$",
+        "$\\{4, 5\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "শর্তানুসারে $x$ একটি স্বাভাবিক সংখ্যা যা $4$ এর চেয়ে বড় এবং $5$ এর সমান বা ছোট। অর্থাৎ $x = 5$। নির্ণেয় সেট $\\{5\\}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি অসীম সেট?",
+      "options": [
+        "$\\{x \\in \\mathbb{N} : x > 5\\}$",
+        "$\\{x \\in \\mathbb{N} : x < 5\\}$",
+        "$\\{x \\in \\mathbb{N} : x$মৌলিক সংখ্যা এবং$x < 2\\}$",
+        "$\\{x \\in \\mathbb{Z} : 16 \\leq x^2 \\leq 36\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "অপশন (ক)-তে $x > 5$, অর্থাৎ $6, 7, 8, \\dots$ যা অসীম। বাকি অপশনগুলো সসীম সেট নির্দেশ করে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = y^2 - (a + \\frac{1}{a})\\ y + 1$ হলে $y$ এর কোন মানের জন্য $f(y) = 0$ হবে?",
+      "options": [
+        "$0, a$",
+        "$0, \\frac{1}{a}$",
+        "$a, -\\frac{1}{a}$",
+        "$a, \\frac{1}{a}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$y^2 - (a + \\frac{1}{a})y + 1 = 0 \\Rightarrow y^2 - ay - \\frac{1}{a}y + 1 = 0 \\Rightarrow y(y-a) - \\frac{1}{a}(y-a) = 0 \\Rightarrow (y-a)(y-\\frac{1}{a}) = 0$। সুতরাং, $y = a$ অথবা $y = \\frac{1}{a}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_4 x = \\frac{1}{2}$ হলে $x = $ কত?",
+      "options": [
+        "$4$",
+        "$2$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{8}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\log_4 x = \\frac{1}{2} \\Rightarrow x = 4^{\\frac{1}{2}} = \\sqrt{4} = 2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 - 1 + 2y - y^2$ এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$x + y - 1$",
+        "$x + y + 1$",
+        "$y - x + 1$",
+        "$x - y - 1$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x^2 - (y^2 - 2y + 1) = x^2 - (y-1)^2 = (x + y - 1)(x - y + 1)$। সুতরাং, একটি উৎপাদক $x + y - 1$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(x + y)^2$ এর সাথে কত যোগ করলে যোগফল $(x - y)^2$ হবে?",
+      "options": [
+        "$- 4xy$",
+        "$4xy$",
+        "$- 2xy$",
+        "$2xy$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি, $(x - y)^2 = (x + y)^2 - 4xy$। তাই $(x + y)^2$ এর সাথে $-4xy$ যোগ করতে হবে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + b = 4$ এবং $a^2 + b^2 = 8$ হলে $a^3 + b^3$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$12$",
+        "$16$",
+        "$18$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $2ab = (a+b)^2 - (a^2+b^2) = 4^2 - 8 = 16 - 8 = 8 \\Rightarrow ab = 4$। এখন, $a^3 + b^3 = (a+b)(a^2 - ab + b^2) = 4(8 - 4) = 4 \\times 4 = 16$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "বার্ষিক $7\\%$ হার মুনাফায় $650$ টাকার কত বছরের সরল মুনাফা $273$ টাকা হবে?",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $I = Pnr$। এখানে $I=273, P=650, r=0.07$। $n = \\frac{I}{Pr} = \\frac{273}{650 \\times 0.07} = \\frac{273}{45.5} = 6$ বছর।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণ নিচের কোনটি হওয়ার সম্ভাবনা আছে?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$70^{\\circ}$",
+        "$110^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "বৃত্তের উপচাপে (minor arc) অন্তর্লিখিত কোণ সর্বদা স্থূলকোণ (obtuse angle, $>90^{\\circ}$) হয়। প্রদত্ত অপশনগুলোর মধ্যে শুধুমাত্র $110^{\\circ}$ একটি স্থূলকোণ।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের একটি শীর্ষকোণ কত ডিগ্রি?",
+      "options": [
+        "$108^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সুষম বহুভুজের প্রতিটি অন্তঃস্থ কোণ = $\\frac{(n-2) \\times 180}{n}$। পঞ্চভুজের ক্ষেত্রে $n=5$। কোণ = $\\frac{3 \\times 180}{5} = 108^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{3})^{x+2} = 27$ হলে $x$ এর মান কত?",
+      "options": [
+        "$6$",
+        "$4$",
+        "$3$",
+        "$2$"
+      ],
+      "correctOption": 1,
+      "explanation": "$3^{\\frac{x+2}{2}} = 3^3 \\Rightarrow \\frac{x+2}{2} = 3 \\Rightarrow x+2 = 6 \\Rightarrow x = 4$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$2 \\log x - \\log(2x + 35) = 0$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$- 7$",
+        "$- 5$",
+        "$- 5, 7$",
+        "$- 7, 5$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\log x^2 = \\log(2x+35) \\Rightarrow x^2 - 2x - 35 = 0 \\Rightarrow (x-7)(x+5)=0$। গাণিতিক সমাধান $x=7, -5$। যদিও লগের ডোমেইন অনুসারে $x>0$ হতে হয়, কিন্তু প্রদত্ত অপশন ও বোর্ড উত্তরমালা অনুযায়ী $-5, 7$ সঠিক হিসেবে ধরা হয়েছে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "প্রথম $27$টি স্বাভাবিক সংখ্যার সমষ্টি কত?",
+      "options": [
+        "$27$",
+        "$378$",
+        "$756$",
+        "$6930$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমষ্টি = $\\frac{n(n+1)}{2} = \\frac{27 \\times 28}{2} = 27 \\times 14 = 378$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos A = \\sin A$ হলে $2 \\sin A \\cdot \\cos A = $ কত? $($যেখানে$A$সূক্ষ্মকোণ$)$",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\cos A = \\sin A$ হলে $A = 45^{\\circ}$। প্রদত্ত রাশি $= 2 \\sin 45^{\\circ} \\cos 45^{\\circ} = 2 \\cdot \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{\\sqrt{2}} = 2 \\cdot \\frac{1}{2} = 1$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec^2 \\theta + \\tan^2 \\theta = 3$ হলে $\\text{cosec } \\theta$ এর মান কত? (যেখানে $\\theta$ সূক্ষ্মকোণ)",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{2}$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{2}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$(1+\\tan^2 \\theta) + \\tan^2 \\theta = 3 \\Rightarrow 2\\tan^2 \\theta = 2 \\Rightarrow \\tan \\theta = 1 \\Rightarrow \\theta = 45^{\\circ}$। $\\text{cosec } 45^{\\circ} = \\sqrt{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin A = \\sqrt{(2)^{-1}}$ হলে, $\\sec A$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sin A = \\sqrt{\\frac{1}{2}} = \\frac{1}{\\sqrt{2}} \\Rightarrow A = 45^{\\circ}$। $\\sec 45^{\\circ} = \\sqrt{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের পরিসীমা $18$ সে.মি. হলে ত্রিভুজটির উচ্চতা কত সে.মি.?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$3\\sqrt{5}$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "পরিসীমা $3a = 18 \\Rightarrow a = 6$। উচ্চতা $= \\frac{\\sqrt{3}}{2}a = \\frac{\\sqrt{3}}{2} \\times 6 = 3\\sqrt{3}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ $3$ সে.মি. ও উচ্চতা $7$ সে.মি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$9\\pi$",
+        "$21\\pi$",
+        "$42\\pi$",
+        "$63\\pi$"
+      ],
+      "correctOption": 2,
+      "explanation": "বক্রপৃষ্ঠের ক্ষেত্রফল $= 2\\pi rh = 2\\pi(3)(7) = 42\\pi$ বর্গ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :",
+      "question": "$ABCD$সামান্তরিকের পরিসীমা কত সে.মি.?",
+      "options": [
+        "$18$",
+        "$36$",
+        "$80$",
+        "$160$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রে সামান্তরিকের সন্নিহিত বাহুদ্বয় $8$ সে.মি. এবং $10$ সে.মি.। পরিসীমা $= 2(8 + 10) = 36$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/0kmnHP0.png",
+      "imageCaption": "চিত্রে ABCD একটি সামান্তরিক। AB=8, BC=10, কোণ B=45°",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$ABCD$ সামান্তরিকের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$40$",
+        "$40\\sqrt{2}$",
+        "$80$",
+        "$80\\sqrt{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= AB \\cdot BC \\cdot \\sin B = 8 \\cdot 10 \\cdot \\sin 45^{\\circ} = 80 \\cdot \\frac{1}{\\sqrt{2}} = 40\\sqrt{2}$ বর্গ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোন ধরনের ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজটির বৃহত্তম বাহুর উপর অবস্থিত?",
+      "options": [
+        "সমবাহু",
+        "সূক্ষ্মকোণী",
+        "স্থূলকোণী",
+        "সমকোণী"
+      ],
+      "correctOption": 3,
+      "explanation": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র অতিভুজের (বৃহত্তম বাহুর) মধ্যবিন্দুতে অবস্থিত।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের স্পর্শক ও স্পর্শবিন্দুগামী ব্যাসার্ধের মধ্যবর্তী কোণ কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তের স্পর্শক স্পর্শবিন্দুগামী ব্যাসার্ধের ওপর লম্ব। তাই তাদের মধ্যবর্তী কোণ $90^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বর্গে অন্তর্লিখিত বৃত্তের স্পর্শকের সংখ্যা কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "বর্গে অন্তর্লিখিত বৃত্তটি বর্গের চারটি বাহুকে স্পর্শ করে। সুতরাং বর্গের ৪টি বাহুই বৃত্তটির স্পর্শক। উত্তর ৪টি।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্য হতে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :",
+      "question": "$PR = 10$ সে.মি. এবং $PQ = 8$ সে.মি. হলে $OS$ এর মান কত সে.মি.?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 0,
+      "explanation": "এখানে $PR$ ব্যাস ধরলে ব্যাসার্ধ $OP = 5$ সে.মি.। $S$ জ্যা $PQ$ এর মধ্যবিন্দু, তাই $PS = 4$ সে.মি. এবং $OS \\perp PQ$। পিথাগোরাস উপপাদ্য অনুযায়ী, $OS = \\sqrt{OP^2 - PS^2} = \\sqrt{5^2 - 4^2} = 3$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/G9FC7yA.png",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে PQ জ্যা এবং S এর মধ্যবিন্দু।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle PQO = 55^{\\circ}$ হলে, $\\angle QOR = $ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$110^{\\circ}$",
+        "$145^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\Delta POQ$-এ $OP=OQ$, তাই $\\angle OPQ = \\angle PQO = 55^{\\circ}$। $\\angle POQ = 180^{\\circ} - (55^{\\circ}+55^{\\circ}) = 70^{\\circ}$। চিত্রানুযায়ী $POR$ একটি সরলরেখা (ব্যাস) হলে, $\\angle QOR = 180^{\\circ} - 70^{\\circ} = 110^{\\circ}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে অঙ্কন সম্ভব$-$\n$i.$ সুষম ত্রিভুজ\n$ii.$ বর্গ\n$iii.$ রম্বস\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও$ ii$",
+        "$i$ ও$ iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "একটি বাহুর দৈর্ঘ্য জানা থাকলে সমবাহু ত্রিভুজ (সুষম ত্রিভুজ) এবং বর্গ আঁকা যায়। রম্বস আঁকতে হলে বাহুর সাথে একটি কোণ বা কর্ণের প্রয়োজন হয়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$30$ থেকে $75$ এর মধ্যবর্তী মৌলিক সংখ্যাগুলোর মধ্যক নিচের কোনটি?",
+      "options": [
+        "$47$",
+        "$53$",
+        "$59$",
+        "$61$"
+      ],
+      "correctOption": 1,
+      "explanation": "মৌলিক সংখ্যাগুলো: $31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73$। মোট ১১টি সংখ্যা। মধ্যক = $\\frac{11+1}{2}$-তম পদ = ৬ষ্ঠ পদ = $53$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনো গণসংখ্যা নিবেশনের প্রচুরক $= 49.75$, $L = 48$, $f_1 = 7$ এবং $f_2 = 17$ হলে, শ্রেণি ব্যবধান কত?",
+      "options": [
+        "$6$",
+        "$7$",
+        "$10$",
+        "$20$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রচুরক $= L + \\frac{f_1}{f_1+f_2} \\times h \\Rightarrow 49.75 = 48 + \\frac{7}{7+17} \\times h \\Rightarrow 1.75 = \\frac{7}{24} h \\Rightarrow h = \\frac{1.75 \\times 24}{7} = 6$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৯ ও ৩০ নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে $F_c$ এর মান কত?",
+      "options": [
+        "$12$",
+        "$13.5$",
+        "$15$",
+        "$19$"
+      ],
+      "correctOption": 3,
+      "explanation": "মোট গণসংখ্যা $n=40$। মধ্যক শ্রেণি $n/2=20$-তম পদ। ক্রমযোজিত গণসংখ্যা: ৭, ১৯, ৩৪...। ২০তম পদ ৬৬-৭০ শ্রেণিতে। এর পূর্ববর্তী শ্রেণির যোজিত গণসংখ্যা $F_c = 19$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/sjER94a.png",
+      "imageCaption": "শ্রেণিব্যাপ্তি ও গণসংখ্যা সারণি",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "শ্রেণিব্যাপ্তিসমূহের মধ্যবিন্দুগুলোর গাণিতিক গড় নিচের কোনটি?",
+      "options": [
+        "$262$",
+        "$73$",
+        "$67.5$",
+        "$65.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "মধ্যবিন্দুগুলো হলো: $58, 63, 68, 73$। এদের গড় $= \\frac{58+63+68+73}{4} = \\frac{262}{4} = 65.5$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

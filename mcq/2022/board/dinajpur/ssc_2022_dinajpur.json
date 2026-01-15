@@ -56,7 +56,7 @@
       "questionNumber": 3,
       "chapterId": "chapter_03",
       "questionPreamble": null,
-      "question": "$a^2 + \\frac{1}{a^2} = 11$ হলে–\n$i.$ $a - \\frac{1}{a} = 3$\n$ii.$ $(a + \\frac{1}{a})^2 = 13$\n$iii.$ $a^3 - \\frac{1}{a^3} = 18$\nনিচের কোনটি সঠিক?",
+      "question": "$a^2 + \\frac{1}{a^2} = 11$ হলে$-$\n$i.$ $a - \\frac{1}{a} = 3$\n$ii.$ $(a + \\frac{1}{a})^2 = 13$\n$iii.$ $a^3 - \\frac{1}{a^3} = 18$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -216,7 +216,7 @@
       "questionNumber": 11,
       "chapterId": "chapter_08",
       "questionPreamble": "উপরের চিত্রানুসারে ১০ ও ১১নং প্রশ্নের উত্তর দাও:",
-      "question": "$PQSR$ বৃত্তে–\n$i.$ $\\angle QPT = 40°$\n$ii.$ $\\angle QOT = 2\\angle QPT$\n$iii.$ $\\angle ROT = \\angle OPR + \\angle ORP$\nনিচের কোনটি সঠিক?",
+      "question": "$PQSR$ বৃত্তে$-$\n$i.$ $\\angle QPT = 40°$\n$ii.$ $\\angle QOT = 2\\angle QPT$\n$iii.$ $\\angle ROT = \\angle OPR + \\angle ORP$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -515,8 +515,8 @@
     {
       "questionNumber": 26,
       "chapterId": "chapter_02",
-      "questionPreamble": "",
-      "question": "$A = \\{2, 4, 6, 8\\}$ সেটটির–\n$i.$ প্রকৃত উপসেটের সংখ্যা $15$\n$ii.$ $A = \\{x \\in N : x,$ জোড়সংখ্যা এবং $x \\leq 8\\}$\n$iii.$ $A$ সেটে $2$ দ্বারা বিভাজ্য উপাদান সংখ্যা $4$টি\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "$A = \\{2, 4, 6, 8\\}$ সেটটির$-$\n$i.$ প্রকৃত উপসেটের সংখ্যা $15$\n$ii.$ $A = \\{x \\in N : x,$ জোড়সংখ্যা এবং $x \\leq 8\\}$\n$iii.$ $A$ সেটে $2$ দ্বারা বিভাজ্য উপাদান সংখ্যা $4$টি\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -527,7 +527,7 @@
       "explanation": "",
       "difficulty": "medium",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -596,7 +596,7 @@
       "questionNumber": 30,
       "chapterId": "chapter_08",
       "questionPreamble": null,
-      "question": "বৃত্তের ক্ষেত্রে–\n$i.$ অর্ধবৃত্তস্থ কোণ এক সরল কোণ\n$ii.$ যে কোনো জ্যা এর লম্বদ্বিখণ্ডক কেন্দ্রগামী\n$iii.$ বৃত্তের সমান সমান জ্যা এর মধ্যবিন্দুগুলো সমবৃত্ত\nনিচের কোনটি সঠিক?",
+      "question": "বৃত্তের ক্ষেত্রে$-$\n$i.$ অর্ধবৃত্তস্থ কোণ এক সরল কোণ\n$ii.$ যে কোনো জ্যা এর লম্বদ্বিখণ্ডক কেন্দ্রগামী\n$iii.$ বৃত্তের সমান সমান জ্যা এর মধ্যবিন্দুগুলো সমবৃত্ত\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
