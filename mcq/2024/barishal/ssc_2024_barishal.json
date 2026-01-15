@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_barishal",
+    "title": "বরিশাল বোর্ড - 2024",
+    "titleEn": "বরিশাল বোর্ড - 2024",
+    "year": 2024,
+    "type": "board",
+    "board": "barishal",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_14",
+      "questionPreamble": "চিত্রে, $BC \\parallel PQ$ হলে-\\n$i. \\triangle BOC$ ও $\\triangle POQ$ সদৃশ\\n$ii. AP : BP = AQ : CQ$\\n$iii. BO : OQ = CO : OP$\\n",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "একটি ত্রিভুজ ABC যার AB ও AC বাহুর উপর যথাক্রমে P ও Q বিন্দু অবস্থিত এবং PQ রেখা BC এর সমান্তরাল। BO এবং CO রেখা PQ কে O বিন্দুতে ছেদ করে।",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_barishal%2Fq01.svg?alt=media&token=56dc9119-4f87-4d3b-8228-aef620637950",
+      "imageCaption": "ত্রিভুজ ABC এর অভ্যন্তরে O বিন্দু এবং BC এর সমান্তরাল PQ রেখা",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "'T' বর্গটির মোট কতটি প্রতিসাম্য রেখা আছে?",
+      "options": [
+        "শূন্যটি",
+        "একটি",
+        "তিনটি",
+        "অসংখ্য"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $O$ বৃত্তের কেন্দ্র। $AB$ ও $AC$ দুইটি স্পর্শক এবং $\\angle BAC = 60°$।\n$\\angle BOC$ এর মান কত?",
+      "options": [
+        "$300°$",
+        "$270°$",
+        "$120°$",
+        "$90°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_barishal%2Fq03.svg?alt=media&token=bde85591-1eff-4604-bb00-02c19be76446",
+      "imageCaption": "বৃত্তের কেন্দ্র O এবং A বিন্দু থেকে AB ও AC দুইটি স্পর্শক",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$D$, $BDC$ চাপের মধ্যবিন্দু হলে-\n$i.$ $\\angle BDC = \\angle BAC$ $ii.$ $\\angle BOC = 2\\angle BAC$ $iii.$ $\\angle BCD + \\angle DBC = \\angle BOC$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "বৃত্তের কেন্দ্র O এবং A বিন্দু থেকে AB ও AC দুইটি স্পর্শক",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta\\sqrt{1 + \\tan^{2}\\theta} = $ কত?",
+      "options": [
+        "$\\tan\\theta$",
+        "$\\sin\\theta$",
+        "$\\cos\\theta$",
+        "$\\sec\\theta$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$0° \\leq \\theta \\leq 90°$ এর জন্য $\\sin\\theta$ এর সর্বনিম্ন মান কত?",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$1$",
+        "$\\infin$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$ এর $\\angle C =$ এক সমকোণ এবং $\\angle A = 60°$ হলে $\\frac{\\tan A - \\tan B}{1 + \\tan A.\\tan B}$ এর মান কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$0$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$12$ মিটার দীর্ঘ একটি মই দেওয়াল থেকে $6\\sqrt{3}$ মিটার দূরে ভূমির সাথে $\\theta$ কোণ উৎপন্ন করে দেওয়ালের ছাদ স্পর্শ করে। $\\theta$ এর মান কত?",
+      "options": [
+        "$30°$",
+        "$45°$",
+        "$60°$",
+        "$90°$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "কোনো বর্গক্ষেত্র তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের কত গুণ?",
+      "options": [
+        "অর্ধেক",
+        "সমান",
+        "দেড়গুণ",
+        "দ্বিগুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\pi$ সেমি পরিধিবিশিষ্ট বৃত্তের ক্ষেত্রফল কত বর্গ সেমি?",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{8}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল $150$ বর্গমি.। এর পৃষ্ঠতলের কর্ণের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$5$",
+        "$5\\sqrt{2}$",
+        "$5\\sqrt{3}$",
+        "$125$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ ও উচ্চতা পরস্পর সমান। বেলনটির সমগ্রতল ও বক্রতলের ক্ষেত্রফলের অনুপাত কত হবে?",
+      "options": [
+        "$3 : 1$",
+        "$2 : 1$",
+        "$1 : 1$",
+        "$1 : 2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি নির্ণয়ে ধাপ বিচ্যুতি প্রয়োজন হয়?",
+      "options": [
+        "গড়",
+        "মধ্যক",
+        "প্রচুরক",
+        "পরিসর"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$12$ থেকে $45$ পর্যন্ত মৌলিক সংখ্যাগুলোর মধ্যক নিচের কোনটি?",
+      "options": [
+        "$52$",
+        "$29$",
+        "$26$",
+        "$23$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিম্নের উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$61$",
+        "$55.5$",
+        "$52.43$",
+        "$45$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_barishal%2Fq15.svg?alt=media&token=d92d20db-3efc-43e9-a180-e5d98267f588",
+      "imageCaption": "সারণি সংযুক্ত করা হবে",
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.1\\dot{3} \\div 0.\\dot{3} =$ কত?",
+      "options": [
+        "$\\frac{2}{45}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{4}{9}$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি সসীম সেট?",
+      "options": [
+        "$\\{x \\in Z : x < 2\\}$",
+        "$\\left\\{\\frac{p}{q} : p \\right.$ ও $q$ পূর্ণসংখ্যা এবং $\\left. q \\neq 0 \\vphantom{\\frac{p}{q}} \\right\\}$",
+        "$\\{y \\in N : y^{2} < 100 < y^{3}\\}$",
+        "$\\{x \\in Z : x^{2} > 5$ এবং $x^{3} \\leq 36\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = \\frac{3}{x} + 1$ হলে $f\\left(\\frac{1}{x}\\right) =$ কত?",
+      "options": [
+        "$3x + 1$",
+        "$3 + x$",
+        "$\\frac{3 + x}{x}$",
+        "$\\frac{x}{3x + 1}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$n + \\frac{1}{n} = 3$ হলে $\\frac{2n}{3n^{2} - 2n + 3}$ এর মান কত?",
+      "options": [
+        "$-\\frac{2}{11}$",
+        "$-\\frac{2}{7}$",
+        "$\\frac{2}{11}$",
+        "$\\frac{2}{7}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$5\\%$ সরল মুনাফায় $400$ টাকা কত বছরে মুনাফা-আসলে $520$ টাকা হবে?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$24$",
+        "$46$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{5^{-x+1}} = 625$ হলে $x$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "একটি হাইড্রোজেন পরমাণুর ব্যাসার্ধ $0.0000000037$ সেমি। সংখ্যাটি-\n$i.$ আদর্শরূপ $= 3.7 \\times 10^{-9}$\n$ii.$ সাধারণ লগের পূর্ণক $= \\bar9$\n$iii.$ সাধারণ লগের অংশক $= 0.5682$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x - 2 = \\frac{x - 2}{x}$ সমীকরণের সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{\\phantom{}\\}$",
+        "$\\{1\\}$",
+        "$\\{2\\}$",
+        "$\\{1, 2\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_12",
+      "questionPreamble": "$\\left. \\begin{array}{c} -\\frac{1}{2}x + y = -1 \\\\\\ x - 2y = 2 \\end{array} \\right\\}$ সমীকরণ জোটটি-\\n$i.$ সামঞ্জস্য\\n$ii.$ পরস্পর নির্ভরশীল\\n$iii.$ একটিমাত্র সমাধান আছে\\n",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3 + 5 + 7 + ....$ ধারাটির $1$ম $n$ সংখ্যক পদের সমষ্টি কত?",
+      "options": [
+        "$n^{2}$",
+        "$n(n + 1)$",
+        "$n(n + 2)$",
+        "$n(n + 3)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "নিচের কোনটিকে শূন্যমাত্রার সত্তা বলে গণ্য করা হয়?",
+      "options": [
+        "রেখা",
+        "তল",
+        "কোণ",
+        "বিন্দু"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$ এর $AB = AC$ হলে $\\frac{1}{2}\\angle ACD =$ কত ডিগ্রি?",
+      "options": [
+        "$55°$",
+        "$90°$",
+        "$110°$",
+        "$140°$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_barishal%2Fq27.svg?alt=media&token=640f0cd7-a0e9-4b6b-8658-0ccd92d3fb16",
+      "imageCaption": "ত্রিভুজ ABC যেখানে AB = AC এবং কোণ BAC = 40°, CD বাহু বর্ধিত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_15",
+      "questionPreamble": "একটি সমদ্বিবাহু সমকোণী ত্রিভুজের সমান বাহুদ্বয়ের প্রতিটির দৈর্ঘ্য $6$ সেমি।",
+      "question": "ত্রিভুজটির ক্ষেত্রফল কত বর্গ সেমি?",
+      "options": [
+        "$72$",
+        "$36$",
+        "$18$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "ত্রিভুজ ABC যেখানে AB = AC এবং কোণ BAC = 40°, CD বাহু বর্ধিত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $O$ বৃত্তটির কেন্দ্র এবং $BE = 4$ সেমি।\n$OE = OF$ হলে $CD =$ কত সেমি?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_barishal%2Fq29.svg?alt=media&token=fa1f37c4-f3eb-415b-a612-47c7eb874412",
+      "imageCaption": "বৃত্তের কেন্দ্র O, দুইটি জ্যা AB ও CD এবং E ও F বিন্দু জ্যাদ্বয়ের উপর",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$AB = CD$ এবং $OE = 3$ সেমি হলে বৃত্তটির ব্যাস কত সেমি?",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$10$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "বৃত্তের কেন্দ্র O, দুইটি জ্যা AB ও CD এবং E ও F বিন্দু জ্যাদ্বয়ের উপর",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

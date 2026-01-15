@@ -35,7 +35,7 @@
     {
       "questionNumber": 2,
       "chapterId": "chapter_05",
-      "questionPreamble": null,
+      "questionPreamble": "",
       "question": "$x^{2} - 5x - 6 = 0$ সমীকরণের মূলদ্বয় নিচের কোনটি?",
       "options": [
         "$2, 3$",
@@ -47,7 +47,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": null,
+      "imageCaption": "",
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -206,7 +206,7 @@
       "correctOption": 2,
       "explanation": "",
       "difficulty": "easy",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_dhaka%2Fq10.svg?alt=media&token=c1e3e6e9-4c6e-4dd0-b4bf-3754df57c8d2",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_dhaka%2Fq10.svg?alt=media&token=ffc33af4-31e8-4111-b642-15e471585f37",
       "imageCaption": "একটি বৃত্তে অন্তর্লিখিত ত্রিভুজ ABC, কেন্দ্রে O বিন্দু, কেন্দ্রীয় কোণ (x + 20)°",
       "imagePosition": "aboveQuestion",
       "isPublished": true,
@@ -275,7 +275,7 @@
     {
       "questionNumber": 14,
       "chapterId": "chapter_11",
-      "questionPreamble": "$p, q, r$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{p}{q} = \\frac{q}{r}$\\n$ii.$ $q^{2} = pr$\\n$iii.$ $pq = qr$",
+      "questionPreamble": "$p, q, r$ ক্রমিক সমানুপাতী হলে—\n$i.$ $\\frac{p}{q} = \\frac{q}{r}$    $ii.$ $q^{2} = pr$    $iii.$ $pq = qr$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -315,7 +315,7 @@
     {
       "questionNumber": 16,
       "chapterId": "chapter_12",
-      "questionPreamble": "$x + 3y = 1; 5x + 15y = 5$\nসমীকরণ জোটটি—\n$i.$ সঙ্গতিপূর্ণ\n$ii.$ পরস্পর নির্ভরশীল\n$iii.$ একটি মাত্র সমাধানবিশিষ্ট",
+      "questionPreamble": "$x + 3y = 1; 5x + 15y = 5$\nসমীকরণ জোটটি—\n$i.$ সঙ্গতিপূর্ণ    $ii.$ পরস্পর নির্ভরশীল\n$iii.$ একটি মাত্র সমাধানবিশিষ্ট",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -335,8 +335,8 @@
     {
       "questionNumber": 17,
       "chapterId": "chapter_13",
-      "questionPreamble": null,
-      "question": "$2 + 4 + 6 + \\dots$ ধারাটির দশম পদ কত?",
+      "questionPreamble": "",
+      "question": "$2 + 4 + 6 + .....$ ধারাটির দশম পদ কত?",
       "options": [
         "$110$",
         "$48$",
@@ -347,7 +347,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": null,
+      "imageCaption": "",
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -375,7 +375,7 @@
     {
       "questionNumber": 19,
       "chapterId": "chapter_06",
-      "questionPreamble": "$\\triangle ABC$ একটি সমকোণী ত্রিভুজ হবে, যদি এর বাহুগুলোর দৈর্ঘ্য হয়$-$\n$i.$ $5, 12, 13$ একক\n$ii.$ $6, 8, 10$ একক\n$iii.$ $7, 8, 10$ একক",
+      "questionPreamble": "$\\triangle ABC$ একটি সমকোণী ত্রিভুজ হবে, যদি এর বাহুগুলোর দৈর্ঘ্য হয়—\n$i.$ $5, 12, 13$ একক    $ii.$ $6, 8, 10$ একক\n$iii.$ $7, 8, 10$ একক",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -435,7 +435,7 @@
     {
       "questionNumber": 22,
       "chapterId": "chapter_17",
-      "questionPreamble": "যৌজিত গণসংখ্যা প্রয়োজন$-$\n$i.$ গড় নির্ণয়ে\n$ii.$ মধ্যক নির্ণয়ে\n$iii.$ অজিভরেখা অঙ্কন করতে",
+      "questionPreamble": "যৌজিত গণসংখ্যা প্রয়োজন—\n$i.$ গড় নির্ণয়ে    $ii.$ মধ্যক নির্ণয়ে\n$iii.$ অজিভরেখা অঙ্কন করতে",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",

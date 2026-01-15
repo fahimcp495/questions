@@ -1,0 +1,59 @@
+\documentclass[tikz, border=5pt]{standalone}
+\usepackage{tikz}
+\usepackage{fontspec}
+\newfontfamily\bengalifont[Script=Bengali]{Noto Sans Bengali}
+
+\begin{document}
+
+\begin{tikzpicture}
+
+    % Define coordinates for the right triangle
+    % A is at the top left vertex
+    \coordinate (A) at (0, 3);
+    
+    % B is at the bottom left vertex (right angle)
+    \coordinate (B) at (0, 0);
+    
+    % C is at the bottom right vertex
+    \coordinate (C) at (4.5, 0);
+
+    % Draw the three sides of the triangle
+    % Draw side AB (vertical left side)
+    \draw (A) -- (B);
+    
+    % Draw side BC (horizontal base)
+    \draw (B) -- (C);
+    
+    % Draw side CA (hypotenuse)
+    \draw (C) -- (A);
+
+    % Draw the right angle symbol at B
+    \draw (B) ++(0.3, 0) -- ++(0, 0.3) -- ++(-0.3, 0);
+
+    % Draw arc for angle 2x at A (from vertical side AB to hypotenuse AC)
+    \draw (A) ++(-90:0.6) arc (-90:-33.69:0.6);
+
+    % Draw arc for angle x at C (from hypotenuse CA to horizontal side CB)
+    \draw (C) ++(180:0.7) arc (180:146.31:0.7);
+
+    % Label point A at the top left
+    \node[above left] at (A) {A};
+    
+    % Label point B at the bottom left
+    \node[below left] at (B) {B};
+    
+    % Label point C at the bottom right
+    \node[right] at (C) {C};
+
+    % Label the angle 2x at A (positioned inside the angle)
+    \node at (0.5, 2.35) {$2x$};
+
+    % Label the angle x at C (positioned inside the angle)
+    \node at (3.4, 0.35) {$x$};
+
+    % Label the side length "4 সেমি" on the left side AB (in Bangla)
+    \node[left, rotate=90] at (-0.3, 1.5) {{\bengalifont 4 সেমি}};
+
+\end{tikzpicture}
+
+\end{document}

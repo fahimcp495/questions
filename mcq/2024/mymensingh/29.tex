@@ -1,0 +1,66 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{tikz}
+% The fontspec package is required to load Bengali fonts.
+% You must compile with XeLaTeX or LuaLaTeX.
+\usepackage{fontspec}
+
+% Configure the Bengali font here. 
+% Replace "Noto Sans Bengali" with a font available on your system if needed.
+\newfontfamily\benfont{Noto Sans Bengali}[Script=Bengali]
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1.0]
+
+    % --- Grid Construction ---
+    % Total width: 12cm. Height: 1.6cm.
+    % Header column width: 3cm. Data columns width: 1.5cm each.
+    
+    % Horizontal Lines
+    \draw[thick] (0, 0) -- (12, 0);     % Bottom
+    \draw[thick] (0, 0.8) -- (12, 0.8); % Middle
+    \draw[thick] (0, 1.6) -- (12, 1.6); % Top
+
+    % Vertical Lines
+    \draw[thick] (0, 0) -- (0, 1.6);        % Leftmost
+    \draw[thick] (3, 0) -- (3, 1.6);        % Header Separator
+    \draw[thick] (4.5, 0) -- (4.5, 1.6);    % Col 1
+    \draw[thick] (6, 0) -- (6, 1.6);        % Col 2
+    \draw[thick] (7.5, 0) -- (7.5, 1.6);    % Col 3
+    \draw[thick] (9, 0) -- (9, 1.6);        % Col 4
+    \draw[thick] (10.5, 0) -- (10.5, 1.6);  % Col 5
+    \draw[thick] (12, 0) -- (12, 1.6);      % Rightmost
+
+    % --- Content ---
+    
+    % Row 1: Headers (Bengali) and Intervals (English numbers)
+    % y = 1.2 is the center of the top row
+    
+    % Header: শ্রেণিব্যাপ্তি
+    \node at (1.5, 1.2) {\benfont শ্রেণিব্যাপ্তি};
+    
+    % Data: 20-24, 25-29, etc.
+    \node at (3.75, 1.2) {20--24};
+    \node at (5.25, 1.2) {25--29};
+    \node at (6.75, 1.2) {30--34};
+    \node at (8.25, 1.2) {35--39};
+    \node at (9.75, 1.2) {40--44};
+    \node at (11.25, 1.2) {45--49};
+
+    % Row 2: Headers (Bengali) and Frequencies (English numbers)
+    % y = 0.4 is the center of the bottom row
+    
+    % Header: গণসংখ্যা
+    \node at (1.5, 0.4) {\benfont গণসংখ্যা};
+    
+    % Data: 3, 7, 8, 10, 4, 2
+    \node at (3.75, 0.4) {3};
+    \node at (5.25, 0.4) {7};
+    \node at (6.75, 0.4) {8};
+    \node at (8.25, 0.4) {10};
+    \node at (9.75, 0.4) {4};
+    \node at (11.25, 0.4) {2};
+
+\end{tikzpicture}
+
+\end{document}

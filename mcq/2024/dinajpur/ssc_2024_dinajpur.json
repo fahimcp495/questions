@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_dinajpur",
+    "title": "দিনাজপুর বোর্ড - ২০২৪",
+    "titleEn": "দিনাজপুর বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "dinajpur",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        "$\\frac{\\sqrt[3]{64}}{\\sqrt{36}}$",
+        "$\\frac{\\sqrt{32}}{\\sqrt{64}}$",
+        "$\\sqrt{\\frac{81}{625}}$",
+        "$\\frac{\\sqrt[3]{8}}{\\sqrt[3]{27}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $f(x) = x^3 + ax^2 - 6x - 9$ হয়, তবে $a$ এর কোন মানের জন্য $f(-3) = 0$ হবে?",
+      "options": [
+        "$6$",
+        "$2$",
+        "$-2$",
+        "$-4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a(2a - 3) = \\frac{1}{2}$ হলে—\n$i.$ $4a^2 - \\frac{1}{4a^2} = 3\\sqrt{13}$\n$ii.$ $\\left(2a + \\frac{1}{2a}\\right)^2 = 13$\n$iii.$ $4a^2 + \\frac{1}{4a^2} = 11$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + \\frac{1}{a} = 0$ হলে, $\\sqrt{2}\\left(\\sqrt{a} + \\frac{1}{\\sqrt{a}}\\right)$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.00000538$ এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$\\overline{6}$",
+        "$\\overline{5}$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{2x - 2} + 4 = 5$ এর সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\{0\\}$",
+        "$\\{\\}$",
+        "$\\left\\{\\frac{3}{2}\\right\\}$",
+        "$\\{1\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বর্গের বাহুর দৈর্ঘ্য $10\\%$ হ্রাস পেলে এর ক্ষেত্রফল শতকরা কত হ্রাস পাবে?",
+      "options": [
+        "$10\\%$",
+        "$19\\%$",
+        "$21\\%$",
+        "$30\\%$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": "উদ্দীপকের আলোকে $৮$ ও $৯$ নং প্রশ্নের উত্তর দাও :\n$ABCD$ একটি সামান্তরিক।",
+      "question": "$x$ এর মান কত ডিগ্রি?",
+      "options": [
+        "$15°$",
+        "$23°$",
+        "$33°$",
+        "$39°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_dinajpur%2Fq08.svg?alt=media&token=9b553f47-df63-4bc4-9432-281ac9a16097",
+      "imageCaption": "সামান্তরিক ABCD যেখানে কোণ DCB = 3x + 8° এবং কোণ ABE = 2x + 7°, AB = 4, BC = 3",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$ABCD$ এর পরিসীমা কত?",
+      "options": [
+        "$7$",
+        "$11$",
+        "$12$",
+        "$14$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সামান্তরিক ABCD যেখানে কোণ DCB = 3x + 8° এবং কোণ ABE = 2x + 7°, AB = 4, BC = 3",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$2x + y - 8$ এবং $3x - 2y - 5$ সমীকরণদ্বয়ের ছেদ বিন্দুর স্থানাঙ্ক কোনটি?",
+      "options": [
+        "$(-3, 2)$",
+        "$(-2, 3)$",
+        "$(2, 3)$",
+        "$(3, 2)$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_13",
+      "questionPreamble": "",
+      "question": "$2 + x + y + z + 162$ গুণোত্তর ধারাটির চতুর্থ পদ কোনটি?",
+      "options": [
+        "$18$",
+        "$27$",
+        "$54$",
+        "$81$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "$\\triangle PQR$ এর $\\angle Q$ ও $\\angle R$ এর সমদ্বিখণ্ডক $O$ বিন্দুতে মিলিত হয়েছে। $\\angle P = 50°$ হলে, $\\angle QOR =$ কত?",
+      "options": [
+        "$40°$",
+        "$65°$",
+        "$115°$",
+        "$130°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমবাহু ত্রিভুজের একটি বাহুকে উভয় দিকে বর্ধিত করলে যে বহিঃস্থ কোণদ্বয় উৎপন্ন হয়, তাদের সমষ্টি কত?",
+      "options": [
+        "$120°$",
+        "$180°$",
+        "$240°$",
+        "$270°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\cot\\theta = \\sqrt{3}$ হলে,\n$i.$ $\\tan\\theta = \\frac{1}{\\sqrt{3}}$\n$ii.$ $\\sec\\theta = 2\\tan\\theta$\n$iii.$ $4\\sin\\theta = \\frac{1}{\\cos 2\\theta}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য $8°$ হলে, বৃহত্তম কোণের মান কত ডিগ্রি?",
+      "options": [
+        "$41°$",
+        "$42°$",
+        "$45°$",
+        "$49°$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "উদ্দীপকের আলোকে $১৬$ ও $১৭$ নং প্রশ্নের উত্তর দাও :\nচিত্রে $ABD$ বৃত্তের কেন্দ্র $O$, $OB = 5$ সে.মি. এবং $OP = 3$ সে. মি.",
+      "question": "$BD$ এর মান কত?",
+      "options": [
+        "$11.66$ সেমি",
+        "$8$ সেমি",
+        "$5.83$ সেমি",
+        "$4$ সেমি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_dinajpur%2Fq16.svg?alt=media&token=4bbf4ad8-32ac-47ed-af46-570b13ea8865",
+      "imageCaption": "বৃত্ত ABD যার কেন্দ্র O, OB = 5 সে.মি., OP = 3 সে.মি., P বিন্দু BD জ্যা এর উপর",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$y$ এর মান কত?",
+      "options": [
+        "$30°$",
+        "$36°$",
+        "$60°$",
+        "$72°$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "বৃত্ত ABD যার কেন্দ্র O, OB = 5 সে.মি., OP = 3 সে.মি., P বিন্দু BD জ্যা এর উপর",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে ছেদ করলে তাদের মধ্যে সর্বোচ্চ ক্যাট সাধারণ স্পর্শক অঙ্কন করা সম্ভব?",
+      "options": [
+        "$1$টি",
+        "$2$টি",
+        "$3$টি",
+        "$4$টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$M = \\{2, 3, 4\\}$, $N = \\{2, 4, 7\\}$ হলে, $M \\setminus N =$ কত?",
+      "options": [
+        "$\\{3\\}$",
+        "$\\{7\\}$",
+        "$\\{2, 4\\}$",
+        "$\\{3, 7\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ $5$ সে.মি. এবং উচ্চতা $7$ সে.মি. হলে, এর—\n$i.$ ভূমির ক্ষেত্রফল $= 25\\pi$ বর্গ সে. মি.\n$ii.$ বক্রতলের ক্ষেত্রফল $= 70\\pi$ বর্গ সে. মি.\n$iii.$ আয়তন $= 350\\pi$ ঘন সে. মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": "উদ্দীপকের আলোকে $২১$ ও $২২$ নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\tan y$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_dinajpur%2Fq21.svg?alt=media&token=a68a7132-9862-462d-95e3-6775fd41c67a",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR যেখানে কোণ Q সমকোণ, PQ = 2, QR = x, PR = y, কোণ QPR = x, কোণ PRQ = y",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin^2 x + \\cos^2 y$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{9}{4}$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR যেখানে কোণ Q সমকোণ, PQ = 2, QR = x, PR = y, কোণ QPR = x, কোণ PRQ = y",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ থেকে $19$ পর্যন্ত মৌলিক সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "$9.63$",
+        "$9.5$",
+        "$8.67$",
+        "$8.23$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_10",
+      "questionPreamble": "",
+      "question": "কোনো দণ্ডের ছায়ার দৈর্ঘ্য তার দৈর্ঘ্যের কতগুণ হলে উন্নতি কোণ $30°$ হবে।",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "বর্গের প্রতিসাম্য রেখা কয়টি?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_14",
+      "questionPreamble": "",
+      "question": "$\\triangle ABC$ এর $AB$ ও $BC$ এর মধ্যবিন্দু যথাক্রমে $D$ ও $E$ হলে, $\\triangle BDE : \\triangle ABC =$ কত?",
+      "options": [
+        "$2 : 3$",
+        "$1 : 2$",
+        "$1 : 3$",
+        "$1 : 4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\pi$ মিটার পরিধিবিশিষ্ট বৃত্তের ক্ষেত্রফল কত বর্গমিটার?",
+      "options": [
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$2\\pi$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $25\\sqrt{3}$ বর্গমিটার হলে ত্রিভুজটির বাহুর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$5$",
+        "$10$",
+        "$50$",
+        "$100$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "ক্রমযোজিত গণসংখ্যা প্রয়োজন—\n$i.$ মধ্যক নির্ণয়ে\n$ii.$ অজিভ রেখা অঙ্কনে\n$iii.$ প্রচুরক নির্ণয়ে",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তের সর্বোচ্চ মান $97$, পরিসর $48$ হলে, সর্বনিম্ন মান কত?",
+      "options": [
+        "$51$",
+        "$50$",
+        "$49$",
+        "$48$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

@@ -1,43 +1,58 @@
-\documentclass[tikz,border=5mm]{standalone}
-\usepackage{tikz}
-\usetikzlibrary{calc,angles,quotes}
+\begin{tikzpicture}
 
-\begin{document}
-\begin{tikzpicture}[scale=1.8]
+    % Define the radius of the circle
+    \def\radius{3}
+    
+    % Define the center of the circle
+    \coordinate (O) at (0, 0);
+    
+    % Define points A, B, C on the circle
+    % A is at the top (90 degrees)
+    \coordinate (A) at (90:\radius);
+    
+    % B is at the bottom left (210 degrees)
+    \coordinate (B) at (210:\radius);
+    
+    % C is at the bottom right (330 degrees)
+    \coordinate (C) at (330:\radius);
 
-% Define the radius
-\def\r{1.5}
+    % Draw the circle
+    \draw (O) circle (\radius);
 
-% Center of circle
-\coordinate (O) at (0,0);
+    % Draw the triangle ABC (inscribed in the circle)
+    \draw (A) -- (B);
+    \draw (B) -- (C);
+    \draw (C) -- (A);
 
-% Draw the circle
-\draw[very thick] (O) circle (\r);
+    % Draw lines from center O to vertices B and C
+    \draw (O) -- (B);
+    \draw (O) -- (C);
 
-% Define vertices on the circle
-\coordinate (A) at (90:\r);      % Top
-\coordinate (B) at (210:\r);     % Bottom left
-\coordinate (C) at (330:\r);     % Bottom right
+    % Draw arc for angle x at vertex A (angle BAC)
+    % Angle from A to B is 210-90+180 = 240 degrees from A's perspective
+    % Angle from A to C is 330-90+180 = 300 degrees from A's perspective
+    \draw (A) ++(-60:0.6) arc (-60:-120:0.6);
 
-% Draw lines from center O to vertices B and C
-\draw[very thick] (O) -- (B);
-\draw[very thick] (O) -- (C);
+    % Draw arc for angle (x+20) at center O (angle BOC)
+    % Angle from O to C is 330 degrees, from O to B is 210 degrees
+    \draw (O) ++(330:0.7) arc (330:210:0.7);
 
-% Draw lines from A to B and C
-\draw[very thick] (A) -- (B);
-\draw[very thick] (A) -- (C);
+    % Label point A at the top
+    \node[above] at (A) {A};
+    
+    % Label point B at the bottom left
+    \node[below left] at (B) {B};
+    
+    % Label point C at the bottom right
+    \node[below right] at (C) {C};
+    
+    % Label center O
+    \node[above] at (0, 0.1) {O};
 
-% Angle arc at A (x°) - angle BAC inside - LARGER FONT
-\pic[draw, angle radius=5mm, angle eccentricity=1.8, "$x^{\circ}$" font=\normalsize] {angle=B--A--C};
+    % Label the angle x at vertex A
+    \node at (0, 2.62) {$x^{\circ}$};
 
-% Angle arc at O ((x+20)°) - angle BOC inside
-\pic[draw, angle radius=5mm, angle eccentricity=1.8, "$(x+20)^{\circ}$" font=\normalsize] {angle=B--O--C};
-
-% Vertex labels
-\node[above] at (A) {A};
-\node[left] at (B) {B};
-\node[right] at (C) {C};
-\node[above] at (O) {O};
+    % Label the angle (x+20) at center O
+    \node at (0, -1.1) {$(x + 20)^{\circ}$};
 
 \end{tikzpicture}
-\end{document}

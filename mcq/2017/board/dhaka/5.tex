@@ -1,0 +1,38 @@
+\begin{tikzpicture}
+
+    % Define coordinates for the right triangle
+    % C is at the left vertex
+    \coordinate (C) at (0, 0);
+    
+    % B is at the bottom right vertex (right angle)
+    \coordinate (B) at (4, 0);
+    
+    % A is at the top right vertex
+    \coordinate (A) at (4, 2.5);
+
+    % Draw the three sides of the triangle
+    % Draw side CB (horizontal base)
+    \draw (C) -- (B);
+    
+    % Draw side BA (vertical side)
+    \draw (B) -- (A);
+    
+    % Draw side AC (hypotenuse)
+    \draw (A) -- (C);
+
+    % Draw the right angle symbol at B
+    \draw (B) ++(-0.3, 0) -- ++(-0, 0.3) -- ++(0.3, 0);
+
+    % Draw the arc for the angle at C
+    \draw (C) ++(0:0.6) arc (0:32:0.6);
+
+    % Label point A at the top right
+    \node[above right] at (A) {A};
+    
+    % Label point B at the bottom right
+    \node[below right] at (B) {B};
+    
+    % Label point C at the left
+    \node[left] at (C) {C};
+
+\end{tikzpicture}

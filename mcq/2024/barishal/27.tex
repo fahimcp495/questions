@@ -1,0 +1,33 @@
+\begin{tikzpicture}[scale=1.0]
+
+    % Define coordinates for the points based on approximate proportions
+    % Point B at the origin
+    \coordinate (B) at (0,0);
+    % Point C on the x-axis
+    \coordinate (C) at (3.5,0);
+    % Point D extended further right on the x-axis
+    \coordinate (D) at (7,0);
+    % Point A at the top, creating roughly an isosceles triangle
+    \coordinate (A) at (1.75, 3.5);
+
+    % Draw the horizontal line segment BD
+    \draw[thick] (B) -- (D);
+
+    % Draw the triangle sides AB and AC
+    \draw[thick] (B) -- (A) -- (C);
+
+    % Draw the angle arc at Vertex A
+    % The angles are approximated based on the coordinates of A, B, and C
+    % (Vector AB is approx 243 degrees, Vector AC is approx 297 degrees)
+    \draw[semithick] (A) + (243:0.6cm) arc (243:297:0.6cm);
+
+    % Label the angle value inside the triangle
+    \node at (1.75, 2.7) {$40^{\circ}$};
+
+    % Place labels for the points exactly as shown in the image
+    \node[above] at (A) {A};
+    \node[left] at (B) {B};
+    \node[below] at (C) {C};
+    \node[right] at (D) {D};
+
+\end{tikzpicture}

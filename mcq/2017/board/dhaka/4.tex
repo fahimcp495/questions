@@ -1,0 +1,65 @@
+\begin{tikzpicture}
+
+    % Define coordinates for the upper horizontal line AB
+    \coordinate (A) at (0, 2);
+    \coordinate (B) at (5, 2);
+    
+    % Define coordinates for the lower horizontal line CD
+    \coordinate (C) at (0, 0);
+    \coordinate (D) at (5, 0);
+    
+    % Define point E on line AB (intersection with transversal)
+    \coordinate (E) at (3.5, 2);
+    
+    % Define point F on line CD (intersection with transversal)
+    \coordinate (F) at (1.5, 0);
+    
+    % Define point P above E (extension of transversal)
+    \coordinate (P) at (4.5, 3.2);
+    
+    % Define point Q below F (extension of transversal)
+    \coordinate (Q) at (0.5, -1.2);
+
+    % Draw the upper horizontal line AB
+    \draw (A) -- (B);
+    
+    % Draw the lower horizontal line CD
+    \draw (C) -- (D);
+    
+    % Draw the transversal line from Q through F and E to P
+    \draw (Q) -- (P);
+
+    % Draw the arc for the 120 degree angle at F (between FC and FE)
+    \draw (F) ++(180:0.5) arc (180:40:0.5);
+    
+    % Draw the arc for the angle at E (between EB and EP)
+    \draw (E) ++(0:0.55) arc (0:60:0.5);
+
+    % Label point A on the left of the upper line
+    \node[left] at (A) {A};
+    
+    % Label point B on the right of the upper line
+    \node[right] at (B) {B};
+    
+    % Label point C on the left of the lower line
+    \node[left] at (C) {C};
+    
+    % Label point D on the right of the lower line
+    \node[right] at (D) {D};
+    
+    % Label point E below the intersection on upper line
+    \node[below] at (E) {E};
+    
+    % Label point F below the intersection on lower line
+    \node[below right] at (F) {F};
+    
+    % Label point P at the upper end of transversal
+    \node[above right] at (P) {P};
+    
+    % Label point Q at the lower end of transversal
+    \node[below] at (Q) {Q};
+    
+    % Label the 120 degree angle at F
+    \node at (1.5, 0.25) {$120^{\circ}$};
+
+\end{tikzpicture}

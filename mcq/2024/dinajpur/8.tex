@@ -1,0 +1,52 @@
+\begin{tikzpicture}[scale=1.2]
+
+    % --- Define Coordinates ---
+    % Point A at origin
+    \coordinate (A) at (0,0);
+    % Point B on the x-axis, length 4 away (as per label 4)
+    \coordinate (B) at (4,0);
+    % Point E on the extension of line AB
+    \coordinate (E) at (7.5,0);
+    
+    % Point D determined by length 3 and an approximate angle.
+    % Visually, angle DAB is approx 70 degrees.
+    % D coordinates: x = 3*cos(70) ~ 1.02, y = 3*sin(70) ~ 2.8
+    \coordinate (D) at (1.1, 3);
+    
+    % Point C completes the parallelogram (D + vector AB)
+    \coordinate (C) at (5.1, 3);
+
+    % --- Draw Segments ---
+    % Draw the continuous base line from A to E
+    \draw[thick] (A) -- (E);
+    % Draw the other three sides of the parallelogram
+    \draw[thick] (A) -- (D) -- (C) -- (B);
+
+    % --- Labels for Points ---
+    \node[below left] at (A) {A};
+    \node[below] at (B) {B};
+    \node[right] at (C) {C};
+    \node[above left] at (D) {D};
+    \node[right] at (E) {E};
+
+    % --- Measurement Labels ---
+    % Length 3 for side AD (positioned to the left)
+    \node[left] at (0.5, 1.5) {3};
+    % Length 4 for side AB (positioned below)
+    \node[below] at (2, -0.1) {4};
+
+    % --- Angle Arcs and Values ---
+    
+    % Angle at D (Interior Angle ADC)
+    % Drawing arc from vector DA (approx -110 degrees) to vector DC (0 degrees)
+    \draw[thick] (D) +(-110:0.5cm) arc (-110:0:0.5cm);
+    % Label for angle D
+    \node at (2.4, 2.6) {$3x + 8^\circ$};
+
+    % Angle at B (Exterior Angle CBE)
+    % Drawing arc from vector BE (0 degrees) to vector BC (approx 70 degrees)
+    \draw[thick] (B) +(0:0.5cm) arc (0:70:0.5cm);
+    % Label for angle B
+    \node at (5.3, 0.7) {$2x + 7^\circ$};
+
+\end{tikzpicture}
