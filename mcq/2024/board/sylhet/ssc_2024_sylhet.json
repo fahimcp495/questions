@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_sylhet",
+    "title": "সিলেট বোর্ড - ২০২৪",
+    "titleEn": "সিলেট বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "sylhet",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{\\sin\\theta}\\sqrt{\\cosec^{2}\\theta-\\cot^{2}\\theta}=$ কত?",
+      "options": [
+        "$\\sin\\theta$",
+        "$\\cot\\theta$",
+        "$\\cosec\\theta$",
+        "$\\tan\\theta$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $\\csc^2\\theta - \\cot^2\\theta = 1$. \nপ্রদত্ত রাশি = $\\frac{1}{\\sin\\theta}\\sqrt{1} = \\frac{1}{\\sin\\theta} = \\csc\\theta$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.5\\dot{3}$ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": [
+        "$\\frac{53}{90}$",
+        "$\\frac{50}{90}$",
+        "$\\frac{53}{100}$",
+        "$\\frac{24}{45}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.5\\dot{3} = \\frac{53-5}{90} = \\frac{48}{90} = \\frac{8}{15}$.\nঅপশনগুলোর মধ্যে $\\frac{24}{45} = \\frac{8}{15}$, তাই সঠিক উত্তর $\\frac{24}{45}$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^{2}=3x$ এর সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{0\\}$",
+        "$\\{3\\}$",
+        "$\\{0, 3\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x^2 = 3x \\Rightarrow x^2 - 3x = 0 \\Rightarrow x(x-3) = 0$.\nসুতরাং, $x = 0$ অথবা $x = 3$. নির্ণেয় সমাধান সেট $\\{0, 3\\}$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": "একটি সিলিন্ডারের উচ্চতা $4$ সে.মি. এবং ভূমির ব্যাস $4$ সে.মি. হলে$-$\n$i$. এর বক্রতলের ক্ষেত্রফল $50.27$ বর্গ সে.মি.\n$ii$. এর সমগ্রতলের ক্ষেত্রফল $75.4$ বর্গ সে.মি.\n$iii$. এর আয়তন $201.06$ ঘন সে.মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "দেওয়া আছে, উচ্চতা $h=4$ সে.মি., ব্যাস $d=4$ সে.মি. $\\Rightarrow$ ব্যাসার্ধ $r=2$ সে.মি.\n$i.$ বক্রতলের ক্ষেত্রফল $= 2\\pi rh = 2 \\times 3.1416 \\times 2 \\times 4 \\approx 50.27$ বর্গ সে.মি. (সঠিক)\n$ii.$ সমগ্রতলের ক্ষেত্রফল $= 2\\pi r(r+h) = 2 \\times 3.1416 \\times 2(2+4) \\approx 75.40$ বর্গ সে.মি. (সঠিক)\n$iii.$ আয়তন $= \\pi r^2 h = 3.1416 \\times 2^2 \\times 4 \\approx 50.27$ ঘন সে.মি. (ভুল, প্রশ্নে দেওয়া 201.06)\nসঠিক উত্তর $i$ ও $ii$.",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x-5y-8=0$ এবং $ax+by+c=0$ সমীকরণদ্বয়ের তুলনায় $c$ এর মান কত?",
+      "options": [
+        "$-8$",
+        "$-4$",
+        "$8$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রদত্ত সমীকরণ $2x-5y-8=0$ কে আদর্শ সমীকরণ $ax+by+c=0$ এর সাথে তুলনা করলে পাই ধ্রুবক পদ $c = -8$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের প্রত্যেক বাহুর দৈর্ঘ্য 10 সে. মি. হলে এর মধ্যমার দৈর্ঘ্য কত?",
+      "options": [
+        "$5\\sqrt{3}$ সে.মি.",
+        "$3\\sqrt{5}$ সে.মি.",
+        "$75$ সে.মি.",
+        "$125$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $a=10$ সে.মি.।\nমধ্যমার দৈর্ঘ্য $= \\frac{\\sqrt{3}}{2}a = \\frac{\\sqrt{3}}{2} \\times 10 = 5\\sqrt{3}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি রম্বস অংকন করতে ন্যূনতম কতটি উপাত্ত প্রয়োজন?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "একটি রম্বস আঁকতে ন্যূনতম ২টি স্বতন্ত্র উপাত্তের প্রয়োজন হয় (যেমন: একটি বাহু ও একটি কোণ, অথবা দুটি কর্ণ)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_14",
+      "questionPreamble": "একটি বর্গক্ষেত্রের- \\n$i.$ ঘূর্ণন কোণ $90^{\\circ}$ \\n$ii.$ প্রতিসাম্য রেখার সংখ্যা 4 \\n$iii.$ ঘূর্ণন প্রতিসমতার মাত্রা 6",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$i.$ বর্গের ঘূর্ণন কোণ $360^{\\circ}/4 = 90^{\\circ}$। (সঠিক)\n$ii.$ বর্গের প্রতিসাম্য রেখা ৪টি (২টি কর্ণ ও ২য় বাহুর মধ্যমা)। (সঠিক)\n$iii.$ বর্গের ঘূর্ণন প্রতিসমতার মাত্রা ৪, প্রশ্নে ৬ দেওয়া আছে। (ভুল)\nসঠিক উত্তর $i$ ও $ii$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "অবনতি কোণের মান কত ডিগ্রি হলে একটি মিনারের দৈর্ঘ্য এবং ছায়ার দৈর্ঘ্য সমান হবে?",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ধরি মিনারের দৈর্ঘ্য $h$ এবং ছায়ার দৈর্ঘ্য $x$। প্রশ্নমতে $h=x$।\n$\\tan\\theta = \\frac{h}{x} = 1 \\Rightarrow \\theta = 45^{\\circ}$.",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "একটি গাছের উচ্চতা $2\\sqrt{3}$ মিটার। গাছের গোড়া হতে 6 মিটার দূরে উন্নতি কোণ কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "উচ্চতা $h=2\\sqrt{3}$ মি., ভূমি $b=6$ মি.।\n$\\tan\\theta = \\frac{2\\sqrt{3}}{6} = \\frac{\\sqrt{3}}{3} = \\frac{1}{\\sqrt{3}} \\Rightarrow \\theta = 30^{\\circ}$.",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin(90-3\\theta) = \\frac{1}{\\sqrt{2}}$ হলে $\\theta =$ কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sin(90-3\\theta) = \\cos 3\\theta$।\nপ্রশ্নমতে, $\\cos 3\\theta = \\frac{1}{\\sqrt{2}} = \\cos 45^{\\circ} \\Rightarrow 3\\theta = 45^{\\circ} \\Rightarrow \\theta = 15^{\\circ}$.",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{\\sqrt{3}}+\\frac{1}{3}+\\frac{1}{3\\sqrt{3}}+\\dots$ ধারাটির সপ্তম পদ নিচের কোনটি?",
+      "options": [
+        "$9\\sqrt{3}$",
+        "$27$",
+        "$27\\sqrt{3}$",
+        "$\\frac{1}{27\\sqrt{3}}$"
+      ],
+      "correctOption": 3,
+      "explanation": "ধারাটি একটি গুণোত্তর ধারা যার প্রথম পদ $a=\\frac{1}{\\sqrt{3}}$ এবং সাধারণ অনুপাত $r = \\frac{-1}{1/\\sqrt{3}} = -\\sqrt{3}$।\nসপ্তম পদ $= ar^{7-1} = ar^6 = \\frac{1}{\\sqrt{3}}(-\\sqrt{3})^6 = \\frac{1}{\\sqrt{3}} \\times 27 = 9\\sqrt{3}$।\n(নোট: উত্তরপত্রে এই প্রশ্নটিতে '*' চিহ্ন দেয়া আছে, যা সাধারণত প্রশ্নের ত্রুটি নির্দেশ করে, কিন্তু গাণিতিকভাবে সঠিক উত্তর $9\\sqrt{3}$ যা অপশন ক-তে আছে।)",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_13",
+      "questionPreamble": "$11 + 7 + 3 + \\dots -49$ ধারাটির$-$\n$i.$ সাধারণ অন্তর $-4$\n$ii.$ $9$ তম পদ $-43$\n$iii.$ পদসংখ্যা $16$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$i.$ সাধারণ অন্তর $d = 7-11 = -4$ (সঠিক)।\n$ii.$ ৯ম পদ $= a+8d = 11 + 8(-4) = 11-32 = -21$ (ভুল)।\n$iii.$ ধরি পদসংখ্যা $n$, তাহলে $a+(n-1)d = -49 \\Rightarrow 11+(n-1)(-4) = -49 \\Rightarrow (n-1)(-4) = -60 \\Rightarrow n-1=15 \\Rightarrow n=16$ (সঠিক)।\nসঠিক উত্তর $i$ ও $iii$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_12",
+      "questionPreamble": "$3x-y=12$ এবং $6x-2y=17$ সমীকরণদ্বয়$-$\n$i.$ পরস্পর অনির্ভরশীল\n$ii.$ পরস্পর সমঞ্জস\n$iii.$ এর একটিমাত্র সমাধান আছে",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "প্রদত্ত সমীকরণদ্বয়ে $\\frac{a_1}{a_2} = \\frac{3}{6} = \\frac{1}{2}$ এবং $\\frac{b_1}{b_2} = \\frac{-1}{-2} = \\frac{1}{2}$, কিন্তু $\\frac{c_1}{c_2} = \\frac{12}{17}$।\nযেহেতু $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$, তাই সমীকরণজোটটি অসমঞ্জস ও সমাধান নেই।\nতবে উত্তরপত্রে সঠিক উত্তর 'ঘ' ($i, ii, iii$) দেওয়া আছে। এটি তখনই সম্ভব যদি প্রশ্নে কোনো টাইপো থাকে (যেমন ২য় সমীকরণটি $6x+2y=17$ হলে জোটটি সমঞ্জস, অনির্ভরশীল ও একক সমাধানবিশিষ্ট হতো)। উত্তরপত্রের সাথে মিল রেখে এখানে অপশন 'ঘ' নির্বাচন করা হলো।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 2$ এবং এদের ল.সা.গু $42$ হলে সংখ্যা দুইটির গ.সা.গু কত?",
+      "options": [
+        "$6$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "correctOption": 1,
+      "explanation": "ধরি সংখ্যা দুটি $3x$ ও $2x$। যেখানে $x$ হলো গ.সা.গু।\nসংখ্যা দুটির ল.সা.গু = $3 \\times 2 \\times x = 6x$।\nপ্রশ্নমতে, $6x = 42 \\Rightarrow x = 7$।\nসুতরাং সংখ্যা দুটির গ.সা.গু $7$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x + y = \\sqrt{8}$ এবং $x - y = \\sqrt{5}$ হলে- \n$i$. $xy$ এর মান $\\frac{3}{4}$\n$ii$. $x^2 + y^2$ এর মান $\\frac{13}{2}$\n$iii$. $x^2 - y^2$ এর মান $\\sqrt{40}$\\n",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$i. \\ 4xy = (x+y)^2 - (x-y)^2 = (\\sqrt{8})^2 - (\\sqrt{5})^2 = 8-5=3 \\Rightarrow xy = \\frac{3}{4}$। (সঠিক)\n$ii. \\ 2(x^2+y^2) = (x+y)^2 + (x-y)^2 = 8+5=13 \\Rightarrow x^2+y^2 = \\frac{13}{2}$। (সঠিক)\n$iii. \\ x^2-y^2 = (x+y)(x-y) = \\sqrt{8} \\cdot \\sqrt{5} = \\sqrt{40}$। (সঠিক)\nসুতরাং $i, ii$ ও $iii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য $3$ সে.মি., $4$ সে.মি. এবং $5$ সে.মি. হলে এর পরিবৃত্তের কেন্দ্র কোথায় অবস্থিত?",
+      "options": [
+        "অতিভুজের উপর",
+        "লম্বের উপর",
+        "ত্রিভুজের অভ্যন্তরে",
+        "ত্রিভুজের বহির্ভাগে"
+      ],
+      "correctOption": 0,
+      "explanation": "দেওয়া বাহুগুলোর ক্ষেত্রে $3^2 + 4^2 = 9 + 16 = 25 = 5^2$। পিথাগোরাসের উপপাদ্য অনুযায়ী এটি একটি সমকোণী ত্রিভুজ। সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র অতিভুজের মধ্যবিন্দুতে অর্থাৎ অতিভুজের উপর অবস্থিত।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$\\sqrt{\\frac{5}{80}}$ কোন ধরনের সংখ্যা?",
+      "options": [
+        "স্বাভাবিক",
+        "অমূলদ",
+        "মূলদ",
+        "মৌলিক"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sqrt{\\frac{5}{80}} = \\sqrt{\\frac{1}{16}} = \\frac{1}{4} = 0.25$, যা একটি মূলদ সংখ্যা।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি ক্রমিক সমানুপাতীর প্রান্তীয় রাশি দুইটি $4$ এবং $16$ হলে এর মধ্য সমানুপাতী কত?",
+      "options": [
+        "$6$",
+        "$8$",
+        "$10$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "ধরি মধ্য সমানুপাতী $b$।\nআমরা জানি, $b^2 = ac$ (যেখানে $a$ ও $c$ প্রান্তীয় রাশি)।\n$b^2 = 4 \\times 16 = 64 \\Rightarrow b = \\sqrt{64} = 8$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক শ্রেণি কোনটি?",
+      "options": [
+        "$41-50$",
+        "$50.5-60.5$",
+        "$51-60$",
+        "$61-70$"
+      ],
+      "correctOption": 2,
+      "explanation": "এখানে মোট গণসংখ্যা $n = 4+18+22+18 = 62$।\n$\\frac{n}{2} = \\frac{62}{2} = 31$ তম পদটি মধ্যক।\nক্রমযোজিত গণসংখ্যা: $31-40$ (4), $41-50$ ($4+18=22$), $51-60$ ($22+22=44$)।\nযেহেতু ৩১ তম পদটি $22$ এর চেয়ে বড় এবং $44$ এর মধ্যে আছে, তাই মধ্যক শ্রেণি হলো $51-60$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_sylhet%2Fq20.svg?alt=media&token=f9e0ba7e-db1d-4347-b1a7-0e747f7ed400",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$22$",
+        "$51$",
+        "$55$",
+        "$56$"
+      ],
+      "correctOption": 3,
+      "explanation": "এখানে সর্বাধিক গণসংখ্যা $22$ আছে $51-60$ শ্রেণিতে। সুতরাং প্রচুরক শ্রেণি $51-60$।\n$L=51, f_1 = 22-18=4, f_2 = 22-18=4, h=10$।\nপ্রচুরক $= L + \\frac{f_1}{f_1+f_2} \\times h = 51 + \\frac{4}{4+4} \\times 10 = 51 + \\frac{4}{8} \\times 10 = 51+5 = 56$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x=\\sqrt{6},  y=\\sqrt{3}$ হলে $(x-y)^2 + 2xy$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$\\sqrt{18}$",
+        "$2\\sqrt{18}$",
+        "$9$"
+      ],
+      "correctOption": 3,
+      "explanation": "প্রদত্ত রাশি $= (x-y)^2 + 2xy = x^2 - 2xy + y^2 + 2xy = x^2 + y^2$।\nমান বসিয়ে পাই, $(\\sqrt{6})^2 + (\\sqrt{3})^2 = 6 + 3 = 9$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^4 - 7x^3 - 5$ হলে $f(-1) =$ কত?",
+      "options": [
+        "$3$",
+        "$1$",
+        "$-11$",
+        "$-13$"
+      ],
+      "correctOption": 0,
+      "explanation": "$f(-1) = (-1)^4 - 7(-1)^3 - 5 = 1 - 7(-1) - 5 = 1 + 7 - 5 = 3$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a+b=\\sqrt{3}, a-b=1$ হলে $4ab$ এর মান নিচের কোনটি?",
+      "options": [
+        "$4$",
+        "$\\sqrt{3}+1$",
+        "$2$",
+        "$\\sqrt{3}-1$"
+      ],
+      "correctOption": 2,
+      "explanation": "$4ab = (a+b)^2 - (a-b)^2 = (\\sqrt{3})^2 - (1)^2 = 3 - 1 = 2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$Q=\\{1, a\\}$ হলে $P(Q)$ নিচের কোনটি?",
+      "options": [
+        "$\\{1, a\\}$",
+        "$\\{1\\}, \\{a\\}, \\{1, a\\}$",
+        "$\\{1\\}, \\{a\\}, \\{1, a\\}, \\emptyset$",
+        "$\\{\\{1\\}, \\{a\\}, \\{1, a\\}, \\emptyset\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "সেট $Q=\\{1, a\\}$ এর শক্তিসেট $P(Q)$ এর উপাদানগুলো হলো $\\emptyset, \\{1\\}, \\{a\\}, \\{1, a\\}$। তবে প্রদত্ত উত্তরপত্রে সঠিক অপশন হিসেবে 'খ' চিহ্নিত করা হয়েছে যেখানে $\\emptyset$ অনুপস্থিত। বোর্ড উত্তরপত্র অনুযায়ী সঠিক উত্তর 'খ'।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{64}{(64)^x} = 16$ হলে $x$ এর মান কত?",
+      "options": [
+        "$4$",
+        "$\\frac{1}{3}$",
+        "$-\\frac{1}{3}$",
+        "$-4$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{64}{(64)^x} = 16 \\Rightarrow 64^{1-x} = 16 \\Rightarrow (4^3)^{1-x} = 4^2 \\Rightarrow 4^{3-3x} = 4^2$।\nসূচক সমান করে পাই, $3-3x = 2 \\Rightarrow 3x = 1 \\Rightarrow x = \\frac{1}{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{5.3^{x+1}-14.3^x}{3^x}$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$-1$",
+        "$-2$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{5 \\cdot 3^{x+1} - 14 \\cdot 3^x}{3^x} = \\frac{3^x(5 \\cdot 3^1 - 14)}{3^x} = 15 - 14 = 1$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        "$0.\\dot5\\dot3$",
+        "$0.80$",
+        "$\\sqrt{8}$",
+        "$\\sqrt{9}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sqrt{8} = 2\\sqrt{2}$। যেহেতু $\\sqrt{2}$ একটি অমূলদ সংখ্যা, তাই $\\sqrt{8}$ ও অমূলদ সংখ্যা। বাকি অপশনগুলো মূলদ।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০)নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তে $MN=6$ সে.মি.",
+      "question": "$PN$ চাপের দৈর্ঘ্য কত?",
+      "options": [
+        "$3.14$ সে.মি.",
+        "$6.28$ সে.মি.",
+        "$12.57$ সে.মি.",
+        "$40.84$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $\\triangle MON$ সমবাহু (কারণ $MN=6$ এবং $\\angle MON=60^{\\circ}$, তাহলে ব্যাসার্ধ $r=6$)।\nচিত্রানুযায়ী $OP$ রেখাংশ $\\angle MON$ কে সমদ্বিখণ্ডিত করে (অথবা $P$ চাপ $MN$-এর মধ্যবিন্দু)।\nতাহলে $\\angle PON = 30^{\\circ}$।\nচাপ $PN$-এর দৈর্ঘ্য $s = r\\theta = 6 \\times \\frac{30 \\times \\pi}{180} = 6 \\times \\frac{\\pi}{6} = \\pi \\approx 3.14$ সে.মি.।",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_sylhet%2Fq29.svg?alt=media&token=bd17ab17-1b53-4abb-a547-9f98d1ae5329",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তকলা $PON$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$4.71$ বর্গ সে.মি.",
+        "$9.42$ বর্গ সে.মি.",
+        "$18.85$ বর্গ সে.মি.",
+        "$40.84$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তকলা $PON$-এর কেন্দ্রে উৎপন্ন কোণ $30^{\\circ}$ এবং ব্যাসার্ধ $r=6$ সে.মি.।\nক্ষেত্রফল $= \\frac{\\theta}{360} \\times \\pi r^2 = \\frac{30}{360} \\times 3.1416 \\times 6^2 = \\frac{1}{12} \\times 3.1416 \\times 36 = 3 \\times 3.1416 = 9.4248 \\approx 9.42$ বর্গ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $MN=6$ সে.মি. এবং $\\angle MON = 60^{\\circ}$",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

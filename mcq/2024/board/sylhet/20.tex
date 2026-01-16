@@ -1,0 +1,27 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{array}
+\usepackage{fontspec}
+
+% Define the Bengali font available in Overleaf
+\newfontfamily\bengalifont[Script=Bengali]{Noto Serif Bengali}
+
+% Helper command for Bengali text
+\newcommand{\bn}[1]{{\bengalifont #1}}
+
+\begin{document}
+
+% We removed \begin{table} ... \end{table} because standalone 
+% crops automatically to the content.
+
+\renewcommand{\arraystretch}{1.4} % Increases row height
+\begin{tabular}{|c|c|c|c|c|}
+    \hline
+    % Row 1: Headers and Ranges
+    \bn{শ্রেণি ব্যাপ্তি} & 31--40 & 41--50 & 51--60 & 61--70 \\ 
+    \hline
+    % Row 2: Frequency Data
+    \bn{গণসংখ্যা}    & 4      & 18     & 22     & 18     \\ 
+    \hline
+\end{tabular}
+
+\end{document}
