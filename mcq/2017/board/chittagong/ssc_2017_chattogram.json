@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2017_chattogram",
+    "title": "চট্টগ্রাম বোর্ড - ২০১৭",
+    "titleEn": "চট্টগ্রাম বোর্ড - ২০১৭",
+    "year": 2017,
+    "type": "board",
+    "board": "chattogram",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_14",
+      "questionPreamble": "",
+      "question": "বর্গের কত মাত্রার ঘূর্ণন প্রতিসমতা আছে?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$x + y = 6$, $x - y = 4$ হলে এর $(x, y)$ মান নিচের কোনটি?",
+      "options": [
+        "$(6, 4)$",
+        "$(4, 6)$",
+        "$(5, 1)$",
+        "$(1, 5)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$ABCD$ সামান্তরিকের$-$\n$i.$ $AB \\parallel CD$\n$ii.$ $AC$ ক্ষুদ্রতম কর্ণ\n$iii.$ $\\angle DAC = \\angle BAC$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq03.svg?alt=media&token=67c6513d-37a9-431b-be65-1eed7b471460",
+      "imageCaption": "ABCD সামান্তরিক যেখানে কর্ণদ্বয় AC ও BD পরস্পরকে ছেদ করেছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_12",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ৪ ও ৫ নং প্রশ্নের উত্তর দাও :\nদুই অঙ্কবিশিষ্ট একটি সংখ্যার দশক স্থানীয় অঙ্ক একক স্থানীয় অঙ্কের তিনগুণ।",
+      "question": "একক স্থানীয় অঙ্ক $x$ হলে, সংখ্যাটি কত?",
+      "options": [
+        "$x$",
+        "$3x$",
+        "$30x$",
+        "$31x$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_12",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ৪ ও ৫ নং প্রশ্নের উত্তর দাও :\nদুই অঙ্কবিশিষ্ট একটি সংখ্যার দশক স্থানীয় অঙ্ক একক স্থানীয় অঙ্কের তিনগুণ।",
+      "question": "অঙ্কদ্বয় স্থান বিনিময় করলে সংখ্যাটি কত হবে?",
+      "options": [
+        "$11x$",
+        "$13x$",
+        "$30x$",
+        "$31x$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a : b = 3 : 4$ হলে, $2a : 4b =$ কত?",
+      "options": [
+        "$3 : 8$",
+        "$6 : 8$",
+        "$8 : 3$",
+        "$12 : 16$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\phi$, $B = \\{a\\}$ হলে, $A \\cup B =$ কত?",
+      "options": [
+        "$\\phi$",
+        "$\\{\\phi\\}$",
+        "$\\{a\\}$",
+        "$\\{a, \\phi\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^{2} - a - 6$ এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?",
+      "options": [
+        "$(a + 2)(a - 3)$",
+        "$(a - 2)(a - 3)$",
+        "$(a - 2)(a + 3)$",
+        "$(a + 2)(a + 3)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি সুষম বহুভুজ?",
+      "options": [
+        "ত্রিভুজ",
+        "বর্গক্ষেত্র",
+        "পঞ্চভুজ",
+        "ষড়ভুজ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস $4$ সে.মি. এবং ব্যাস ভিন্ন জ্যা $2$ সে.মি. হলে এর$-$\n$i.$ ক্ষেত্রফল $16\\pi$ বর্গ সে.মি.\n$ii.$ পরিধি $8\\pi$ সে.মি.\n$iii.$ কেন্দ্র থেকে ব্যাস ভিন্ন জ্যা-এর উপর অঙ্কিত লম্বের দৈর্ঘ্য $\\sqrt{3}$ সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১১ ও ১২ নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক শ্রেণির নিম্নসীমা কত?",
+      "options": [
+        "$11$",
+        "$21$",
+        "$31$",
+        "$41$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq11.svg?alt=media&token=3d8c19f3-b865-40e3-9590-4ed4e43e4b3f",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১১ ও ১২ নং প্রশ্নের উত্তর দাও :",
+      "question": "উপস্থাপিত উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$34.33$",
+        "$37.67$",
+        "$44.33$",
+        "$46.00$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$AB$ এর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$8\\sqrt{3}$",
+        "$5\\sqrt{3}$",
+        "$5\\sqrt{2}$",
+        "$5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq13.svg?alt=media&token=b8f4ad28-4d1b-454b-bd2a-c0a66d448382",
+      "imageCaption": "সমকোণী ত্রিভুজ যেখানে একটি কোণ 60°, বিপরীত বাহু 10 ft এবং AB নির্ণেয়",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$ABCD$ সামান্তরিকের ক্ষেত্রফল $120$ বর্গ মি. । $\\triangle ABE$ এর ক্ষেত্রফল কত বর্গ মি.?",
+      "options": [
+        "$40$",
+        "$60$",
+        "$90$",
+        "$120$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq14.svg?alt=media&token=243ca995-88f2-4fa4-9858-56e052e9fe30",
+      "imageCaption": "ABCD সামান্তরিক যেখানে E বিন্দু DC বাহুর উপর অবস্থিত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$20.20$ সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "নিচের কোনটির জন্য পাশের ছকটি সঠিক?",
+      "options": [
+        "$y = x - 4$",
+        "$y = 8 - x$",
+        "$y = 4 - 2x$",
+        "$y = 2x - 4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq16.svg?alt=media&token=33affc7e-d5a5-40b3-b94d-ff50c1603afc",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে, $E$ ও $F$ যথাক্রমে $AB$ ও $AC$ এর মধ্যবিন্দু হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$AB \\parallel AC$",
+        "$AB = BC$",
+        "$BC = EF$",
+        "$BC = 2EF$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq17.svg?alt=media&token=450f887d-e3de-4a2a-a698-73c7263acf7f",
+      "imageCaption": "ত্রিভুজ ABC যেখানে E ও F যথাক্রমে AB ও AC এর মধ্যবিন্দু এবং EF সংযুক্ত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $ABCD$ চতুর্ভুজ অন্তর্লিখিত হলে$-$\n$i.$ $\\angle ABC = \\frac{1}{2}$ (কেন্দ্রস্থ $\\angle AOC$)\n$ii.$ $\\angle AOC +$ প্রবৃদ্ধ $\\angle AOC =$ দুই সমকোণ\n$iii.$ $\\angle BAD + \\angle BCD =$ দুই সমকোণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq18.svg?alt=media&token=84d95521-e411-42fe-b221-afbf092f21a3",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে ABCD চতুর্ভুজ অন্তর্লিখিত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_06",
+      "questionPreamble": "চিত্রের তথ্য অনুসারে নিচের ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :\n$AB = BC = AC = 6$ সে.মি. এবং $D$, $BC$ এর মধ্যবিন্দু",
+      "question": "$BD =$ কত সে.মি.?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq19.svg?alt=media&token=3cd21ef8-c8b0-48fd-adc4-ae3166328267",
+      "imageCaption": "সমবাহু ত্রিভুজ ABC যেখানে D বিন্দু BC এর মধ্যবিন্দু এবং AD লম্ব",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": "চিত্রের তথ্য অনুসারে নিচের ১৯ ও ২০ নং প্রশ্নের উত্তর দাও :\n$AB = BC = AC = 6$ সে.মি. এবং $D$, $BC$ এর মধ্যবিন্দু",
+      "question": "ত্রিভুজটির উচ্চতা কত সে.মি.?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{3\\sqrt{3}}{2}$",
+        "$3\\sqrt{3}$",
+        "$2\\sqrt{13}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "সমবাহু ত্রিভুজ ABC যেখানে D বিন্দু BC এর মধ্যবিন্দু এবং AD লম্ব",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_01",
+      "questionPreamble": "",
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 4$ এবং তাদের গ.সা.গু. $3$ হলে, সংখ্যা দুইটির ল.সা.গু. কত?",
+      "options": [
+        "$4$",
+        "$9$",
+        "$12$",
+        "$36$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\frac{\\sqrt{12}}{3}$",
+        "$\\frac{\\sqrt{8}}{2}$",
+        "$\\frac{5}{\\sqrt{5}}$",
+        "$\\frac{\\sqrt{18}}{\\sqrt{2}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_01",
+      "questionPreamble": "",
+      "question": "$0.2\\dot{4}$ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": [
+        "$\\frac{8}{33}$",
+        "$\\frac{11}{45}$",
+        "$\\frac{4}{15}$",
+        "$\\frac{8}{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^{2} - 2x + 3$ হলে, $f\\left(\\frac{1}{2}\\right)$ এর মান কত?",
+      "options": [
+        "$-\\frac{7}{4}$",
+        "$\\frac{7}{4}$",
+        "$\\frac{9}{4}$",
+        "$\\frac{11}{4}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে, $PQ \\parallel RS$ হলে$-$\n$i.$ $\\angle ACQ =$ অনুরূপ $\\angle CDS$\n$ii.$ $\\angle PCD =$ একান্তর $\\angle CDS$\n$iii.$ $\\angle QCD + \\angle CDS =$ দুই সমকোণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq25.svg?alt=media&token=3f85e469-fc29-46c1-9f4f-b0942b8ecb7d",
+      "imageCaption": "দুইটি সমান্তরাল রেখা PQ এবং RS যাদের একটি ছেদক রেখা ABC এবং D বিন্দুতে RS কে ছেদ করেছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$2^{x+1} = 8$ হলে $x$ এর মান কত?",
+      "options": [
+        "$-1$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ২৭ ও ২৮ নং প্রশ্নের উত্তর দাও :\n$x + y = 4$ এবং $xy = 1$",
+      "question": "$x - y$ এর মান কত?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$\\sqrt{14}$",
+        "$3\\sqrt{2}$",
+        "$2\\sqrt{5}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ২৭ ও ২৮ নং প্রশ্নের উত্তর দাও :\n$x + y = 4$ এবং $xy = 1$",
+      "question": "$x^{3} + y^{3}$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$24$",
+        "$52$",
+        "$76$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তে কোনো একটি বিন্দুতে কতটি স্পর্শক অঙ্কন করা সম্ভব?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan \\theta$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{4}{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_chattogram%2Fq30.svg?alt=media&token=abf1c376-e330-4017-868b-b4db91031428",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC যেখানে B তে সমকোণ, BC = 3, AB = 4 এবং C তে θ কোণ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

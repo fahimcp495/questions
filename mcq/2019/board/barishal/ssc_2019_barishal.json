@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2019_barishal",
+    "title": "বরিশাল বোর্ড - ২০১৯",
+    "titleEn": "বরিশাল বোর্ড - ২০১৯",
+    "year": 2019,
+    "type": "board",
+    "board": "barishal",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $f(y)=\\frac{3y+1}{y-1}$ হলে, $f(-1)$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$-1$",
+        "$-2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "চিত্রে $BC$ রেখার দৈর্ঘ্য কত?",
+      "options": [
+        "$10.5$ সে.মি.",
+        "$11.5$ সে.মি.",
+        "$12.0$ সে.মি.",
+        "$13.0$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq02.svg?alt=media&token=caff2f70-b068-4d33-a90b-67550f57da9e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$5x^2 - x - 4 = 0$ সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\left( -\\frac{4}{5}, 1\\right)$",
+        "$\\left( -1, \\frac{4}{5}\\right)$",
+        "$\\left( -1, -\\frac{4}{5} \\right)$",
+        "$\\left( 1, \\frac{4}{5} \\right)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "অবনতি কোণের মান কত ডিগ্রী হলে খুঁটির দৈর্ঘ্য ছায়ার দৈর্ঘ্যের $\\sqrt{3}$ গুণ হবে?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য $3$ সে.মি. এবং $8$ সে.মি. হলে তৃতীয় বাহুর দৈর্ঘ্য নিচের কোনটি?",
+      "options": [
+        "$3$ সে.মি.",
+        "$4$ সে.মি.",
+        "$6$ সে.মি.",
+        "$11$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "প্রথম $100$ টি স্বাভাবিক সংখ্যার যোগফল কত?",
+      "options": [
+        "$1000$",
+        "$5000$",
+        "$5050$",
+        "$5100$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্য থেকে ৭ ও ৮নং প্রশ্নের উত্তর দাও:\n $[AC = 24\\text{ cm}, BD = 18\\text{ cm}]$",
+      "question": "$ABCD$ রম্বসের ক্ষেত্রফল কত?",
+      "options": [
+        "$84$ বর্গ সে.মি.",
+        "$108$ বর্গ সে.মি.",
+        "$216$ বর্গ সে.মি.",
+        "$432$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq07.svg?alt=media&token=00fbb4dd-533e-411a-b1c6-ba391b98acfa",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$ABCD$ রম্বসের পরিসীমা কত?",
+      "options": [
+        "$84$ সে.মি.",
+        "$60$ সে.মি.",
+        "$42$ সে.মি.",
+        "$15$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{27}\\sqrt{3}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{9}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.\\dot{4} \\times 0.\\dot{3} = ?$",
+      "options": [
+        "$1.\\dot2$",
+        "$0.1\\dot2$",
+        "$0.\\dot10\\dot2$",
+        "$0.\\dot{1}4\\dot{8}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$U$ সার্বিক সেট এবং $A$ সেটটি $U$ এর উপসেট হলে$-$\n$i.$ $A^C \\cup A = U$\n$ii.$ $A^C \\cap A = \\phi$\n$iii.$ $A \\cup U = A^C$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$2x - \\frac{1}{3x} = 2$ হলে, $3x - \\frac{1}{2x}$ এর মান কত?",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$1$",
+        "$\\frac{3}{2}$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$'A'$ একটি কাজ $x$ দিনে করতে পারে। $'B'$ ঐ কাজ $y$ দিনে করতে পারে। তারা একত্রে কত দিনে কাজটি শেষ করতে পারবে?",
+      "options": [
+        "$xy$ দিনে",
+        "$(x-y)$ দিনে",
+        "$\\frac{x+y}{xy}$ দিনে",
+        "$\\frac{xy}{x+y}$ দিনে"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$a, b, c$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $b^2 = ac$\n$ii.$ $b = \\frac{a+c}{2}$\n$iii.$ $\\frac{a+b}{b} = \\frac{b+c}{c}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$a, b, c \\in R; a > b > 0$ এবং $c < 0$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$ac = bc$",
+        "$ac > bc$",
+        "$ac < bc$",
+        "$ab < bc$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$a+\\frac{1}{a}=2$ এবং $a>0$ হলে$-$\n$i.$ $a^2+\\frac{1}{a^2}=2$\n$ii.$ $a^3-\\frac{1}{a^3}=0$\n$iii.$ $a^4+\\frac{1}{a^4}=4$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin 3\\theta = \\cos 3\\theta$, হলে $\\theta$ এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$15^{\\circ}$",
+        "$20^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের অন্তর্বৃত্তের ব্যাসার্ধ $3$ সে.মি. হলে বর্গের বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        "$\\sqrt{3}$ সে.মি.",
+        "$\\sqrt{6}$ সে.মি.",
+        "$3$ সে.মি.",
+        "$6$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $O$ বৃত্তের কেন্দ্র এবং $\\angle AOB = 60^{\\circ}$ হলে $\\angle ACB = কত?$",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq19.svg?alt=media&token=42afa8ca-f17a-4943-9c20-795f57d2a15c",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে, রাস্তার চওড়া $2$ মিটার হলে, রাস্তা দুটির ক্ষেত্রফল কত?",
+      "options": [
+        "$16$ বর্গমিটার",
+        "$32$ বর্গমিটার",
+        "$36$ বর্গমিটার",
+        "$40$ বর্গমিটার"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq20.svg?alt=media&token=696eb941-351f-478a-8225-e28c9c4247ba",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে, $PQ = $ কত?",
+      "options": [
+        "$7.5$ m",
+        "$10.0$ m",
+        "$12.5$ m",
+        "$15.0$ m"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq21.svg?alt=media&token=f5f7c136-95cc-4a23-8248-b298f949f6ef",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{5^x}{5} = \\frac{3^x}{3}$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$\\frac{5}{3}$",
+        "$\\frac{3}{5}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $5 : 6$ এবং তাদের ল.সা.গু. $150$ হলে গ.সা.গু. কত?",
+      "options": [
+        "$5$",
+        "$6$",
+        "$11$",
+        "$30$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1 - 1 + 1 - 1 + \\dots$ ধারাটির প্রথম $2n$ পদের সমষ্টি কত?",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$0$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তকলা $AOB$ এর ক্ষেত্রফল কত? $[\\pi = 3.14]$",
+      "options": [
+        "$1.96$ বর্গমিটার (প্রায়)",
+        "$3.93$ বর্গমিটার (প্রায়)",
+        "$9.81$ বর্গমিটার (প্রায়)",
+        "$78.5$ বর্গমিটার (প্রায়)"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq25.svg?alt=media&token=3c0f1bd4-aa06-4138-915b-0cc7223ab728",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তে অন্তলিখিত সামান্তরিক একটি$-$",
+      "options": [
+        "বর্গক্ষেত্র",
+        "আয়তক্ষেত্র",
+        "রম্বস",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৭ ও ২৮নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রদত্ত সারণির মধ্যক কত?",
+      "options": [
+        "$33$",
+        "$38$",
+        "$38.33$ (প্রায়)",
+        "$43.33$ (প্রায়)"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2019_barishal%2Fq27.svg?alt=media&token=b295f7b1-4e42-47b8-8b7c-f7b578b1f19f",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত সারণির প্রচুরক কত?",
+      "options": [
+        "$46.67$ (প্রায়)",
+        "$41.67$ (প্রায়)",
+        "$38.33$ (প্রায়)",
+        "$37.50$ (প্রায়)"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_14",
+      "questionPreamble": "একটি বর্গক্ষেত্রের$-$\n$i.$ প্রতিসাম্য রেখা $4$\n$ii.$ ঘূর্ণন প্রতিসমতার মাত্রা $6$\n$iii.$ ঘূর্ণন কোণ $90^{\\circ}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$x+2y=10; 2x+4y=18$ সমীকরণ জোটটি$-$",
+      "options": [
+        "সমঞ্জস",
+        "সমাধান অসংখ্য",
+        "একটি মাত্র সমাধান আছে",
+        "অনির্ভরশীল"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
