@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2017_cumilla",
+    "title": "কুমিল্লা বোর্ড - ২০১৭",
+    "titleEn": "কুমিল্লা বোর্ড - ২০১৭",
+    "year": 2017,
+    "type": "board",
+    "board": "comilla",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$(3, -5)$ বিন্দুটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        "প্রথম",
+        "দ্বিতীয়",
+        "তৃতীয়",
+        "চতুর্থ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1-1+1-1+1-1+...$ গুণোত্তর ধারাটির প্রথম $(2n + 1)$ সংখ্যক পদের সমষ্টি কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সুষম পঞ্চভুজের প্রতিটি শীর্ষ কোণের পরিমাপ কত?",
+      "options": [
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$108^\\circ$",
+        "$120^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$48$",
+        "$96$",
+        "$192$",
+        "$400$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq04.svg?alt=media&token=78b4b848-32c4-40db-9c6b-37c27bc33cc2",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "অজিভ রেখার ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        "ঊর্ধ্বগামী",
+        "নিম্নগামী",
+        "সমান্তরাল",
+        "উলম্ব"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলকের উদাহরণ?",
+      "options": [
+        "বয়স",
+        "তাপমাত্রা",
+        "জনসংখ্যা",
+        "ওজন"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$(2, 3)$ বিন্দুটি নিচের কোন সমীকরণের লেখচিত্রের উপর অবস্থিত?",
+      "options": [
+        "$x - y = 1$",
+        "$2x + y = 7$",
+        "$x + 3y = 5$",
+        "$2x + y = 6$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a - b = 2, ab = 3$ হলে, $a^3 - b^3$ এর মান কত?",
+      "options": [
+        "$-10$",
+        "$-1$",
+        "$17$",
+        "$26$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\sqrt{729}$",
+        "$\\sqrt{11}$",
+        "$\\frac{\\sqrt{7}}{3}$",
+        "$3.2354678\\dots$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = \\frac{x-3}{x+1}$ হলে, $f(0) = $ কত?",
+      "options": [
+        "$-6$",
+        "$-3$",
+        "$-2$",
+        "$0$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(x^2 + 1)^2 = 5x^2$ হলে, $x + \\frac{1}{x}$ এর মান কত?",
+      "options": [
+        "$\\sqrt{5}$",
+        "$2\\sqrt{5}$",
+        "$5$",
+        "$5\\sqrt{5}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x(2x-3) = \\frac{1}{2}$ হলে,\n$i.$ $4x^2 - \\frac{1}{4x^2} = 3\\sqrt{13}$\n$ii.$ $\\left(2x + \\frac{1}{2x}\\right)^2 = 13$\n$iii.$ $4x^2 + \\frac{1}{4x^2} = 11$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$35.37$ সংখ্যাটির লগের পূর্ণক কত?",
+      "options": [
+        "$-1$",
+        "$1$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3\\%$ হার মুনাফায় $10,000$ টাকা $3$ বছরের জন্য বিনিয়োগ করা হলে চক্রবৃদ্ধি মুনাফা কত টাকা?",
+      "options": [
+        "$92.727$",
+        "$927.27$",
+        "$9272.7$",
+        "$10,927.27$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$8^{x+3} = 64$ হলে, $x$-এর মান কত?",
+      "options": [
+        "$-6$",
+        "$-3$",
+        "$-1$",
+        "3"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_05",
+      "questionPreamble": "অভেদ এর ক্ষেত্রে$-$\n$i.$ সকল বীজগাণিতীয় সূত্রই অভেদ\n$ii.$ সকল অভেদই সমীকরণ\n$iii.$ সকল সমীকরণই অভেদ",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি ত্রি-মাত্রিক বস্তু?",
+      "options": [
+        "রশ্মি",
+        "রেখা",
+        "তল",
+        "গোলক"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": "$DE\\ ||\\ BC$ এবং $BD\\ ||\\ CF$\nউপরের তথ্যের আলোকে ১৮ ও ১৯ নং প্রশ্নের উত্তর দাও।",
+      "question": "$\\angle BDE = $ কত?",
+      "options": [
+        "$70^\\circ$",
+        "$100^\\circ$",
+        "$110^\\circ$",
+        "$120^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq18.svg?alt=media&token=c08ce7dc-e678-4211-b064-7a73cf6b5295",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ABC + \\angle ACB = $ কত?",
+      "options": [
+        "$90^\\circ$",
+        "$100^\\circ$",
+        "$110^\\circ$",
+        "$120^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "$AC = 5$ একক, $AB = 4$ একক",
+      "question": "$ABCD$ ক্ষেত্রের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$18$",
+        "$20$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq20.svg?alt=media&token=a67cc13a-3af7-49bf-ba83-dd71aeb70dc1",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle RQT = $ কত ডিগ্রি?",
+      "options": [
+        "$64$",
+        "$76$",
+        "$84$",
+        "$104$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq21.svg?alt=media&token=02044d95-b71a-4371-b70c-6db0ee235a91",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\theta = 0^\\circ$ কোণের ক্ষেত্রে$-$\n$i.$ $cosec\\theta$ ও $cot\\theta$ এর মান অসংজ্ঞায়িত\n$ii.$ প্রান্তীয় বাহু ও আদিবাহু একই রশ্মি\n$iii.$ $sec\\theta$ ও $tan\\theta$ এর মান সংজ্ঞায়িত",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "ভূমিতলের উপর লম্ব রেখাকে কী বলে?",
+      "options": [
+        "ঊর্ধ্বরেখা",
+        "অধঃরেখা",
+        "ভূ$-$রেখা",
+        "শয়ন রেখা"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_10",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও।",
+      "question": "$QR = $ কত মিটার?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{3}$",
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq24.svg?alt=media&token=383fb037-40d8-4315-bffd-d7839f80affd",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$PR$ এর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$\\frac{3\\sqrt{3}}{2}$",
+        "$3\\sqrt{3}$",
+        "$\\sqrt{36}$",
+        "$6\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$a : b = 3 : 4, b : c = 6 : 7$ হলে,\n$a : b : c = $ কত?",
+      "options": [
+        "$3 : 6 : 7$",
+        "$4 : 6 : 7$",
+        "$7 : 12 : 14$",
+        "$9 : 12 : 14$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$p, q, r$ তিনটি সমানুপাতিক রাশি হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        "$p^2 = qr$",
+        "$q^2 = pr$",
+        "$pq = qr$",
+        "$r^2 = pq$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_10",
+      "questionPreamble": "চিত্রে$-$\n$i.$ $\\angle ACB = 60^\\circ$\n$ii.$ $AB = 20\\sqrt{3}$ মিটার\n$iii.$ $AC = 40$ মিটার",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2017_cumilla%2Fq28.svg?alt=media&token=430344ed-96e1-477c-bedc-f0b3db91fd60",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৯ ও ৩০ নং প্রশ্নের উত্তর দাও।\nদুটি সংখ্যার অনুপাত $3 : 4$ এবং তাদের গ.সা.গু $4$।",
+      "question": "সংখ্যা দুটির বর্গের সমষ্টি কত?",
+      "options": [
+        "$25$",
+        "$28$",
+        "$49$",
+        "$400$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "সংখ্যা দুটির ল.সা.গু. কত?",
+      "options": [
+        "$28$",
+        "$48$",
+        "$72$",
+        "$96$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
