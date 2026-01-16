@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_rajshahi",
+    "title": "রাজশাহী বোর্ড - ২০২৪",
+    "titleEn": "রাজশাহী বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "rajshahi",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan (\\theta - 45^{\\circ}) = \\sqrt{3}$ হলে, $\\theta$ এর মান কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$60^{\\circ}$",
+        "$75^{\\circ}$",
+        "$105^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "আমরা জানি, $\\tan 60^{\\circ} = \\sqrt{3}$।\nসুতরাং, $\\tan (\\theta - 45^{\\circ}) = \\tan 60^{\\circ}$\nবা, $\\theta - 45^{\\circ} = 60^{\\circ}$\nবা, $\\theta = 60^{\\circ} + 45^{\\circ} = 105^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি রম্বস আঁকতে কতটি উপাত্ত প্রয়োজন?",
+      "options": [
+        "2টি",
+        "3টি",
+        "4টি",
+        "5টি"
+      ],
+      "correctOption": 0,
+      "explanation": "একটি রম্বস আঁকতে ২টি স্বতন্ত্র উপাত্তের প্রয়োজন হয় (যেমন: একটি বাহু ও একটি কোণ, অথবা দুটি কর্ণ)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি কোণের অনুপাত $2 : 3 : 5$ হলে, বৃহত্তম কোণটি ক্ষুদ্রতম কোণটির কতগুণ?",
+      "options": [
+        "$\\frac{5}{2}$ গুণ",
+        "$\\frac{5}{3}$ গুণ",
+        "$\\frac{3}{5}$ গুণ",
+        "$\\frac{2}{5}$ গুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "কোণগুলো $2x, 3x, 5x$ হলে, $2x+3x+5x = 180^{\\circ} \\Rightarrow 10x = 180^{\\circ} \\Rightarrow x=18^{\\circ}$।\nবৃহত্তম কোণ $5x = 90^{\\circ}$ এবং ক্ষুদ্রতম কোণ $2x = 36^{\\circ}$।\nঅনুপাত = $\\frac{90}{36} = \\frac{5}{2}$ = $2.5$ গুণ।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{a}{2} = \\frac{b}{3} = \\frac{c}{4}$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$a : b : c = 2 : 3 : 4$",
+        "$a : b : c = 4 : 3 : 2$",
+        "$a : b : c = 8 : 9 : 6$",
+        "$a : b : c = 6 : 8 : 9$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি $\\frac{a}{2} = \\frac{b}{3} = \\frac{c}{4} = k$। সুতরাং $a=2k, b=3k, c=4k$।\nঅতএব, $a:b:c = 2k:3k:4k = 2:3:4$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_16",
+      "questionPreamble": "$3$ সে.মি. ধারবিশিষ্ট ঘনকের—\ni. আয়তন $27$ ঘন সে.মি.\nii. কর্ণের দৈর্ঘ্য $3\\sqrt{3}$ সে.মি.\niii. সম্পূর্ণ তলের ক্ষেত্রফল $54$ বর্গ সে.মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i $ও$ ii$",
+        "$i$ ও$ iii$",
+        "$ii$ও$ iii$",
+        "$i$,$ ii $ও$ iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ধার $a=3$।\ni. আয়তন $a^3 = 3^3 = 27$ (সঠিক)।\nii. কর্ণ $\\sqrt{3}a = 3\\sqrt{3}$ (সঠিক)।\niii. তল $6a^2 = 6 \\times 3^2 = 54$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": "উদ্দীপকের আলোকে ৬ ও ৭ নং প্রশ্নের উত্তর দাও :\\n$\\frac{\\sin \\theta}{x} = \\frac{\\cos \\theta}{y}$",
+      "question": "$\\frac{x}{y} = 1$ হলে, $\\theta = $ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "দেওয়া আছে, $\\frac{\\sin \\theta}{x} = \\frac{\\cos \\theta}{y} \\Rightarrow \\frac{\\sin \\theta}{\\cos \\theta} = \\frac{x}{y}$।\nযেহেতু $\\frac{x}{y}=1$, তাই $\\tan \\theta = 1$।\n$\\tan \\theta = \\tan 45^{\\circ} \\Rightarrow \\theta = 45^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta =$ কত?",
+      "options": [
+        "$\\frac{x}{\\sqrt{x^2+y^2}}$",
+        "$\\frac{y}{\\sqrt{x^2+y^2}}$",
+        "$\\frac{x}{\\sqrt{x^2-y^2}}$",
+        "$\\frac{y}{\\sqrt{x^2-y^2}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি $\\frac{\\sin \\theta}{x} = \\frac{\\cos \\theta}{y} = k$। তাহলে $\\sin \\theta = kx, \\cos \\theta = ky$।\nআমরা জানি, $\\sin^2 \\theta + \\cos^2 \\theta = 1 \\Rightarrow k^2x^2 + k^2y^2 = 1 \\Rightarrow k = \\frac{1}{\\sqrt{x^2+y^2}}$।\nসুতরাং, $\\sin \\theta = kx = \\frac{x}{\\sqrt{x^2+y^2}}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x + 3y = -4$ এবং $x = 1$ হলে, $y =$ কত?",
+      "options": [
+        "$4$",
+        "$-1$",
+        "$-2$",
+        "$-4$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x=1$ বসিয়ে পাই: $2(1) + 3y = -4 \\Rightarrow 3y = -4 - 2 \\Rightarrow 3y = -6 \\Rightarrow y = -2$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "চিত্রে, $ABCD$ একটি আয়ত হলে,\n$\\Delta ADE$ এর ক্ষেত্রফল কোনটির সমান।",
+      "options": [
+        "$\\square ABCD$ এর ক্ষেত্রফল",
+        "$\\square ABFD$ এর ক্ষেত্রফল",
+        "$\\Delta CDF$ এর ক্ষেত্রফল",
+        "$\\Delta BEF$ এর ক্ষেত্রফল"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $AB$ এবং $BE$ সমান (চিহ্ন অনুযায়ী)। সুতরাং $AE = AB + BE = 2AB$।\n$\\Delta ADE$-এর ভূমি $AE$ এবং উচ্চতা $AD$।\nক্ষেত্রফল = $\\frac{1}{2} \\times \\text{ভূমি} \\times \\text{উচ্চতা} = \\frac{1}{2} \\times (2AB) \\times AD = AB \\times AD$।\nযা $ABCD$ আয়তক্ষেত্রের ক্ষেত্রফলের সমান।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/1okd0hc.png",
+      "imageCaption": null,
+      "imagePosition": "inlineEnd",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্যের ক্রয়মূল্য : বিক্রয়মূল্য = $5 : 6$ হলে শতকরা লাভ কত?",
+      "options": [
+        "$20\\%$",
+        "$25\\%$",
+        "$30\\%$",
+        "$40\\%$"
+      ],
+      "correctOption": 0,
+      "explanation": "ক্রয়মূল্য $5x$ ও বিক্রয়মূল্য $6x$ হলে লাভ $x$।\nশতকরা লাভ = $\\frac{x}{5x} \\times 100\\% = 20\\%$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$6 + 12 + 24 + .....$ ধারাটির অষ্টম পদ কত?",
+      "options": [
+        "$84$",
+        "$252$",
+        "$768$",
+        "$1536$"
+      ],
+      "correctOption": 2,
+      "explanation": "এটি একটি গুণোত্তর ধারা যার প্রথম পদ $a=6$ এবং সাধারণ অনুপাত $r=\\frac{12}{6}=2$।\nঅষ্টম পদ = $ar^{8-1} = 6 \\times 2^7 = 6 \\times 128 = 768$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$u_2 = -2$, $x_2 = 12$ এবং $h = 4$ হলে, অনুমিত গড় $a =$ কত?",
+      "options": [
+        "$20$",
+        "$10$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি $u_i = \\frac{x_i - a}{h}$।\nবা, $-2 = \\frac{12 - a}{4} \\Rightarrow -8 = 12 - a \\Rightarrow a = 20$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের ঘূর্ণন কোণের পরিমাণ কত?",
+      "options": [
+        "$360^{\\circ}$",
+        "$180^{\\circ}$",
+        "$90^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "আয়তক্ষেত্রের ঘূর্ণন প্রতিসাম্যের ক্রম ২। তাই ঘূর্ণন কোণ = $\\frac{360^{\\circ}}{2} = 180^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$ABCD$ বৃত্তে অন্তর্লিখিত চতুর্ভুজের $\\angle ABC = 110^{\\circ}$ হলে, $\\angle ADC =$ কত?",
+      "options": [
+        "$250^{\\circ}$",
+        "$110^{\\circ}$",
+        "$70^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তস্থ চতুর্ভুজের বিপরীত কোণদ্বয়ের সমষ্টি $180^{\\circ}$।\n$\\angle ADC = 180^{\\circ} - \\angle ABC = 180^{\\circ} - 110^{\\circ} = 70^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনো শ্রেণির নিম্নসীমা $30$ এবং শ্রেণিমধ্যমান $32$ হলে, ওই শ্রেণির ঊর্ধ্বসীমা কত?",
+      "options": [
+        "$37$",
+        "$35$",
+        "$34$",
+        "$33$"
+      ],
+      "correctOption": 2,
+      "explanation": "মধ্যমান = (নিম্নসীমা + ঊর্ধ্বসীমা) / ২।\n$32 = (30 + x) / 2 \\Rightarrow 64 = 30 + x \\Rightarrow x = 34$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$2.3\\dot{4}$ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": [
+        "$\\frac{211}{900}$",
+        "$\\frac{211}{90}$",
+        "$\\frac{231}{90}$",
+        "$\\frac{231}{9}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$2.3\\dot{4} = \\frac{234 - 23}{90} = \\frac{211}{90}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_3(\\sqrt[3]{3} . \\sqrt{3})$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{5}{6}$",
+        "$\\frac{6}{5}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\log_3(3^{\\frac{1}{2}} \\cdot 3^{\\frac{1}{3}}) = \\log_3(3^{\\frac{1}{2} + \\frac{1}{3}}) = \\log_3(3^{\\frac{5}{6}}) = \\frac{5}{6} \\log_3 3 = \\frac{5}{6}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$4x^3 + 3x^2 - 2x + 1 = 0$ সমীকরণের ঘাত কত?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমীকরণটির চলক $x$ এর সর্বোচ্চ শক্তি (power) হলো ৩, তাই ঘাত ৩।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৯ ও ২০নং প্রশ্নের উত্তর দাও :\\n$a + \\frac{1}{a} = 4$",
+      "question": "$\\left(a - \\frac{1}{a}\\right)^2$ এর মান কত?",
+      "options": [
+        "$14$",
+        "$12$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\left(a - \\frac{1}{a}\\right)^2 = \\left(a + \\frac{1}{a}\\right)^2 - 4 = 4^2 - 4 = 16 - 4 = 12$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a^3 + \\frac{1}{a^3}$ কত?",
+      "options": [
+        "$0$",
+        "$24$",
+        "$52$",
+        "$76$"
+      ],
+      "correctOption": 2,
+      "explanation": "$a^3 + \\frac{1}{a^3} = \\left(a+\\frac{1}{a}\\right)^3 - 3\\left(a+\\frac{1}{a}\\right) = 4^3 - 3(4) = 64 - 12 = 52$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_04",
+      "questionPreamble": "$125$ এর—\ni. সাধারণ লগের পূর্ণক $2$\nii. সাধারণ লগের অংশক $.09691$\niii. $5$ ভিত্তিক লগ $3$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i $ও$ ii$",
+        "$i$ ও$ iii$",
+        "$ii$ ও$ iii$",
+        "$i$,$ ii$ ও$ iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i. $\\log_{10} 125 \\approx 2.09691$, তাই পূর্ণক ২ (সঠিক)।\nii. অংশক $.09691$ (সঠিক)।\niii. $\\log_5 125 = \\log_5 5^3 = 3$ (সঠিক)।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^2 = 2x$ সমীকরণের সমাধান সেট কোনটি?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{0\\}$",
+        "$\\{2\\}$",
+        "$\\{0, 2\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x^2 - 2x = 0 \\Rightarrow x(x-2) = 0$। হয় $x=0$ অথবা $x=2$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$x = \\{a, b, c\\}, y = \\{b\\}$ এবং $z = x \\setminus y$ হলে, $P(z)$ এর উপাদান কয়টি?",
+      "options": [
+        "$1$টি",
+        "$2$টি",
+        "$3$টি",
+        "$4$টি"
+      ],
+      "correctOption": 3,
+      "explanation": "$z = \\{a, b, c\\} - \\{b\\} = \\{a, c\\}$। উপাদান সংখ্যা $n=2$।\n$P(z)$ এর উপাদান সংখ্যা $2^n = 2^2 = 4$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $4 : 5$ এবং এদের ল.সা.গু $120$ হলে, বৃহত্তম সংখ্যাটি কত?",
+      "options": [
+        "$20$",
+        "$24$",
+        "$30$",
+        "$120$"
+      ],
+      "correctOption": 2,
+      "explanation": "সংখ্যা দুটি $4x$ ও $5x$। ল.সা.গু $20x = 120 \\Rightarrow x = 6$।\nবৃহত্তম সংখ্যাটি $5x = 5(6) = 30$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৫ ও ২৬নং প্রশ্নের উত্তর দাও :",
+      "question": "$AB^2 =$ কোনটি?",
+      "options": [
+        "$AC^2 - BC^2$",
+        "$AC^2 + BC^2$",
+        "$BC^2 + AC^2$",
+        "$BC^2 + AC^2$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $\\triangle ABC$ সমকোণী ত্রিভুজ যার অতিভুজ $AC$ (যেহেতু $B$ সমকোণ)।\nপিথাগোরাসের উপপাদ্য অনুযায়ী: $AB^2 + BC^2 = AC^2 \\Rightarrow AB^2 = AC^2 - BC^2$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/tKU4rqc.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ACD =$ কোনটি?",
+      "options": [
+        "$\\angle CBA + \\angle BCD$",
+        "$\\angle BAC + \\angle ACB$",
+        "$\\angle ABC + \\angle BAC$",
+        "$\\angle ABC + \\angle ACB$"
+      ],
+      "correctOption": 2,
+      "explanation": "ত্রিভুজের বহিঃস্থ কোণ অন্তঃস্থ বিপরীত কোণদ্বয়ের সমষ্টির সমান।\nতাই $\\angle ACD = \\angle ABC + \\angle BAC$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_08",
+      "questionPreamble": "$ABD$ বৃত্তের কেন্দ্র $O$ হলে—\ni. $C, AB$ এর মধ্যবিন্দু\nii. $\\angle OAC = \\angle OBC$\niii. $\\angle OAC + \\angle OBC =$ এক সমকোণ",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "i. যেহেতু $OC \\perp AB$, তাই $C$, $AB$ এর মধ্যবিন্দু (সঠিক)।\nii. $\\triangle OAB$ সমদ্বিবাহু ($OA=OB$), তাই $\\angle OAC = \\angle OBC$ (সঠিক)।\niii. এটি সর্বদা সত্য নয়।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/MTCKQMk.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি $\\{x \\in \\mathbb{N} : x$ মৌলিক সংখ্যা এবং $2 \\le x \\le 7\\}$ সেটটিকে তালিকা পদ্ধতিতে প্রকাশ করে?",
+      "options": [
+        "$\\{2, 3, 7\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{3, 5, 7\\}$",
+        "$\\{2, 3, 5, 7\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$2$ থেকে $7$ পর্যন্ত মৌলিক সংখ্যাগুলো হলো $2, 3, 5, 7$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রে $\\sin B =$ কত?",
+      "options": [
+        "$\\frac{2}{\\sqrt{13}}$",
+        "$\\frac{3}{\\sqrt{13}}$",
+        "$\\frac{\\sqrt{13}}{3}$",
+        "$\\frac{\\sqrt{13}}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $AC=2$ (লম্ব), $AB=3$ (ভূমি)।\nঅতিভুজ $BC = \\sqrt{2^2+3^2} = \\sqrt{13}$।\n$\\sin B = \\frac{\\text{লম্ব}}{\\text{অতিভুজ}} = \\frac{AC}{BC} = \\frac{2}{\\sqrt{13}}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/v8gBp7r.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের ক্ষেত্রে পরিকেন্দ্র ত্রিভুজের কোথায় অবস্থিত?",
+      "options": [
+        "অভ্যন্তরে",
+        "বহির্ভাগে",
+        "অতিভুজের উপর",
+        "লম্বের উপর"
+      ],
+      "correctOption": 2,
+      "explanation": "সমকোণী ত্রিভুজের পরিকেন্দ্র সর্বদা অতিভুজের মধ্যবিন্দুতে অবস্থিত।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

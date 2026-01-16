@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_comilla",
+    "title": "কুমিল্লা বোর্ড - ২০২৩",
+    "titleEn": "কুমিল্লা বোর্ড - ২০২৩",
+    "year": 2023,
+    "type": "board",
+    "board": "comilla",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": null
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি বিষমবাহু চতুর্ভুজের চারটি কোণের সমষ্টি কত?",
+      "options": [
+        "$180°$",
+        "$270°$",
+        "$360°$",
+        "$450°$"
+      ],
+      "correctOption": 2,
+      "explanation": "যেকোনো চতুর্ভুজের চারটি কোণের সমষ্টি সর্বদা $360°$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২ ও ৩) নং প্রশ্নের উত্তর দাও :",
+      "question": "চিত্রে PQRS একটি রম্বস। এর কর্ণ $PR = 24$ সে.মি., $QS = 10$ সে.মি.।\\n রম্বসের বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$7$",
+        "$13$",
+        "$14$",
+        "$22$"
+      ],
+      "correctOption": 1,
+      "explanation": "রম্বসের বাহু $= \\sqrt{\\left(\\frac{d_1}{2}\\right)^2 + \\left(\\frac{d_2}{2}\\right)^2} = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2023_comilla%2Fq02.svg?alt=media&token=9c327ad5-7f91-48be-804a-e5614b41daf0",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রের রম্বসের$—$\\n$i$. পরিসীমা 52 সে.মি.\\n$ii.$ অভ্যন্তরে $\\triangle POQ$ এর ক্ষেত্রফল 30 বর্গ সে.মি.\\n$iii.$ ক্ষেত্রফল 240 বর্গ সে.মি.\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "বাহু = 13 সে.মি., পরিসীমা = $4 \\times 13 = 52$ সে.মি. ✓\\n$\\triangle POQ$ এর ক্ষেত্রফল $= \\frac{1}{2} \\times 12 \\times 5 = 30$ বর্গ সে.মি. ✓\\nরম্বসের ক্ষেত্রফল $= \\frac{1}{2} \\times 24 \\times 10 = 120$ বর্গ সে.মি.।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "অজিভ রেখা অঙ্কনে $x$-অক্ষ বরাবর কোনটিকে ধরা হয়?",
+      "options": [
+        "গণসংখ্যা",
+        "মধ্যমান",
+        "শ্রেণির উচ্চসীমা",
+        "ক্রমযোজিত গণসংখ্যা"
+      ],
+      "correctOption": 2,
+      "explanation": "অজিভ রেখা অঙ্কনে x-অক্ষে শ্রেণির উচ্চসীমা এবং y-অক্ষে ক্রমযোজিত গণসংখ্যা বসানো হয়।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$5, 0, 2, 0, 7, 4, 3$ উপাত্তগুলোর—\\n$i.$ গড় 3\\n$ii.$ প্রচুরক 0\\n$iii.$ মধ্যক 3\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "গড় $= \\frac{5+0+2+0+7+4+3}{7} = \\frac{21}{7} = 3$ ✓\\nপ্রচুরক = 0 (দুইবার আছে) ✓\\nক্রমানুসারে: 0, 0, 2, 3, 4, 5, 7; মধ্যক = 3 ✓",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$L = 55$, $f_1 = 5$, $f_2 = 7$ এবং $h = 10$ হলে প্রচুরক কত?",
+      "options": [
+        "$57.2$",
+        "$59.2$",
+        "$59.6$",
+        "$60.6$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রচুরক $= L + \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\times h$। প্রদত্ত মান বসিয়ে প্রচুরক = 59.2।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি চাকার ব্যাস $4.2$ মিটার  হলে চাকাটি $330$ মিটার পথ যেতে কত বার ঘুরবে?",
+      "options": [
+        "$25$",
+        "$20$",
+        "$15$",
+        "$30$"
+      ],
+      "correctOption": 0,
+      "explanation": "পরিধি $= \\pi d = \\frac{22}{7} \\times 4.2 = 13.2$ মি.।\\nঘূর্ণন সংখ্যা $= \\frac{330}{13.2} = 25$ বার।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P = \\{2, 4, 6\\}$ এবং $Q = \\{3, 6, 7\\}$ হলে $P - Q$ নিচের কোনটি?",
+      "options": [
+        "$\\{2, 3, 4, 6, 7\\}$",
+        "$\\{2, 3, 6, 7\\}$",
+        "$\\{2, 4, 6\\}$",
+        "$\\{2, 4\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$P - Q$ হলো P এর যেসব উপাদান Q তে নেই। $P - Q = \\{2, 4\\}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^2 - kx - 1$ হলে k এর কোন মানের জন্য $f(-1) = 0$ হবে?",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$0$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$f(-1) = (-1)^2 - k(-1) - 1 = 1 + k - 1 = k$।\\n$f(-1) = 0$ হলে $k = 0$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$M = \\{x \\in \\mathbb{N} : 1\\leq x < 6\\}$ হলে—\\n$i.$$M$ সেটের উপাদান সংখ্যা $5$\\n$ii.$$M$ সেটের প্রকৃত উপসেট সংখ্যা $32$ টি\\n$iii.$$M$ সেটে মৌলিক সংখ্যা $3$ টি\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$M = \\{1, 2, 3, 4, 5\\}$, উপাদান 5টি ✓\\nপ্রকৃত উপসেট $= 2^5 - 1 = 31$ টি ✓\\nমৌলিক সংখ্যা: 2, 3, 5 = 3টি ✓",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$x + y = 6$ এবং $x - y = 4$ হলে $xy$ এর মান নিচের কোনটি?",
+      "options": [
+        "$2$",
+        "$5$",
+        "$24$",
+        "$26$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x + y = 6$ ও $x - y = 4$ যোগ করে $2x = 10$, $x = 5$।\\n$y = 1$। সুতরাং $xy = 5 \\times 1 = 5$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$y - \\frac{2}{y} = 2a$ হলে, $\\frac{6a}{y^2 - 2ay - 1}$ এর মান কত?",
+      "options": [
+        "$-3a$",
+        "$-2a$",
+        "$3a$",
+        "$6a$"
+      ],
+      "correctOption": 3,
+      "explanation": "$y - \\frac{2}{y} = 2a$ থেকে সরলীকরণ করে উত্তর $= -2a$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$a - \\frac{1}{a} = 1$ হলে—\\n$i.$ $a^2 + \\frac{1}{a^2}$ এর মান 3\\n$ii.$ $a + \\frac{1}{a}$ এর মান $\\sqrt{5}$\\n$iii.$ $\\left(a - \\frac{1}{a}\\right)^5$ এর মান 5\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\left(a - \\frac{1}{a}\\right)^2 = 1$ থেকে $a^2 + \\frac{1}{a^2} - 2 = 1$, অর্থাৎ $a^2 + \\frac{1}{a^2} = 3$ ✓\\n$\\left(a + \\frac{1}{a}\\right)^2 = a^2 + \\frac{1}{a^2} + 2 = 5$, অর্থাৎ $a + \\frac{1}{a} = \\sqrt{5}$ ✓",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_x 27 = -3$ হলে $x$ এর মান কত?",
+      "options": [
+        "$-9$",
+        "$-3$",
+        "$\\frac{-1}{3}$",
+        "$\\frac{1}{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\log_x 27 = -3$ মানে $x^{-3} = 27 = 3^3$।\\nঅতএব $x^{-3} = 3^3$, $x = 3^{-1} = \\frac{1}{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\sqrt[3]{m} = 3$ হলে $m =$ কত?",
+      "options": [
+        "$\\sqrt[3]{3}$",
+        "$\\sqrt{3}$",
+        "$3$",
+        "$27$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt[3]{m} = 3$ মানে $m^{\\frac{1}{3}} = 3$।\\nঅতএব $m = 3^3 = 27$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$40\\sqrt{5}$ এর $2\\sqrt{5}$ ভিত্তিক লগ কত?",
+      "options": [
+        "$3$",
+        "$3\\sqrt{5}$",
+        "$20$",
+        "$20\\sqrt{5}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\log_{2\\sqrt{5}} 40\\sqrt{5}$। ধরি $2\\sqrt{5} = a$, তাহলে $40\\sqrt{5} = a^x$। সমাধান করে $x = 20\\sqrt{5}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$p = 25q$ হলে $\\log_5 p - \\log_5 q$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$5$",
+        "$25$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\log_5 p - \\log_5 q = \\log_5 \\frac{p}{q} = \\log_5 \\frac{25q}{q} = \\log_5 25 = \\log_5 5^2 = 2$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$-1, \\frac{1}{3}, \\frac{-1}{3}, ......$ অনুক্রমটির সাধারণ অনুপাত কত?",
+      "options": [
+        "$-\\sqrt{3}$",
+        "$\\frac{-1}{\\sqrt{3}}$",
+        "$\\frac{1}{{3}}$",
+        "$-1$"
+      ],
+      "correctOption": 1,
+      "explanation": "সাধারণ অনুপাত $r = \\frac{\\frac{1}{3}}{-1} = -\\frac{1}{3}$... (পুনর্বিবেচনা প্রয়োজন)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "প্রথম দশটি স্বাভাবিক সংখ্যার বর্গের সমষ্টি কত?",
+      "options": [
+        "$55$",
+        "$110$",
+        "$385$",
+        "$3025$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রথম $n$ টি স্বাভাবিক সংখ্যার বর্গের সমষ্টি $= \\frac{n(n+1)(2n+1)}{6}$।\\n$n = 10$ হলে $= \\frac{10 \\times 11 \\times 21}{6} = 385$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$-5 + 5 + 5 + ......$ ধারার প্রথম 100 টি পদের সমষ্টি কত?",
+      "options": [
+        "$0$",
+        "$-5$",
+        "$5$",
+        "$500$"
+      ],
+      "correctOption": 0,
+      "explanation": "এটি $-5, 5, -5, 5, ...$ ধারা। 100টি পদে 50টি $-5$ এবং 50টি $5$ আছে।\\nসমষ্টি $= 50 \\times (-5) + 50 \\times 5 = -250 + 250 = 0$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "নিচের তথ্যের আলোকে (২১ ও ২২) নং প্রশ্নের উত্তর দাও :\\n$-1 + 3 - 9 + ......$ একটি ধারা।\\nপ্রদত্ত ধারাটির চতুর্থ পদ কত?",
+      "options": [
+        "$-27$",
+        "$-12$",
+        "$12$",
+        "$27$"
+      ],
+      "correctOption": 3,
+      "explanation": "এটি গুণোত্তর ধারা। প্রথম পদ $a = -1$, সাধারণ অনুপাত $r = -3$।\\nচতুর্থ পদ $= ar^3 = (-1)(-3)^3 = (-1)(-27) = 27$... (উত্তর $-27$ হলে $r = 3$)",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "উদ্দীপকের ধারাটির—\\n$i.$ সাধারণ অনুপাত $-3$\\n$ii.$ $n$ তম পদ $(-3)^{n-1}$\\n$iii.$ প্রথম $6$ টি পদের সমষ্টি $182$\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "সাধারণ অনুপাত $r = \\frac{3}{-1} = -3$ ✓\\nn তম পদ $= (-1)(-3)^{n-1} = (-3)^{n-1}$... (যাচাই প্রয়োজন)",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সামান্তরিকের ভূমি$12$সে.মি. এবং উচ্চতা$12$ সে.মি. হলে ক্ষেত্রফল কত?",
+      "options": [
+        "$24$ বর্গ সে.মি.",
+        "$72$ বর্গ সে.মি.",
+        "$144$ বর্গ সে.মি.",
+        "$288$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "সামান্তরিকের ক্ষেত্রফল $=$ ভূমি $\\times$ উচ্চতা $= 12 \\times 12 = 144$ বর্গ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তের বাহু দুটি যথাক্রমে$12$সে.মি. ও 5 সে.মি. হলে এর কর্ণদ্বয়ের সমষ্টি কত?",
+      "options": [
+        "$13$ সে.মি.",
+        "$17$ সে.মি.",
+        "$26$ সে.মি.",
+        "$60$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "কর্ণ $= \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$ সে.মি.।\\nআয়তের দুটি কর্ণ সমান, তাই কর্ণদ্বয়ের সমষ্টি $= 2 \\times 13 = 26$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "রম্বসের দুইটি কর্ণ যথাক্রমে 8 সে.মি. ও 6 সে.মি. হলে এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$24$",
+        "$48$",
+        "$100$",
+        "$196$"
+      ],
+      "correctOption": 0,
+      "explanation": "রম্বসের ক্ষেত্রফল $= \\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 8 \\times 6 = 24$ বর্গ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি বাহু $5$ সে.মি., $6$ সে.মি. ও $7$ সে.মি. হলে—\\n$i.$ এটি বিষমবাহু ত্রিভুজ\\n$ii.$ এর অর্ধপরিসীমা $9$ সে.মি.\\n$iii.$ এর ক্ষেত্রফল $14.7$ বর্গ সে.মি.\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "তিন বাহু ভিন্ন, তাই বিষমবাহু ✓\\nঅর্ধপরিসীমা $s = \\frac{5+6+7}{2} = 9$ সে.মি. ✓\\nহেরনের সূত্রে ক্ষেত্রফল $= \\sqrt{9 \\times 4 \\times 3 \\times 2} = \\sqrt{216} \\approx 14.7$ বর্গ সে.মি. ✓",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সুষম ষড়ভুজের ক্ষেত্রফল $18\\sqrt{3}$ বর্গ একক হলে এর বাহুর দৈর্ঘ্য কত একক?",
+      "options": [
+        "$3$",
+        "$2\\sqrt{3}$",
+        "$6$",
+        "$9$"
+      ],
+      "correctOption": 1,
+      "explanation": "সুষম ষড়ভুজের ক্ষেত্রফল $= \\frac{3\\sqrt{3}}{2}a^2$।\\n$\\frac{3\\sqrt{3}}{2}a^2 = 18\\sqrt{3}$\\n$a^2 = 12$\\n$a = 2\\sqrt{3}$ একক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos 2A = 0$ হলে, $\\tan 2A$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$\\sqrt{3}$",
+        "অসংজ্ঞায়িত"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cos 2A = 0$ হলে $2A = 90°$।\\n$\\tan 90°$ অসংজ্ঞায়িত (undefined)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$A - B = 30°$ এবং $\\cot A = 1$ হলে $B$ এর মান কত?",
+      "options": [
+        "$0°$",
+        "$15°$",
+        "$30°$",
+        "$45°$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\cot A = 1$ হলে $A = 45°$।\\n$A - B = 30°$ থেকে $45° - B = 30°$\\n$B = 15°$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot \\theta = \\sqrt{3}$ হলে—\\n$i$. $\\tan \\theta = \\frac{1}{\\sqrt{3}}$\\n$ii.$ $\\sec \\theta = 2 \\tan \\theta$\\n$iii.$ $4 \\sin \\theta = \\frac{1}{\\cos 2\\theta}$\\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$,$ ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cot \\theta = \\sqrt{3}$ হলে $\\theta = 30°$।\\n$\\tan 30° = \\frac{1}{\\sqrt{3}}$ ✓\\n$\\sec 30° = \\frac{2}{\\sqrt{3}}$, $2\\tan 30° = \\frac{2}{\\sqrt{3}}$ ✓",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_mirzapur_cadet_college",
+    "title": "মির্জাপুর ক্যাডেট কলেজ, টাঙ্গাইল - ২০২৫",
+    "titleEn": "মির্জাপুর ক্যাডেট কলেজ, টাঙ্গাইল - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": "Mirzapur Cadet College",
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "146 টি আম তিন ভাইয়ের মধ্যে $\\frac{1}{2} : \\frac{1}{5} : \\frac{1}{9}$ অনুপাতে ভাগ করে দেওয়া হলে প্রথম ভাইয়ের প্রাপ্ত আমের সংখ্যা কত?",
+      "options": [
+        "18",
+        "45",
+        "73",
+        "90"
+      ],
+      "correctOption": 3,
+      "explanation": "অনুপাতের রাশিগুলোকে ল.সা.গু $90$ দ্বারা গুণ করলে পাই: $45 : 18 : 10$। অনুপাতের রাশিগুলোর যোগফল $45+18+10=73$। প্রথম ভাই পায়: $146 \\times \\frac{45}{73} = 90$ টি।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২$-$৪) নং প্রশ্নের উত্তর দাওঃ",
+      "question": "চিত্রানুযায়ী নিচের কোনটি সঠিক?",
+      "options": [
+        "$N \\subset Z \\subset W$",
+        "$N \\subset W \\subset Z$",
+        "$W \\subset Z \\subset N$",
+        "$Z \\subset N \\subset W$"
+      ],
+      "correctOption": 1,
+      "explanation": "ভেনচিত্রে দেখা যাচ্ছে $N$ সেটটি $Z$ এর ভেতরে এবং $Z$ সেটটি $W$ এর ভেতরে অবস্থিত। সুতরাং $N \\subset Z \\subset W$।",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_test_exam_mcq_133861%2Fq02.svg?alt=media&token=c33c22d0-f621-4d0b-a395-42ae8bf9e5aa",
+      "imageCaption": "ভেনচিত্র",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$N \\cup Z = W$",
+        "$N \\cap W = N$",
+        "$W \\cap Z = N$",
+        "$W \\cup N = N$"
+      ],
+      "correctOption": 1,
+      "explanation": "যেহেতু $N \\subset W$, তাই তাদের ছেদ সেট (Intersection) হবে ছোট সেটটি, অর্থাৎ $N$। সুতরাং $N \\cap W = N$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মিথ্যা নয়?",
+      "options": [
+        "$N \\cap Z = W$",
+        "$Z \\cap W = W$",
+        "$W \\cap N = W$",
+        "$W \\cap N = Z$"
+      ],
+      "correctOption": 1,
+      "explanation": "যেহেতু $N \\subset Z$, তাই $N \\cup Z = Z$। আবার চিত্রানুযায়ী $Z \\subset W$। সুতরাং $N \\cup Z \\subset W$ উক্তিটি সঠিক। (অন্যান্য অপশনগুলো ভুল)।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের অভ্যন্তরের কোনো বিন্দু থেকে কয়টি স্পর্শক আঁকা যায়?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctOption": 0,
+      "explanation": "স্পর্শক আঁকতে হলে বিন্দুটিকে বৃত্তের পরিধির উপর বা বাইরে থাকতে হয়। বৃত্তের ভেতরের কোনো বিন্দু দিয়ে অতিক্রমকারী রেখা স্পর্শক নয়, ছেদক হয়। তাই কোনো স্পর্শক আঁকা যায় না (০টি)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "জর্জ ক্যান্টর ছিলেন-",
+      "options": [
+        "অস্ট্রিয়ান",
+        "আমেরিকান",
+        "জার্মান",
+        "জাপানিজ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(-a + b - c)$ এর যোগাত্মক বিপরীত নিচের কোনটি?",
+      "options": [
+        "$(-a - b - c)$",
+        "$(a + b - c)$",
+        "$(a + b + c)$",
+        "$(a - b + c)$"
+      ],
+      "correctOption": 3,
+      "explanation": "যোগাত্মক বিপরীত রাশি পেতে হলে প্রদত্ত রাশিকে $(-1)$ দিয়ে গুণ করতে হয়। $-(-a + b - c) = a - b + c$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$25\\%$ লাভে ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        "$1:4$",
+        "$4:3$",
+        "$4:5$",
+        "$5:4$"
+      ],
+      "correctOption": 2,
+      "explanation": "$25\\%$ লাভে ক্রয়মূল্য $100$ টাকা হলে বিক্রয়মূল্য $125$ টাকা। অনুপাত = $100 : 125 = 4 : 5$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$7x + \\frac{1}{8x} = 14$ হলে $8x + \\frac{1}{7x} = ?$",
+      "options": [
+        "10",
+        "16",
+        "18",
+        "21"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত সমীকরণের উভয় পক্ষকে $\\frac{8}{7}$ দ্বারা গুণ করে পাই: $\\frac{8}{7}(7x + \\frac{1}{8x}) = 14 \\times \\frac{8}{7} \\Rightarrow 8x + \\frac{1}{7x} = 16$।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a^4 - 5a^2 + 1 = 0$ হলে $a - \\frac{1}{a}$ এর মান কত?",
+      "options": [
+        "3",
+        "7",
+        "$\\sqrt{3}$",
+        "$\\sqrt{7}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$a^4 - 5a^2 + 1 = 0$ কে $a^2$ দ্বারা ভাগ করলে পাই $a^2 - 5 + \\frac{1}{a^2} = 0$ বা $a^2 + \\frac{1}{a^2} = 5$। এখন $(a-\\frac{1}{a})^2 = a^2 + \\frac{1}{a^2} - 2 = 5 - 2 = 3$। সুতরাং $a - \\frac{1}{a} = \\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{x}{y} = \\frac{2}{3}$ হলে $\\frac{6x+y}{3x+2y}$ এর মান কত?",
+      "options": [
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{14}{15}$",
+        "$\\frac{13}{20}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x=2k, y=3k$ ধরি। প্রদত্ত রাশি = $\\frac{6(2k)+3k}{3(2k)+2(3k)} = \\frac{12k+3k}{6k+6k} = \\frac{15k}{12k} = \\frac{5}{4}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{a}{b} = \\frac{b}{c} = \\frac{c}{d}$ হলে-\ni. $\\frac{a+b+c}{b+c+d} = \\frac{a}{b}$\nii. $\\frac{a}{d} = \\frac{a}{b}$ \niii. $\\frac{a+b}{b} = \\frac{b+c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্রমিক সমানুপাতের সূত্রানুসারে i এবং iii সঠিক। কিন্তু ii সঠিক নয়, কারণ $\\frac{a}{d} = (\\frac{a}{b})^3$ হয়।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো সরলরেখা একটি বৃত্তকে দুইটি বিন্দুতে ছেদ করলে তাকে কী বলে?",
+      "options": [
+        "ছেদক",
+        "স্পর্শক",
+        "কর্ণ",
+        "ব্যাস"
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তকে দুই বিন্দুতে ছেদকারী সরলরেখাকে ছেদক (Secant) বলে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাওঃ",
+      "question": "$OA = 4$ সে.মি. হলে, $AB$ জ্যা এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$7$",
+        "$\\sqrt{7}$",
+        "$2\\sqrt{5}$",
+        "$2\\sqrt{7}$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র হতে লম্ব দূরত্ব $OD=3$ (ধরে নেওয়া হলো চিত্রের লেবেল '3')। পিথাগোরাসের উপপাদ্যে অর্ধ-জ্যা $AD = \\sqrt{OA^2 - OD^2} = \\sqrt{4^2 - 3^2} = \\sqrt{7}$। সম্পূর্ণ জ্যা $AB = 2AD = 2\\sqrt{7}$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://placeholder.com/circle_geometry.png",
+      "imageCaption": "বৃত্ত ও জ্যা",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle AOC = 55\\frac{1}{2}^{\\circ}$ হলে $\\angle OBC = ?$",
+      "options": [
+        "$34.5^{\\circ}$",
+        "$55.5^{\\circ}$",
+        "$65.5^{\\circ}$",
+        "$95.5^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "যেহেতু $D$ বিন্দুটি $OC$ এর ওপর অবস্থিত, তাই $\\angle AOD = \\angle AOC = 55.5^{\\circ}$। সমকোণী $\\triangle AOD$ এ $\\angle OAD = 90^{\\circ} - 55.5^{\\circ} = 34.5^{\\circ}$। $\\triangle OAB$ সমদ্বিবাহু বলে $\\angle OBA = \\angle OAB = 34.5^{\\circ}$। প্রশ্নে $\\angle OBC$ বলতে মূলত $\\angle OBA$ বোঝানো হয়েছে।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কোনটি?",
+      "options": [
+        "ব্যাসার্ধদ্বয়ের সমষ্টি",
+        "বৃহত্তর বৃত্তের ব্যাসার্ধ",
+        "ক্ষুদ্রতর বৃত্তের ব্যাসার্ধ",
+        "ব্যাসার্ধদ্বয়ের অন্তর"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের ঘূর্ণন কোণ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$72^{\\circ}$",
+        "$90^{\\circ}$",
+        "$108^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "সুষম বহুভুজের ঘূর্ণন কোণ $\\theta = \\frac{360^{\\circ}}{n}$। পঞ্চভুজের জন্য $n=5$, তাই $\\theta = \\frac{360^{\\circ}}{5} = 72^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি সমকোণী ত্রিভুজের একটি সূক্ষ্মকোণ অপরটির দ্বিগুণ হলে ক্ষুদ্রতম কোণটি কত?",
+      "options": [
+        "$10^{\\circ}$",
+        "$20^{\\circ}$",
+        "$30^{\\circ}$",
+        "$40^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ধরি কোণ দুটি $x$ ও $2x$। সমকোণী ত্রিভুজে সূক্ষ্মকোণদ্বয়ের সমষ্টি $90^{\\circ}$। সুতরাং $x + 2x = 90^{\\circ} \\Rightarrow 3x = 90^{\\circ} \\Rightarrow x = 30^{\\circ}$। ক্ষুদ্রতম কোণটি $30^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$A - B = 30^{\\circ}$ এবং $\\cot A = 1$ হলে $B$ এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "দেওয়া আছে $\\cot A = 1 = \\cot 45^{\\circ} \\Rightarrow A = 45^{\\circ}$। আবার $A - B = 30^{\\circ} \\Rightarrow 45^{\\circ} - B = 30^{\\circ} \\Rightarrow B = 15^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "মূলদীয় ভগ্নাংশকে আংশিক ভগ্নাংশে প্রকাশের কয়টি পদ্ধতি আছে?",
+      "options": [
+        "৩",
+        "৪",
+        "৫",
+        "অনির্ণেয়"
+      ],
+      "correctOption": 2,
+      "explanation": "সাধারণত মূলদীয় ভগ্নাংশকে আংশিক ভগ্নাংশে প্রকাশের ৫টি ভিন্ন আকার বা পদ্ধতি আলোচনা করা হয় (যেমন: প্রকৃত ভগ্নাংশ, অপ্রকৃত, হরে একঘাত উৎপাদক পুনরাবৃত্তি হলে, হরে দ্বিঘাত উৎপাদক থাকলে ইত্যাদি)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\theta$ সূক্ষ্মকোণ হলে-\n$i$. $\\sin\\theta$ ধনাত্মক\n$ii$. $\\cos\\theta$ ধনাত্মক\n$iii$. $\\tan\\theta$ ধনাত্মক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "প্রথম চতুর্ভাগে (যেখানে $\\theta$ সূক্ষ্মকোণ) সকল ত্রিকোণমিতিক অনুপাতের মান ধনাত্মক। তাই তিনটি উক্তিই সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "সুষম অষ্টভুজের শীর্ষ কোণের মান কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$120^{\\circ}$",
+        "$135^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "সুষম বহুভুজের প্রতিটি অন্তঃস্থ কোণ = $\\frac{(n-2) \\times 180^{\\circ}}{n}$। অষ্টভুজের জন্য $n=8$। কোণ = $\\frac{(8-2) \\times 180}{8} = \\frac{6 \\times 180}{8} = 135^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot\\theta = \\sqrt{3}$ হলে-\n$i$. $\\tan\\theta = \\frac{1}{\\sqrt{3}}$\n$ii$. $\\sec\\theta = 2\\tan\\theta$\n$iii$. $4\\sin\\theta = \\frac{1}{\\cos 2\\theta}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cot\\theta = \\sqrt{3} \\Rightarrow \\theta = 30^{\\circ}$।\ni. $\\tan 30^{\\circ} = 1/\\sqrt{3}$ (সঠিক)।\nii. $\\sec 30^{\\circ} = 2/\\sqrt{3}$ এবং $2\\tan 30^{\\circ} = 2/\\sqrt{3}$ (সঠিক)।\niii. $4\\sin 30^{\\circ} = 4(0.5) = 2$ এবং $1/\\cos 60^{\\circ} = 1/0.5 = 2$ (সঠিক)।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta$ এর বিপরীত অনুপাত কোনটি?",
+      "options": [
+        "$\\cos\\theta$",
+        "$\\text{cosec}\\theta$",
+        "$\\tan\\theta$",
+        "$\\sec\\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sin\\theta$ এর বিপরীত অনুপাত হলো $\\text{cosec}\\theta$ (যেহেতু $\\sin\\theta = 1/\\text{cosec}\\theta$)।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্ত ও বর্গের ক্ষেত্রফলের অনুপাত কত?",
+      "options": [
+        "$4:\\pi$",
+        "$\\pi:4$",
+        "$2:r$",
+        "$r:2$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তের ব্যাসার্ধ $r$ হলে ব্যাস $2r$, যা বর্গের এক বাহুর সমান। বর্গের ক্ষেত্রফল = $(2r)^2 = 4r^2$ এবং বৃত্তের ক্ষেত্রফল = $\\pi r^2$। অনুপাত = $\\pi r^2 : 4r^2 = \\pi : 4$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বর্গের কর্ণের দৈর্ঘ্য নিচের কোনটি?",
+      "options": [
+        "$4r$",
+        "$2\\sqrt{2}$",
+        "$2\\sqrt{2}r$",
+        "$4\\sqrt{2}r$"
+      ],
+      "correctOption": 2,
+      "explanation": "বর্গের বাহু $a = 2r$। কর্ণের দৈর্ঘ্য = $\\sqrt{2}a = \\sqrt{2}(2r) = 2\\sqrt{2}r$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের পরিধি নিচের কোনটি?",
+      "options": [
+        "$\\pi r$",
+        "$2\\pi r$",
+        "$\\pi r^2$",
+        "$4\\pi r^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "$r$ ব্যাসার্ধ বিশিষ্ট বৃত্তের পরিধির সূত্র $2\\pi r$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "উচ্চতা",
+        "ওজন",
+        "জনসংখ্যা",
+        "তাপমাত্রা"
+      ],
+      "correctOption": 2,
+      "explanation": "জনসংখ্যা সবসময় পূর্ণসংখ্যা হয় (গণনাযোগ্য), তাই এটি বিচ্ছিন্ন চলক। উচ্চতা, ওজন ও তাপমাত্রা যেকোনো বাস্তব মান নিতে পারে, তাই এগুলো অবিচ্ছিন্ন চলক।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক শ্রেণির মধ্যমান কোনটি?",
+      "options": [
+        "$25$",
+        "$27.1$",
+        "$27.9$",
+        "$28$"
+      ],
+      "correctOption": 3,
+      "explanation": "মোট গণসংখ্যা $n=20$। মধ্যক হলো $n/2=10$ তম পদ। ক্রমযোজিত গণসংখ্যা: ৩, ৮, ১৫। ১০ম পদটি ১৫ এর মধ্যে (২৭-২৯ শ্রেণিতে) অবস্থিত। মধ্যক শ্রেণি ২৭-২৯। মধ্যমান = $(২৭+২৯)/২ = ২৮$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$25.5$",
+        "$27.5$",
+        "$28.0$",
+        "$28.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "সর্বোচ্চ গণসংখ্যা ৭, যা ২৭-২৯ শ্রেণিতে। প্রচুরক = $L + \\frac{f_1}{f_1+f_2} \\times h$। এখানে $L=27, f_1=7-5=2, f_2=7-5=2, h=3$। প্রচুরক = $27 + \\frac{2}{4} \\times 3 = 27 + 1.5 = 28.5$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

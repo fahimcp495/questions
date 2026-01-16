@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2018_all_boards",
+    "title": "সকল বোর্ড - ২০১৮",
+    "titleEn": "সকল বোর্ড - ২০১৮",
+    "year": 2018,
+    "type": "board",
+    "board": "all",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$3784.8$ সংখ্যাটিতে লগের পূর্ণক কত?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "$3784.8$ কে বৈজ্ঞানিক রূপে প্রকাশ করলে পাই $3.7848 \\times 10^{3}$। এখানে $10$ এর ঘাত $3$, তাই পূর্ণক হবে $3$। [cite: 7, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$4^{x+1} = 32$ হলে $x$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$\\frac{3}{2}$",
+        "$\\frac{7}{2}$",
+        "$5$"
+      ],
+      "correctOption": 1,
+      "explanation": "$4^{x+1} = 32 \\Rightarrow (2^{2})^{x+1} = 2^{5} \\Rightarrow 2x+2 = 5 \\Rightarrow x = \\frac{3}{2}$। [cite: 10, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$a \\in R$ হলে$-$\n$i.$ $a^{\\circ}=1$ (যখন $a \\neq 0$)\n$ii.$ $a^{-1}=\\frac{1}{a}$\n$iii.$ $a^{n}=\\frac{1}{a^{-(-n)}}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "সূচকের মৌলিক নিয়ম অনুযায়ী প্রথম দুটি সঠিক, কিন্তু তৃতীয়টি ভুল। [cite: 11, 127]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{2\\sqrt{2}} 64$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$1$",
+        "$2\\sqrt{2}$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "$(2\\sqrt{2})^{x} = 64 \\Rightarrow (2^{\\frac{3}{2}})^{x} = 2^{6} \\Rightarrow \\frac{3x}{2} = 6 \\Rightarrow x = 4$। [cite: 22, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "ত্রিভুজ আঁকতে প্রয়োজন$-$\n$i.$ তিনটি বাহু\n$ii.$ দুইটি বাহু এবং তাদের অন্তর্ভুক্ত কোণ\n$iii.$ দুইটি কোণ ও একটি বাহু\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "উত্তরমালা অনুযায়ী i ও ii উপাত্তের সেট দিয়ে ত্রিভুজ আঁকা সম্ভব। [cite: 25, 127]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$AB$ = কত সেমি?",
+      "options": [
+        "$\\sqrt{7}$",
+        "$2\\sqrt{7}$",
+        "$7$",
+        "$14$"
+      ],
+      "correctOption": 1,
+      "explanation": "পিথাগোরাসের উপপাদ্য অনুযায়ী $AD = \\sqrt{4^{2}-3^{2}} = \\sqrt{7}$। কেন্দ্র থেকে লম্ব জ্যা-কে সমদ্বিখণ্ডিত করে, তাই $AB = 2\\sqrt{7}$। [cite: 85, 127]",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/x3HxoR1.png",
+      "imageCaption": "বৃত্তে লম্ব জ্যা AB",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজে কয়টি বহির্বৃত্ত আঁকা যায়?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "একটি ত্রিভুজের তিনটি বাহু বরাবর তিনটি বহির্বৃত্ত আঁকা যায়। [cite: 87, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": "উদ্দীপকটি পড়ে ৮ ও ৯নং প্রশ্নের উত্তর দাও : \\n$ABC$ একটি সমবাহু ত্রিভুজ। এর $BC$ কে $D$ পর্যন্ত বর্ধিত করা হলো।",
+      "question": "$\\angle BAC$ এর সম্পূরক কোণের মান কোনটি?",
+      "options": [
+        "$120^{\\circ}$",
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমবাহু ত্রিভুজের কোণ $60^{\\circ}$। এর সম্পূরক কোণ $180^{\\circ} - 60^{\\circ} = 120^{\\circ}$। [cite: 98, 127]",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/eJIy9qI.png",
+      "imageCaption": "সমবাহু ত্রিভুজ ABC",
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ABC + \\angle ACD$ এর মান কোনটি?",
+      "options": [
+        "$60^{\\circ}$",
+        "$120^{\\circ}$",
+        "$150^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\\\angle ABC = 60^{\\circ}$ এবং বহিস্থ $\\\\angle ACD = 120^{\\circ}$। যোগফল $= 180^{\\circ}$। [cite: 117, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$H$ অক্ষরটির ঘূর্ণন কোণ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "H অক্ষরটিকে $180^{\\circ}$ ঘুরালে তা পূর্বের মতো দেখায়। [cite: 120, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$\\Delta ABC$ এর $\\angle C$ স্থূলকোণ; $AD, BC$ এর উপর লম্ব হলে কোনটি সঠিক?",
+      "options": [
+        "$AB^{2}=AC^{2}+BC^{2}+2AC.CD$",
+        "$AB^{2}=AC^{2}+BC^{2}+2BC.CD$",
+        "$AC^{2}=AB^{2}+BC^{2}+2BC.CD$",
+        "$BC^{2}=AB^{2}+AC^{2}+2BC.CD$"
+      ],
+      "correctOption": 1,
+      "explanation": "স্থূলকোণী ত্রিভুজের ক্ষেত্রে পিথাগোরাসের উপপাদ্যের বিস্তৃতি অনুযায়ী এটি সঠিক সম্পর্ক। [cite: 30, 31, 127]",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের দুই বাহুর দৈর্ঘ্য যথাক্রমে $9$ সে.মি. ও $10$ সে.মি এবং এদের অন্তর্ভুক্ত কোণ $60^{\\circ}$। ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি?",
+      "options": [
+        "$22.5$",
+        "$38.97$",
+        "$45$",
+        "$77.94$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= \\frac{1}{2} \\times 9 \\times 10 \\times \\sin(60^{\\circ}) \\approx 38.97$। [cite: 36, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস $24$ সে.মি। এর পরিধি কত?",
+      "options": [
+        "$15.07$",
+        "$37.7$",
+        "$75.4$",
+        "$150.77$"
+      ],
+      "correctOption": 2,
+      "explanation": "পরিধি $= \\pi \\times d = 3.1416 \\times 24 \\approx 75.4$ সে.মি। [cite: 39, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের এক পৃষ্ঠের কর্ণের দৈর্ঘ্য $8\\sqrt{2}$ সে.মি। ঘনকটির কর্ণ কত সে.মি.?",
+      "options": [
+        "$\\frac{8}{\\sqrt{3}}$",
+        "$\\frac{8}{\\sqrt{2}}$",
+        "$8\\sqrt{3}$",
+        "$24$"
+      ],
+      "correctOption": 2,
+      "explanation": "পৃষ্ঠের কর্ণ $a\\sqrt{2} = 8\\sqrt{2} \\Rightarrow a = 8$। ঘনকের কর্ণ $a\\sqrt{3} = 8\\sqrt{3}$। [cite: 40, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "গণসংখ্যা সারণি প্রস্তুত করতে হলে প্রথমে কোনটি প্রয়োজন?",
+      "options": [
+        "শ্রেণি সংখ্যা",
+        "শ্রেণি ব্যবধান",
+        "পরিসর",
+        "গণসংখ্যা"
+      ],
+      "correctOption": 2,
+      "explanation": "সারণি প্রস্তুতির জন্য সর্বাগ্রে উপাত্তের পরিসর নির্ণয় করতে হয়। [cite: 41, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "পরিসংখ্যানের ক্ষেত্রে$-$\n$i.$ মধ্যক $= L + (\\frac{n}{2} - F_c) \\times \\frac{h}{f_m}$\n$ii.$ প্রচুরক $= L + \\frac{f_1}{f_1 + f_2} \\times h$\n$iii.$ গাণিতিক গড় $= \\frac{n+1}{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "মধ্যক এবং প্রচুরকের সূত্র দুটি সঠিক। [cite: 47, 52, 127]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "কোনটি স্বাভাবিক সংখ্যা?",
+      "options": [
+        "$-1$",
+        "$\\sqrt{2}$",
+        "$\\frac{5}{2}$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "$3$ একটি ধনাত্মক পূর্ণসংখ্যা, তাই এটি স্বাভাবিক সংখ্যা। [cite: 102, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি দ্বারা $A \\cap B$ প্রকাশ করা যায়?",
+      "options": [
+        "$\\{x : x \\in A$ এবং $x \\notin B\\}$",
+        "$\\{x : x \\in B$ এবং $x \\notin A\\}$",
+        "$\\{x : x \\in A$ এবং $x \\in B\\}$",
+        "$\\{x : x \\in A$ এবং $x \\notin A\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ছেদ সেট বলতে সেই সকল উপাদানকে বোঝায় যারা উভয় সেটেই বিদ্যমান। [cite: 105, 108, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোন অন্বয়টি ফাংশন?",
+      "options": [
+        "$\\{(1,2), (1,3)\\}$",
+        "$\\{(-1,1), (-1,2)\\}$",
+        "$\\{(2,3), (1,2)\\}$",
+        "$\\{(-3,5), (-3,-4)\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "গ অপশনে কোনো ডোমেইন উপাদানের একাধিক ছবি (image) নেই। [cite: 121, 125, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_03",
+      "questionPreamble": "উদ্দীপকটি পড়ে ২০ ও ২১নং প্রশ্নের উত্তর দাও :$a^{2} - 5a - 1 = 0$",
+      "question": "$a^{2}+\\frac{1}{a^{2}}$ এর মান কত?",
+      "options": [
+        "$23$",
+        "$25$",
+        "$27$",
+        "$29$"
+      ],
+      "correctOption": 2,
+      "explanation": "$a-\\frac{1}{a}=5 \\Rightarrow a^{2}+\\frac{1}{a^{2}} = 5^{2}+2 = 27$। [cite: 59, 127]",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a+\\frac{1}{a}$ এর মান কত?",
+      "options": [
+        "$\\sqrt{29}$",
+        "$\\sqrt{27}$",
+        "$\\sqrt{23}$",
+        "$\\sqrt{21}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(a+\\frac{1}{a})^{2} = (a-\\frac{1}{a})^{2}+4 = 25+4 = 29$। [cite: 62, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$3x - 5y = 7, 6x - 10y = 15$ এই সমীকরণ জোটটি$-$\n$i.$ অসমঞ্জস\n$ii.$ একটি মাত্র সমাধান আছে\n$iii.$ পরস্পর অনির্ভরশীল\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "সহগ অনুপাত $\\frac{3}{6} = \\frac{-5}{-10} \\ne \\frac{7}{15}$ হওয়ায় এটি অসমঞ্জস ও অনির্ভরশীল। [cite: 64, 127]",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$35 - 2y - y^{2}$ এর উৎপাদক কোনটি?",
+      "options": [
+        "$5+y$",
+        "$y-6$",
+        "$7+y$",
+        "$7-y$"
+      ],
+      "correctOption": 2,
+      "explanation": "$35-7y+5y-y^{2} = 7(5-y)+y(5-y) = (7+y)(5-y)$। [cite: 68, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan A = \\frac{4}{3}$ হলে $\\sec A$ এর মান কত?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{5}{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sec A = \\sqrt{1+\\tan^{2}A} = \\sqrt{1+\\frac{16}{9}} = \\frac{5}{3}$। [cite: 69, 70, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": "ত্রিকোণমিতির ক্ষেত্রে$-$",
+      "question": "$i.$ $\\sec^{2}\\theta + \\tan^{2}\\theta = 1$\n$ii.$ $\\cot^{2}\\theta = 1 + \\cosec^{2}\\theta$\n$iii.$ $\\cos^{2}\\theta = 1 - \\sin^{2}\\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "সূত্র অনুযায়ী $\\cos^{2}\\theta = 1 - \\sin^{2}\\theta$ সঠিক। [cite: 73, 77, 127]",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$(x+3)(x-3)=16$ হলে $x$ এর মান কত?",
+      "options": [
+        "$\\pm 5$",
+        "$\\pm 4$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x^{2}-9=16 \\Rightarrow x^{2}=25 \\Rightarrow x=\\pm 5$। [cite: 82, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$BC$ এর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$6\\sqrt{2}$",
+        "$3\\sqrt{2}$",
+        "$6$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\tan 60^{\\circ} = \\frac{6}{BC} \\Rightarrow BC = \\frac{6}{\\sqrt{3}} = 2\\sqrt{3}$। [cite: 110, 111, 127]",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/j9NBqBX.png",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "বৃত্তের প্রতিসাম্য রেখা কতটি?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "অসংখ্য"
+      ],
+      "correctOption": 3,
+      "explanation": "বৃত্তের অসংখ্য কেন্দ্রগামী ব্যাস আছে যা প্রতিসাম্য রেখা। [cite: 112, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি কোণের অনুপাত $3:4:5$ হলে, ক্ষুদ্রতম কোণের পরিমাণ কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$75^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষুদ্রতম কোণ $= \\frac{3}{12} \\times 180^{\\circ} = 45^{\\circ}$। [cite: 114, 115, 127]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$8+16+24+ \\dots$ ধারার নবম পদ কত?",
+      "options": [
+        "$72$",
+        "$88$",
+        "$360$",
+        "$432$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a+(n-1)d = 8+(9-1)8 = 72$। [cite: 122, 127]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

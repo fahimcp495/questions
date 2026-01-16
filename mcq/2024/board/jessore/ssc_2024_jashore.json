@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_jashore",
+    "title": "যশোর বোর্ড - ২০২৪",
+    "titleEn": "যশোর বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "jashore",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের কর্ণের দৈর্ঘ্য $6\\sqrt{3}$ মিটার হলে এর আয়তন—",
+      "options": [
+        "$36$ ঘন মিটার",
+        "$144$ ঘন মিটার",
+        "$216$ ঘন মিটার",
+        "$512$ ঘন মিটার"
+      ],
+      "correctOption": 2,
+      "explanation": "ধরি, ঘনকের ধার $a$।\nপ্রশ্নমতে, $a\\sqrt{3} = 6\\sqrt{3} \\Rightarrow a = 6$।\nআয়তন = $a^3 = 6^3 = 216$ ঘন মিটার।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$a$ ও $b$ দুইটি ক্রমিক জোড় সংখ্যা হলে নিচের কোনটি বিজোড় সংখ্যা?",
+      "options": [
+        "$a^2 + 1$",
+        "$b^2 + 2$",
+        "$a^2$",
+        "$b^2$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a$ একটি জোড় সংখ্যা। জোড় সংখ্যার বর্গ ($a^2$) সর্বদা জোড়।\nজোড় সংখ্যার সাথে $1$ যোগ করলে বিজোড় সংখ্যা পাওয়া যায়।\nতাই, $a^2 + 1$ একটি বিজোড় সংখ্যা।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_06",
+      "questionPreamble": "উদ্দীপকের চিত্রের আলোকে (৩ ও ৪)নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\angle BDE = $?",
+      "options": [
+        "$70^{\\circ}$",
+        "$100^{\\circ}$",
+        "$110^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রে $DE || BC$। সুতরাং $\\angle AED = \\angle ACB = 50^{\\circ}$।\n$\\triangle ABC$-এ $\\angle ABC = 180^{\\circ} - (60^{\\circ} + 50^{\\circ}) = 70^{\\circ}$।\nআবার, $DE || BC$ হওয়ায় $\\angle ADE = \\angle ABC = 70^{\\circ}$ (অনুরূপ কোণ)।\n$\\angle BDE$ এবং $\\angle ADE$ একরেখীয় কোণ, তাই $\\angle BDE = 180^{\\circ} - 70^{\\circ} = 110^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/5brEM8M.png",
+      "imageCaption": "DE || BC এবং BD || CF",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ABC + \\angle ACB = $?",
+      "options": [
+        "$100^{\\circ}$",
+        "$120^{\\circ}$",
+        "$240^{\\circ}$",
+        "$300^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "আমরা জানি, ত্রিভুজের তিন কোণের সমষ্টি $180^{\\circ}$।\n$\\angle ABC + \\angle ACB = 180^{\\circ} - \\angle BAC = 180^{\\circ} - 60^{\\circ} = 120^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec \\theta \\sqrt{1-\\cos^2 \\theta} =$ কত?",
+      "options": [
+        "$\\tan \\theta$",
+        "$\\cot \\theta$",
+        "$\\sin \\theta$",
+        "$\\cos \\theta$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sec \\theta \\sqrt{\\sin^2 \\theta} = \\sec \\theta \\cdot \\sin \\theta = \\frac{1}{\\cos \\theta} \\cdot \\sin \\theta = \\tan \\theta$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "যদি $\\log_x 16 = 2$ তবে $x$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$\\pm 4$",
+        "$4$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\log_x 16 = 2 \\Rightarrow x^2 = 16 \\Rightarrow x = 4$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "নিচের কোন শর্তে $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ সমীকরণদ্বয় নির্ভরশীল?",
+      "options": [
+        "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$",
+        "$\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2}$",
+        "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সহসমীকরণদ্বয় নির্ভরশীল (dependent) ও সামঞ্জস্যপূর্ণ হয় যখন $x$ ও $y$ এর সহগ এবং ধ্রুবক পদগুলোর অনুপাত সমান হয়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\frac{x-2}{x-1} = 2 - \\frac{1}{x-1}$ সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\{1\\}$",
+        "$\\{\\oslash\\}$",
+        "$\\{\\}$",
+        "$\\{2\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\frac{x-2}{x-1} + \\frac{1}{x-1} = 2 \\Rightarrow \\frac{x-2+1}{x-1} = 2 \\Rightarrow \\frac{x-1}{x-1} = 2 \\Rightarrow 1 = 2$, যা অসম্ভব।\nতাছাড়া $x=1$ হলে হর শূন্য হয়ে যায়, তাই সমাধান নেই। সেট $\\oslash$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta + \\cos \\theta = a$ হলে $\\sin^4 \\theta + \\cos^4 \\theta$ এর মান কত?",
+      "options": [
+        "$1 + \\frac{1}{2}(a^2-1)^2$",
+        "$1 - \\frac{1}{2}(a^2-1)^2$",
+        "$\\frac{1}{2}(a^2-1)^2$",
+        "$\\frac{1}{2}(a^2+1)^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "$(\\sin \\theta + \\cos \\theta)^2 = a^2 \\Rightarrow 1 + 2\\sin\\theta\\cos\\theta = a^2 \\Rightarrow \\sin\\theta\\cos\\theta = \\frac{a^2-1}{2}$।\n$\\sin^4 \\theta + \\cos^4 \\theta = (\\sin^2 \\theta + \\cos^2 \\theta)^2 - 2\\sin^2 \\theta \\cos^2 \\theta = 1 - 2(\\frac{a^2-1}{2})^2 = 1 - \\frac{1}{2}(a^2-1)^2$।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "১০ম শ্রেণির শিক্ষার্থীদের গণিতে সর্বনিম্ন নম্বর $35$ ও পরিসর $56$ হলে সর্বোচ্চ নম্বর কত?",
+      "options": [
+        "$80$",
+        "$85$",
+        "$96$",
+        "$90$"
+      ],
+      "correctOption": 3,
+      "explanation": "পরিসর = (সর্বোচ্চ - সর্বনিম্ন) + ১\n$56 =$ (সর্বোচ্চ - $35$) + $1$\nবা, সর্বোচ্চ = $56 + 35 - 1 = 90$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "নিচের তথ্যগুলো লক্ষ কর :\ni. $3x+4y=7$ এবং $4x-y=3$ সমীকরণ দুটি পরস্পর অনির্ভরশীল।\nii. $4x+5y=0$ এর লেখচিত্র মূলবিন্দুগামী।\niii. $y-2x-1=0$ লেখচিত্র একটি সরলরেখা।\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i. অনুপাত $\\frac{3}{4} \\neq \\frac{4}{-1}$, তাই অনির্ভরশীল ও সমঞ্জস (সঠিক)।\nii. $x=0, y=0$ বসালে সিদ্ধ হয় (সঠিক)।\niii. এটি একঘাত সমীকরণ, তাই সরলরেখা (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$\\sqrt[4]{x}{\\times x ^ \\frac{1}{4}}$ এর মান কোনটি?",
+      "options": [
+        "$\\sqrt{x}$",
+        "$x$",
+        "$x^\\frac{1}{4}$",
+        "$\\sqrt[3]{x}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sqrt{x \\times x} = \\sqrt{x^2} = x$ (সাধারণত ধনাত্মক মান বিবেচনা করা হয়)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{3, 5, 7\\}, B = \\{4, 5, 7\\}$ হলে—\n$i$. $A \\cap B = \\{5, 7\\}$\n$ii$. $P(A \\cup B)$ এর উপাদান সংখ্যা $16$\n$iii$. $A \\setminus B = \\{3, 4\\}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "i. $A \\cap B = \\{5, 7\\}$ (সঠিক)।\nii. $A \\cup B = \\{3, 4, 5, 7\\}$ ($n=4$), উপসেট সংখ্যা $2^4 = 16$ (সঠিক)।\niii. $A \\setminus B = \\{3\\}$ ($4$ বাদ যাবে না কারণ এটি $A$-তে নেই)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1^2 + 2^2 + 3^2 + ... + 50^2 =$ কত?",
+      "options": [
+        "$1275$",
+        "$42925$",
+        "$1625625$",
+        "$54587$"
+      ],
+      "correctOption": 1,
+      "explanation": "বর্গের সমষ্টির সূত্র: $\\frac{n(n+1)(2n+1)}{6}$।\nএখানে $n=50$। যোগফল = $\\frac{50 \\times 51 \\times 101}{6} = 42925$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$4 + 8 + 16 + ...$ ধারাটির সাধারণ পদ নিচের কোনটি?",
+      "options": [
+        "$2^{n-1}$",
+        "$2^{n - 2}$",
+        "$2^{n+1}$",
+        "$2^{n+2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ধারাটি গুণোত্তর, যার ১ম পদ $a=4=2^2$ এবং সাধারণ অনুপাত $r=2$।\nসাধারণ পদ $= ar^{n-1} = 2^2 \\cdot 2^{n-1} = 2^{2+n-1} = 2^{n+1}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$146$টি আম তিন ভাই এর মধ্যে $\\frac{1}{2} : \\frac{1}{5} : \\frac{1}{9}$ অনুপাতে ভাগ করে দিলে প্রথম ভাই কয়টি আম পাবে?",
+      "options": [
+        "$90$",
+        "$73$",
+        "$45$",
+        "$18$"
+      ],
+      "correctOption": 0,
+      "explanation": "অনুপাতগুলো পূর্ণসংখ্যায় নিলে: $\\frac{1}{2} : \\frac{1}{5} : \\frac{1}{9} = 45 : 18 : 10$ (লসাগু ৯০ দ্বারা গুণ করে)।\nঅনুপাতের যোগফল = $45+18+10 = 73$।\nপ্রথম ভাই পাবে = $\\frac{45}{73} \\times 146 = 45 \\times 2 = 90$ টি।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোন সমীকরণটির জন্য  ছকটি সঠিক?",
+      "options": [
+        "$y = 5x - 1$",
+        "$y = 4x - 1$",
+        "$y = 3x - 1$",
+        "$y = 2x - 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "$y = 2x - 1$ সমীকরণে মানগুলো বসালে:\n$x=0 \\Rightarrow y=-1$\n$x=-1 \\Rightarrow y=-3$\n$x=2 \\Rightarrow y=3$\nসবগুলো মান সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/pbsXSGJ.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": "উদ্দীপকের আলোকে (১৮ ও ১৯)নং প্রশ্নের উত্তর দাও :",
+      "question": "চিত্রে $\\angle X = 70^{\\circ}$, $XY = XZ$, $OY$ এবং $OZ$ হলো $\\angle Y$ ও $\\angle Z$ এর সমদ্বিখণ্ডক।\n$\\angle XYZ$ এর মান কত?",
+      "options": [
+        "$70^{\\circ}$",
+        "$65^{\\circ}$",
+        "$60^{\\circ}$",
+        "$55^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্রে $XY = XZ$, তাই $\\triangle XYZ$ সমদ্বিবাহু।\n$\\angle XYZ = \\angle XZY = \\frac{180^{\\circ} - \\angle YXZ}{2} = \\frac{180^{\\circ} - 70^{\\circ}}{2} = 55^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/aHiU9kx.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle YOZ$ এর মান কত?",
+      "options": [
+        "$55^{\\circ}$",
+        "$110^{\\circ}$",
+        "$125^{\\circ}$",
+        "$130^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "অন্তঃকেন্দ্রের ক্ষেত্রে, $\\angle YOZ = 90^{\\circ} + \\frac{1}{2} \\angle X = 90^{\\circ} + \\frac{70^{\\circ}}{2} = 90^{\\circ} + 35^{\\circ} = 125^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য $3$ সে.মি. ও $8$ সে.মি. হলে তৃতীয় বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$4$",
+        "$3$",
+        "$11$"
+      ],
+      "correctOption": 0,
+      "explanation": "ত্রিভুজের যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর।\nতৃতীয় বাহুটি $x$ হলে: $x+3 > 8 \\Rightarrow x > 5$ এবং $8-3 < x \\Rightarrow x > 5$।\nআবার $x < 8+3=11$। অর্থাৎ $5 < x < 11$।\nপ্রদত্ত অপশনগুলোর মধ্যে একমাত্র $6$ এই শর্ত পূরণ করে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a+b=6, a-b=4$ হলে—\n$i$. $a^2-b^2=24$\n$ii$. $a^2+b^2=26$\n$iii$. $4ab=20$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমাধান করলে: $2a=10 \\Rightarrow a=5$, $2b=2 \\Rightarrow b=1$।\ni. $a^2-b^2 = 25-1 = 24$ (সঠিক)।\nii. $a^2+b^2 = 25+1 = 26$ (সঠিক)।\niii. $4ab = 4(5)(1) = 20$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "উদ্দীপকের চিত্রের আলোকে (২২ ও ২৩)নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\angle BAD$ ও $\\angle BED$ এর মধ্যে সম্পর্ক নিচের কোনটি?",
+      "options": [
+        "$\\angle BAD = 2\\angle BOD$",
+        "$\\angle BAD = \\angle BED$",
+        "$\\angle BAD = 2\\angle BED$",
+        "$\\angle BAD + 2\\angle BED = 180^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তে অন্তর্লিখিত চতুর্ভুজের বিপরীত কোণদ্বয়ের সমষ্টি $180^{\\circ}$। তাই $\\angle BAD + \\angle BCD = 180^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/C1Z90Sj.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "যদি $\\angle BED = 65^{\\circ}$ হয় তবে $\\angle BCD = $?",
+      "options": [
+        "$25^{\\circ}$",
+        "$65^{\\circ}$",
+        "$115^{\\circ}$",
+        "$145^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\angle BAD = 180^{\\circ} - \\angle BCD = 180^{\\circ} - 65^{\\circ} = 115^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$20$ মিটার লম্বা একটি মই ভূমির সঙ্গে $30^{\\circ}$ কোণ উৎপন্ন করে একটি দেয়ালের ছাদ স্পর্শ করে। দেয়ালটির উচ্চতা কত মিটার?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$20$",
+        "$40$"
+      ],
+      "correctOption": 0,
+      "explanation": "দেয়ালের উচ্চতা $h$ হলে, $\\sin 30^{\\circ} = \\frac{h}{20}$।\nবা, $\\frac{1}{2} = \\frac{h}{20} \\Rightarrow h = 10$ মিটার।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin(90^{\\circ}-\\theta) = \\frac{\\sqrt{3}}{2}$ হলে $\\theta$ এর মান কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sin(90^{\\circ}-\\theta) = \\cos \\theta$।\n$\\cos \\theta = \\frac{\\sqrt{3}}{2} = \\cos 30^{\\circ} \\Rightarrow \\theta = 30^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "স্থূলকোণী ত্রিভুজের পরিকেন্দ্র কোথায় অবস্থান করে?",
+      "options": [
+        "ত্রিভুজের অভ্যন্তরে",
+        "ত্রিভুজের বহির্ভাগে",
+        "ত্রিভুজের শীর্ষবিন্দুতে",
+        "ত্রিভুজের যেকোনো বাহুর উপরে"
+      ],
+      "correctOption": 1,
+      "explanation": "স্থূলকোণী ত্রিভুজের পরিকেন্দ্র সর্বদা ত্রিভুজের বহির্ভাগে অবস্থিত।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি—",
+      "options": [
+        "রম্বস",
+        "আয়তক্ষেত্র",
+        "বর্গ",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তে অন্তর্লিখিত সামান্তরিকের বিপরীত কোণগুলো সমান (সামান্তরিক ধর্ম) এবং সম্পূরক (বৃত্তস্থ চতুর্ভুজ ধর্ম)।\nতাই প্রতিটি কোণ $90^{\\circ}$, অর্থাৎ এটি একটি আয়তক্ষেত্র।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "উদ্দীপকের আলোকে (২৮ ও ২৯)নং প্রশ্নের উত্তর দাও :",
+      "question": "৪র্থ শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$22.28$",
+        "$38$",
+        "$78$",
+        "$83$"
+      ],
+      "correctOption": 2,
+      "explanation": "৪র্থ শ্রেণিটি হলো $76-80$।\nমধ্যমান = $\\frac{76+80}{2} = 78$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/oPzP1pq.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক কত?",
+      "options": [
+        "$68.5$",
+        "$68.6$",
+        "$73.4$",
+        "$73.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "$N=40, N/2=20$। ক্রমযোজিত গণসংখ্যা: $2, 10, 30$। মধ্যক শ্রেণি $71-75$।\n$L=70.5$ (প্রকৃত নিম্নসীমা ধরে), $F_c=10, f_m=20, h=5$।\nমধ্যক = $70.5 + \\frac{20-10}{20} \\times 5 = 70.5 + 2.5 = 73.0$।\nকিন্তু যদি সরাসরি নিম্নসীমা $L=71$ ধরা হয় (অনেক পাঠ্যবই অনুসারে): $71 + 2.5 = 73.5$। অপশন অনুযায়ী $73.5$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "তিন পাখা বিশিষ্ট একটি ফ্যানের ঘূর্ণন কোণ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$108^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "ফ্যানের পাখা তিনটি সুষমভাবে বিন্যস্ত থাকলে ঘূর্ণন প্রতিসাম্য কোণ = $\\frac{360^{\\circ}}{3} = 120^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

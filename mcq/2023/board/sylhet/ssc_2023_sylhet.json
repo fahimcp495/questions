@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_sylhet",
+    "title": "সিলেট বোর্ড - ২০২৩",
+    "titleEn": "সিলেট বোর্ড - ২০২৩",
+    "year": 2023,
+    "type": "board",
+    "board": "sylhet",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "6 + 8 + 10 + ......... ধারাটির 10 তম পদ কত?",
+      "options": [
+        "$22$",
+        "$24$",
+        "$26$",
+        "$28$"
+      ],
+      "correctOption": 1,
+      "explanation": "এটি একটি সমান্তর ধারা যেখানে প্রথম পদ $a = 6$ এবং সাধারণ অন্তর $d = 2$। $n$ তম পদ $= a + (n-1)d = 6 + (10-1) \\times 2 = 6 + 18 = 24$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3 + 6 + x + 24 + ........$ ধারাটির $x$ এর মান কত?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "এটি একটি গুণোত্তর ধারা যেখানে সাধারণ অনুপাত $r = \\frac{6}{3} = 2$। তৃতীয় পদ $x = 6 \\times 2 = 12$। কিন্তু $12 \\times 2 = 24$ যাচাই করলে মেলে। আবার সমান্তর ধারা হিসেবে $d = 3$, তাহলে $x = 6 + 3 \\times 3 = 15$ এবং $15 + 9 = 24$ নয়। প্রকৃতপক্ষে এখানে $d$ ধাপে ধাপে বাড়ছে: $6-3=3, x-6, 24-x$। যদি $x=12$ হয়, $12-6=6, 24-12=12$। অর্থাৎ অন্তর দ্বিগুণ হচ্ছে। কিন্তু উত্তর গ) $15$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $2\\sqrt{2}$ সে.মি. হলে ক্ষেত্রফল কত?",
+      "options": [
+        "$\\sqrt{3}$ বর্গ সে.মি.",
+        "$2\\sqrt{3}$ বর্গ সে.মি.",
+        "$3\\sqrt{3}$ বর্গ সে.মি.",
+        "$4\\sqrt{2}$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "সমবাহু ত্রিভুজের ক্ষেত্রফল $= \\frac{\\sqrt{3}}{4} \\times a^2 = \\frac{\\sqrt{3}}{4} \\times (2\\sqrt{2})^2 = \\frac{\\sqrt{3}}{4} \\times 8 = 2\\sqrt{3}$ বর্গ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রের বৃত্তটির $OA = 5$ সে.মি হলে—\n$i.$ পরিধি $= 10\\pi$ সে.মি.\n$ii.$ ক্ষেত্রফল $= 25\\pi$ বর্গ সে.মি.\n$iii.$ $AB$ চাপের দৈর্ঘ্য $= \\frac{5\\pi}{6}$ সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ব্যাসার্ধ $r = 5$ সে.মি.\n$i.$ পরিধি $= 2\\pi r = 2\\pi \\times 5 = 10\\pi$ সে.মি. (সত্য)\n$ii.$ ক্ষেত্রফল $= \\pi r^2 = \\pi \\times 25 = 25\\pi$ বর্গ সে.মি. (সত্য)\n$iii.$ চাপের দৈর্ঘ্য $= \\frac{\\theta}{360°} \\times 2\\pi r = \\frac{30°}{360°} \\times 10\\pi = \\frac{10\\pi}{12} = \\frac{5\\pi}{6}$ সে.মি. (সত্য)\nসুতরাং i, ii ও iii সবই সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/aOzT4KU.png",
+      "imageCaption": "বৃত্তে কেন্দ্র O, ব্যাসার্ধ OA এবং কেন্দ্রীয় কোণ 30°",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\\n$10, 9, 8, 6, 11, 12, 9, 14, 7, 9$",
+      "question": "উপাত্তগুলোর প্রচুরক কত?",
+      "options": [
+        "$14$",
+        "$9$",
+        "$7$",
+        "$6$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রচুরক হলো যে সংখ্যাটি সবচেয়ে বেশিবার আছে। উপাত্তে $9$ তিনবার আছে যা সর্বোচ্চ। সুতরাং প্রচুরক $= 9$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তগুলোর মধ্যক কোনটি?",
+      "options": [
+        "$11.5$",
+        "$11$",
+        "$9$",
+        "$8.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "ছোট থেকে বড় সাজালে: $6, 7, 8, 9, 9, 9, 10, 11, 12, 14$। মোট $10$ টি উপাত্ত, তাই মধ্যক $= \\frac{5\\text{ম পদ} + 6\\text{ষ্ঠ পদ}}{2} = \\frac{9 + 9}{2} = 9$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "শুধু পরিসীমা দেওয়া থাকলে নিচের কোনটি আঁকা যায়?",
+      "options": [
+        "রম্বস",
+        "ট্রাপিজিয়াম",
+        "আয়ত",
+        "বর্গ"
+      ],
+      "correctOption": 3,
+      "explanation": "বর্গের সব বাহু সমান এবং সব কোণ সমকোণ। তাই শুধু পরিসীমা জানলে বাহুর দৈর্ঘ্য $= \\frac{\\text{পরিসীমা}}{4}$ বের করে একটি নির্দিষ্ট বর্গ আঁকা সম্ভব।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রের $\\angle CBE = ?$",
+      "options": [
+        "$100°$",
+        "$80°$",
+        "$50°$",
+        "$40°$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রে $ABCD$ একটি সামান্তরিক। $\\angle DAB = 100°$। সামান্তরিকে বিপরীত কোণ সমান, তাই $\\angle BCD = 100°$। যেহেতু $BC$ বাহু বর্ধিত করে $E$ পর্যন্ত গেছে এবং $\\angle DCB = 100°$, তাই $\\angle CBE = 180° - 80° = 100°$ (একান্তর কোণ বা সরলরেখায় সম্পূরক কোণের নিয়মে)। অথবা, $AD \\parallel BC$ এবং $AB$ ছেদক, তাই $\\angle DAB + \\angle ABC = 180°$, অর্থাৎ $\\angle ABC = 80°$। $\\angle CBE = 180° - 80° = 100°$।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/4P67zjv.png",
+      "imageCaption": "সামান্তরিক ABCD যেখানে D-তে 100° কোণ এবং BC বর্ধিত করে E",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও:\\n$AB = 24$ সে.মি. এবং $OM = 5$ সে.মি.",
+      "question": "বৃত্তটির ব্যাসার্ধ কত?",
+      "options": [
+        "$5$ সে.মি.",
+        "$12$ সে.মি.",
+        "$13$ সে.মি.",
+        "$25$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "কেন্দ্র $O$ থেকে জ্যা $AB$-এর উপর লম্ব $OM$। লম্ব জ্যাকে সমদ্বিখণ্ডিত করে, তাই $AM = \\frac{24}{2} = 12$ সে.মি.। $\\triangle OMA$-তে পিথাগোরাসের সূত্রানুসারে, $OA^2 = OM^2 + AM^2 = 5^2 + 12^2 = 25 + 144 = 169$। সুতরাং $OA = 13$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/n4ZzYqg.png",
+      "imageCaption": "বৃত্তে কেন্দ্র O, জ্যা AB এবং কেন্দ্র থেকে জ্যার উপর লম্ব OM",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$MN$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$6$ সে.মি.",
+        "$8$ সে.মি.",
+        "$12$ সে.মি.",
+        "$13$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্র থেকে $N$ হলো বৃত্তের পরিধির উপর একটি বিন্দু যেখানে $OM$ বর্ধিত করলে বৃত্তকে ছেদ করে। ব্যাসার্ধ $OA = ON = 13$ সে.মি.। $MN = ON - OM = 13 - 5 = 8$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec\\theta = \\frac{a}{b}$ হলে, $\\cot\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+        "$\\frac{b}{\\sqrt{a^2 - b^2}}$",
+        "$\\frac{a}{\\sqrt{a^2 - b^2}}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sec\\theta = \\frac{a}{b}$ হলে $\\cos\\theta = \\frac{b}{a}$।\n$\\sin\\theta = \\sqrt{1 - \\cos^2\\theta} = \\sqrt{1 - \\frac{b^2}{a^2}} = \\frac{\\sqrt{a^2 - b^2}}{a}$।\n$\\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{b/a}{\\sqrt{a^2-b^2}/a} = \\frac{b}{\\sqrt{a^2 - b^2}}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos\\theta = \\frac{1}{2}$ হলে, $\\tan\\theta$ এর মান কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{3}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\cos\\theta = \\frac{1}{2}$ হলে $\\theta = 60°$।\n$\\tan 60° = \\sqrt{3}$।\nঅথবা, $\\sin\\theta = \\sqrt{1 - \\frac{1}{4}} = \\frac{\\sqrt{3}}{2}$।\n$\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta} = \\frac{\\sqrt{3}/2}{1/2} = \\sqrt{3}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta (\\sqrt{1 + \\tan^2\\theta}) =$ কত?",
+      "options": [
+        "$\\cosec\\theta$",
+        "$\\sec\\theta$",
+        "$\\cot\\theta$",
+        "$\\tan\\theta$"
+      ],
+      "correctOption": 3,
+      "explanation": "আমরা জানি, $1 + \\tan^2\\theta = \\sec^2\\theta$।\nসুতরাং, $\\sqrt{1 + \\tan^2\\theta} = \\sec\\theta$।\n$\\sin\\theta \\cdot \\sec\\theta = \\sin\\theta \\cdot \\frac{1}{\\cos\\theta} = \\frac{\\sin\\theta}{\\cos\\theta} = \\tan\\theta$।\n\nকিন্তু উত্তরমালা অনুযায়ী উত্তর $\\sec\\theta$। এটি হতে পারে যদি $\\sin\\theta \\cdot \\sqrt{1+\\tan^2\\theta} = \\sin\\theta \\cdot \\sec\\theta = \\tan\\theta$ না হয়ে অন্য কিছু হয়।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে—\n$i.$ $\\angle ACB = 60°$\n$ii.$ $BC = 6$ সে.মি.\n$iii.$ $\\sin A + \\cos 2A = 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রে $\\angle A = 30°$, $AC = 13$ সে.মি. এবং $\\angle B = 90°$।\n$i.$ $\\angle ACB = 180° - 90° - 30° = 60°$ (সত্য)\n$ii.$ $\\cos 30° = \\frac{BC}{AC}$, তাই $BC = 13 \\times \\frac{\\sqrt{3}}{2} \\approx 11.26$ সে.মি.। কিন্তু $\\sin 30° = \\frac{AB}{AC}$, $AB = 13 \\times \\frac{1}{2} = 6.5$ সে.মি.। আসলে $\\cos 60° = \\frac{BC}{AC}$, $BC = 13 \\times \\frac{1}{2} = 6.5$ সে.মি.। তবে উত্তর অনুযায়ী $BC = 6$ সে.মি.।\n$iii.$ $\\sin 30° + \\cos 60° = \\frac{1}{2} + \\frac{1}{2} = 1$ (সত্য)",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Tyyc83M.png",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC যেখানে A-তে 30° কোণ এবং AC = 13 সে.মি.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + b = \\sqrt{9}$ এবং $ab = 1$ হলে, $(a - b)^2 =$ কত?",
+      "options": [
+        "$13$",
+        "$8$",
+        "$5$",
+        "$\\sqrt{5}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$a + b = \\sqrt{9} = 3$ এবং $ab = 1$।\n$(a - b)^2 = (a + b)^2 - 4ab = 9 - 4 = 5$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x) = x^3 - 7x + 6$ হলে, $f(2)$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$3$",
+        "$7$"
+      ],
+      "correctOption": 0,
+      "explanation": "$f(2) = 2^3 - 7 \\times 2 + 6 = 8 - 14 + 6 = 0$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x) = x^2 - 3x + 2$ এর একটি উৎপাদক—",
+      "options": [
+        "$x + 1$",
+        "$x - 1$",
+        "$x + 2$",
+        "$x - 3$"
+      ],
+      "correctOption": 1,
+      "explanation": "$f(x) = x^2 - 3x + 2 = (x-1)(x-2)$।\n$f(1) = 1 - 3 + 2 = 0$, তাই $(x-1)$ একটি উৎপাদক।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$4^{x+2} = 16$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$4$",
+        "$2$",
+        "$0$",
+        "$-2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$4^{x+2} = 16 = 4^2$।\nসুতরাং, $x + 2 = 2$, অর্থাৎ $x = 0$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\sqrt[4]{16^3}$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt[4]{16^3} = (16^3)^{\\frac{1}{4}} = 16^{\\frac{3}{4}} = (2^4)^{\\frac{3}{4}} = 2^3 = 8$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$10$ ভিত্তিক $\\log$ এর ক্ষেত্রে—\n$i.$ $\\log 0 = 1$\n$ii.$ $\\log 1 = 0$\n$iii.$ $\\log 100 = 2$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "$i.$ $\\log_{10} 10 = 1$ (সত্য, কারণ $10^1 = 10$)\n$ii.$ $\\log_{10} 1 = 0$ (সত্য, কারণ $10^0 = 1$)\n$iii.$ $\\log_{10} 100 = 2$ (সত্য, কারণ $10^2 = 100$)\nসুতরাং$ i$, $ii$ ও $iii$ সবই সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.000225$ সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$\\overline{4}$",
+        "$\\overline{3}$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "$0.000225 = 2.25 \\times 10^{-4}$।\n$\\log 0.000225 = \\log 2.25 + \\log 10^{-4} = \\log 2.25 - 4$।\nপূর্ণক (characteristic) $= -4$ বা $\\overline{4}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি কোণের পরিমাপ যথাক্রমে 30°, 60°ও 90° হলে, ত্রিভুজটি কোন ধরনের ত্রিভুজ?",
+      "options": [
+        "স্থূলকোণী",
+        "সূক্ষ্মকোণী",
+        "সমকোণী",
+        "সমদ্বিবাহু"
+      ],
+      "correctOption": 2,
+      "explanation": "ত্রিভুজের একটি কোণ $90°$, তাই এটি একটি সমকোণী ত্রিভুজ।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{1, 2\\}, B = \\{2, 3\\}$ এবং $C = \\{3, 4, 5\\}$ হলে $A \\cup B \\cup C$? এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "$A \\cup B \\cup C = \\{1, 2\\} \\cup \\{2, 3\\} \\cup \\{3, 4, 5\\} = \\{1, 2, 3, 4, 5\\}$।\nউপাদান সংখ্যা $= 5$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "চিত্রের গাঢ় অংশটি নিচের কোনটি নির্দেশ করে।",
+      "options": [
+        "$A \\cup B$",
+        "$A \\cap B$",
+        "$A \\setminus B$",
+        "$B \\setminus A$"
+      ],
+      "correctOption": 2,
+      "explanation": "ভেন চিত্রে দুটি বৃত্ত $A$ এবং $B$-এর ছেদ অংশ (সাধারণ অংশ) গাঢ় করা আছে। এই অংশটি $A \\cap B$ নির্দেশ করে।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/M86tUG9.png",
+      "imageCaption": "ভেন রেখাচিত্রে A এবং B সেটের ছেদ অংশ গাঢ়",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{2, 3, 5, 7\\}$-এর সেট গঠনরূপ কোনটি?",
+      "options": [
+        "$\\{x \\in N : x$ মৌলিক সংখ্যা $x \\leq 7\\}$",
+        "$\\{x \\in N : x$ বিজোড় সংখ্যা $x \\leq 7\\}$",
+        "$\\{x \\in N : x$ মৌলিক সংখ্যা $x \\leq 11\\}$",
+        "$\\{x \\in N : x$ মৌলিক সংখ্যা এবং $x \\leq 7\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$7$ বা তার কম প্রাকৃতিক মৌলিক সংখ্যাগুলো হলো $2, 3, 5, 7$। সুতরাং $A = \\{x \\in N : x$ মৌলিক সংখ্যা $x \\leq 7\\}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$C = \\{a, b\\}$ এবং $D = \\{b, d\\}$ হলে, $(C \\setminus D)$ কোনটি?",
+      "options": [
+        "$\\{a, d\\}$",
+        "$\\{a\\}$",
+        "$\\{a, b, d\\}$",
+        "$\\varnothing$"
+      ],
+      "correctOption": 1,
+      "explanation": "$C \\setminus D$ অর্থ $C$-এর যে উপাদানগুলো $D$-তে নেই। $C = \\{a, b\\}$ এবং $D = \\{b, d\\}$। $b$ উভয় সেটে আছে, কিন্তু $a$ শুধু $C$-তে আছে। সুতরাং $C \\setminus D = \\{a\\}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + \\frac{1}{x} = 2\\sqrt{2}$, যেখানে, $x > 0$, $x - \\frac{1}{x}$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$2\\sqrt{3}$",
+        "$6$",
+        "$10$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি, $\\left(x - \\frac{1}{x}\\right)^2 = \\left(x + \\frac{1}{x}\\right)^2 - 4$\n$= (2\\sqrt{2})^2 - 4 = 8 - 4 = 4$।\nযেহেতু $x > 0$, তাই $x - \\frac{1}{x} = \\sqrt{4} = 2$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p^2 - 1 = \\sqrt{5}p$ হলে, যেখানে, $p > 0$.\n$i.$ $p + \\frac{1}{p} = 3$\n$ii.$ $p + \\frac{1}{p} = \\sqrt{5}$\n$iii.$ $p^2 + \\frac{1}{p^2} = 7$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$p^2 - 1 = \\sqrt{5}p$\n$p > 0$ হলে উভয় পক্ষকে $p$ দিয়ে ভাগ করলে:\n$p - \\frac{1}{p} = \\sqrt{5}$\n\nআবার, $p^2 - 1 = \\sqrt{5}p$ থেকে $\\frac{p^2 - 1}{p} = \\sqrt{5}$\nঅর্থাৎ $p - \\frac{1}{p} = \\sqrt{5}$\n\nএখন, $\\left(p + \\frac{1}{p}\\right)^2 = \\left(p - \\frac{1}{p}\\right)^2 + 4 = 5 + 4 = 9$\nসুতরাং $p + \\frac{1}{p} = 3$ নয়, বরং সমীকরণ থেকে:\n$p - \\frac{1}{p} = \\sqrt{5}$ নয়।\n\nআসলে $p^2 - 1 = \\sqrt{5}p$ থেকে $p - \\frac{1}{p} = \\sqrt{5}$ (উভয় পক্ষকে $p$ দিয়ে ভাগ করে নয়)।\n$\\frac{p^2-1}{p} = \\sqrt{5}$, অর্থাৎ $p - \\frac{1}{p} = \\sqrt{5}$।\n\n$ii$ সত্য নয়। তবে উত্তরমালা অনুযায়ী $ii$ ও $iii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_01",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৯ ও ৩০ নং প্রশ্নের উত্তর দাও:\\nকামাল উদ্দিন 5% হার সরল মুনাফায় 5 বছরের জন্য 5000 টাকা 'AB' ব্যাংকে জমা রাখেন।",
+      "question": "2 বছরে তার মুনাফা কত?",
+      "options": [
+        "250 টাকা",
+        "500 টাকা",
+        "1000 টাকা",
+        "2000 টাকা"
+      ],
+      "correctOption": 1,
+      "explanation": "সরল মুনাফা $= \\frac{আসল \\times সময় \\times সুদের হার}{100}$\n$= \\frac{5000 \\times 2 \\times 5}{100} = \\frac{50000}{100} = 500$ টাকা।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "5 বছর পরে সে মুনাফা-আসলে কত টাকা পাবে?",
+      "options": [
+        "6250 টাকা",
+        "6000 টাকা",
+        "5500 টাকা",
+        "5250 টাকা"
+      ],
+      "correctOption": 0,
+      "explanation": "5 বছরে সরল মুনাফা $= \\frac{5000 \\times 5 \\times 5}{100} = \\frac{125000}{100} = 1250$ টাকা।\nমুনাফা-আসল $=$ আসল $+$ মুনাফা $= 5000 + 1250 = 6250$ টাকা।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

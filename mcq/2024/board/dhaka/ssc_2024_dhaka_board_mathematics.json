@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_dhaka_board_mathematics",
+    "title": "ঢাকা বোর্ড - ২০২৪",
+    "titleEn": "ঢাকা বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "dhaka",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "অর্ধবৃত্ত অপেক্ষা ছোট চাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "সমকোণ",
+        "পূরককোণ",
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ"
+      ],
+      "correctOption": 3,
+      "explanation": "অর্ধবৃত্ত অপেক্ষা ছোট চাপ (উপচাপ) এ অন্তর্লিখিত কোণ স্থূলকোণ হয়। পক্ষান্তরে, অর্ধবৃত্ত অপেক্ষা বড় চাপে (অধিচাপ) অন্তর্লিখিত কোণ সূক্ষ্মকোণ এবং অর্ধবৃত্তস্থ কোণ সমকোণ।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২ ও ৩ নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক শ্রেণির ক্রমযোজিত গণসংখ্যা কত?",
+      "options": [
+        "12",
+        "20",
+        "25",
+        "32"
+      ],
+      "correctOption": 3,
+      "explanation": "মোট গণসংখ্যা, $n = 4 + 8 + 20 + 12 + 6 = 50$। মধ্যক হলো $n/2 = 25$-তম পদের মান। ক্রমযোজিত গণসংখ্যা: $31-40: 4$, $41-50: 4+8=12$, $51-60: 12+20=32$। যেহেতু ২৫-তম পদটি $51-60$ শ্রেণিতে অবস্থিত, তাই এটিই মধ্যক শ্রেণি। এই শ্রেণির ক্রমযোজিত গণসংখ্যা $32$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/vkJwohi.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক কত?",
+      "options": [
+        "57",
+        "66",
+        "67.67",
+        "69.75"
+      ],
+      "correctOption": 0,
+      "explanation": "এখানে সর্বোচ্চ গণসংখ্যা $20$, যা $51-60$ শ্রেণিতে অবস্থিত। তাই প্রচুরক শ্রেণি $51-60$। $L = 51, f_1 = 20 - 8 = 12, f_2 = 20 - 12 = 8, h = 10$। প্রচুরক $= L + \\frac{f_1}{f_1 + f_2} \\times h = 51 + \\frac{12}{12 + 8} \\times 10 = 51 + \\frac{120}{20} = 51 + 6 = 57$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$144$ এর $2\\sqrt{3}$ ভিত্তিক $\\log$ কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "2",
+        "$2\\sqrt{3}$",
+        "4"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\log_{2\\sqrt{3}} 144 = \\log_{2\\sqrt{3}} (12)^2 = \\log_{2\\sqrt{3}} ((2\\sqrt{3})^2)^2 = \\log_{2\\sqrt{3}} (2\\sqrt{3})^4 = 4 \\log_{2\\sqrt{3}} (2\\sqrt{3}) = 4 \\times 1 = 4$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "সুষম পঞ্চভুজের শীর্ষ বিন্দুতে উৎপন্ন কোণের পরিমাণ কত?",
+      "options": [
+        "$108^{\\circ}$",
+        "$110^{\\circ}$",
+        "$120^{\\circ}$",
+        "$144^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সুষম বহুভুজের প্রতিটি অন্তঃস্থ কোণ = $\\frac{(n-2) \\times 180^{\\circ}}{n}$। পঞ্চভুজের ক্ষেত্রে $n=5$। কোণ = $\\frac{(5-2) \\times 180^{\\circ}}{5} = \\frac{3 \\times 180^{\\circ}}{5} = 3 \\times 36^{\\circ} = 108^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x + y = 3$ এবং $4x + 2y = 6$ সমীকরণদ্বয়—\n$i$. পরস্পর নির্ভরশীল\n$ii$. পরস্পর সামঞ্জস্য\n$iii$. অসংখ্য সমাধান আছে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমীকরণদ্বয়: $2x + y = 3$ এবং $4x + 2y = 6$। দ্বিতীয় সমীকরণটি প্রথমটির দ্বিগুণ ($2(2x+y)=2(3)$)। অনুপাত: $\\frac{a_1}{a_2} = \\frac{2}{4} = \\frac{1}{2}, \\frac{b_1}{b_2} = \\frac{1}{2}, \\frac{c_1}{c_2} = \\frac{3}{6} = \\frac{1}{2}$। যেহেতু সব অনুপাত সমান, তাই সমীকরণজোটটি সমঞ্জস, পরস্পর নির্ভরশীল এবং এর অসংখ্য সমাধান আছে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{3x - 6} + 5 = 2$ সমীকরণটির সমাধান সেট কোনটি?",
+      "options": [
+        "$\\varnothing$",
+        "$\\{-5\\}$",
+        "$\\{-3\\}$",
+        "$\\{5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sqrt{3x - 6} = 2 - 5$ $\\Rightarrow \\sqrt{3x - 6} = -3$। বর্গমূলের মান কখনো ঋণাত্মক হতে পারে না, তাই বাস্তব সংখ্যায় এর কোনো সমাধান নেই। সমাধান সেট ফাঁকা সেট ($\\varnothing$)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে। নিচের কোন ক্ষেত্রে সমকোণী ত্রিভুজ গঠন করা সম্ভব?",
+      "options": [
+        "২ সে. মি., ৩ সে. মি., ৪ সে. মি.",
+        "৩ সে. মি., ৫ সে. মি., ৭ সে. মি.",
+        "৫ সে. মি., ১২ সে. মি., ১৩ সে. মি.",
+        "১০ সে. মি., ১৫ সে. মি., ২০ সে. মি."
+      ],
+      "correctOption": 2,
+      "explanation": "পীথাগোরাসের উপপাদ্য অনুযায়ী, $a^2 + b^2 = c^2$ হতে হবে। (গ) $5^2 + 12^2 = 25 + 144 = 169 = 13^2$। তাই এটি সমকোণী ত্রিভুজ গঠন করবে।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "যদি $\\tan A = \\frac{4}{3}$ হয়, তাহলে $\\sqrt{\\frac{1-\\sin^2 A}{\\sin^2 A}} = \\text{কত?}$",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{5}{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রদত্ত রাশি $= \\sqrt{\\frac{\\cos^2 A}{\\sin^2 A}} = \\sqrt{\\cot^2 A} = \\cot A$। দেওয়া আছে $\\tan A = \\frac{4}{3}$, তাই $\\cot A = \\frac{1}{\\tan A} = \\frac{3}{4}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "চিত্রে $BC \\parallel DE, AE = CE$ এবং $AB = 8 \\text{ cm}, BC = 6 \\text{ cm}$ হলে—\n$i$. $DE = 3 \\text{ cm}$\n$ii$. $AD = 4 \\text{ cm}$\n$iii$. $\\Delta ABC$ ও $\\Delta ADE$ সদৃশ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "যেহেতু $AE = CE$, তাই $E$ বিন্দু $AC$-এর মধ্যবিন্দু। আবার $DE \\parallel BC$, তাই জ্যামিতির উপপাদ্য অনুসারে $D$ বিন্দু $AB$-এর মধ্যবিন্দু হবে এবং $DE = \\frac{1}{2} BC$ হবে। $DE = \\frac{1}{2} \\times 6 = 3$ (সঠিক)। $AD = \\frac{1}{2} AB = \\frac{1}{2} \\times 8 = 4$ (সঠিক)। সমান্তরাল রেখার কারণে অনুরূপ কোণগুলো সমান হওয়ায় ত্রিভুজ দুটি সদৃশ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/JaEz4FN.png",
+      "imageCaption": "একটি ত্রিভুজ ABC, যার মাঝখানে DE রেখাংশ BC এর সমান্তরাল।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta = \\frac{\\sqrt{3}}{2}$ হলে, $\\cot \\theta = ?$",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sin \\theta = \\frac{\\sqrt{3}}{2} \\Rightarrow \\theta = 60^{\\circ}$। $\\cot 60^{\\circ} = \\frac{1}{\\sqrt{3}}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x) = x^3 - x - 24$ হলে, $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctOption": 1,
+      "explanation": "$x=3$ হলে, $f(3) = 3^3 - 3 - 24 = 27 - 3 - 24 = 27 - 27 = 0$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{1, 2, 3, 4\\}$ হলে, সেট $A$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "4",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctOption": 2,
+      "explanation": "উপাদান সংখ্যা $n=4$। উপসেট সংখ্যা $2^n = 2^4 = 16$। প্রকৃত উপসেট সংখ্যা $= 2^n - 1 = 16 - 1 = 15$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্র হতে $\\sin \\theta \\sec \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{4}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্রে সমকোণী ত্রিভুজ PQR এ $\\angle Q = 90^{\\circ}$। ভূমি $QR=1$, লম্ব $PQ=\\sqrt{3}$। অতিভুজ $PR = \\sqrt{(\\sqrt{3})^2 + 1^2} = \\sqrt{3+1} = 2$। $\\sin \\theta = \\frac{\\text{লম্ব}}{\\text{অতিভুজ}} = \\frac{\\sqrt{3}}{2}$। $\\sec \\theta = \\frac{\\text{অতিভুজ}}{\\text{ভূমি}} = \\frac{2}{1} = 2$। $\\sin \\theta \\sec \\theta = \\frac{\\sqrt{3}}{2} \\times 2 = \\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/1ck8nsH.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "কোন শর্তে $x^0 = 1$?",
+      "options": [
+        "$x \\neq 0$",
+        "x = 0",
+        "x > 0",
+        "x < 0"
+      ],
+      "correctOption": 0,
+      "explanation": "সূচকের নিয়ম অনুসারে, $x^0 = 1$ হবে যদি এবং কেবল যদি ভিত্তি $x$ শূন্য না হয় ($x \\neq 0$)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "যদি $a^2 - \\sqrt{2}a + 1 = 0$ হয় তবে—\n$i$. $a + \\frac{1}{a} = \\sqrt{2}$\n$ii$. $a^2 + \\frac{1}{a^2} = 2$\n$iii$. $a^3 + \\frac{1}{a^3} = -\\sqrt{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত সমীকরণ হতে: $a^2 + 1 = \\sqrt{2}a \\Rightarrow a + \\frac{1}{a} = \\sqrt{2}$ (i সঠিক)। $a^2 + \\frac{1}{a^2} = (a+\\frac{1}{a})^2 - 2 = (\\sqrt{2})^2 - 2 = 2 - 2 = 0$ (ii ভুল)। $a^3 + \\frac{1}{a^3} = (a+\\frac{1}{a})^3 - 3(a+\\frac{1}{a}) = (\\sqrt{2})^3 - 3\\sqrt{2} = 2\\sqrt{2} - 3\\sqrt{2} = -\\sqrt{2}$ (iii সঠিক)।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle BOC$ এর পূরক কোণ কোনটি?",
+      "options": [
+        "$\\angle AOC$",
+        "$\\angle DOC$",
+        "$\\angle AOD$",
+        "$\\angle BOD$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রে $OD \\perp OB$ (লম্ব) দেখা যাচ্ছে, অর্থাৎ $\\angle BOD = 90^{\\circ}$। সুতরাং, $\\angle DOC + \\angle BOC = 90^{\\circ}$। দুটি কোণের সমষ্টি $90^{\\circ}$ হলে তারা পরস্পরের পূরক কোণ। তাই $\\angle BOC$ এর পূরক কোণ $\\angle DOC$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/dIdAlZH.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "চা ও চিনির অনুপাত $7:3$, মিশ্রণে চায়ের পরিমাণ শতকরা কত?",
+      "options": [
+        "$30\\%$",
+        "$40\\%$",
+        "$50\\%$",
+        "$70\\%$"
+      ],
+      "correctOption": 3,
+      "explanation": "অনুপাতের রাশিগুলোর যোগফল $= 7+3 = 10$। চায়ের পরিমাণ $= \\frac{7}{10}$ অংশ। শতকরায় $= \\frac{7}{10} \\times 100\\% = 70\\%$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $ABC$ একটি সমবাহু ত্রিভুজ এবং $\\angle BAC$ এর সমদ্বিখণ্ডক $AO$ হলে $\\angle AOC = ?$",
+      "options": [
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "সমবাহু ত্রিভুজের প্রতিটি কোণ $60^{\\circ}$। $AO$, $\\angle A$ এর সমদ্বিখণ্ডক হওয়ায় $\\angle OAC = 30^{\\circ}$। $\\Delta AOC$-এ $OA=OC$ (ব্যাসার্ধ), তাই $\\angle OCA = 30^{\\circ}$। সুতরাং $\\angle AOC = 180^{\\circ} - (30^{\\circ} + 30^{\\circ}) = 120^{\\circ}$।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/vSyQ3P5.png",
+      "imageCaption": "বৃত্তের ভিতরে সমবাহু ত্রিভুজ ABC।",
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "যদি $\\sec A + \\tan A = \\sqrt{5}$ হয়, তবে $\\sin A = \\text{কত?}$",
+      "options": [
+        "$\\sqrt{5}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{\\sqrt{5}}$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি $\\sec^2 A - \\tan^2 A = 1 \\Rightarrow (\\sec A - \\tan A)(\\sec A + \\tan A) = 1$। সুতরাং $\\sec A - \\tan A = \\frac{1}{\\sqrt{5}}$। দুটি সমীকরণ যোগ করে: $2\\sec A = \\sqrt{5} + \\frac{1}{\\sqrt{5}} = \\frac{6}{\\sqrt{5}} \\Rightarrow \\sec A = \\frac{3}{\\sqrt{5}}$। $\\cos A = \\frac{\\sqrt{5}}{3}$। $\\sin A = \\sqrt{1 - \\cos^2 A} = \\sqrt{1 - \\frac{5}{9}} = \\sqrt{\\frac{4}{9}} = \\frac{2}{3}$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "উদ্দীপকের আলোকে ২১ ও ২২ নং প্রশ্নের উত্তর দাও :\\nআয়তাকার ঘরের মেঝের দৈর্ঘ্য, প্রস্থ অপেক্ষা ২ মিটার বেশি এবং মেঝের পরিসীমা ২০ মিটার।",
+      "question": "ঘরের মেঝের দৈর্ঘ্য কত?",
+      "options": [
+        "$4 $ মিটার",
+        "$6$ মিটার",
+        "$8 $ মিটার",
+        "$10$ মিটার"
+      ],
+      "correctOption": 1,
+      "explanation": "ধরি প্রস্থ $x$। দৈর্ঘ্য $x+2$। পরিসীমা $2(x + x + 2) = 20 \\Rightarrow 4x + 4 = 20 \\Rightarrow 4x = 16 \\Rightarrow x = 4$। দৈর্ঘ্য $= 4 + 2 = 6$ মিটার।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "আয়তাকার ঘরের পরিসীমা একটি বেলনের ভূমির ব্যাস হলে, বেলনটির ভূমির ক্ষেত্রফল কত?",
+      "options": [
+        "$10\\pi$  বর্গ মি.",
+        "$20\\pi$ বর্গ মি.",
+        "$100\\pi$ বর্গ মি.",
+        "$400\\pi$ বর্গ মি."
+      ],
+      "correctOption": 2,
+      "explanation": "ঘরের পরিসীমা $= 20$ মি.। বেলনের ভূমির ব্যাস $2r = 20 \\Rightarrow r = 10$। ক্ষেত্রফল $= \\pi r^2 = \\pi (10)^2 = 100\\pi$ বর্গ মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.\\dot{3} \\times 0.\\dot{6} = \\text{কত?}$",
+      "options": [
+        "$1$",
+        "$0.\\dot{2}$",
+        "$0.\\dot{1}\\dot{8}$",
+        "$0.1\\dot{8}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$0.\\dot{3} = \\frac{3}{9} = \\frac{1}{3}$ এবং $0.\\dot{6} = \\frac{6}{9} = \\frac{2}{3}$। গুণফল $= \\frac{1}{3} \\times \\frac{2}{3} = \\frac{2}{9}$। $\\frac{2}{9} = 0.222... = 0.\\dot{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + b = \\sqrt{16}$ এবং $ab = 1$ হলে, $(a-b)^2 = \\text{কত?}$",
+      "options": [
+        "12",
+        "14",
+        "22",
+        "24"
+      ],
+      "correctOption": 0,
+      "explanation": "$a+b = 4$। $(a-b)^2 = (a+b)^2 - 4ab = 4^2 - 4(1) = 16 - 4 = 12$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{4^{-x}} = 64$ হলে, $x = \\text{কত?}$",
+      "options": [
+        "$6$",
+        "$3$",
+        "$-12$",
+        "$-4$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{1}{4^x} = 64 \\Rightarrow 4^{-x} = 4^3 \\Rightarrow -x = 3 \\Rightarrow x = -3$। (নোট: সঠিক উত্তর $-3$ হওয়া উচিত, কিন্তু উত্তরমালা অনুসারে অপশন (খ) '3' চিহ্নিত। সম্ভবত প্রশ্নে বা উত্তরে ত্রুটি আছে)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$a, b, c$ ক্রমিক সমানুপাতি হলে—\n$i$. $b^2 = ac$\n$ii$. $2b = a + c$\n$iii$. $\\frac{a+b}{b} = \\frac{b+c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্রমিক সমানুপাতি হলে $a/b = b/c \\Rightarrow b^2 = ac$ (i সঠিক)। $2b=a+c$ সমান্তর ধারার শর্ত, সমানুপাতের নয় (ii ভুল)। যোজন করে: $a/b+1 = b/c+1 \\Rightarrow (a+b)/b = (b+c)/c$ (iii সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$64 + 32 + 16 + 8 + \\dots$ ধারার ৮ম পদ কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "এটি একটি গুণোত্তর ধারা যার প্রথম পদ $a=64$ এবং সাধারণ অনুপাত $r = \\frac{32}{64} = \\frac{1}{2}$। ৮ম পদ $= ar^{8-1} = 64 \\times (\\frac{1}{2})^7 = 64 \\times \\frac{1}{128} = \\frac{1}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "ত্রিভুজের ক্ষেত্রে—\n$i$. দুটি ত্রিভুজ সদৃশকোণী হলে তাদের অনুরূপ বাহুগুলোর অনুপাত সমান হবে।\n$ii$. দুইটি ত্রিভুজ সদৃশকোণী এবং এদের একজোড়া অনুরূপ বাহু সমান হলে ত্রিভুজদ্বয় সর্বসম।\n$iii$. তিনটি কোণ দিয়ে অঙ্কিত ত্রিভুজকে সদৃশ ত্রিভুজ বলা হয়।\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সদৃশকোণী ত্রিভুজের অনুরূপ বাহুর অনুপাত সমান (i সঠিক)। সদৃশকোণী ত্রিভুজের অনুরূপ বাহু সমান হলে তারা সর্বসম (ii সঠিক)। তিনটি নির্দিষ্ট কোণ দিয়ে আঁকা যেকোনো ত্রিভুজ একে অপরের সদৃশ হয় (iii সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{2\\sqrt{2}} 64$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$1$",
+        "$4$",
+        "$2\\sqrt{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ভিত্তি $2\\sqrt{2} = 2^1 \\cdot 2^{0.5} = 2^{1.5}$। সংখ্যা $64 = 2^6$। $\\log_{2^{1.5}} 2^6 = \\frac{6}{1.5} \\log_2 2 = \\frac{6}{1.5} = 4$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 + y^2 = 4xy$ হলে, $\\frac{x^2}{y^2} + \\frac{y^2}{x^2}$ এর মান কত?",
+      "options": [
+        "$4$",
+        "$14$",
+        "$18$",
+        "$20$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x^2 + y^2 = 4xy \\Rightarrow \\frac{x^2}{xy} + \\frac{y^2}{xy} = 4 \\Rightarrow \\frac{x}{y} + \\frac{y}{x} = 4$। প্রদত্ত রাশি $= (\\frac{x}{y})^2 + (\\frac{y}{x})^2 = (\\frac{x}{y} + \\frac{y}{x})^2 - 2(\\frac{x}{y})(\\frac{y}{x}) = 4^2 - 2 = 16 - 2 = 14$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

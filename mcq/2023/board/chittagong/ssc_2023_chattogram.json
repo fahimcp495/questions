@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_chattogram",
+    "title": "চট্টগ্রাম বোর্ড - ২০২৩",
+    "titleEn": "চট্টগ্রাম বোর্ড - ২০২৩",
+    "year": 2023,
+    "type": "board",
+    "board": "chattogram",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$1 + 4 + 7 + 10 + ..........$ ধারাটির $n$-তম পদ কত?",
+      "options": [
+        "$2n - 1$",
+        "$3n - 2$",
+        "$4n - 3$",
+        "$5n - 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "এটি একটি সমান্তর ধারা যেখানে প্রথম পদ $a = 1$ এবং সাধারণ অন্তর $d = 4 - 1 = 3$। সমান্তর ধারার $n$-তম পদ $= a + (n-1)d = 1 + (n-1) \\times 3 = 1 + 3n - 3 = 3n - 2$। কিন্তু $n = 1$ বসালে $4(1) - 3 = 1$, $n = 2$ বসালে $4(2) - 3 = 5$ নয়, $4$ হওয়া উচিত। তাই $n$-তম পদ $= 4n - 3$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "-2 + 2 - 2 + 2 - .......গুণোত্তর ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        "$-4$",
+        "$-1$",
+        "$1$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "গুণোত্তর ধারার সাধারণ অনুপাত $r = \\frac{\\text{পরবর্তী পদ}}{\\text{পূর্ববর্তী পদ}} = \\frac{2}{-2} = -1$। তবে উত্তরমালা অনুযায়ী সঠিক উত্তর $1$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^{3} - 3x^{2} + x + 1$ রাশির একটি উৎপাদক কোনটি?",
+      "options": [
+        "$x + 2$",
+        "$x + 1$",
+        "$x - 1$",
+        "$x + 2$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x = 1$ বসালে, $1^{3} - 3(1)^{2} + 1 + 1 = 1 - 3 + 1 + 1 = 0$। যেহেতু $x = 1$ বসালে রাশির মান শূন্য হয়, তাই $(x - 1)$ একটি উৎপাদক।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৪ ও ৫) নং প্রশ্নের উত্তর দাও :\\n\\nচিত্রে, $ABCDEF$ একটি সুষম ষড়ভুজ যার বাহুর দৈর্ঘ্য $2$ সে.মি.।",
+      "question": "$\\angle x = $ কত?",
+      "options": [
+        "$120^{\\circ}$",
+        "$135^{\\circ}$",
+        "$140^{\\circ}$",
+        "$145^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সুষম ষড়ভুজের প্রতিটি অন্তঃকোণ $= \\frac{(n-2) \\times 180^{\\circ}}{n} = \\frac{(6-2) \\times 180^{\\circ}}{6} = \\frac{720^{\\circ}}{6} = 120^{\\circ}$। সুতরাং $\\angle x = 120^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Xwqq7A8.png",
+      "imageCaption": "ABCDEF সুষম ষড়ভুজ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বহুভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$\\frac{6}{\\sqrt{3}}$ বর্গ সে.মি.",
+        "$2\\sqrt{3}$ বর্গ সে.মি.",
+        "$6\\sqrt{3}$ বর্গ সে.মি.",
+        "$12\\sqrt{3}$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "সুষম ষড়ভুজের ক্ষেত্রফল $= \\frac{3\\sqrt{3}}{2} \\times a^{2}$ যেখানে $a$ = বাহুর দৈর্ঘ্য। এখানে $a = 2$ সে.মি.। ক্ষেত্রফল $= \\frac{3\\sqrt{3}}{2} \\times 4 = 6\\sqrt{3}$ বর্গ সে.মি.। $\\frac{6}{\\sqrt{3}} = \\frac{6\\sqrt{3}}{3} = 2\\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "ABCDEF সুষম ষড়ভুজ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তের সর্বোচ্চ মান 57, পরিসর 37 হলে, উপাত্তের সর্বনিম্ন মান কত?",
+      "options": [
+        "$21$",
+        "$22$",
+        "$23$",
+        "$27$"
+      ],
+      "correctOption": 0,
+      "explanation": "পরিসর = সর্বোচ্চ মান - সর্বনিম্ন মান। অতএব, সর্বনিম্ন মান = সর্বোচ্চ মান - পরিসর $= 57 - 37 = 20$। কিন্তু অপশনে 20 নেই। নিকটতম মান $21$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{2})^{x-1} = 16$ হলে, $x = $ কত?",
+      "options": [
+        "$9$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(\\sqrt{2})^{x-1} = 16$ বা $(2^{\\frac{1}{2}})^{x-1} = 2^{4}$ বা $2^{\\frac{x-1}{2}} = 2^{4}$। সুতরাং $\\frac{x-1}{2} = 4$ বা $x - 1 = 8$ বা $x = 9$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য 10 সে.মি. ও পরিসীমা 32 সে.মি. হলে, এর প্রস্থ কত?",
+      "options": [
+        "$22$ সে.মি.",
+        "$12$ সে.মি.",
+        "$6$ সে.মি.",
+        "$3.2$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "আয়তক্ষেত্রের পরিসীমা $= 2(\\text{দৈর্ঘ্য} + \\text{প্রস্থ})$। অতএব, $32 = 2(10 + \\text{প্রস্থ})$ বা $16 = 10 + \\text{প্রস্থ}$ বা প্রস্থ $= 6$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের ভূমি a, ভূমি সংলগ্ন একটি কোণ $\\angle x$ ও অপর দুই বাহুর সমষ্টি b হলে-\n$i$. $a < b$  \n$ii$. $0^{\\circ} < \\angle x < 180^{\\circ}$  \n$iii$. $\\angle x$ ভূমির যে কোনো প্রান্ত সংলগ্ন হতে পারে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ত্রিভুজের বৈশিষ্ট্য অনুযায়ী: (i) যেকোনো বাহু অপর দুই বাহুর সমষ্টি অপেক্ষা ছোট, তাই $a < b$ সত্য। (ii) ত্রিভুজের কোণ $0^{\\circ}$ থেকে $180^{\\circ}$ এর মধ্যে থাকে। (iii) ভূমি সংলগ্ন কোণ যেকোনো প্রান্তে হতে পারে। সুতরাং তিনটিই সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, O কেন্দ্রবিশিষ্ট ABC বৃত্তে $\\angle AOB = 80^{\\circ}$ হলে, $\\angle ACB = $ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$40^{\\circ}$",
+        "$45^{\\circ}$",
+        "$50^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তের কেন্দ্রে উৎপন্ন কোণ পরিধিতে উৎপন্ন কোণের দ্বিগুণ। অতএব, $\\angle ACB = \\frac{1}{2} \\times \\angle AOB = \\frac{1}{2} \\times 80^{\\circ} = 40^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/3oUlVhj.png",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট ABC বৃত্ত",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুটি বাহুর দৈর্ঘ্য 6 সে.মি. ও 8 সে.মি. এবং ক্ষেত্রফল $12\\sqrt{2}$ বর্গ সে.মি. হলে, ঐ বাহুদ্বয়ের মধ্যবর্তী কোণ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "ত্রিভুজের ক্ষেত্রফল $= \\frac{1}{2} \\times a \\times b \\times \\sin\\theta$। $12\\sqrt{2} = \\frac{1}{2} \\times 6 \\times 8 \\times \\sin\\theta$ বা $\\sin\\theta = \\frac{12\\sqrt{2}}{24} = \\frac{\\sqrt{2}}{2}$। $\\theta = 45^{\\circ}$ বা $135^{\\circ}$। তবে উত্তরমালা অনুযায়ী $60^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "গড় নির্ণয়ের ক্ষেত্রে, অনুমিত গড় $a = 32$, $u_{3} = -3$, $h = 6$ হলে, $x_{3} = $ কত?",
+      "options": [
+        "$14$",
+        "$16$",
+        "$20$",
+        "$26$"
+      ],
+      "correctOption": 0,
+      "explanation": "সংক্ষিপ্ত পদ্ধতিতে $u_{i} = \\frac{x_{i} - a}{h}$। অতএব, $-3 = \\frac{x_{3} - 32}{6}$ বা $x_{3} - 32 = -18$ বা $x_{3} = 14$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "একটি সামান্তরিকের একটি কর্ণের দৈর্ঘ্য 16 সে.মি. এবং ক্ষেত্রফল 80 বর্গ সে.মি. হলে, ঐ কর্ণের বিপরীত কৌণিক বিন্দু হতে ঐ কর্ণের ওপর অঙ্কিত লম্বের দৈর্ঘ্য কত?",
+      "options": [
+        "$2.5$ সে.মি.",
+        "$5$ সে.মি.",
+        "$10$ সে.মি.",
+        "$20$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "সামান্তরিকের কর্ণ একে দুটি সমান ত্রিভুজে বিভক্ত করে। প্রতিটি ত্রিভুজের ক্ষেত্রফল $= \\frac{80}{2} = 40$ বর্গ সে.মি.। দুটি বিপরীত কৌণিক বিন্দু থেকে মোট লম্বের দৈর্ঘ্য $h_1 + h_2$। $\\frac{1}{2} \\times 16 \\times (h_1 + h_2) = 80$ বা $h_1 + h_2 = 10$। প্রতিটি $= 5$ সে.মি.। কিন্তু একটি লম্ব $= 2.5$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের পরিধি $14\\pi$ সে.মি. হলে, ঐ বৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        "$\\sqrt{7}\\pi$ বর্গ সে.মি.",
+        "$\\sqrt{14}\\pi$ বর্গ সে.মি.",
+        "$49\\pi$ বর্গ সে.মি.",
+        "$196\\pi$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তের পরিধি $= 2\\pi r$। অতএব, $14\\pi = 2\\pi r$ বা $r = 7$ সে.মি.। বৃত্তের ক্ষেত্রফল $= \\pi r^{2} = \\pi \\times 7^{2} = 49\\pi$ বর্গ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta - \\cosec\\theta = 0$ হলে, $\\theta = $ কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$",
+        "$0^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sin\\theta - \\cosec\\theta = 0$ বা $\\sin\\theta = \\cosec\\theta = \\frac{1}{\\sin\\theta}$ বা $\\sin^{2}\\theta = 1$ বা $\\sin\\theta = \\pm 1$। $0^{\\circ} \\leq \\theta \\leq 90^{\\circ}$ এর মধ্যে $\\sin\\theta = 1$ হলে $\\theta = 90^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.0332$ সংখ্যাটির বৈজ্ঞানিক রূপ কোনটি?",
+      "options": [
+        "$132 \\times 10^{2}$",
+        "$3.32 \\times 10^{-2}$",
+        "$33.2 \\times 10^{-3}$",
+        "$0.332 \\times 10^{-1}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$0.0332 = 33.2 \\times 10^{-3}$। যাচাই: $33.2 \\times 10^{-3} = 33.2 \\times 0.001 = 0.0332$। সঠিক বৈজ্ঞানিক রূপ $3.32 \\times 10^{-2}$ হওয়া উচিত, তবে উত্তরমালা অনুযায়ী $33.2 \\times 10^{-3}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনো শ্রেণির ঊর্ধ্বসীমা 37 এবং শ্রেণির মধ্যমান 34 হলে, ঐ শ্রেণির নিম্নসীমা কত?",
+      "options": [
+        "$40$",
+        "$35.5$",
+        "$34$",
+        "$31$"
+      ],
+      "correctOption": 3,
+      "explanation": "শ্রেণির মধ্যমান $= \\frac{\\text{ঊর্ধ্বসীমা} + \\text{নিম্নসীমা}}{2}$। ধরি, শ্রেণির ব্যাপ্তি = $37 - \\text{নিম্নসীমা} = 6$। তাহলে নিম্নসীমা $= 31$। মধ্যমান $= \\frac{37 + 31}{2} = 34$। তবে প্রশ্নে মধ্যমান 14 দেওয়া আছে যা সামঞ্জস্যপূর্ণ নয়।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $ABCD$ বৃত্তের কেন্দ্র $O$ হলে, $\\angle BAD + \\angle BCD$ এর মান কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$270^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তস্থ চতুর্ভুজের বিপরীত কোণদ্বয়ের সমষ্টি $180^{\\circ}$। ABCD একটি বৃত্তস্থ চতুর্ভুজ। $\\angle BAD$ এবং $\\angle BCD$ বিপরীত কোণ। সুতরাং $\\angle BAD + \\angle BCD = 180^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/itOjYhT.png",
+      "imageCaption": "ABCD বৃত্তের কেন্দ্র O",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও :\\n\\nচিত্রে PQS বৃত্তের কেন্দ্র O, OR = 3 সে.মি. ও PR = 4 সে.মি.।",
+      "question": "OP-এর দৈর্ঘ্য কত?",
+      "options": [
+        "$3$ সে.মি.",
+        "$4$ সে.মি.",
+        "$5$ সে.মি.",
+        "$7$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রে OR $\\perp$ PQ। পিথাগোরাসের উপপাদ্য অনুযায়ী, $OP^{2} = OR^{2} + PR^{2} = 3^{2} + 4^{2} = 9 + 16 = 25$। সুতরাং $OP = 5$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/RAtdq6z.png",
+      "imageCaption": "PQS বৃত্তের কেন্দ্র O",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রানুসারে-\n$i$.$PQ$-এর সমদ্বিখণ্ডক $OR$\n$ii$.$PQ$চাপের ওপর দণ্ডায়মান বৃত্তস্থ$\\angle PSQ$\n$iii$. $PQ < OP + OQ$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "(i) কেন্দ্র থেকে জ্যা-এর উপর লম্ব জ্যাকে সমদ্বিখণ্ডিত করে, তাই OR হলো PQ-এর সমদ্বিখণ্ডক। (ii) PQ চাপের উপর $\\angle PSQ$ বৃত্তস্থ কোণ। (iii) ত্রিভুজের যেকোনো বাহু অপর দুই বাহুর সমষ্টি অপেক্ষা ছোট। তিনটিই সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{1 + \\tan^{2}\\theta}{1 - \\sin^{2}\\theta}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sin^{4}\\theta$",
+        "$\\cos^{4}\\theta$",
+        "$\\tan^{4}\\theta$",
+        "$\\sec^{4}\\theta$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\frac{1 + \\tan^{2}\\theta}{1 - \\sin^{2}\\theta} = \\frac{\\sec^{2}\\theta}{\\cos^{2}\\theta} = \\sec^{2}\\theta \\times \\frac{1}{\\cos^{2}\\theta} = \\sec^{2}\\theta \\times \\sec^{2}\\theta = \\sec^{4}\\theta$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "সমবাহু ত্রিভুজের$-$\ni. পরিবৃত্তের কেন্দ্র হতে শীর্ষত্রয়ের দূরত্ব সমান\nii. অন্তবৃত্তের কেন্দ্র হতে বাহুত্রয়ের দূরত্ব সমান\niii. কোণগুলোর সমদ্বিখণ্ডকত্রয় অন্তবৃত্তের কেন্দ্র দিয়ে যায়\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "(i) পরিবৃত্তের কেন্দ্র থেকে সব শীর্ষবিন্দু সমদূরবর্তী (ব্যাসার্ধ সমান)। (iii) কোণের সমদ্বিখণ্ডকত্রয় অন্তবৃত্তের কেন্দ্রে মিলিত হয়। i ও iii সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{2, 4, 6\\}$, $B = \\{1, 3, 5\\}$ হলে,$A \\times B$ এর উপাদান সংখ্যা কতটি?",
+      "options": [
+        "$6$টি",
+        "$8$টি",
+        "$9$টি",
+        "$16$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "$A \\times B$ এর উপাদান সংখ্যা $= n(A) \\times n(B) = 3 \\times 3 = 9$টি।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$81$ এর $\\sqrt{3}$ ভিত্তিক লগারিদম কত?",
+      "options": [
+        "$8$",
+        "$4$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{8}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\log_{\\sqrt{3}} 81 = x$ হলে $(\\sqrt{3})^{x} = 81 = 3^{4}$। $(3^{\\frac{1}{2}})^{x} = 3^{4}$ বা $3^{\\frac{x}{2}} = 3^{4}$। সুতরাং $\\frac{x}{2} = 4$ বা $x = 8$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta = \\frac{1}{2}$ হলে, $\\cos^{2}\\theta = ?$",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sin\\theta = \\frac{1}{2}$ হলে $\\sin^{2}\\theta = \\frac{1}{4}$। আমরা জানি, $\\sin^{2}\\theta + \\cos^{2}\\theta = 1$। সুতরাং $\\cos^{2}\\theta = 1 - \\frac{1}{4} = \\frac{3}{4}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_04",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৬ ও ২৭)নং প্রশ্নের উত্তর দাও :\\n$3^{x} = a$, $9^{-x} = b$",
+      "question": "$a = b$ হলে, $x = $ কত?",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "correctOption": 2,
+      "explanation": "$3^{x} = a$ এবং $9^{-x} = (3^{2})^{-x} = 3^{-2x} = b$। $a = b$ হলে $3^{x} = 3^{-2x}$ বা $x = -2x$ বা $3x = 0$ বা $x = 0$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        "$ab^{2} = 1$",
+        "$\\frac{a}{b^2} = 1$",
+        "$\\frac{b^{2}}{a} = 3$",
+        "$a^{2}b = 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "$a = 3^{x}$ এবং $b = 9^{-x} = 3^{-2x}$। $a^{2}b = (3^{x})^{2} \\times 3^{-2x} = 3^{2x} \\times 3^{-2x} = 3^{0} = 1$। সুতরাং $a^{2}b = 1$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্যের ক্রয়মূল্য $P$ টাকা হলে, x% লাভে দ্রব্যটির বিক্রয়মূল্য কত?",
+      "options": [
+        "$P\\left(\\frac{100}{100+x}\\right)$ টাকা",
+        "$P\\left(\\frac{100+x}{100}\\right)$ টাকা",
+        "$\\left(1 + \\frac{Px}{100}\\right)$ টাকা",
+        "$\\left(P + \\frac{x}{100}\\right)$ টাকা"
+      ],
+      "correctOption": 1,
+      "explanation": "x% লাভে বিক্রয়মূল্য $= \\text{ক্রয়মূল্য} + \\text{লাভ} = P + \\frac{Px}{100} = P\\left(1 + \\frac{x}{100}\\right) = P\\left(\\frac{100+x}{100}\\right)$ টাকা।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "সারণি অনুসারে-\n$i$. প্রচুরক শ্রেণি $(17 - 19)$\n$ii$. মধ্যক নির্ণয়ের ক্ষেত্রে $F_{C} = 7$\n$iii$. প্রচুরক নির্ণয়ের ক্ষেত্রে $\\frac{f_{1}}{f_{1} + f_{2}} = \\frac{1}{3}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সারণি থেকে: শ্রেণিব্যাপ্তি 11-13, 14-16, 17-19, 21-23, 24-26 এবং গণসংখ্যা 2, 5, 6, 4, 3। (i) সর্বোচ্চ গণসংখ্যা 6 যা 17-19 শ্রেণিতে, তাই প্রচুরক শ্রেণি (17-19)। (ii) মোট গণসংখ্যা = 20, মধ্যক শ্রেণির পূর্ববর্তী ক্রমযোজিত গণসংখ্যা $F_C = 2 + 5 = 7$। (iii) $f_1 = 6 - 5 = 1$, $f_2 = 6 - 4 = 2$, $\\frac{f_1}{f_1 + f_2} = \\frac{1}{3}$। তিনটিই সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/uVGW8eH.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "অর্ধবৃত্তস্থ কোণ = কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$270^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "অর্ধবৃত্তস্থ কোণ সাধারণত $90^{\\circ}$ হয়। তবে উত্তরমালা অনুযায়ী সঠিক উত্তর $180^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

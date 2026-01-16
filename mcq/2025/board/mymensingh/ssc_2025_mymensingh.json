@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_mymensingh",
+    "title": "ময়মনসিংহ বোর্ড - ২০২৫",
+    "titleEn": "ময়মনসিংহ বোর্ড - ২০২৫",
+    "year": 2025,
+    "type": "board",
+    "board": "mymensingh",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{2} \\frac{1}{4}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$-2$",
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "$2$"
+      ],
+      "correctOption": 0,
+      "explanation": "আমরা জানি, $400 = (20)^2 = (2\\sqrt{5} \\times 2\\sqrt{5})^2$ এই লজিকটি সঠিক নয়। সঠিক হলো: $2\\sqrt{5} = \\sqrt{20}$। এখন, $(2\\sqrt{5})^4 = (\\sqrt{20})^4 = 20^2 = 400$।\nসুতরাং, $\\log_{2\\sqrt{5}} 400 = \\log_{2\\sqrt{5}} (2\\sqrt{5})^4 = 4\\log_{2\\sqrt{5}} (2\\sqrt{5}) = 4 \\times 1 = 4$। \nকিন্তু অপশনগুলোতে সঠিক উত্তর (4) নেই। উত্তরমালা অনুযায়ী 'ক' (-2) দেওয়া হয়েছে যা গাণিতিকভাবে ভুল। সঠিক উত্তর ৪ হওয়ার কথা। প্রশ্ন বা অপশনে ভুল থাকতে পারে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$\\sqrt{3x-3}+1=0$ সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        "$\\{\\frac{3}{4}\\}$",
+        "$\\emptyset$",
+        "$\\{\\frac{4}{3}\\}$",
+        "$\\{3\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রদত্ত সমীকরণ: $\\sqrt{3x-3} = -1$। কোনো বাস্তব সংখ্যার বর্গমূল ঋণাত্মক হতে পারে না। তাই এর কোনো সমাধান নেই, অর্থাৎ সমাধান সেট ফাঁকা সেট $\\emptyset$। অপশনগুলোর কোনোটিতেই $\\emptyset$ নেই। উত্তরমালায় এটিকে '*' এবং নিচে নোট হিসেবে 'সঠিক উত্তর $\\emptyset$' উল্লেখ করা হয়েছে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_14",
+      "questionPreamble": "একটি রম্বসের—\\ni. প্রতিসাম্য রেখা ২টি\\nii. ঘূর্ণনকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু\\niii. ঘূর্ণন প্রতিসমতার কোণ $90^{\\circ}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "রম্বসের প্রতিসাম্য রেখা ২টি (কর্ণ বরাবর)। রম্বসের ঘূর্ণন কেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু। কিন্তু রম্বসের ঘূর্ণন কোণ (Order of rotational symmetry) ২, তাই ঘূর্ণন কোণ $360^{\\circ}/2 = 180^{\\circ}$, $90^{\\circ}$ নয় (বর্গক্ষেত্র হলে $90^{\\circ}$ হতো)। তাই i ও ii সঠিক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin 3A = \\text{cosec} 3A$ হলে $A$-এর মান কত?",
+      "options": [
+        "$10^{\\circ}$",
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sin 3A = \\frac{1}{\\sin 3A} \\Rightarrow \\sin^2 3A = 1 \\Rightarrow \\sin 3A = 1$ (যেহেতু সূক্ষ্মকোণ)।\n$\\sin 3A = \\sin 90^{\\circ} \\Rightarrow 3A = 90^{\\circ} \\Rightarrow A = 30^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\Delta ABC$-এ $AC=BC$ এবং $\\angle A = 25^{\\circ}$ হলে $\\angle ACB =$ কত?",
+      "options": [
+        "$25^{\\circ}$",
+        "$50^{\\circ}$",
+        "$130^{\\circ}$",
+        "$155^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "যেহেতু $AC=BC$, তাই $\\angle B = \\angle A = 25^{\\circ}$।\nআমরা জানি, ত্রিভুজের তিন কোণের সমষ্টি $180^{\\circ}$।\n$\\therefore \\angle ACB = 180^{\\circ} - (25^{\\circ} + 25^{\\circ}) = 180^{\\circ} - 50^{\\circ} = 130^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_04",
+      "questionPreamble": "$a^x = b^y$ এর ক্ষেত্রে—\\ni. $\\log_a b^{\\frac{y}{x}} = 1$\\nii. $\\log_a b = \\frac{x}{y}$\\niii. $\\log_a b = \\frac{y}{x}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$a^x = b^y$ উভয়পাশে $a$ ভিত্তিক লগ নিয়ে পাই: $x = y \\log_a b \\Rightarrow \\log_a b = \\frac{x}{y}$। (i সঠিক)\nআবার $b$ ভিত্তিক লগ নিয়ে পাই: $x \\log_b a = y \\Rightarrow \\log_b a = \\frac{y}{x}$। (ii সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও:\\n$\\sin A = \\frac{1}{x}$ এবং $\\cos B = \\frac{1}{y}$",
+      "question": "$\\cot A$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sqrt{x-1}$",
+        "$\\sqrt{x^2+1}$",
+        "$\\sqrt{x^2-1}$",
+        "$\\sqrt{x+1}$"
+      ],
+      "correctOption": 2,
+      "explanation": "দেওয়া আছে $\\sin A = \\frac{1}{x}$ (লম্ব/অতিভুজ)।\nভূমি = $\\sqrt{x^2 - 1^2} = \\sqrt{x^2-1}$।\n$\\cot A = \\frac{\\text{ভূমি}}{\\text{লম্ব}} = \\frac{\\sqrt{x^2-1}}{1} = \\sqrt{x^2-1}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$y=\\sqrt{2}$ হলে $\\text{cosec}^2 B - \\cos^2 B$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{-3}{2}$",
+        "$\\frac{-1}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$y=\\sqrt{2}$ হলে $\\cos B = \\frac{1}{\\sqrt{2}} \\Rightarrow B = 45^{\\circ}$।\nরাশিমালা: $\\text{cosec}^2 45^{\\circ} - \\cos^2 45^{\\circ} = (\\sqrt{2})^2 - (\\frac{1}{\\sqrt{2}})^2 = 2 - \\frac{1}{2} = \\frac{3}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমদ্বিবাহু সমকোণী ত্রিভুজের সমান সমান বাহুদ্বয়ের প্রতিটির দৈর্ঘ্য $2a$ সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$\\frac{a^2}{2}$",
+        "$a^2$",
+        "$2a^2$",
+        "$4a^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "সমদ্বিবাহু সমকোণী ত্রিভুজের ক্ষেত্রফল = $\\frac{1}{2} \\times \\text{ভূমি} \\times \\text{উচ্চতা}$।\nএখানে ভূমি ও উচ্চতা উভয়ই $2a$।\nক্ষেত্রফল = $\\frac{1}{2} \\times 2a \\times 2a = 2a^2$ বর্গ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তে দুইটি স্পর্শক আঁকা হলে বৃত্তের কেন্দ্রস্থ কোণ $110^{\\circ}$ বহিঃস্থ বিন্দুতে উৎপন্ন কোণের মান কত ডিগ্রি?",
+      "options": [
+        "$60^{\\circ}$",
+        "$70^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "স্পর্শক ও স্পর্শবিন্দুগামী ব্যাসার্ধের মধ্যবর্তী কোণ $90^{\\circ}$। চতুর্ভুজের চার কোণের সমষ্টি $360^{\\circ}$।\nকেন্দ্রস্থ কোণ ও বহিঃস্থ কোণ সম্পূরক (যোগফল $180^{\\circ}$)।\nসুতরাং, বহিঃস্থ কোণ = $180^{\\circ} - 110^{\\circ} = 70^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{2a}{y} = \\frac{m^2+n^2}{mn}$ হলে $\\frac{\\sqrt{a-y}}{\\sqrt{a+y}} = ?$",
+      "options": [
+        "$\\frac{m-n}{m+n}$",
+        "$\\frac{m+n}{m-n}$",
+        "$\\sqrt{\\frac{m-n}{m+n}}$",
+        "$\\sqrt{\\frac{m+n}{m-n}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "যোজন-বিয়োজন প্রক্রিয়ার মাধ্যমে সমাধান করলে পাওয়া যায় $\\frac{y}{a} = \\frac{2mn}{m^2+n^2}$। এরপর $\\frac{a-y}{a+y}$ বের করে বর্গমূল করলে $\\frac{m-n}{m+n}$ পাওয়া যায়।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "একটি দালান হতে $9\\sqrt{3}$ মিটার দূরে দালানের শীর্ষের অবনতি কোণ $30^{\\circ}$ হলে দালানের উচ্চতা কত মিটার?",
+      "options": [
+        "$3\\sqrt{3}$",
+        "$9$",
+        "$9\\sqrt{3}$",
+        "$36$"
+      ],
+      "correctOption": 1,
+      "explanation": "অবনতি কোণ $30^{\\circ}$ মানে উন্নতি কোণও $30^{\\circ}$।\nধরি উচ্চতা $h$। $\\tan 30^{\\circ} = \\frac{h}{9\\sqrt{3}}$।\n$\\frac{1}{\\sqrt{3}} = \\frac{h}{9\\sqrt{3}} \\Rightarrow h = 9$ মিটার।\nকিন্তু উত্তরমালায় 'ঘ' (৩৬) দেওয়া, যা গাণিতিকভাবে মিলছে না। সম্ভবত প্রশ্নে তথ্য বা অপশনে ভুল আছে। সাধারণ নিয়মে উত্তর ৯ মিটার।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৩ ও ১৪ নং প্রশ্নের উত্তর দাও :\\n$11\\sqrt{2}$ সে.মি. ব্যাসের একটি বৃত্তে একটি চতুর্ভুজ অন্তর্লিখিত আছে।",
+      "question": "বৃত্তটির অর্ধপরিধি কত সে.মি. (প্রায়)?",
+      "options": [
+        "$190.07$",
+        "$97.74$",
+        "$48.87$",
+        "$24.44$"
+      ],
+      "correctOption": 3,
+      "explanation": "ব্যাস $d = 11\\sqrt{2} \\approx 15.556$।\nপরিধি = $\\pi d = 3.1416 \\times 11\\sqrt{2} \\approx 48.87$ সে.মি.।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "অন্তর্লিখিত চতুর্ভুজটি একটি বর্গ হলে—\\ni. কর্ণের দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\\nii. বাহুর দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\\niii. ক্ষেত্রফল $121$ বর্গ সে.মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তে অন্তর্লিখিত বর্গের কর্ণ = বৃত্তের ব্যাস = $11\\sqrt{2}$ সে.মি. (i সঠিক)।\nবর্গের বাহু $a$ হলে, কর্ণ $\\sqrt{2}a = 11\\sqrt{2} \\Rightarrow a = 11$। (ii ভুল, এখানে বলা $11\\sqrt{2}$)।\nক্ষেত্রফল $a^2 = 11^2 = 121$ (iii সঠিক)।\nসঠিক উত্তর (i ও iii), যা অপশন 'খ' তে থাকার কথা। কিন্তু উত্তরমালায় 'ঘ' (i, ii ও iii) দেওয়া হয়েছে যা ভুল। সঠিক লজিক অনুযায়ী উত্তর 'খ'।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$4$ সে.মি. বাহুবিশিষ্ট সমবাহু ত্রিভুজের উচ্চতা কত সে.মি.?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$2\\sqrt{5}$",
+        "$4\\sqrt{3}$",
+        "$5\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমবাহু ত্রিভুজের উচ্চতা = $\\frac{\\sqrt{3}}{2}a = \\frac{\\sqrt{3}}{2} \\times 4 = 2\\sqrt{3}$ সে.মি.।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "ইংরেজি বর্ণ $O$-এর ঘূর্ণন কোণ কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "বর্ণ O এর অসংখ্য প্রতিসাম্য রেখা আছে। কিন্তু পাঠ্যপুস্তকের সাধারণ নিয়ম অনুযায়ী এবং অপশন দেখে, O এর ঘূর্ণন প্রতিসমতার মাত্রা ২ ধরা হলে কোণ $180^{\\circ}$। যদি একে বৃত্ত ধরা হয় তবে যেকোনো কোণই সঠিক। উত্তরমালায় 'খ' ($90^{\\circ}$) বা 'গ' ($180^{\\circ}$) হতে পারে। উত্তরমালা অনুযায়ী এটি 'খ' ($90^{\\circ}$)। তবে আদর্শ উত্তর $180^{\\circ}$ বা অসীম।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_13",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :\\nপ্রথম $n$ সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি $441$।",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$(1+2+3+\\dots+n)^2=441$",
+        "$(1+2+3+\\dots+n^2)-441$",
+        "$1^2+2^2+3^2+\\dots+n^2=441$",
+        "$1+2+3+\\dots+n=441$"
+      ],
+      "correctOption": 0,
+      "explanation": "স্বাভাবিক সংখ্যার ঘনের সমষ্টির সূত্র $\\sum n^3 = \\{\\frac{n(n+1)}{2}\\}^2$।\nআবার স্বাভাবিক সংখ্যার সমষ্টি $\\sum n = \\frac{n(n+1)}{2}$।\nসুতরাং, $\\sum n^3 = (\\sum n)^2 = (1+2+3+\\dots+n)^2 = 441$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$n$ এর মান নিচের কোনটি?",
+      "options": [
+        "$5$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\left\\{\\frac{n(n+1)}{2}\\right\\}^2 = 441 = (21)^2$\n$\\Rightarrow \\frac{n(n+1)}{2} = 21 \\Rightarrow n(n+1) = 42$\n$6 \\times 7 = 42$, তাই $n=6$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "পূরককোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "উপপাদ্য অনুযায়ী, বৃত্তের অধিচাপে (Major Arc) অন্তর্লিখিত কোণ সর্বদা সূক্ষ্মকোণ হয়। (উপচাপে হলে স্থূলকোণ হতো)।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও :\\n$8, 15, 4, 6, 0, 4, 10, 9$",
+      "question": "উপাত্তগুলোর মধ্যক কত?",
+      "options": [
+        "$6$",
+        "$7$",
+        "$8$",
+        "$9$"
+      ],
+      "correctOption": 1,
+      "explanation": "উপাত্তগুলো ক্রমানুসারে সাজাই: $0, 4, 4, 6, 8, 9, 10, 15$।\nমোট সংখ্যা ৮টি (জোড়)। মধ্যক = $\\frac{6+8}{2} = \\frac{14}{2} = 7$।\nকিন্তু অপশনে 7 আছে 'খ' তে। উত্তরমালায় 'ঘ' (৯) দেওয়া। এটি ভুল। সঠিক উত্তর ৭।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তগুলোর গড় কত?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$9$",
+        "$5.6$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমষ্টি = $0+4+4+6+8+9+10+15 = 56$।\nগড় = $\\frac{56}{8} = 7$।\nসঠিক উত্তর 'ক' (7)। উত্তরমালায় 'খ' (৮) দেওয়া। উত্তরমালা অনুযায়ী ভুল হতে পারে।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A=\\{5, a, b, c\\}$ এবং $B=\\{3, c, d\\}$ হয় তবে $(A \\setminus B)$ এর প্রকৃত উপসেট কতটি?",
+      "options": [
+        "$3$",
+        "$7$",
+        "$8$",
+        "$15$"
+      ],
+      "correctOption": 1,
+      "explanation": "$A \\setminus B = \\{5, a, b, c\\} - \\{3, c, d\\} = \\{5, a, b\\}$।\nউপাদান সংখ্যা ৩। উপসেট সংখ্যা $2^3 = 8$।\nপ্রকৃত উপসেট সংখ্যা $2^n - 1 = 8 - 1 = 7$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.\\dot{1} + 0.0\\dot{1} = $ কত?",
+      "options": [
+        "$\\frac{11}{90}$",
+        "$\\frac{11}{99}$",
+        "$\\frac{1}{100}$",
+        "$\\frac{11}{100}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$0.\\dot{1} = \\frac{1}{9}$ এবং $0.\\dot{0}\\dot{1} = \\frac{1}{99}$।\nযোগফল = $\\frac{1}{9} + \\frac{1}{99} = \\frac{11+1}{99} = \\frac{12}{99}$।\nঅপশনগুলোর মধ্যে $\\frac{11}{99}$ আছে, যা প্রশ্নের সাথে মিলছে না। সম্ভবত প্রশ্নটি $0.1 + 0.01$ ছিল না, পৌনঃপুনিক ছিল। সঠিক যোগফল $\\frac{12}{99}$। উত্তরমালার অপশন 'খ' ($\\frac{11}{99}$) সম্ভবত প্রিন্টিং মিস্টেক বা প্রশ্নের সাথে অসামঞ্জস্যপূর্ণ।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\sqrt[3]{9}$",
+        "$\\sqrt[3]{16}$",
+        "$\\sqrt{125}$",
+        "$\\sqrt[3]{125}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt{9}=3$ (মূলদ), $\\sqrt{16}=4$ (মূলদ), $\\sqrt[3]{125}=5$ (মূলদ)।\nকিন্তু $\\sqrt{125} = 5\\sqrt{5}$ যা অমূলদ। প্রশ্নে সম্ভবত 'অমূলদ' চাওয়া হয়েছিল অথবা অপশনগুলো ভিন্ন ছিল। উত্তরমালায় 'গ' ($\\sqrt{125}$) দেওয়া, তাই প্রশ্নটি 'কোনটি অমূলদ সংখ্যা' হওয়ার সম্ভাবনাই বেশি।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$(x+y, 6) = (6, x-y)$ হলে $(x, y)$ নিচের কোনটি?",
+      "options": [
+        "$(3, 3)$",
+        "$(0, 6)$",
+        "$(12, 0)$",
+        "$(6, 0)$"
+      ],
+      "correctOption": 3,
+      "explanation": "ক্রমজোড়ের শর্তমতে: $x+y=6$ এবং $x-y=6$।\nযোগ করলে $2x=12 \\Rightarrow x=6$।\nবিয়োগ করলে $2y=0 \\Rightarrow y=0$।\nনির্ণেয় মান $(6, 0)$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$m:n = 4:5$, $n:l = 5:4$ হলে $m:l =$ কত?",
+      "options": [
+        "$20:25$",
+        "$25:20$",
+        "$20:20$",
+        "$16:25$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\frac{m}{n} = \\frac{4}{5}$, $\\frac{n}{l} = \\frac{5}{4}$।\nগুণ করলে: $\\frac{m}{n} \\times \\frac{n}{l} = \\frac{4}{5} \\times \\frac{5}{4} = 1$।\n$\\therefore m:l = 1:1$ বা $20:20$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x+y=\\sqrt{13}$ এবং $x-y=\\sqrt{5}$ হলে $2xy=$ কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$8$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "আমরা জানি, $4xy = (x+y)^2 - (x-y)^2$।\n$4xy = (\\sqrt{13})^2 - (\\sqrt{5})^2 = 13 - 5 = 8$।\n$\\therefore 2xy = \\frac{8}{2} = 4$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x)$ এর একটি উৎপাদক $(2x+5)$ হলে, নিচের কোনটির জন্য $f(x)$ শূন্য হবে?",
+      "options": [
+        "$f(-5)$",
+        "$f(-2)$",
+        "$f(\\frac{-2}{5})$",
+        "$f(\\frac{-5}{2})$"
+      ],
+      "correctOption": 2,
+      "explanation": "উৎপাদক উপপাদ্য অনুযায়ী, যদি $(ax+b)$ উৎপাদক হয়, তবে $f(-\\frac{b}{a}) = 0$ হবে।\nএখানে $2x+5=0 \\Rightarrow x = -\\frac{5}{2}$। তাই $f(-\\frac{5}{2})$ শূন্য হবে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$25p^2 + 49q^2$ এর সাথে কত যোগ করলে যোগফল পূর্ণবর্গ রাশি হবে?",
+      "options": [
+        "$-140pq$",
+        "$-35pq$",
+        "$35pq$",
+        "$70pq$"
+      ],
+      "correctOption": 3,
+      "explanation": "$25p^2 + 49q^2 = (5p)^2 + (7q)^2$।\nপূর্ণবর্গ হতে হলে $2ab$ বা $-2ab$ যোগ করতে হবে।\n$2 \\times 5p \\times 7q = 70pq$। অথবা $-70pq$।\nঅপশনে $70pq$ আছে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x = y+2$ সরলরেখাটির উপরস্থ বিন্দু কোনটি?",
+      "options": [
+        "$(0, 2)$",
+        "$(0, -2)$",
+        "$(1, -4)$",
+        "$(-4, -1)$"
+      ],
+      "correctOption": 1,
+      "explanation": "সমীকরণটি $2x - y - 2 = 0$।\nঅপশন (খ) $(0, -2)$ বসালে: $2(0) - (-2) - 2 = 0 + 2 - 2 = 0$। এটি সিদ্ধ করে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

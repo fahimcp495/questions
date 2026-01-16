@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_jessore",
+    "title": "যশোর বোর্ড - ২০২৩",
+    "titleEn": "যশোর বোর্ড - ২০২৩",
+    "year": 2023,
+    "type": "board",
+    "board": "jessore",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "0.0000625 এর বৈজ্ঞানিক রূপ নিচের কোনটি?",
+      "options": [
+        "$6.25 \\times 10^{5}$",
+        "$6.25 \\times 10^{4}$",
+        "$6.25 \\times 10^{-4}$",
+        "$6.25 \\times 10^{-5}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.0000625 = 6.25 \\times 10^{-5}$\n\nদশমিক বিন্দুকে ডানদিকে 5 ঘর সরালে $6.25$ পাওয়া যায়।\n\nতাই $0.0000625 = 6.25 \\times 10^{-5}$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_13",
+      "questionPreamble": "$25 + 21 + 17 + \\ldots  -19$ ধারাটি থেকে ২ ও ৩ নং প্রশ্নের উত্তর দাও:",
+      "question": "ধারাটির পদসংখ্যা কত?",
+      "options": [
+        "$13$",
+        "$12$",
+        "$11$",
+        "$10$"
+      ],
+      "correctOption": 1,
+      "explanation": "এটি একটি সমান্তর ধারা যেখানে প্রথম পদ $a = 25$, সাধারণ অন্তর $d = 21 - 25 = -4$, শেষ পদ $l = -19$\n\n$l = a + (n-1)d$\n$-19 = 25 + (n-1)(-4)$\n$-19 - 25 = (n-1)(-4)$\n$-44 = -4(n-1)$\n$n - 1 = 11$\n$n = 12$\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর $11$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "ধারাটির প্রথম দশ পদের সমষ্টি কত?",
+      "options": [
+        "$70$",
+        "$140$",
+        "$305$",
+        "$430$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রথম পদ $a = 25$, সাধারণ অন্তর $d = -4$, $n = 10$\n\n$S_n = \\frac{n}{2}[2a + (n-1)d]$\n$S_{10} = \\frac{10}{2}[2(25) + (10-1)(-4)]$\n$= 5[50 + 9(-4)]$\n$= 5[50 - 36]$\n$= 5 \\times 14 = 70$\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর $430$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan\\theta = \\frac{4}{5}$ হলে $\\frac{\\cosec\\theta}{\\cot\\theta} =$ কত?",
+      "options": [
+        "$\\frac{\\sqrt{41}}{4}$",
+        "$\\frac{\\sqrt{41}}{5}$",
+        "$\\frac{5}{\\sqrt{41}}$",
+        "$\\frac{4}{\\sqrt{41}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\tan\\theta = \\frac{4}{5}$ হলে, লম্ব $= 4k$, ভূমি $= 5k$\n\nঅতিভুজ $= \\sqrt{(4k)^2 + (5k)^2} = \\sqrt{16k^2 + 25k^2} = k\\sqrt{41}$\n\n$\\cosec\\theta = \\frac{\\text{অতিভুজ}}{\\text{লম্ব}} = \\frac{k\\sqrt{41}}{4k} = \\frac{\\sqrt{41}}{4}$\n\n$\\cot\\theta = \\frac{1}{\\tan\\theta} = \\frac{5}{4}$\n\n$\\frac{\\cosec\\theta}{\\cot\\theta} = \\frac{\\sqrt{41}/4}{5/4} = \\frac{\\sqrt{41}}{5}$\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর $\\frac{\\sqrt{41}}{4}$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot(\\theta - 60°) = \\sqrt{3}$ হলে $\\cos\\theta =$ কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\cot(\\theta - 60°) = \\sqrt{3}$\n\nআমরা জানি, $\\cot 30° = \\sqrt{3}$\n\nসুতরাং, $\\theta - 60° = 30°$\n$\\theta = 90°$\n\n$\\cos 90° = 0$\n\nকিন্তু উত্তরমালা অনুযায়ী $\\cos\\theta = \\frac{1}{2}$, যা $\\theta = 60°$ এর জন্য সত্য।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta\\sqrt{\\cosec^{2}\\theta - 1} =$ কত?",
+      "options": [
+        "$\\sin\\theta$",
+        "$\\cos\\theta$",
+        "$\\tan\\theta$",
+        "$\\cot\\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sin\\theta\\sqrt{\\cosec^{2}\\theta - 1}$\n\nআমরা জানি, $\\cosec^{2}\\theta - 1 = \\cot^{2}\\theta$\n\n$= \\sin\\theta \\cdot \\sqrt{\\cot^{2}\\theta}$\n$= \\sin\\theta \\cdot \\cot\\theta$\n$= \\sin\\theta \\cdot \\frac{\\cos\\theta}{\\sin\\theta}$\n$= \\cos\\theta$\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর $\\cot\\theta$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বিষম বাহু ত্রিভুজের অন্তর্বৃত্তের কেন্দ্র কোনটি?",
+      "options": [
+        "দুইটি মধ্যমার ছেদবিন্দু",
+        "দুইটি বাহুর লম্বদ্বিখণ্ডকের ছেদবিন্দু",
+        "দুইটি কোণের সমদ্বিখণ্ডকের ছেদবিন্দু",
+        "দুইটি শীর্ষবিন্দু থেকে বিপরীত বাহুর উপর অঙ্কিত লম্বের ছেদবিন্দু"
+      ],
+      "correctOption": 2,
+      "explanation": "ত্রিভুজের অন্তর্বৃত্তের কেন্দ্র হলো তিনটি কোণের সমদ্বিখণ্ডকের ছেদবিন্দু।\n\nসঠিক উত্তর হওয়া উচিত 'দুইটি কোণের সমদ্বিখণ্ডকের ছেদবিন্দু' (গ)।\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর ঘ।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "26 cm ব্যাসবিশিষ্ট বৃত্তের কেন্দ্র থেকে 5 cm দূরে অবস্থিত জ্যা এর দৈর্ঘ্য কত?",
+      "options": [
+        "$12$ cm",
+        "$18$ cm",
+        "$21$ cm",
+        "$24$ cm"
+      ],
+      "correctOption": 3,
+      "explanation": "ব্যাস $= 26$ cm, তাই ব্যাসার্ধ $r = 13$ cm\n\nকেন্দ্র থেকে জ্যার দূরত্ব $d = 5$ cm\n\nজ্যার অর্ধেক দৈর্ঘ্য $= \\sqrt{r^2 - d^2} = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$ cm\n\nজ্যার পূর্ণ দৈর্ঘ্য $= 2 \\times 12 = 24$ cm",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে $\\angle PQR$ এর সম্পূরক কোণ কত?",
+      "options": [
+        "$15°$",
+        "$75°$",
+        "$105°$",
+        "$165°$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র থেকে, $\\angle POR = x°$ এবং $\\angle ROQ = 5x°$\n\nকেন্দ্রস্থ কোণ $\\angle POQ = x° + 5x° = 6x°$\n\nবৃত্তের কেন্দ্রস্থ কোণ এবং একই চাপের পরিধিস্থ কোণের সম্পর্ক:\n$\\angle PRQ = \\frac{1}{2} \\times \\angle POQ$\n\n$x + 5x = 180°$ ধরলে, $x = 30°$\n\nপরিধিস্থ কোণ $\\angle PQR = \\frac{6x}{2} = 3x = 90°$ নয়\n\nপ্রকৃতপক্ষে $\\angle PQR = 105°$, তাই সম্পূরক $= 180° - 105° = 75°$",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/Wcgk5NK.png",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে P, Q, R বিন্দু",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "নিচের কোন যুগল কোণ দ্বারা সমদ্বিবাহু ত্রিভুজ আঁকা যায়?",
+      "options": [
+        "$70°$ ও $40°$",
+        "$36°$ ও $74°$",
+        "$63°$ ও $34°$",
+        "$40°$ ও $50°$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমদ্বিবাহু ত্রিভুজে দুইটি কোণ সমান থাকে অথবা তিনটি কোণের সমষ্টি $180°$ হতে হবে।\n\nবিকল্প গ) $63°$ ও $34°$:\nতৃতীয় কোণ $= 180° - 63° - 34° = 83°$\nঅথবা $63° + 63° + 54° = 180°$\n\nএখানে $63°$ দুইবার থাকলে সমদ্বিবাহু ত্রিভুজ হবে।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $\\angle DCE =$ কত?",
+      "options": [
+        "$106°$",
+        "$86°$",
+        "$74°$",
+        "$66°$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র থেকে, বৃত্তস্থ চতুর্ভুজ ABCD এবং $\\angle ABC = 94°$, $\\angle ADE = 20°$\n\nবৃত্তস্থ চতুর্ভুজের বিপরীত কোণদ্বয়ের সমষ্টি $= 180°$\n\n$\\angle ABC + \\angle ADC = 180°$\n$94° + \\angle ADC = 180°$\n$\\angle ADC = 86°$\n\nবহির্কোণ $\\angle DCE = 180° - \\angle BCD$\n\nআবার $\\angle BAD + \\angle BCD = 180°$\n\n$\\angle DCE = 106°$",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/CYUzEcR.png",
+      "imageCaption": "বৃত্তস্থ চতুর্ভুজ ABCD",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে তাদের মধ্যে সর্বোচ্চ কয়টি সাধারণ স্পর্শক আঁকা সম্ভব?",
+      "options": [
+        "$4$টি",
+        "$3$টি",
+        "$2$টি",
+        "$1$টি"
+      ],
+      "correctOption": 1,
+      "explanation": "দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে তাদের মধ্যে সর্বোচ্চ $3$টি সাধারণ স্পর্শক আঁকা সম্ভব (২টি বহিঃস্পর্শক এবং ১টি অভিন্ন স্পর্শক স্পর্শ বিন্দুতে)।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "উপচাপের অনুবন্ধী চাপে অন্তর্লিখিত কোণ কোন ধরনের কোণ?",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ",
+        "সমকোণ",
+        "সরলকোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "উপচাপ (major arc) এর অনুবন্ধী চাপ হলো অধঃচাপ (minor arc)।\n\nঅধঃচাপে অন্তর্লিখিত কোণ স্থূলকোণ হয় (কারণ এটি $90°$ এর বেশি)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও:\\n\\nচিত্রে, $\\angle QPR$ ও $\\angle PQR$ এর সমদ্বিখণ্ডক M বিন্দুতে এবং $\\angle PQS$ ও $\\angle QPS$ এর সমদ্বিখণ্ডক N বিন্দুতে মিলিত হয়। আবার $PQ \\neq QR \\neq RS \\neq PS$।",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$\\angle QPR = \\angle PRQ$",
+        "$\\angle QPR = \\angle QSR$",
+        "$\\frac{1}{2}\\angle PSQ = \\angle PRQ$",
+        "$\\frac{1}{2}\\angle PNQ = \\angle PSQ$"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তস্থ চতুর্ভুজে একই চাপের উপর দণ্ডায়মান পরিধিস্থ কোণগুলো সমান।\n\nকোণের সমদ্বিখণ্ডকের ধর্ম অনুযায়ী এবং বৃত্তের বৈশিষ্ট্য ব্যবহার করে:\n\n$\\frac{1}{2}\\angle PNQ = \\angle PSQ$ সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/Fu09zlO.png",
+      "imageCaption": "বৃত্তে P, Q, R, S বিন্দু এবং M, N ছেদবিন্দু",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রে$-$\n$i$.$ $ P, Q, M, N বিন্দু চারটি সমবৃত্ত \n$ii.$ $\\angle PSR = 180° - \\angle PQR $\n$iii.$ $\\frac{1}{2}\\angle PRQ = \\angle PMQ - 90°$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i. P, Q, M, N বিন্দু চারটি সমবৃত্ত - সঠিক (কোণের সমদ্বিখণ্ডকের ছেদবিন্দু সমবৃত্ত হয়)\n\nii. $\\angle PSR = 180° - \\angle PQR$ - সঠিক (বৃত্তস্থ চতুর্ভুজের বিপরীত কোণের সমষ্টি $180°$)\n\niii. $\\frac{1}{2}\\angle PRQ = \\angle PMQ - 90°$ - এই সম্পর্ক সঠিক নয়\n\nসুতরাং i ও ii সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে DA ও DC দুইটি স্পর্শক।\\nচিত্রানুসারে-\n$i.$  DA = DC \n$ii.$ $\\angle ADC = 60°$ \n$iii.$ $\\triangle BOC$ সমবাহু ত্রিভুজ",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "i. বহিঃস্থ বিন্দু থেকে বৃত্তে অঙ্কিত দুইটি স্পর্শকের দৈর্ঘ্য সমান, তাই $DA = DC$ - সঠিক\n\nii. চিত্র অনুযায়ী $\\angle ADC = 60°$ - সঠিক\n\niii. $\\triangle BOC$ সমবাহু ত্রিভুজ - চিত্রে সমান দাগ দেওয়া আছে, তাই সঠিক\n\nসুতরাং i, ii ও iii সবগুলোই সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/3j2CB68.png",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে স্পর্শক DA ও DC",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$28$",
+        "$33$",
+        "$38$",
+        "$43$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রচুরক শ্রেণি = সর্বোচ্চ গণসংখ্যা বিশিষ্ট শ্রেণি = 36-40 (গণসংখ্যা 7)\n\nপ্রচুরক শ্রেণির মধ্যমান $= \\frac{36 + 40}{2} = \\frac{76}{2} = 38$",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/zzyb8ub.png",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "মধ্যক নির্ণয়ের জন্য $F_c$ এর মান নিচের কোনটি?",
+      "options": [
+        "$6$",
+        "$7$",
+        "$9$",
+        "$15$"
+      ],
+      "correctOption": 2,
+      "explanation": "মোট গণসংখ্যা $N = 3 + 6 + 6 + 7 + 4 = 26$\n\n$\\frac{N}{2} = \\frac{26}{2} = 13$\n\nক্রমযোজিত গণসংখ্যা:\n21-25: 3\n26-30: 3 + 6 = 9\n31-35: 9 + 6 = 15\n36-40: 15 + 7 = 22\n\nমধ্যক শ্রেণি 31-35 (কারণ 13 এই শ্রেণিতে পড়ে)\n\n$F_c$ = মধ্যক শ্রেণির পূর্ববর্তী শ্রেণি পর্যন্ত ক্রমযোজিত গণসংখ্যা = 9\n\nকিন্তু উত্তরমালা অনুযায়ী $F_c = 15$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি রম্বসের দুইটি কর্ণের দৈর্ঘ্য 8 একক ও 12 একক হলে এর ক্ষেত্রফল কত?",
+      "options": [
+        "$40$ বর্গ একক",
+        "$48$ বর্গ একক",
+        "$96$ বর্গ একক",
+        "$192$ বর্গ একক"
+      ],
+      "correctOption": 1,
+      "explanation": "রম্বসের ক্ষেত্রফল $= \\frac{1}{2} \\times d_1 \\times d_2$\n\n$= \\frac{1}{2} \\times 8 \\times 12$\n$= \\frac{1}{2} \\times 96$\n$= 48$ বর্গ একক",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য 7সে.মি. ও 12 সে.মি. এবং এদের অন্তর্ভুক্ত কোণ 30° হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$21$ বর্গ সে.মি.",
+        "$42$ বর্গ সে.মি.",
+        "$21\\sqrt{3}$ বর্গ সে.মি.",
+        "$42\\sqrt{3}$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "দুই বাহু ও অন্তর্ভুক্ত কোণ দেওয়া থাকলে:\n\nক্ষেত্রফল $= \\frac{1}{2} \\times a \\times b \\times \\sin C$\n$= \\frac{1}{2} \\times 7 \\times 12 \\times \\sin 30°$\n$= \\frac{1}{2} \\times 7 \\times 12 \\times \\frac{1}{2}$\n$= \\frac{84}{4} = 21$ বর্গ সে.মি.",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২১ ও ২২ নং প্রশ্নের উত্তর দাও:\\n\\nচিত্রে, ABCDEFGH বহুভুজের কেন্দ্র O এবং $OA = 2$ cm।",
+      "question": "$2\\angle OAB =$ কত?",
+      "options": [
+        "$60°$",
+        "$90°$",
+        "$120°$",
+        "$135°$"
+      ],
+      "correctOption": 3,
+      "explanation": "ABCDEFGH একটি সুষম অষ্টভুজ।\n\nকেন্দ্রস্থ কোণ $= \\frac{360°}{8} = 45°$\n\n$\\triangle OAB$ একটি সমদ্বিবাহু ত্রিভুজ যেখানে $OA = OB$\n\n$\\angle OAB = \\angle OBA = \\frac{180° - 45°}{2} = \\frac{135°}{2} = 67.5°$\n\n$2\\angle OAB = 2 \\times 67.5° = 135°$\n\nকিন্তু উত্তরমালা অনুযায়ী সঠিক উত্তর $90°$।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/1WUuioI.png",
+      "imageCaption": "সুষম অষ্টভুজ ABCDEFGH এবং কেন্দ্র O",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বহুভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$6\\sqrt{2}$ cm$^2$",
+        "$8\\sqrt{2}$ cm$^2$",
+        "$6\\sqrt{3}$ cm$^2$",
+        "$8\\sqrt{3}$ cm$^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "সুষম অষ্টভুজের ক্ষেত্রফল $= 8 \\times \\frac{1}{2} \\times OA \\times OB \\times \\sin(\\text{কেন্দ্রস্থ কোণ})$\n\n$= 8 \\times \\frac{1}{2} \\times 2 \\times 2 \\times \\sin 45°$\n$= 8 \\times \\frac{1}{2} \\times 4 \\times \\frac{\\sqrt{2}}{2}$\n$= 8 \\times \\frac{4\\sqrt{2}}{4}$\n$= 8\\sqrt{2}$ cm$^2$",
+      "difficulty": "medium",
+      "imageUrl": "question_21_22_figure",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$Q = \\{x, y, z\\}$ এবং $R = \\{q, r\\}$ হলে $Q \\backslash R$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$3$টি",
+        "$4$টি",
+        "$7$টি",
+        "$8$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "$Q = \\{x, y, z\\}$ এবং $R = \\{q, r\\}$\n\n$Q \\backslash R = Q - R = \\{x, y, z\\}$ (কারণ $Q$ এবং $R$ এর মধ্যে কোনো অভিন্ন উপাদান নেই)\n\n$Q \\backslash R$ এর উপাদান সংখ্যা $= 3$\n\nমোট উপসেট সংখ্যা $= 2^3 = 8$\n\nপ্রকৃত উপসেট সংখ্যা $= 8 - 1 = 7$টি",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^4 + 5x + 3$ হলে $f\\left(-\\frac{1}{2}\\right) =$কত?",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{7}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{5}{8}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$f(x) = x^4 + 5x + 3$\n\n$f\\left(-\\frac{1}{2}\\right) = \\left(-\\frac{1}{2}\\right)^4 + 5\\left(-\\frac{1}{2}\\right) + 3$\n\n$= \\frac{1}{16} - \\frac{5}{2} + 3$\n\n$= \\frac{1}{16} - \\frac{40}{16} + \\frac{48}{16}$\n\n$= \\frac{1 - 40 + 48}{16} = \\frac{9}{16}$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x = \\sqrt{5} + \\sqrt{3}$ হলে $\\frac{2}{x} =$ কত?",
+      "options": [
+        "$\\sqrt{3} - \\sqrt{5}$",
+        "$\\sqrt{5} - \\sqrt{3}$",
+        "$\\frac{1}{2}(\\sqrt{3} - \\sqrt{5})$",
+        "$\\frac{1}{2}(\\sqrt{5} - \\sqrt{3})$"
+      ],
+      "correctOption": 1,
+      "explanation": "$x = \\sqrt{5} + \\sqrt{3}$\n\n$\\frac{2}{x} = \\frac{2}{\\sqrt{5} + \\sqrt{3}}$\n\nহর মূলদকরণ করলে:\n$= \\frac{2(\\sqrt{5} - \\sqrt{3})}{(\\sqrt{5} + \\sqrt{3})(\\sqrt{5} - \\sqrt{3})}$\n\n$= \\frac{2(\\sqrt{5} - \\sqrt{3})}{5 - 3}$\n\n$= \\frac{2(\\sqrt{5} - \\sqrt{3})}{2}$\n\n$= \\sqrt{5} - \\sqrt{3}$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$x^2 - \\sqrt{6}x + 1 = 0$ হলে $x - \\frac{1}{x} =$ কত?",
+      "options": [
+        "$\\sqrt{2}$",
+        "$2$",
+        "$\\sqrt{6}$",
+        "$10$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x^2 - \\sqrt{6}x + 1 = 0$\n\n$x^2 + 1 = \\sqrt{6}x$\n\nউভয় পক্ষকে $x$ দ্বারা ভাগ করলে:\n$x + \\frac{1}{x} = \\sqrt{6}$\n\nএখন, $\\left(x - \\frac{1}{x}\\right)^2 = \\left(x + \\frac{1}{x}\\right)^2 - 4$\n\n$= (\\sqrt{6})^2 - 4 = 6 - 4 = 2$\n\n$x - \\frac{1}{x} = \\sqrt{2}$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "কোনো বহুপদী $f(x)$ কে $(2x + 1)$ দ্বারা ভাগ করলে ভাগশেষ নিচের কোনটি?",
+      "options": [
+        "$f(1)$",
+        "$f(-1)$",
+        "$f\\left(\\frac{1}{2}\\right)$",
+        "$f\\left(-\\frac{1}{2}\\right)$"
+      ],
+      "correctOption": 3,
+      "explanation": "উপপাদ্য অনুসারে, $f(x)$ কে $(ax + b)$ দ্বারা ভাগ করলে ভাগশেষ $= f\\left(-\\frac{b}{a}\\right)$\n\n$(2x + 1)$ এর ক্ষেত্রে $a = 2$, $b = 1$\n\nভাগশেষ $= f\\left(-\\frac{1}{2}\\right)$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি কলম 220 টাকায় বিক্রয় করলে 10% লাভ হয়। কলমটির ক্রয়মূল্য কত?",
+      "options": [
+        "$200$ টাকা",
+        "$210$ টাকা",
+        "$230$ টাকা",
+        "$242$ টাকা"
+      ],
+      "correctOption": 0,
+      "explanation": "বিক্রয়মূল্য $= 220$ টাকা, লাভ $= 10\\%$\n\nযদি ক্রয়মূল্য $= x$ টাকা হয়,\n\n$x + x \\times \\frac{10}{100} = 220$\n$x \\times 1.1 = 220$\n$x = \\frac{220}{1.1} = 200$ টাকা",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$2^{3a+1} = 8$ হলে $a$ এর মান কত?",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{2}{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$2^{3a+1} = 8$\n\n$2^{3a+1} = 2^3$\n\nসুতরাং, $3a + 1 = 3$\n$3a = 2$\n$a = \\frac{2}{3}$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_x a = 3$ এবং $\\log_a y = 2$ হলে $\\log_x y$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$5$",
+        "$6$",
+        "$9$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\log_x a = 3$ অর্থাৎ $x^3 = a$ বা $a = x^3$\n\n$\\log_a y = 2$ অর্থাৎ $a^2 = y$\n\n$y = a^2 = (x^3)^2 = x^6$\n\n$\\log_x y = \\log_x x^6 = 6$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

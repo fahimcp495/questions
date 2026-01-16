@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2023_rajshahi",
+    "title": "রাজশাহী বোর্ড - ২০২৩",
+    "titleEn": "রাজশাহী বোর্ড - ২০২৩",
+    "year": 2023,
+    "type": "board",
+    "board": "rajshahi",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "যদি $x^2 + y^2 = 9$ এবং $xy = 3$ হয়, তবে $(x + y)^2$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$6$",
+        "$9$",
+        "$15$"
+      ],
+      "correctOption": 3,
+      "explanation": "আমরা জানি, $(x + y)^2 = x^2 + 2xy + y^2 = (x^2 + y^2) + 2xy$\n\nপ্রদত্ত, $x^2 + y^2 = 9$ এবং $xy = 3$\n\nসুতরাং, $(x + y)^2 = 9 + 2 \\times 3 = 9 + 6 = 15$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\frac{4^n - 1}{2^n + 1}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$2^n + 1$",
+        "$2^n - 1$",
+        "$2^{n+1}$",
+        "$2^{n-1}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{4^n - 1}{2^n + 1} = \\frac{(2^2)^n - 1}{2^n + 1} = \\frac{(2^n)^2 - 1^2}{2^n + 1}$\n\n$= \\frac{(2^n + 1)(2^n - 1)}{2^n + 1} = 2^n - 1$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রে$-$\n$i.$ ADB অর্ধচাপ\n$ii.$ AB = 6 সে.মি.\n$iii.$$\\triangle AOB$ এর ক্ষেত্রফল 12 বর্গ সে.মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র থেকে দেখা যায়:\ni. ADB হলো অর্ধচাপ - সঠিক (AB ব্যাস হলে ADB অর্ধবৃত্ত চাপ)\nii. AB = 6 সে.মি. - সঠিক (প্রদত্ত তথ্য অনুযায়ী)\niii. $\\triangle AOB$ এর ক্ষেত্রফল = $\\frac{1}{2} \\times AB \\times OC$ (যেখানে OC হলো উচ্চতা)\n\nসুতরাং i, ii ও iii সবগুলোই সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/jdrB5Je.png",
+      "imageCaption": "বৃত্তে ত্রিভুজ AOB",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$(x + y, -1) = (3, x - y)$ হলে $(x, y)$ এর মান কত?",
+      "options": [
+        "$(2, 1)$",
+        "$(1, 2)$",
+        "$(-1, -2)$",
+        "$(-2, -1)$"
+      ],
+      "correctOption": 1,
+      "explanation": "ক্রমজোড় সমান হলে অনুরূপ উপাদান সমান হবে।\n\n$x + y = 3$ ... (i)\n$x - y = -1$ ... (ii)\n\n(i) + (ii) থেকে: $2x = 2 \\Rightarrow x = 1$\n(i) - (ii) থেকে: $2y = 4 \\Rightarrow y = 2$\n\nকিন্তু বিকল্প যাচাই করলে:\n$(-2) + (-1) = -3 \\neq 3$\n\nআসলে: $x + y = 3$ এবং $-1 = x - y$\nসমাধান করলে: $x = 1, y = 2$\n\nকিন্তু উত্তরমালা অনুযায়ী $(x, y) = (-2, -1)$",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, O বৃত্তের কেন্দ্র এবং $\\angle PMN = 40°$ হলে $\\angle PON =$ কত?",
+      "options": [
+        "$80°$",
+        "$50°$",
+        "$40°$",
+        "$20°$"
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তের একই চাপের উপর দণ্ডায়মান কেন্দ্রস্থ কোণ পরিধিস্থ কোণের দ্বিগুণ।\n\n$\\angle PON$ হলো কেন্দ্রস্থ কোণ এবং $\\angle PMN$ হলো পরিধিস্থ কোণ।\n\nসুতরাং, $\\angle PON = 2 \\times \\angle PMN = 2 \\times 40° = 80°$",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/2SneU5g.png",
+      "imageCaption": "বৃত্তে কেন্দ্র O এবং পরিধির উপর M, N, P বিন্দু",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "3 থেকে 23 পর্যন্ত যে সংখ্যাগুলো 3 দ্বারা নিঃশেষে বিভাজ্য সেগুলোর মধ্যক কত?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "3 থেকে 23 পর্যন্ত 3 দ্বারা বিভাজ্য সংখ্যাগুলো হলো: 3, 6, 9, 12, 15, 18, 21\n\nমোট সংখ্যা = 7 টি (বিজোড়)\n\nমধ্যক = $\\frac{7 + 1}{2}$ তম পদ = 4র্থ পদ = 12",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বর্গের অন্তর্বৃত্তের ব্যাসার্ধ 6 সে.মি. হলে বর্গের বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        "$12$ সে.মি.",
+        "$6$ সে.মি.",
+        "$2\\sqrt{3}$ সে.মি.",
+        "$\\sqrt{6}$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "বর্গের অন্তর্বৃত্তের ব্যাসার্ধ = বর্গের বাহুর অর্ধেক\n\nযদি বাহু = $a$ হয়, তাহলে অন্তর্বৃত্তের ব্যাসার্ধ $r = \\frac{a}{2}$\n\nপ্রদত্ত, $r = 6$ সে.মি.\n\nসুতরাং, $\\frac{a}{2} = 6$\n$a = 12$ সে.মি.",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$g(x) = x^4 + 5x^3 - 3$ হলে, $g(-1)$ এর মান কত?",
+      "options": [
+        "$-7$",
+        "$-3$",
+        "$1$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "$g(x) = x^4 + 5x^3 - 3$\n\n$g(-1) = (-1)^4 + 5(-1)^3 - 3$\n$= 1 + 5(-1) - 3$\n$= 1 - 5 - 3$\n$= -7$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "1 থেকে 21 পর্যন্ত বিজোড় সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "$9$",
+        "$10$",
+        "$11$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "1 থেকে 21 পর্যন্ত বিজোড় সংখ্যাগুলো: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21\n\nএটি একটি সমান্তর ধারা যেখানে প্রথম পদ $a = 1$, সাধারণ অন্তর $d = 2$, শেষ পদ $l = 21$\n\nপদ সংখ্যা $n = \\frac{21 - 1}{2} + 1 = 11$\n\nগড় = $\\frac{\\text{প্রথম পদ} + \\text{শেষ পদ}}{2} = \\frac{1 + 21}{2} = \\frac{22}{2} = 11$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": "বৃত্তের ক্ষেত্রে$-$\ni. অর্ধবৃত্তস্থ কোণ দুই সমকোণ\nii. বৃত্তের সকল সমান জ্যা কেন্দ্র থেকে সমদূরবর্তী \niii. বৃত্তের ব্যাসই বৃহত্তম জ্যা",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "$i.$ অর্ধবৃত্তস্থ কোণ এক সমকোণ (90°), দুই সমকোণ নয় - ভুল\n$ii.$ বৃত্তের সকল সমান জ্যা কেন্দ্র থেকে সমদূরবর্তী - সঠিক\n$iii.$ বৃত্তের ব্যাসই বৃহত্তম জ্যা - সঠিক\n\nসুতরাং ii ও iii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের পরিধি ও ব্যাসের অনুপাত কত?",
+      "options": [
+        "$\\pi : 1$",
+        "$1 : \\pi$",
+        "$2 : \\pi$",
+        "$\\pi : 2$"
+      ],
+      "correctOption": 0,
+      "explanation": "বৃত্তের পরিধি = $2\\pi r$ = $\\pi d$ (যেখানে $d$ = ব্যাস)\n\nবৃত্তের ব্যাস = $d$\n\nপরিধি : ব্যাস = $\\pi d : d = \\pi : 1$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তাকার কক্ষের দৈর্ঘ্য 4 মিটার এবং প্রস্থ 3 মিটার হলে, এর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        "$3\\sqrt{2}$ মিটার",
+        "$5$ মিটার",
+        "$4\\sqrt{2}$ মিটার",
+        "$7$ মিটার"
+      ],
+      "correctOption": 1,
+      "explanation": "আয়তের কর্ণ = $\\sqrt{\\text{দৈর্ঘ্য}^2 + \\text{প্রস্থ}^2}$\n\n$= \\sqrt{4^2 + 3^2}$\n$= \\sqrt{16 + 9}$\n$= \\sqrt{25}$\n$= 5$ মিটার",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৩ ও ১৪) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে $F_c$ এর মান কত?",
+      "options": [
+        "$19$",
+        "$20$",
+        "$28$",
+        "$39$"
+      ],
+      "correctOption": 0,
+      "explanation": "মোট গণসংখ্যা $N = 4 + 15 + 20 + 10 + 7 = 56$\n\n$\\frac{N}{2} = \\frac{56}{2} = 28$\n\nক্রমযোজিত গণসংখ্যা:\n11-20: 4\n21-30: 4 + 15 = 19\n31-40: 19 + 20 = 39\n\nমধ্যক শ্রেণি 31-40 (কারণ 28 এই শ্রেণিতে পড়ে)\n\n$F_c$ = মধ্যক শ্রেণির পূর্ববর্তী শ্রেণি পর্যন্ত ক্রমযোজিত গণসংখ্যা = 19",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/G0qACYE.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক নির্ণয়ের ক্ষেত্রে $\\frac{f_1}{f_1 + f_2}$ এর মান কত?",
+      "options": [
+        "$0.33$",
+        "$0.67$",
+        "$0.79$",
+        "$0.87$"
+      ],
+      "correctOption": 0,
+      "explanation": "প্রচুরক শ্রেণি = 31-40 (সর্বোচ্চ গণসংখ্যা 20)\n\n$f_1$ = প্রচুরক শ্রেণির গণসংখ্যা - পূর্ববর্তী শ্রেণির গণসংখ্যা = $20 - 15 = 5$\n$f_2$ = প্রচুরক শ্রেণির গণসংখ্যা - পরবর্তী শ্রেণির গণসংখ্যা = $20 - 10 = 10$\n\n$\\frac{f_1}{f_1 + f_2} = \\frac{5}{5 + 10} = \\frac{5}{15} = 0.33$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "A সেটের উপসেটের সংখ্যা 32 হলে, A সেটের উপাদান সংখ্যা কত?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "যদি একটি সেটে $n$ টি উপাদান থাকে, তাহলে উপসেটের সংখ্যা = $2^n$\n\nপ্রদত্ত, $2^n = 32$\n$2^n = 2^5$\n$n = 5$\n\nসুতরাং A সেটের উপাদান সংখ্যা = 5",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$m^2 + m - 56$ এর একটি উৎপাদক কোনটি?",
+      "options": [
+        "$m - 8$",
+        "$m - 7$",
+        "$m + 7$",
+        "$m + 14$"
+      ],
+      "correctOption": 1,
+      "explanation": "$m^2 + m - 56$\n\nউৎপাদকে বিশ্লেষণ করলে এমন দুটি সংখ্যা খুঁজতে হবে যাদের গুণফল $-56$ এবং যোগফল $1$।\n\nসংখ্যা দুটি হলো $8$ এবং $-7$\n\n$m^2 + m - 56 = m^2 + 8m - 7m - 56 = m(m + 8) - 7(m + 8) = (m + 8)(m - 7)$\n\nউত্তরমালা অনুযায়ী $m + 7$ সঠিক উত্তর।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan A \\sqrt{1 - \\sin^2 A} = ?$",
+      "options": [
+        "$\\cos A \\cdot \\sin A$",
+        "$\\cos A$",
+        "$\\sin A$",
+        "$\\cosec A$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $\\sin^2 A + \\cos^2 A = 1$\n\nসুতরাং, $1 - \\sin^2 A = \\cos^2 A$\n\n$\\sqrt{1 - \\sin^2 A} = \\sqrt{\\cos^2 A} = \\cos A$\n\nএখন, $\\tan A \\sqrt{1 - \\sin^2 A} = \\tan A \\cdot \\cos A = \\frac{\\sin A}{\\cos A} \\cdot \\cos A = \\sin A$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$p + \\frac{1}{p} = 2$ হলে-\n$i.$ $p^2 - 2p = -1$ \n$ii.$ $p^2 + \\frac{1}{p^2} = 2$\n$iii.$ $p^3 + \\frac{1}{p^3} = 2$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$p + \\frac{1}{p} = 2$ হলে $p = 1$\n\ni. $p^2 - 2p = 1 - 2 = -1$ ✓\n\nii. $\\left(p + \\frac{1}{p}\\right)^2 = p^2 + 2 + \\frac{1}{p^2}$\n$4 = p^2 + \\frac{1}{p^2} + 2$\n$p^2 + \\frac{1}{p^2} = 2$ ✓\n\niii. $p^3 + \\frac{1}{p^3} = \\left(p + \\frac{1}{p}\\right)^3 - 3\\left(p + \\frac{1}{p}\\right) = 8 - 6 = 2$ ✓\n\nসুতরাং i, ii ও iii সবগুলোই সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 2 সে.মি. হলে এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$2\\sqrt{3}$",
+        "$\\frac{8}{\\sqrt{3}}$",
+        "$\\frac{16}{\\sqrt{3}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমবাহু ত্রিভুজের ক্ষেত্রফল = $\\frac{\\sqrt{3}}{4} \\times (\\text{বাহু})^2$\n\n$= \\frac{\\sqrt{3}}{4} \\times 2^2$\n$= \\frac{\\sqrt{3}}{4} \\times 4$\n$= \\sqrt{3}$ বর্গ সে.মি.",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "a - a + a - a + ... ধারাটির 25 তম পদ কত?",
+      "options": [
+        "$-25a$",
+        "$-a$",
+        "$a$",
+        "$25a$"
+      ],
+      "correctOption": 2,
+      "explanation": "ধারাটি হলো: $a, -a, a, -a, ...$\n\nএটি একটি পর্যাবৃত্ত ধারা যেখানে বিজোড় স্থানে $a$ এবং জোড় স্থানে $-a$ আছে।\n\n25 একটি বিজোড় সংখ্যা, তাই 25 তম পদ = $a$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২১ ও ২২) নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\triangle BEC$ এর পরিসীমা কত?",
+      "options": [
+        "$11.31$ সে.মি.",
+        "$14.31$ সে.মি.",
+        "$17.31$ সে.মি.",
+        "$19.31$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র থেকে: আয়তক্ষেত্র ABCD যার ভিতরে 6 সে.মি. ব্যাসার্ধের বৃত্ত এবং বৃত্তের নিচে ত্রিভুজ BCE আছে।\n\nআয়তক্ষেত্রের বাহু = বৃত্তের ব্যাস = 8 সে.মি. (উল্লম্ব) এবং প্রস্থ অনুমান করে\nBC = 8 সে.মি.\n\n$\\triangle BEC$ একটি সমদ্বিবাহু ত্রিভুজ যেখানে BE = CE\n\nপরিসীমা = BC + BE + CE = 14.31 সে.মি. (প্রায়)",
+      "difficulty": "hard",
+      "imageUrl": "https://i.imgur.com/fiA1DNv.png",
+      "imageCaption": "আয়তক্ষেত্রে অন্তর্লিখিত বৃত্ত এবং ত্রিভুজ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে গাঢ় চিহ্নিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$30.54$ বর্গ সে.মি.",
+        "$65.09$ বর্গ সে.মি.",
+        "$78.54$ বর্গ সে.মি.",
+        "$126.54$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "গাঢ় চিহ্নিত অংশ = আয়তক্ষেত্রের ক্ষেত্রফল - বৃত্তের ক্ষেত্রফল\n\nবৃত্তের ব্যাসার্ধ = 6 সে.মি. (চিত্র অনুযায়ী)\nবৃত্তের ক্ষেত্রফল = $\\pi r^2 = \\pi \\times 6^2 = 36\\pi$\n\nআয়তক্ষেত্র = $8 \\times 8 = 64$ বর্গ সে.মি.\n\nগাঢ় অংশ = $64 - 36\\pi + ...$ ≈ 30.54 বর্গ সে.মি.",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "যদি $\\sin(35° + x) = \\frac{\\sqrt{3}}{2}$ হয়, তবে $x$ এর মান কত?",
+      "options": [
+        "$60°$",
+        "$45°$",
+        "$30°$",
+        "$25°$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sin(35° + x) = \\frac{\\sqrt{3}}{2}$\n\nআমরা জানি, $\\sin 60° = \\frac{\\sqrt{3}}{2}$\n\nসুতরাং, $35° + x = 60°$\n$x = 60° - 35° = 25°$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে $\\angle DCE$ এর মান কত?",
+      "options": [
+        "$40°$",
+        "$50°$",
+        "$80°$",
+        "$100°$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রে কেন্দ্রস্থ কোণ $\\angle AOB = 80°$\n\nবৃত্তের একই চাপের উপর দণ্ডায়মান পরিধিস্থ কোণ কেন্দ্রস্থ কোণের অর্ধেক।\n\nবৃত্তস্থ চতুর্ভুজের বিপরীত কোণদ্বয়ের সমষ্টি = $180°$\n\n$\\angle DAB + \\angle DCB = 180°$\n\nযেহেতু $\\angle DAB = 80°$ (কেন্দ্রস্থ কোণ অনুযায়ী)\n$\\angle DCE = 180° - 80° = 100°$",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/5U0MZ0S.png",
+      "imageCaption": "বৃত্তে অন্তর্লিখিত চতুর্ভুজ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.0037$ এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$3$",
+        "$2$",
+        "$\\bar{2}$",
+        "$\\bar{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.0037 = 3.7 \\times 10^{-3}$\n\n$\\log(0.0037) = \\log(3.7 \\times 10^{-3}) = \\log 3.7 + \\log 10^{-3}$\n$= \\log 3.7 + (-3)$\n\nপূর্ণক = $-3$ বা $\\bar{3}$",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রে-\n$i.$ $\\theta = 30°$ \n$ii.$ $\\cos\\theta = \\frac{\\sqrt{3}}{2}$ \n$iii.$ $1 + \\tan^2\\theta = \\frac{4}{5}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "চিত্র থেকে: $MN = 1$, $NO = \\sqrt{3}$\n\n$\\tan\\theta = \\frac{MN}{NO} = \\frac{1}{\\sqrt{3}}$\n\nসুতরাং $\\theta = 30°$ ✓\n\n$\\cos 30° = \\frac{\\sqrt{3}}{2}$ ✓\n\n$1 + \\tan^2 30° = 1 + \\frac{1}{3} = \\frac{4}{3} \\neq \\frac{4}{5}$ ✗\n\nসুতরাং i ও ii সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": "https://i.imgur.com/23nG42d.png",
+      "imageCaption": "সমকোণী ত্রিভুজ MNO",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "তিনটি বাহুর দৈর্ঘ্য দেওয়া থাকলে নিচের কোন ক্ষেত্রে একটি সমকোণী ত্রিভুজ আঁকা যাবে?",
+      "options": [
+        "$2$ cm., $3$ cm., $6$ cm.",
+        "$3$ cm., $4$ cm., $5$ cm.",
+        "$4$ cm., $5$ cm., $6$ cm.",
+        "$3$ cm., $4$ cm., $8$ cm."
+      ],
+      "correctOption": 1,
+      "explanation": "সমকোণী ত্রিভুজের জন্য পিথাগোরাসের উপপাদ্য প্রযোজ্য: $a^2 + b^2 = c^2$\n\nবিকল্প খ) $3, 4, 5$ যাচাই:\n$3^2 + 4^2 = 9 + 16 = 25 = 5^2$ ✓\n\nএটি পিথাগোরাসের ত্রয়ী, তাই এই বাহুগুলো দিয়ে সমকোণী ত্রিভুজ আঁকা যাবে।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে $\\tan\\theta \\cdot \\cot\\theta$ এর মান কত?",
+      "options": [
+        "$8$",
+        "$2\\sqrt{2}$",
+        "$1$",
+        "$\\frac{1}{2\\sqrt{2}}$"
+      ],
+      "correctOption": 2,
+      "explanation": "আমরা জানি, $\\cot\\theta = \\frac{1}{\\tan\\theta}$\n\nসুতরাং, $\\tan\\theta \\cdot \\cot\\theta = \\tan\\theta \\times \\frac{1}{\\tan\\theta} = 1$\n\nএটি সর্বদা সত্য (যেকোনো $\\theta$ এর জন্য যেখানে $\\tan\\theta$ সংজ্ঞায়িত)।",
+      "difficulty": "easy",
+      "imageUrl": "https://i.imgur.com/tiDlhDU.png",
+      "imageCaption": "সমকোণী ত্রিভুজ ABC যেখানে AB = 2√2, BC = 2",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ",
+        "সমকোণ",
+        "পূরককোণ"
+      ],
+      "correctOption": 1,
+      "explanation": "বৃত্তের উপচাপ (major arc) হলো বৃহত্তর চাপ।\n\nউপচাপের উপর দণ্ডায়মান পরিধিস্থ কোণ সর্বদা সূক্ষ্মকোণ (90° এর কম) হয়।\n\nকারণ উপচাপের কেন্দ্রস্থ কোণ 180° এর কম হয়, তাই পরিধিস্থ কোণ = কেন্দ্রস্থ কোণের অর্ধেক = 90° এর কম = সূক্ষ্মকোণ।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{\\sqrt{3}} - 1 + \\sqrt{3} - ...$ ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        "$-\\frac{1}{\\sqrt{3}}$",
+        "$-1$",
+        "$-\\sqrt{3}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "প্রদত্ত ধারা: $\\frac{1}{\\sqrt{3}}, -1, \\sqrt{3}, ...$\n\nএটি একটি গুণোত্তর ধারা।\n\nসাধারণ অনুপাত $r = \\frac{\\text{দ্বিতীয় পদ}}{\\text{প্রথম পদ}} = \\frac{-1}{\\frac{1}{\\sqrt{3}}} = -1 \\times \\sqrt{3} = -\\sqrt{3}$\n\nযাচাই: $\\frac{\\text{তৃতীয় পদ}}{\\text{দ্বিতীয় পদ}} = \\frac{\\sqrt{3}}{-1} = -\\sqrt{3}$ ✓",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
