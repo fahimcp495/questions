@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_jessore",
+    "title": "যশোর বোর্ড - ২০২০",
+    "titleEn": "যশোর বোর্ড - ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "jessore",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.99973......$ সংখ্যাটির তিন দশমিক স্থান পর্যন্ত আসন্ন মান নিচের কোনটি?",
+      "options": [
+        "$0.99\\dot{9}$",
+        "$0.9\\dot{9}9$",
+        "$1.000$",
+        "$0.10\\dot{0}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x \\in \\mathbb{N} : x^2 < 25\\}$\n$B = \\{x \\in \\mathbb{N} : x$ মৌলিক সংখ্যা ও $x^2 < 25\\}$\n$C = \\{x \\in \\mathbb{N} : x^2 = 25\\}$ হলে $(A \\cap B) \\cup C = $ কত?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{-5, 2, 3, 5\\}$",
+        "$\\{1, 2, 3, 4, 5\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^2 + 1 - \\sqrt{6}a = 0$ হলে, $a^3 + \\frac{1}{a^3}$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$3\\sqrt{3}$",
+        "$3\\sqrt{6}$",
+        "$5\\sqrt{6}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$i. \\ $ $\\log_9 3 = \\frac{1}{2}$\n$ii. \\ $ $4^{2x+1} = 2$ হলে, $x = -\\frac{1}{4}$\n$iii. \\ $ $(3^{-1} + 6^{-1})$ এর মান $\\frac{1}{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_05",
+      "questionPreamble": "",
+      "question": "$x$ চলকের জন্য $4x^3 - 5x - 2 + a = 0$ । এ সমীকরণের ধ্রুবপদ কত?",
+      "options": [
+        "$-2$",
+        "$2$",
+        "$a$",
+        "$a - 2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3 - 3 + 3 - 3 + \\dots$ ধারাটির $10$তম পদ নিচের কোনটি?",
+      "options": [
+        "$-30$",
+        "$-3$",
+        "$3$",
+        "$30$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$f+g+h+k+l+\\dots$ সমান্তর ধারাভুক্ত হলে$-$\n$i.$ $h = \\frac{g+f}{2}$\n$ii.$ $k = \\frac{h+l}{2}$\n$iii.$ $g = \\frac{f+h}{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^2 - 5a - 6$ এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$a - 3$",
+        "$a - 2$",
+        "$a - 1$",
+        "$a + 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$R = \\{(-3, 2), (3, 3), (4, 3)\\}$ অন্বয়ের ডোমেন নিচের কোনটি?",
+      "options": [
+        "$\\{2, 3\\}$",
+        "$\\{3, 4\\}$",
+        "$\\{-3, 3, 4\\}$",
+        "$\\{2, 3, 3\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি অভেদ?",
+      "options": [
+        "$(x + 2)^2 + (x - 2)^2 = 2x^2 + 8$",
+        "$(x + y)^2 + (x - y)^2 = 4xy$",
+        "$(x + y)^2 - (x - y)^2 = 2(x^2 + y^2)$",
+        "$(x + 4)^2 + (x - 4)^2 = 2x^2 + 16$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের পরিসীমা $\\frac{a}{2}$ একক। এর ক্ষেত্রফল নিচের কোনটি?",
+      "options": [
+        "$\\frac{a^2}{2}$ বর্গ একক",
+        "$\\frac{a^2}{4}$ বর্গ একক",
+        "$\\frac{a^2}{8}$ বর্গ একক",
+        "$\\frac{a^2}{64}$ বর্গ একক"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$j, k, l$ ও $m$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{j}{k} = \\frac{l}{m}$\n$ii.$ $\\frac{j}{k} = \\frac{k}{l}$\n$iii.$ $\\frac{k}{l} = \\frac{l}{m}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\triangle PQR$ এ, $\\angle Q = 90^{\\circ}$ এবং $P = 30^{\\circ}$ হলে নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        "$PR = \\sqrt{2} QR$",
+        "$PR = \\sqrt{3} PQ$",
+        "$PR = 2QR$",
+        "$PR = 3QR$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুইটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$30^{\\circ}$ ও $60^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$",
+        "$45^{\\circ}$ ও $45^{\\circ}$",
+        "$50^{\\circ}$ ও $30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৫ ও ১৬ নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে O বৃত্তের কেন্দ্র।\n$\\angle QRS = $ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$135^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq15.svg?alt=media&token=773c446b-9e31-4f4d-8932-d58d5c619ba5",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৫ ও ১৬ নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে O বৃত্তের কেন্দ্র।\n$\\angle PSR = 90^{\\circ}$ হলে, $\\angle QRS + \\angle PQR = $ কত?",
+      "options": [
+        "$100^{\\circ}$",
+        "$135^{\\circ}$",
+        "$180^{\\circ}$",
+        "$225^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq16.svg?alt=media&token=b9d3e121-478c-4371-be41-c132a3dc3022",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan (\\theta + 30^{\\circ}) = \\sqrt{3}$ হলে $\\theta$ এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_10",
+      "questionPreamble": "",
+      "question": "কোনো দন্ডের ছায়ার দৈর্ঘ্য তার দৈর্ঘ্যের কতগুণ হলে উন্নতি কোণ $30^{\\circ}$ হবে?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x - 3y = 8$ এবং $4x - 6y = 7$ সমীকরণদ্বয়$-$\n$i.$ পরস্পর অসমঞ্জস\n$ii.$ পরস্পর নির্ভরশীল\n$iii.$ এর কোনো সমাধান নেই\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $DE \\parallel QR$ এবং $QR = 6.5$ সে.মি.।\n$\\angle PDE = $ কত?",
+      "options": [
+        "$55^{\\circ}$",
+        "$60^{\\circ}$",
+        "$65^{\\circ}$",
+        "$70^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq20.svg?alt=media&token=3eac2d8e-293d-4f27-89d6-ba63ee0dc31c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $DE \\parallel QR$ এবং $QR = 6.5$ সে.মি.।\n$DE = $ কত?",
+      "options": [
+        "$1.6$ সে.মি.",
+        "$2$ সে.মি.",
+        "$2.6$ সে.মি.",
+        "$3$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq21.svg?alt=media&token=3505cd24-e837-45cb-a082-5675d7067174",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "চিত্রে সমবাহু ত্রিভুজ $PQR$ এ $A, PQ$ এর মধ্যবিন্দু এবং $B, PR$ এর মধ্যবিন্দু হলে$-$\n$i.$ $\\triangle PQR : \\triangle PAB = 4 : 1$\n$ii.$ $\\triangle PQB : \\triangle PQR = 1 : 2$\n$iii.$ $\\triangle PAB : \\triangle ABQ = 1 : 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq22.svg?alt=media&token=fa8b4445-cb71-4ae4-8692-2cff3e81e01c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$13, 11, 8, 9, 15, 5$ সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$8.5$",
+        "$9$",
+        "$10$",
+        "$10.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_14",
+      "questionPreamble": "",
+      "question": "$\\triangle ABC$ এ, $AB = AC$ হলে, এর প্রতিসাম্য রেখা কতটি?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "কোনো বর্গে অন্তর্বৃত্ত আঁকতে কয়টি ধাপ অনুসরণ করতে হয়?",
+      "options": [
+        "$2$টি",
+        "$3$টি",
+        "$4$টি",
+        "$5$টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে আয়তক্ষেত্রটির গাঢ় চিহ্নিত অংশের ক্ষেত্রফল কত?",
+      "options": [
+        "$28.27$ বর্গ সে.মি.",
+        "$31.73$ বর্গ সে.মি.",
+        "$33.27$ বর্গ সে.মি.",
+        "$60$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq26.svg?alt=media&token=06a5918f-f72f-4fac-9b1d-1e1e53a5dbd6",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত সারণির মধ্যক কত?",
+      "options": [
+        "$19.17$",
+        "$19.71$",
+        "$20.17$",
+        "$20.71$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_jessore%2Fq27.svg?alt=media&token=da8b1ad9-22d6-400c-8110-a08a9f84305b",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সমবাহু ত্রিভুজের একটি বাহুকে উভয় দিকে বর্ধিত করলে যে বহিঃস্থ কোণদ্বয় উৎপন্ন হয়, তাদের সমষ্টি কত?",
+      "options": [
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$240^{\\circ}$",
+        "$270^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$A = \\frac{\\pi}{6}$ হলে, $\\tan 2A =$ কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$1$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(\\sqrt{3})^{2x+1} = \\left(\\sqrt[3]{\\sqrt{3}}\\right)^{x-1}$ হলে, $x =$ কত?",
+      "options": [
+        "$-\\frac{5}{4}$",
+        "$-\\frac{4}{5}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{4}$"
+      ],
+      "correctOption": 1,
+      "explanation": "Note: Mathematically the correct answer is -5/4 (Option 0), but the Answer Sheet provided indicates Option 1 (Kha).",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

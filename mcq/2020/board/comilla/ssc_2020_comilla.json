@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_comilla",
+    "title": "কুমিল্লা বোর্ড ২০২০",
+    "titleEn": "কুমিল্লা বোর্ড ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "comilla",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x^{2}-8=2\\sqrt{15}$ হলে $x=$ কত?",
+      "options": [
+        "$\\sqrt{3}+5$",
+        "$3+\\sqrt{5}$",
+        "$\\sqrt{5}+\\sqrt{3}$",
+        "$\\sqrt{5}-\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x^2 = 8 + 2\\sqrt{15} = 5 + 3 + 2\\sqrt{5 \\times 3} = (\\sqrt{5})^2 + (\\sqrt{3})^2 + 2\\sqrt{5}\\sqrt{3} = (\\sqrt{5} + \\sqrt{3})^2$। সুতরাং $x = \\sqrt{5} + \\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "কোনটি সমকোণী ত্রিভুজের কোণগুলোর অনুপাত?",
+      "options": [
+        "$6:13:18$",
+        "$1:5:9$",
+        "$3:5:10$",
+        "$7:8:15$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমকোণী ত্রিভুজের একটি কোণ $90^{\\circ}$। অনুপাত $7:8:15$ হলে কোণগুলো $7k, 8k, 15k$। সমষ্টি $30k = 180^{\\circ} \\Rightarrow k = 6^{\\circ}$। বৃহত্তম কোণ $15 \\times 6 = 90^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও :\n$\\Delta PQR$ সমকোণী ত্রিভুজে $\\angle R$ সমকোণ। $\\sqrt{3} \\tan P = 1$।",
+      "question": "$\\angle P$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\sqrt{3} \\tan P = 1 \\Rightarrow \\tan P = \\frac{1}{\\sqrt{3}} \\Rightarrow \\tan P = \\tan 30^{\\circ} \\Rightarrow P = 30^{\\circ}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "উপরের তথ্য অনুসারে$-$\n$i.$ $\\sin(P+Q)=1$\n$ii.$ $PQ=1+\\sqrt{3}$\n$iii.$ $\\cos P + \\sin Q = \\tan 60^{\\circ}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "$P=30^{\\circ}, R=90^{\\circ} \\Rightarrow Q=60^{\\circ}$। $i. \\sin(30+60)=\\sin 90=1$ (সঠিক)। $iii. \\cos 30 + \\sin 60 = \\frac{\\sqrt{3}}{2} + \\frac{\\sqrt{3}}{2} = \\sqrt{3} = \\tan 60^{\\circ}$ (সঠিক)।",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $25\\sqrt{3}$ বর্গ মি. হলে ত্রিভুজটির বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        "$5$ মি.",
+        "$10$ মি.",
+        "$50$ মি.",
+        "$100$ মি."
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= \\frac{\\sqrt{3}}{4} a^2 = 25\\sqrt{3} \\Rightarrow a^2 = 100 \\Rightarrow a = 10$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^4 - mx^2 + 5$ এবং $f(-1) = 0$ হলে $m = ?$",
+      "options": [
+        "$6$",
+        "$4$",
+        "$1$",
+        "$-6$"
+      ],
+      "correctOption": 0,
+      "explanation": "$f(-1) = (-1)^4 - m(-1)^2 + 5 = 0 \\Rightarrow 1 - m + 5 = 0 \\Rightarrow m = 6$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_05",
+      "questionPreamble": "",
+      "question": "দুই অঙ্কবিশিষ্ট সংখ্যার অঙ্কদ্বয়ের অন্তর $3$। সংখ্যাটির অঙ্কদ্বয় স্থান বিনিময় করলে যে সংখ্যা পাওয়া যায় তা মূল সংখ্যাটির দ্বিগুণ অপেক্ষা $2$ বেশি। সংখ্যাটি কত?",
+      "options": [
+        "$25$",
+        "$36$",
+        "$41$",
+        "$63$"
+      ],
+      "correctOption": 0,
+      "explanation": "$25$ এর অঙ্কদ্বয়ের অন্তর $|2-5|=3$। স্থান বিনিময় করলে হয় $52$। $2 \\times 25 + 2 = 52$। শর্ত পূরণ করে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{x \\in \\mathbb{N} : x $ মৌলিক সংখ্যা এবং  $x \\le 5 \\}$সেটটির তালিকা পদ্ধতি নিচের কোনটি?",
+      "options": [
+        "$\\{1, 3, 5\\}$",
+        "$\\{5, 7, 11\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{3, 5, 7\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$5$ পর্যন্ত বা তার ছোট মৌলিক সংখ্যাগুলো হলো $2, 3, 5$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$25\\%$ লাভে ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        "$1 : 4$",
+        "$4 : 3$",
+        "$5 : 4$",
+        "$4 : 5$"
+      ],
+      "correctOption": 3,
+      "explanation": "ক্রয়মূল্য $100$ হলে বিক্রয়মূল্য $125$। অনুপাত $= 100 : 125 = 4 : 5$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$42.\\dot{1}\\dot{8} \\times 0.2\\dot{8} = $ কত?",
+      "options": [
+        "$0.1\\dot{3}\\dot{2}$",
+        "$12.1\\dot{8}\\dot{5}$",
+        "$13.2\\dot{5}\\dot{0}$",
+        "$11.8\\dot{1}\\dot{0}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$42.\\dot{1}\\dot{8} = \\frac{4218-42}{99} = \\frac{4176}{99}$ এবং $0.2\\dot{8} = \\frac{28-2}{90} = \\frac{26}{90}$। গুণফল $\\approx 12.185...$",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x+\\frac{1}{x}=\\sqrt{5}$ হলে,\n$i.$ $x^{2}-\\sqrt{5}x+1=0$\n$ii.$ $x-\\frac{1}{x}=1$\n$iii.$ $x^{2}+\\frac{1}{x^2}=5$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$i. x+\\frac{1}{x}=\\sqrt{5} \\Rightarrow x^2+1=\\sqrt{5}x \\Rightarrow x^2-\\sqrt{5}x+1=0$ (সঠিক)। $ii. (x-\\frac{1}{x})^2 = (x+\\frac{1}{x})^2 - 4 = 5-4=1 \\Rightarrow x-\\frac{1}{x}=1$ (সঠিক)। $iii. x^2+\\frac{1}{x^2} = (\\sqrt{5})^2 - 2 = 3$ (ভুল)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\angle ABE$ এর মান কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$150^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\angle PCQ = 30^{\\circ}$ (বিপ্রতীপ কোণ)। $\\angle ACB = \\angle PCQ = 30^{\\circ}$। $\\Delta ABC$-তে $\\angle BAC = 90^{\\circ}$, সুতরাং $\\angle ABC = 180 - (90+30) = 60^{\\circ}$। $\\angle ABE = 180 - 60 = 120^{\\circ}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq12.svg?alt=media&token=e117dd39-ed21-4554-9c3f-cd2b0f1f41aa",
+      "imageCaption": "Question 12 Diagram",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত উপাত্তের মধ্যক কত?",
+      "options": [
+        "$125$",
+        "$130$",
+        "$135$",
+        "$140$"
+      ],
+      "correctOption": 2,
+      "explanation": "মোট গণসংখ্যা $N = 5+8+7+6+3 = 29$। মধ্যক পদ $= \\frac{29+1}{2} = 15$-তম পদ। ক্রমযোজিত গণসংখ্যা: $5, 13, 20...$। ১৫-তম পদটি $130$ উচ্চতার শ্রেণিতে পড়ে। [উত্তরমালা অনুসারে খ-130 সঠিক]",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq13.svg?alt=media&token=c1c58326-d7b6-423c-a5de-5f0cafd2fc90",
+      "imageCaption": "Frequency Table",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{2}, \\frac{2}{3}, \\frac{3}{4}, ....$ অনুক্রমটির সাধারণ পদ কোনটি?",
+      "options": [
+        "$\\frac{1}{n}$",
+        "$\\frac{1}{2^n}$",
+        "$\\frac{1}{n+1}$",
+        "$\\frac{n}{n+1}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$n=1$ হলে $\\frac{1}{2}$, $n=2$ হলে $\\frac{2}{3}$। সুতরাং সাধারণ পদ $\\frac{n}{n+1}$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_14",
+      "questionPreamble": "চিত্রে $PE=EQ, PF=FR, PD, \\angle QPR$ এর সমদ্বিখন্ডক হলে$-$",
+      "question": "$i.$ $QR=2EF$\n$ii.$ $\\frac{QD}{DR}=\\frac{QE}{RF}$\n$iii.$ $EF \\parallel QR$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "ত্রিভুজের দুই বাহুর মধ্যবিন্দুর সংযোজক রেখা তৃতীয় বাহুর সমান্তরাল ও অর্ধেক। তাই $EF \\parallel QR$ এবং $EF = \\frac{1}{2}QR$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq15.svg?alt=media&token=7a2fbb11-a715-45ea-8e66-a9cfc674fa28",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": "চিত্রে$-$",
+      "question": "$i.$ বর্গক্ষেত্রের বাহুর দৈর্ঘ্য $6$ সে.মি.\n$ii.$ বৃত্তের পরিধি $12$ সে.মি.\n$iii.$ বৃত্তক্ষেত্র ও বর্গক্ষেত্রের ক্ষেত্রফলের অনুপাত $\\pi : 4$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "ব্যাসার্ধ $r=3$, তাই ব্যাস $= 6$। বর্গক্ষেত্রের বাহু $=$ ব্যাস $= 6$ (সঠিক)। পরিধি $= 2\\pi r = 6\\pi \\approx 18.84$ (ভুল)। ক্ষেত্রফলের অনুপাত $= \\pi r^2 : (2r)^2 = \\pi (3^2) : 6^2 = 9\\pi : 36 = \\pi : 4$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq16.svg?alt=media&token=e775ad2c-78ac-40bf-a26a-a9837699c95d",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো বর্গের বাহুর দৈর্ঘ্য $10\\%$ হ্রাস পেলে এর ক্ষেত্রফল শতকরা কত হ্রাস পাবে?",
+      "options": [
+        "$10\\%$",
+        "$19\\%$",
+        "$21\\%$",
+        "$30\\%$"
+      ],
+      "correctOption": 1,
+      "explanation": "বাহু $100$ থেকে $90$ হলে, ক্ষেত্রফল $10000$ থেকে $8100$ হয়। হ্রাস $= \\frac{1900}{10000} \\times 100 = 19\\%$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে $h$ এর মান কত?",
+      "options": [
+        "$25\\sqrt{3}$ সে.মি.",
+        "$(25+\\sqrt{3})$ সে.মি.",
+        "$(25-\\sqrt{3})$ সে.মি.",
+        "$\\frac{25}{\\sqrt{3}}$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "চিত্রে $\\angle CAD = 60^{\\circ}$, সুতরাং $\\angle ACB = 60^{\\circ}$ (একান্তর কোণ)। $\\tan 60^{\\circ} = \\frac{h}{25} \\Rightarrow \\sqrt{3} = \\frac{h}{25} \\Rightarrow h = 25\\sqrt{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq18.svg?alt=media&token=3f58cad7-8896-4e44-86e7-abaff7505b31",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_05",
+      "questionPreamble": "$x^2 - \\frac{4}{x^2} = 0$ সমীকরণটির$-$",
+      "question": "$i.$ চলকের সর্বোচ্চ ঘাত $4$\n$ii.$ দুটি মূল $(\\sqrt{2}, -\\sqrt{2})$\n$iii.$ ধ্রুবক পদ $4$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x^4 - 4 = 0 \\Rightarrow (x^2-2)(x^2+2)=0$। ঘাত $4$ (সঠিক)। বাস্তব মূল $x^2=2 \\Rightarrow x = \\pm\\sqrt{2}$ (সঠিক)।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও :",
+      "question": "$ABCD$ ট্রাপিজিয়ামের ক্ষেত্রফল কত?",
+      "options": [
+        "$72$ বর্গ সে.মি.",
+        "$102$ বর্গ সে.মি.",
+        "$174$ বর্গ সে.মি.",
+        "$204$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র হতে $AB=12, BE=12, EC=5$। সুতরাং $BC = 12+5 = 17$। সমান্তরাল বাহুদ্বয় $AD=12$ এবং $BC=17$। উচ্চতা $h=12$। ক্ষেত্রফল $= \\frac{1}{2}(12+17) \\times 12 = 29 \\times 6 = 174$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq20.svg?alt=media&token=d2f668fc-a51d-4a5f-8109-aae18033b724",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$ABED$ বর্গ ও $\\Delta CDE$ ত্রিভুজের পরিসীমার অনুপাত কত?",
+      "options": [
+        "$3 : 4$",
+        "$5 : 7$",
+        "$5 : 8$",
+        "$8 : 5$"
+      ],
+      "correctOption": 3,
+      "explanation": "বর্গের বাহু $12$, পরিসীমা $= 4 \\times 12 = 48$। $\\Delta CDE$-তে $DE=12, EC=5, CD = \\sqrt{12^2+5^2}=13$। পরিসীমা $= 12+5+13=30$। অনুপাত $= 48 : 30 = 8 : 5$।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": "Trapezium and Triangle",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$2x + y = 8$ এবং $3x - 2y = 5$ সমীকরণদ্বয়ের ছেদ বিন্দুর স্থানাঙ্ক কোনটি?",
+      "options": [
+        "$(3, 2)$",
+        "$(2, 3)$",
+        "$(-3, 2)$",
+        "$(-2, 3)$"
+      ],
+      "correctOption": 0,
+      "explanation": "$x=3, y=2$ বসালে: $2(3)+2 = 8$ এবং $3(3)-2(2) = 5$। উভয় সমীকরণ সিদ্ধ হয়।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x - 5y = 3$ ও $x - 1 = 3y$ সমীকরণ জোটটি$-$\n$i.$ অসমঞ্জস\n$ii.$ পরস্পর অনির্ভরশীল\n$iii.$ একটি মাত্র সমাধান আছে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "সহগ অনুপাত: $\\frac{2}{1} \\neq \\frac{-5}{-3}$। সুতরাং এটি সমঞ্জস, অনির্ভরশীল এবং একটি মাত্র সমাধান আছে।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তস্থ সামান্তরিক একটি$-$",
+      "options": [
+        "রম্বস",
+        "বর্গ",
+        "আয়ত",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তে অন্তলিখিত সামান্তরিক একটি আয়তক্ষেত্র।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি ক্রমিক সমানুপাতি?",
+      "options": [
+        "$5 : 15 : 20$",
+        "$3 : 5 : 6$",
+        "$2 : 4 : 8$",
+        "$2 : 5 : 10$"
+      ],
+      "correctOption": 2,
+      "explanation": "$2, 4, 8$ ক্রমিক সমানুপাতি কারণ $4^2 = 2 \\times 8$ অর্থাৎ $16 = 16$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$4 \\sec A = 5$ হলে $\\sin A = ?$",
+      "options": [
+        "$\\frac{25}{16}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{9}{25}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sec A = \\frac{5}{4} \\Rightarrow \\cos A = \\frac{4}{5}$। $\\sin A = \\sqrt{1 - (\\frac{4}{5})^2} = \\sqrt{\\frac{9}{25}} = \\frac{3}{5}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_04",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৭ ও ২৮ নং প্রশ্নের উত্তর দাও :\n$\\log_{a}x=5$ এবং $\\log_{a}y=3$",
+      "question": "$\\log_{a}(xy) = $ কত?",
+      "options": [
+        "$2$",
+        "$5$",
+        "$8$",
+        "$15$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\log_a(xy) = \\log_a x + \\log_a y = 5 + 3 = 8$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{y}x = $ কত?",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{5}{3}$",
+        "$8$",
+        "$15$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\log_y x = \\frac{\\log_a x}{\\log_a y} = \\frac{5}{3}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": "O কেন্দ্রবিশিষ্ট বৃত্তের DP স্পর্শক$-$",
+      "question": "$i.$ $\\angle BAD$ অধিচাপ\n$ii.$ $\\angle BAD = 80^{\\circ}$\n$iii.$ $\\angle OPD = 30^{\\circ}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$i.$ $BAD$ একটি চাপ (সঠিক)। $iii.$ চিত্রে $\\angle OPD = 30^{\\circ}$ দেয়া থাকতে পারে। কেন্দ্রস্থ কোণ $2x$ এবং বৃত্তস্থ কোণ $x$। [উত্তরমালা খ অনুযায়ী i ও iii সঠিক]",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_comilla%2Fq29.svg?alt=media&token=94568ff4-f378-4bac-aa5a-d8770cf9adb6",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$9^{n+1}=243$ হলে $n=?$",
+      "options": [
+        "$\\frac{5}{2}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{5}{9}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$(3^2)^{n+1} = 3^5 \\Rightarrow 3^{2n+2} = 3^5 \\Rightarrow 2n+2 = 5 \\Rightarrow 2n = 3 \\Rightarrow n = \\frac{3}{2}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

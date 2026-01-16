@@ -1,0 +1,57 @@
+\documentclass[tikz, border=10pt]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc, decorations.pathreplacing}
+\pgfmathsetmacro{\angleDC}{atan2(3.5, 4)}
+
+\begin{document}
+\begin{tikzpicture}
+
+% Define points
+\coordinate (B) at (0, 0);
+\coordinate (A) at (0, 5);
+\coordinate (C) at (0, 3.5);
+\coordinate (D) at (-4, 0);
+
+% Draw vertical line AB
+\draw[ultra thick] (A) -- (B);
+
+% Draw line DB
+\draw[ultra thick] (D) -- (B);
+
+% Draw line DC
+\draw[ultra thick] (D) -- (C);
+
+% Right angle mark at B
+\def\sq{0.35}
+\draw[thick] (B) ++(-\sq, 0) -- ++(0, \sq) -- ++(\sq, 0);
+
+% Arc at C (angle DCB) - no label
+\draw[thick] ($(C)+(270:0.5)$) arc (270:221:0.5);
+\node[right, font=\large] at ($(C)+(-130:1.2)$) {$60^{\circ}$};
+
+% Double tick mark on AC
+\coordinate (midAC) at ($(A)!0.5!(C)$);
+\draw[thick] ($(midAC)+(-0.2, 0.08)$) -- ++(0.4, 0);
+\draw[thick] ($(midAC)+(-0.2, -0.08)$) -- ++(0.4, 0);
+
+% Double tick mark on DC (perpendicular to DC)
+\coordinate (midDC) at ($(D)!0.5!(C)$);
+% First tick
+\draw[thick] ($(midDC)+(\angleDC:0.08)$) ++(\angleDC+90:0.2) -- ++(\angleDC-90:0.4);
+% Second tick
+\draw[thick] ($(midDC)+(\angleDC:-0.08)$) ++(\angleDC+90:0.2) -- ++(\angleDC-90:0.4);
+
+
+% Labels
+\node[above] at (A) {\textbf{\Large A}};
+\node[below right] at (B) {\textbf{\Large B}};
+\node[right] at ($(C)+(0.15,0)$) {\textbf{\Large C}};
+\node[below left] at (D) {\textbf{\Large D}};
+
+% Brace on right side showing 10 m
+\draw[decorate, decoration={brace, amplitude=10pt, mirror}, thick] 
+    (0.5, 0) -- (0.5, 3.2);
+\node[right, font=\Large] at (1.2, 1.5) {10 m};
+
+\end{tikzpicture}
+\end{document}

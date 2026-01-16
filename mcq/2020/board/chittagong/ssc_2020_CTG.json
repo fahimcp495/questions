@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_CTG",
+    "title": "চট্টগ্রাম বোর্ড ২০২০",
+    "titleEn": "চট্টগ্রাম বোর্ড ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "chittagong",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$6.34$ সংখ্যাটির লগের পূর্ণক কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "$-1$"
+      ],
+      "correctOption": 2,
+      "explanation": "$6.34$ সংখ্যাটি $1$ থেকে $10$ এর মধ্যে অবস্থিত। আমরা জানি $1 \\le x < 10$ হলে $\\log_{10}x$ এর পূর্ণক $0$ হয় [cite: 3, 6, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_01",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি মূলদ সংখ্যা?",
+      "options": [
+        "$\\sqrt{6}$",
+        "$\\sqrt{8}$",
+        "$\\sqrt[3]{6}$",
+        "$\\sqrt[3]{8}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sqrt[3]{8} = 2$, যা একটি পূর্ণ সংখ্যা এবং মূলদ [cite: 3, 6, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_05",
+      "questionPreamble": "",
+      "question": "$2y^{2}=4py$ এর সমাধান নিচের কোনটি?",
+      "options": [
+        "$(0,4p)$",
+        "$(0,2p)$",
+        "$(0,-2p)$",
+        "$(2,2p)$"
+      ],
+      "correctOption": 1,
+      "explanation": "$2y^{2} - 4py = 0 \\implies 2y(y - 2p) = 0$। অতএব $y=0$ অথবা $y=2p$ [cite: 3, 6, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যানুসারে ৪ ও ৫ নং প্রশ্নের উত্তর দাও:\nচিত্রে ,$O , BC$ এর মধ্যবিন্দু।",
+      "question": "বৃত্তচাপ $AED$ এর দৈর্ঘ্য কত?",
+      "options": [
+        "$26.180$সে.মি.",
+        "$13.09$সে.মি.",
+        "$10.472$সে.মি.",
+        "$5.236$সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "চাপের দৈর্ঘ্য $s = \\frac{\\theta}{360} \\times 2\\pi r$। চিত্রে ব্যাসার্ধ $r=5$ এবং $\\theta=60^{\\circ}$ হলে মানটি $5.236$ সে.মি. আসে [cite: 3, 6, 8]。",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq04.svg?alt=media&token=d8d4e067-833e-4944-8699-7144fa6f54fe",
+      "imageCaption": "আয়তক্ষেত্র ও বৃত্তকলা",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$\\Delta AOB$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$6$ বর্গ সে.মি.",
+        "$10$ বর্গ সে.মি.",
+        "$12$ বর্গ সে.মি.",
+        "$24$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "ত্রিভুজের ক্ষেত্রফল $= \\frac{1}{2} \\times 3 \\times 4 = 6$ বর্গ সে.মি. [cite: 3, 6, 8]。",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "আয়তক্ষেত্র ও বৃত্তকলা",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "$PQ$ এর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$5$ মিটার",
+        "$5\\sqrt{2}$ মিটার",
+        "$5\\sqrt{3}$ মিটার",
+        "$8\\sqrt{3}$ মিটার"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\sin 60^{\\circ} = \\frac{PQ}{10} \\implies PQ = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}$ [cite: 3, 6, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq06.svg?alt=media&token=3cb2e0e3-9ead-49c3-abf0-6f9d01dd4508",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_09",
+      "questionPreamble": "চিত্র হতে$-$\n$i.$ $ cos x = sin z$\n$ii.$ $cot z = \\frac{\\sqrt{3}}{2}$\n$iii.$ $sec x - cos x = \\frac{3}{2}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্রের জ্যামিতিক বিশ্লেষণ অনুযায়ী উক্তি $i$ ও $iii$ সঠিক [cite: 3, 7, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq07.svg?alt=media&token=ef8c0861-d8a3-4ab8-a113-5527d37b5497",
+      "imageCaption": "সমকোণী ত্রিভুজ xyz",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্র হতে $\\sin \\theta \\sec \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$",
+        "$1$",
+        "$\\frac{2}{\\sqrt{3}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sin \\theta \\sec \\theta = \\tan \\theta = \\frac{\\sqrt{3}}{1} = \\sqrt{3}$ [cite: 3, 7, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq08.svg?alt=media&token=c9bd36bf-ed3b-4583-b0b6-43d0efdee198",
+      "imageCaption": "সমকোণী ত্রিভুজ PQR",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot x \\sqrt{1-\\cos^{2}x} = ?$",
+      "options": [
+        "$\\sin x$",
+        "$\\tan x$",
+        "$\\sec x$",
+        "$\\cos x$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\cot x \\cdot \\sin x = \\frac{\\cos x}{\\sin x} \\cdot \\sin x = \\cos x$ [cite: 3, 7, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নের উত্তর দাও :\n$10$ জন শিক্ষার্থীর ওজন (কেজিতে) $43, 50, 40, 38, 33, 45, 46, 36, 35, 43$",
+      "question": "উক্ত উপাত্তের পরিসর কত?",
+      "options": [
+        "$18$",
+        "$17$",
+        "$16$",
+        "$10$"
+      ],
+      "correctOption": 0,
+      "explanation": "পরিসর $= (50 - 33) + 1 = 18$ [cite: 3, 7, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রদত্ত উপাত্তের মধ্যক কত?",
+      "options": [
+        "$43.5$",
+        "$42.5$",
+        "$41.5$",
+        "$40.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "উপাত্তগুলোকে সাজালে মধ্যপদ দুটির গড় হয় $41.5$ [cite: 3, 5, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a+b=\\sqrt{3}$ এবং $a-b=\\sqrt{2}$ হলে, $ab$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{5}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$ab = (\\frac{a+b}{2})^{2} - (\\frac{a-b}{2})^{2} = \\frac{3}{4} - \\frac{2}{4} = \\frac{1}{4}$ [cite: 3, 5, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$p+\\frac{1}{p}=0$ হলে, $\\sqrt{2}(\\sqrt{p}+\\frac{1}{\\sqrt{p}})$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "বর্গ করার নিয়ম অনুসরণ করলে মানটি $2$ আসে [cite: 3, 5, 8]。",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$70+x^{2}-17x$ এর উৎপাদক কোনটি?",
+      "options": [
+        "$7+x$",
+        "$5-x$",
+        "$7-x$",
+        "$14-x$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x^{2}-17x+70 = (x-10)(x-7)$। অতএব $(7-x)$ একটি উৎপাদক [cite: 3, 5, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_01",
+      "questionPreamble": "",
+      "question": "$4.7\\dot{8}$ এর সাধারণ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        "$4\\frac{71}{90}$",
+        "$4\\frac{78}{9}$",
+        "$4\\frac{78}{90}$",
+        "$4\\frac{75}{9}$"
+      ],
+      "correctOption": 0,
+      "explanation": "পৌনঃপুনিক ভগ্নাংশকে সাধারণ ভগ্নাংশে রূপান্তরের নিয়ম অনুযায়ী এটি $4\\frac{71}{90}$ [cite: 3, 5, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$g(y)=y^{2}-13y+40$ এবং $g(y)=0$ হলে, $y$ এর মান কত?",
+      "options": [
+        "$(5, 8)$",
+        "$(-5, -8)$",
+        "$(-5, 8)$",
+        "$(5, 7)$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(y-8)(y-5)=0 \\implies y=5,8$ [cite: 3, 5, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$3+6+9+\\dots$ ধারার $15$ টি পদের সমষ্টি কত?",
+      "options": [
+        "$270$",
+        "$315$",
+        "$360$",
+        "$405$"
+      ],
+      "correctOption": 2,
+      "explanation": "সমান্তর ধারার সমষ্টির সূত্র ব্যবহার করলে মানটি $360$ পাওয়া যায় [cite: 3, 5, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$M=\\{3,5,7\\}, N=\\{4,5,7\\}$ হলে$-$\n$i.$ $ M \\cap N = \\{5,7\\}$\n$ii.$ $P(M \\cup N)$ এর উপাদান সংখ্যা $16$\n$iii.$ $M \\setminus N = \\{3,5\\}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "$M \\setminus N = \\{3\\}$, তাই $iii$ উক্তিটি ভুল। সঠিক উত্তর $i$ ও $ii$ [cite: 2, 3, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$S = \\{(3, 1), (3, 3), (4, 3), (5, 4)\\}$ এর রেঞ্জ কোনটি?",
+      "options": [
+        "$\\{3, 3, 4\\}$",
+        "$\\{3, 4, 5\\}$",
+        "$\\{1, 3, 4\\}$",
+        "$\\{1, 4, 5\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "ক্রোমজোড়গুলোর দ্বিতীয় উপাদানগুলোর সেট হলো রেঞ্জ [cite: 2, 3, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": "চিত্রে, O বৃত্তের কেন্দ্র, $BD=4$ সে.মি.।",
+      "question": "$\\Delta OAB$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$10$ বর্গ সে.মি.",
+        "$12$ বর্গ সে.মি.",
+        "$20$ বর্গ সে.মি.",
+        "$24$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "ত্রিভুজের ভূমি ও উচ্চতা বের করে ক্ষেত্রফল দাঁড়ায় $12$ বর্গ সে.মি. [cite: 2, 3, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq20.svg?alt=media&token=3b32aa34-053f-4a35-adc5-b3b463411cc5",
+      "imageCaption": "বৃত্তের জ্যা ও কেন্দ্র",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_06",
+      "questionPreamble": "চিত্র, $OQ \\parallel RS$ এবং $OM \\parallel QR$",
+      "question": "$\\angle OQR + \\angle RSM = $ কত?",
+      "options": [
+        "$110^{\\circ}$",
+        "$125^{\\circ}$",
+        "$140^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "সমান্তরাল রেখার ধর্ম অনুযায়ী কোণ দুটির সমষ্টি $110^{\\circ}$ [cite: 2, 3, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq21.svg?alt=media&token=95610c98-0958-4a7b-8dd5-bf8006d27940",
+      "imageCaption": "সমান্তরাল রেখা ও কোণ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২২ ও ২৩ নং প্রশ্নের উত্তর দাও :\nচিত্রে, $PQSR$ একটি সামান্তরিক যার $\\angle PMQ = 90^{\\circ}, PQ = 5$ সে.মি., $MQ = 4$ সে.মি.।",
+      "question": "$PS$ এর মান কত?",
+      "options": [
+        "$4$ সে.মি.",
+        "$5$ সে.মি.",
+        "$6$ সে.মি.",
+        "$8$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "পিথাগোরাসের উপপাদ্য অনুযায়ী $PM=3$, তাই $PS = 2 \\times 3 = 6$ সে.মি. [cite: 1, 3, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq22.svg?alt=media&token=9bbe3c82-492e-4fad-93bc-1843314b239f",
+      "imageCaption": "সামান্তরিকের কর্ণ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$PQSR$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$20$ বর্গ সে.মি.",
+        "$24$ বর্গ সে.মি.",
+        "$25$ বর্গ সে.মি.",
+        "$48$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= \\frac{1}{2} \\times d_{1} \\times d_{2} = \\frac{1}{2} \\times 6 \\times 8 = 24$ বর্গ সে.মি. [cite: 1, 3, 8]。",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "সামান্তরিকের ক্ষেত্রফল",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :\nচিত্রে, $M$ বৃত্তের কেন্দ্র, $AD=10$ সে.মি.।",
+      "question": "$\\angle BMC$ এর মান কত?",
+      "options": [
+        "$110^{\\circ}$",
+        "$115^{\\circ}$",
+        "$120^{\\circ}$",
+        "$130^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ, তাই $2 \\times (35^{\\circ}+30^{\\circ}) = 130^{\\circ}$ [cite: 1, 3, 8]。",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_CTG%2Fq24.svg?alt=media&token=d6edd3c8-f27e-43ae-959a-a276262598fb",
+      "imageCaption": "বৃত্তস্থ ও কেন্দ্রস্থ কোণ",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        "$31.416$ বর্গ সে.মি.",
+        "$78.54$ বর্গ সে.মি.",
+        "$100.00$ বর্গ সে.মি.",
+        "$314.16$ বর্গ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "ক্ষেত্রফল $= \\pi \\times 5^{2} = 78.54$ বর্গ সে.মি. [cite: 1, 3, 8]。",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "বৃত্তের ক্ষেত্রফল",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_14",
+      "questionPreamble": "",
+      "question": "রম্বসের প্রতিসাম্য রেখার সংখ্যা কয়টি?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "রম্বসের প্রতিসাম্য রেখা এর কর্ণ দুটি [cite: 3, 4, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$p:q=3:4$ এবং $q:r=5:7$ হলে, $p:q:r$ এর মান কত?",
+      "options": [
+        "$3:4:7$",
+        "$3:5:7$",
+        "$12:20:28$",
+        "$15:20:28$"
+      ],
+      "correctOption": 3,
+      "explanation": "অনুপাতের সাধারণ রূপ তৈরি করলে $15:20:28$ পাওয়া যায় [cite: 3, 4, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_04",
+      "questionPreamble": "",
+      "question": "$\\log_{36} 6 + \\log_{\\sqrt{6}} 6$ কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{6}}$",
+        "$1$",
+        "$2\\frac{1}{2}$",
+        "$5$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\%0.5 + 2 = 2.5 = 2\\frac{1}{2}$ [cite: 3, 4, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$a_1x + b_1y = c_1, a_2x + b_2y = c_2$ সমীকরণ জোটটি কোন শর্তে পরস্পর নির্ভরশীল হবে?",
+      "options": [
+        "$\\frac{a_{1}}{a_{2}} \\neq \\frac{b_{1}}{b_{2}}$",
+        "$\\frac{a_{1}}{a_{2}} = \\frac{b_{1}}{b_{2}} \\neq \\frac{c_{1}}{c_{2}}$",
+        "$\\frac{a_{1}}{a_{2}} = \\frac{b_{1}}{b_{2}} = \\frac{c_{1}}{c_{2}}$",
+        "$\\frac{a_{1}}{a_{2}} \\neq \\frac{b_{1}}{b_{2}} \\neq \\frac{c_{1}}{c_{2}}$"
+      ],
+      "correctOption": 2,
+      "explanation": "নির্ভরশীলতার শর্ত হলো সহগ ও ধ্রুবকের অনুপাত সমান হওয়া [cite: 3, 4, 8]。",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$(x-4)^{2}=x^{2}-8x+16$, এটি$-$\n$i. $ একটি অভেদ\n$ii. $ একটি সমীকরণ\n$iii.$$\\ x$ এর সকল মানের জন্য সিদ্ধ হয়",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "যেহেতু এটি একটি সূত্র, তাই এটি একটি অভেদ যা x এর সকল মানের জন্য সত্য [cite: 3, 4, 8]。",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

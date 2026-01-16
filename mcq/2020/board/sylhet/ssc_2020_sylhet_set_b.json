@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2020_sylhet_set_b",
+    "title": "সিলেট বোর্ড - ২০২০",
+    "titleEn": "সিলেট বোর্ড - ২০২০",
+    "year": 2020,
+    "type": "board",
+    "board": "sylhet",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সুষম ষড়ভুজের কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব $6$ মি. হলে এর ক্ষেত্রফল কত বর্গমিটার?",
+      "options": [
+        "$108\\sqrt{3}$",
+        "$54\\sqrt{3}$",
+        "$27\\sqrt{3}$",
+        "$9\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "সুষম ষড়ভুজের কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব বাহুর দৈর্ঘ্যের সমান। সুতরাং বাহু $a = 6$। ক্ষেত্রফল $= \\frac{3\\sqrt{3}}{2}a^{2} = \\frac{3\\sqrt{3}}{2} \\times 6^{2} = 54\\sqrt{3}$। [cite: 420, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের$-$",
+      "options": [
+        "অর্ধেক",
+        "সমান",
+        "দ্বিগুণ",
+        "চারগুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "বর্গের বাহু $a$ হলে ক্ষেত্রফল $a^{2}$ এবং কর্ণের ওপর অঙ্কিত বর্গের ক্ষেত্রফল $(\\sqrt{2}a)^{2} = 2a^{2}$। সুতরাং এটি অর্ধেক। [cite: 430, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "অবনতি কোণের মান কত ডিগ্রি হলে $1$টি খুঁটির দৈর্ঘ্য ও ছায়ার দৈর্ঘ্য সমান হবে?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "খুঁটির দৈর্ঘ্য ও ছায়ার দৈর্ঘ্য সমান হলে $\\tan\\theta = 1$, অর্থাৎ $\\theta = 45^{\\circ}$। [cite: 444, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস $26$ সে.মি. হলে এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$2123.72$",
+        "$530.93$",
+        "$163.36$",
+        "$81.68$"
+      ],
+      "correctOption": 1,
+      "explanation": "ব্যাসার্ধ $r = 13$ সে.মি.। ক্ষেত্রফল $= \\pi r^{2} = 3.1416 \\times 13^{2} \\approx 530.93$। [cite: 464, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণ$-$",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ সর্বদা স্থূলকোণ হয়। [cite: 476, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": "$O$ বৃত্তের কেন্দ্র",
+      "question": "$\\angle BOC + \\angle AOD = \\text{কত?}$",
+      "options": [
+        "$45^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "জ্যামিতিক উপপাদ্য অনুযায়ী এবং উত্তরমালা অনুসারে সঠিক মান $180^{\\circ}$। [cite: 504, 583]",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_sylhet_set_b%2Fq06.svg?alt=media&token=b99ad3ea-98bf-4b65-a3c8-ae6a26b8a699",
+      "imageCaption": "চিত্র নং ৬",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "সর্বনিম্ন কয়টি উপাত্ত জানা থাকলে একটি নির্দিষ্ট চতুর্ভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$6$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 1,
+      "explanation": "একটি নির্দিষ্ট চতুর্ভুজ আঁকার জন্য ৫টি স্বতন্ত্র উপাত্ত প্রয়োজন। [cite: 528, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$1$ সে.মি. ধারবিশিষ্ট একটি ঘনকের আয়তন কত ঘন সে.মি.?",
+      "options": [
+        "$1$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "correctOption": 0,
+      "explanation": "আয়তন $= a^{3} = 1^{3} = 1$ ঘন সে.মি.। [cite: 536, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$ ও $\\triangle DEF$ এর $\\frac{AB}{DE} = \\frac{AC}{DF} = \\frac{BC}{EF}$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$\\angle A = \\angle E$",
+        "$\\angle A = \\angle B$",
+        "$\\angle A = \\angle F$",
+        "$\\angle A = \\angle D$"
+      ],
+      "correctOption": 3,
+      "explanation": "বাহুগুলোর অনুপাত সমান হলে ত্রিভুজদ্বয় সদৃশ এবং তাদের অনুরূপ কোণগুলো সমান হয়। এখানে $A$ এর অনুরূপ কোণ $D$। [cite: 550, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১০ ও ১১ নং প্রশ্নের উত্তর দাও :",
+      "question": "প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$34$",
+        "$35$",
+        "$36$",
+        "$41$"
+      ],
+      "correctOption": 1,
+      "explanation": "$L = 31, f_1 = 20-16=4, f_2 = 20-14=6, h=10$। প্রচুরক $= 31 + \\frac{4}{4+6} \\times 10 = 35$। [cite: 543, 583]",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_sylhet_set_b%2Fq10.svg?alt=media&token=6779540f-e517-41d0-93ff-cc7afba4c89c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উপাত্তের মধ্যক কত?",
+      "options": [
+        "$20$",
+        "$25$",
+        "$34.5$",
+        "$36.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "$N/2 = 27$। মধ্যক শ্রেণি $31-40$। মধ্যক $= 31 + \\frac{27-20}{20} \\times 10 = 34.5$। [cite: 414, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\text{cosec } A - \\text{cot } A = \\frac{1}{x}$ হলে, $\\text{cosec } A + \\text{cot } A = \\text{কত?}$",
+      "options": [
+        "$-\\frac{1}{x}$",
+        "$\\frac{1}{x}$",
+        "$x$",
+        "$\\frac{x^{2}+1}{x}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$(\\text{cosec } A - \\text{cot } A)(\\text{cosec } A + \\text{cot } A) = 1$। সুতরাং এটি $x$ হবে। [cite: 427, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বহুভুজটির$-$\\n$i.$ ঘূর্ণন মাত্রা $5$\\n$ii.$ ঘূর্ণন কোণ $60^{\\circ}$\\n$iii.$ প্রতিটি কোণ সমান \\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$ii$",
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "বৃত্তস্থ কোণ $\\angle PSQ = 44^{\\circ}$। বৃত্তস্থ চতুর্ভুজের বিপরীত কোণের সমষ্টি $180^{\\circ}$। সুতরাং $\\angle PRQ = 180^{\\circ} - 44^{\\circ} = 136^{\\circ}$।",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_sylhet_set_b%2Fq13.svg?alt=media&token=e9705a02-148a-42fa-935e-817513f57a12",
+      "imageCaption": "চিত্র নং ১৩",
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.0035$ এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        "$3$",
+        "$1$",
+        "$\\bar{2}$",
+        "$\\bar{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.0035 = 3.5 \\times 10^{-3}$। তাই পূর্ণক $\\bar{3}$। [cite: 481, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P = \\{1, 3, 5, 7\\}$ সেটের প্রকৃত উপসেট সংখ্যা কত?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "উপাদান $4$টি হলে উপসেট $2^{4}=16$। প্রকৃত উপসেট $= 16 - 1 = 15$। [cite: 506, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "যদি $x = 2 + \\sqrt{3}$ হয়, তবে $\\frac{1}{x} = \\text{কত?}$",
+      "options": [
+        "$1$",
+        "$\\frac{1}{2-\\sqrt{3}}$",
+        "$2-\\sqrt{3}$",
+        "$7-4\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$\\frac{1}{2+\\sqrt{3}} = \\frac{2-\\sqrt{3}}{(2+\\sqrt{3})(2-\\sqrt{3})} = 2 - \\sqrt{3}$। [cite: 521, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$\\log_{p} 324 = 4$ হলে, $p = \\text{কত?}$",
+      "options": [
+        "$1$",
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{2}$",
+        "$81$"
+      ],
+      "correctOption": 2,
+      "explanation": "$p^{4} = 324 \\Rightarrow p = (18)^{1/2} = (9 \\times 2)^{1/2} \\Rightarrow p = 3\\sqrt{2}$। [cite: 534, 583]",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$(x-4)^{2} = 0$ সমীকরণের মূল কতটি?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "দ্বিঘাত সমীকরণের মূল সর্বদা ২টি। এখানে $x=4, 4$। [cite: 554, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$64 + 32 + 16 + 8 + \\dots$ ধারার অষ্টম পদ কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "গুণোত্তর ধারা, $a=64, r=1/2$। ৮ম পদ $= 64 \\times (1/2)^{7} = 1/2$। [cite: 558, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_12",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও : $x^{2} - \\sqrt{3}x + 1 = 0$",
+      "question": "$x + \\frac{1}{x} = \\text{?}$",
+      "options": [
+        "$-\\sqrt3$",
+        "$-3$",
+        "$\\sqrt3$",
+        "$3$"
+      ],
+      "correctOption": 2,
+      "explanation": "সহগগুলোর অনুপাত সমান ($1/2 = 3/6 = 1/2$) হওয়ায় সমীকরণদ্বয় সমঞ্জস ও নির্ভরশীল।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^{3} + \\frac{1}{x^{3}}$ এর মান কোনটি?",
+      "options": [
+        "$0$",
+        "$3\\sqrt{3}$",
+        "$6\\sqrt{3}$",
+        "$9\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(\\sqrt{3})^{3} - 3(\\sqrt{3}) = 3\\sqrt{3} - 3\\sqrt{3} = 0$। [cite: 420, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "$O$ বৃত্তের কেন্দ্র",
+      "question": "উপরের চিত্রে $\\angle POQ = 88^{\\circ}$ হলে $\\angle PRQ = \\text{কত?}$",
+      "options": [
+        "$44^{\\circ}$",
+        "$88^{\\circ}$",
+        "$92^{\\circ}$",
+        "$136^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "সুষম ষড়ভুজের ঘূর্ণন মাত্রা ৬ (i ভুল)। ঘূর্ণন কোণ $60^{\\circ}$ এবং প্রতিটি কোণ সমান। [cite: 589, 583]",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2020_sylhet_set_b%2Fq22.svg?alt=media&token=6c895f51-7aeb-41b0-bf56-b1a1627e86cf",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "অসীম"
+      ],
+      "correctOption": 3,
+      "explanation": "বৃত্তের ঘূর্ণন প্রতিসমতা অসীম। [cite: 467, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan A = \\frac{4}{3}$ হলে $\\sec A = \\text{কত?}$",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{5}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\sec^{2} A = 1 + (4/3)^{2} = 25/9 \\Rightarrow \\sec A = 5/3$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2 + 3 + 4 + \\dots + 50 = \\text{কত?}$",
+      "options": [
+        "$1274$",
+        "$1275$",
+        "$1325$",
+        "$2548$"
+      ],
+      "correctOption": 0,
+      "explanation": "১ থেকে ৫০ পর্যন্ত যোগফল ১২৭৫। ১ বাদে ১২৭৪। [cite: 487, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x + y = 8$ এবং $3x - 2y = 5$ দুইটি সমীকরণ হলে $(x, y) = \\text{?}$",
+      "options": [
+        "$(2, 7)$",
+        "$(7, 2)$",
+        "$(2, 3)$",
+        "$(3, 2)$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x=3, y=2$ সমীকরণ দুটিকে সিদ্ধ করে। [cite: 511, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য $10\\%$ বৃদ্ধি এবং প্রস্থ $10\\%$ হ্রাস পেলে আয়তক্ষেত্রের ক্ষেত্রফল শতকরা কত বৃদ্ধি বা হ্রাস পাবে?",
+      "options": [
+        "$1\\%$ হ্রাস",
+        "$1\\%$ বৃদ্ধি",
+        "$21\\%$ হ্রাস",
+        "$21\\%$ বৃদ্ধি"
+      ],
+      "correctOption": 0,
+      "explanation": "$10 - 10 - \\frac{10 \\times 10}{100} = -1\\%$ (হ্রাস)। [cite: 526, 583]",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$0.2\\dot{8} \\times 42.\\dot{1}\\dot{8} = \\text{কত?}$",
+      "options": [
+        "$1.3\\dot{5}\\dot{3}$",
+        "$12.1\\dot{8}\\dot{5}$",
+        "$13.1\\dot{2}\\dot{3}$",
+        "$12.2\\dot{5}\\dot{5}$"
+      ],
+      "correctOption": 1,
+      "explanation": "ভগ্নাংশে রূপান্তর করে গুণ করলে উত্তর ১২.১৮৫ পাওয়া যায়। [cite: 579, 583]",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p$ ও $q$ দুইটি পূর্ণসংখ্যা হলে $p^{2} + q^{2}$ এর সাথে নিচের কোনটি যোগ করলে যোগফল একটি পূর্ণবর্গ সংখ্যা হবে?",
+      "options": [
+        "$-2pq$",
+        "$-pq$",
+        "$pq$",
+        "$4pq$"
+      ],
+      "correctOption": 0,
+      "explanation": "$p^{2} + q^{2} - 2pq = (p-q)^{2}$ যা পূর্ণবর্গ। [cite: 565, 583]",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_12",
+      "questionPreamble": "$x + 3y = 1$ ও $2x + 6y = 2$ সমীকরণদ্বয়$-$\n$i.$ সমঞ্জস \\n$ii.$ পরস্পর নির্ভরশীল \\n$iii.$ সমাধান আছে একটি",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

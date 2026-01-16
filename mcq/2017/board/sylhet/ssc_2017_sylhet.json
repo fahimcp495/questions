@@ -56,7 +56,7 @@
       "questionNumber": 3,
       "chapterId": "chapter_13",
       "questionPreamble": null,
-      "question": "$4 + a + b + 32 + ....$ ধারাটির সাধারণ অনুপাত কত?",
+      "question": "$4 + a + b + 32 +\\dots$ ধারাটির সাধারণ অনুপাত কত?",
       "options": [
         "$1$",
         "$2$",
@@ -67,7 +67,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -135,7 +135,7 @@
     {
       "questionNumber": 7,
       "chapterId": "chapter_01",
-      "questionPreamble": "বাস্তব সংখ্যার ক্ষেত্রে-\\n$i.$ $\\sqrt{81}$ একটি বিজোড় সংখ্যা\\n$ii.$ $0.21$ একটি অমূলদ সংখ্যা\\n$iii.$ $0$ একটি পূর্ণ সংখ্যা",
+      "questionPreamble": "বাস্তব সংখ্যার ক্ষেত্রে$-$\\n$i.$ $\\sqrt{81}$ একটি বিজোড় সংখ্যা\\n$ii.$ $0.21$ একটি অমূলদ সংখ্যা\\n$iii.$ $0$ একটি পূর্ণ সংখ্যা",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -235,7 +235,7 @@
     {
       "questionNumber": 12,
       "chapterId": "chapter_03",
-      "questionPreamble": "যদি $p + q = r$ হয়, তবে-\n$i.$ $p^3 + q^3 = r^3 - 3pqr$\\n$ii.$ $(p - q)^2 = r^2 - 4pq$\\n$iii.$ $\\{(p + q)^2\\}^2 = r^2$",
+      "questionPreamble": "যদি $p + q = r$ হয়, তবে$-$\n$i.$ $p^3 + q^3 = r^3 - 3pqr$\\n$ii.$ $(p - q)^2 = r^2 - 4pq$\\n$iii.$ $\\{(p + q)^2\\}^2 = r^2$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -295,7 +295,7 @@
     {
       "questionNumber": 15,
       "chapterId": "chapter_09",
-      "questionPreamble": "ত্রিকোণমিতিক সম্পর্কের ক্ষেত্রে-\\n$i.$ $\\sin(90° - \\theta) = \\cos\\theta$\\n$ii.$ $\\sec^2\\theta - \\tan^2\\theta = 1$\\n$iii.$ $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "questionPreamble": "ত্রিকোণমিতিক সম্পর্কের ক্ষেত্রে$-$\\n$i.$ $\\sin(90° - \\theta) = \\cos\\theta$\\n$ii.$ $\\sec^2\\theta - \\tan^2\\theta = 1$\\n$iii.$ $\\sin^2\\theta + \\cos^2\\theta = 1$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -376,7 +376,7 @@
       "questionNumber": 19,
       "chapterId": "chapter_12",
       "questionPreamble": null,
-      "question": "$5x + 3y = 4$\\n$2x + 7y = 9$\\n\nএ সমীকরণ জোটটি -\n$i.$ সঙ্গতিপূর্ণ\n$ii.$ অসংখ্য সমাধান আছে\n$iii.$ পরস্পর অনির্ভরশীল\n\nনিচের কোনটি সঠিক?",
+      "question": "$5x + 3y = 4$\\n$2x + 7y = 9$\\n\nএ সমীকরণ জোটটি$-$\n$i.$ সঙ্গতিপূর্ণ\n$ii.$ অসংখ্য সমাধান আছে\n$iii.$ পরস্পর অনির্ভরশীল\n\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -418,10 +418,10 @@
       "questionPreamble": null,
       "question": "চিত্রে, $BC$ এর দৈর্ঘ্য কত?",
       "options": [
-        "$51.96$ m",
-        "$103.92$ m",
-        "$155.88$ m",
-        "$180.43$ m"
+        "$51.96\\ m$",
+        "$103.92\\ m$",
+        "$155.88\\ m$",
+        "$180.43\\ m$"
       ],
       "correctOption": 2,
       "explanation": "",
@@ -435,7 +435,7 @@
     {
       "questionNumber": 22,
       "chapterId": "chapter_08",
-      "questionPreamble": "বৃত্তের ক্ষেত্রে-\\n$i.$ যে কোনো সরলরেখা একটি বৃত্তকে দুইয়ের অধিক বিন্দুতে ছেদ করতে পারে না\\n$ii.$বৃত্তের সমান সমান জ্যা কেন্দ্র হতে সমদূরবর্তী\\n$iii.$ বৃত্তের ব্যাসই বৃহত্তম জ্যা",
+      "questionPreamble": "বৃত্তের ক্ষেত্রে$-$\\n$i.$ যে কোনো সরলরেখা একটি বৃত্তকে দুইয়ের অধিক বিন্দুতে ছেদ করতে পারে না\\n$ii.$বৃত্তের সমান সমান জ্যা কেন্দ্র হতে সমদূরবর্তী\\n$iii.$ বৃত্তের ব্যাসই বৃহত্তম জ্যা",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -518,10 +518,10 @@
       "questionPreamble": null,
       "question": "$2x + 3y = 2$ সমীকরণের $x = -2$ হলে প্রাপ্ত বিন্দুটি কোন চতুর্ভাগে?",
       "options": [
-        "$1$ম",
-        "$2$য়",
-        "$3$য়",
-        "$4$র্থ"
+        "১ম",
+        "২য়",
+        "৩য়",
+        "৪র্থ"
       ],
       "correctOption": 1,
       "explanation": "",
