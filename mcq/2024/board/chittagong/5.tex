@@ -1,0 +1,25 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{array}
+\usepackage{fontspec}
+
+% Define the Bengali font. 
+\newfontfamily\bengalifont[Script=Bengali]{Noto Serif Bengali}
+
+% Create a helper command for Bengali text
+\newcommand{\bn}[1]{{\bengalifont #1}}
+
+\begin{document}
+
+% Note: We removed \begin{table} because 'standalone' crops 
+% automatically and doesn't support floating environments well.
+
+\renewcommand{\arraystretch}{1.3} 
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \bn{শ্রেণি}   & 31--40 & 41--50 & 51--60 & 61--70 & 71--80 \\ 
+    \hline
+    \bn{গণসংখ্যা} & 5      & 8      & 12     & 9      & 6      \\ 
+    \hline
+\end{tabular}
+
+\end{document}

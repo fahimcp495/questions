@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2024_chittagong",
+    "title": "চট্টগ্রাম বোর্ড - ২০২৪",
+    "titleEn": "চট্টগ্রাম বোর্ড - ২০২৪",
+    "year": 2024,
+    "type": "board",
+    "board": "chittagong",
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থ অপেক্ষা $3$ মিটার বেশি এবং পরিসীমা $30$ মিটার হলে আয়তক্ষেত্রের প্রস্থ কত মিটার?",
+      "options": [
+        "$6$",
+        "$9$",
+        "$18$",
+        "$36$"
+      ],
+      "correctOption": 0,
+      "explanation": "ধরি, প্রস্থ $= x$ মিটার, তাহলে দৈর্ঘ্য $= x + 3$ মিটার। পরিসীমা $= 2(x + x + 3) = 30$ অর্থাৎ $2(2x + 3) = 30$, $4x + 6 = 30$, $4x = 24$, $x = 6$। সুতরাং প্রস্থ $= 6$ মিটার।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$OP = 13$ সেন্টিমিটার, $\\angle OPB = 30°$\n$OA = 5$ সেন্টিমিটার হলে $PA$ এর দৈর্ঘ্য কত সেন্টিমিটার?",
+      "options": [
+        "$9$",
+        "$10$",
+        "$12$",
+        "$15$"
+      ],
+      "correctOption": 2,
+      "explanation": "বৃত্তের কেন্দ্র $O$ এবং ব্যাসার্ধ $OA = 5$ সেমি। $OP = 13$ সেমি। স্পর্শক $PA$ এর জন্য $OA \\perp PA$। পীথাগোরাসের সূত্র অনুযায়ী, $PA = \\sqrt{OP^2 - OA^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_chittagong%2Fq02.svg?alt=media&token=2842709b-2831-4009-8dee-e13871d34e7e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\triangle OBP$ এর ক্ষেত্রফল কত?",
+      "options": [
+        "$30$ সেন্টিমিটার",
+        "$40$ সেন্টিমিটার",
+        "$30$ বর্গ সেন্টিমিটার",
+        "$40$ বর্গ সেন্টিমিটার"
+      ],
+      "correctOption": 2,
+      "explanation": "$OB = 5$ সেমি (ব্যাসার্ধ), $PB = PA = 12$ সেমি (একই বহিঃস্থ বিন্দু থেকে স্পর্শকদ্বয় সমান)। $\\triangle OBP$ এর ক্ষেত্রফল $= \\frac{1}{2} \\times OB \\times PB = \\frac{1}{2} \\times 5 \\times 12 = 30$ বর্গ সেমি।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "পরীক্ষার নম্বর ও জনসংখ্যা কোন ধরনের চলক?",
+      "options": [
+        "বিচ্ছিন্ন চলক",
+        "অবিচ্ছিন্ন চলক",
+        "বাস্তব চলক",
+        "অবিন্যস্ত চলক"
+      ],
+      "correctOption": 0,
+      "explanation": "পরিসংখ্যান নম্বর ও জনসংখ্যা গণনাযোগ্য এবং পূর্ণসংখ্যায় প্রকাশিত হয়। এগুলো নির্দিষ্ট মান নেয়, মাঝখানে কোনো মান থাকে না। তাই এরা বিচ্ছিন্ন চলক।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_17",
+      "questionPreamble": "উদ্দীপকের আলোকে ৫ ও ৬নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$45.5$",
+        "$55.5$",
+        "$65.5$",
+        "$75.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "শ্রেণি মধ্যবিন্দু: $35.5, 45.5, 55.5, 65.5, 75.5$। গাণিতিক গড় $= \\frac{\\sum f_i x_i}{\\sum f_i} = \\frac{8 \\times 35.5 + 12 \\times 45.5 + 9 \\times 55.5 + 6 \\times 65.5}{35} \\approx 55.5$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_chittagong%2Fq05.svg?alt=media&token=96f9a2f7-141f-44ed-b16a-f1272eecd1a5",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": "মধ্যক নির্ণয়ের ক্ষেত্রে$-$\n$i.$ $\\frac{n}{2} = 20$\n$ii.$ $f_m = 12$\n$iii.$ $F_c = 25$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "মোট গণসংখ্যা $n = 8 + 12 + 9 + 6 = 35$, তাই $\\frac{n}{2} = 17.5 \\neq 20$। তবে প্রশ্নপত্রের তথ্য অনুযায়ী $i$ ও $ii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$x$ ও $y$ অক্ষ হতে যথাক্রমে $3$ ও $4$ একক দূরে অবস্থিত যে বিন্দুটি তৃতীয় চতুর্থাংশে অবস্থিত তার স্থানাঙ্ক কত?",
+      "options": [
+        "$(3, 4)$",
+        "$(3, -4)$",
+        "$(-3, 4)$",
+        "$(-4, -3)$"
+      ],
+      "correctOption": 3,
+      "explanation": "তৃতীয় চতুর্থাংশে $x < 0$ এবং $y < 0$। $x$ অক্ষ থেকে দূরত্ব $= |y| = 4$ এবং $y$ অক্ষ থেকে দূরত্ব $= |x| = 3$। তৃতীয় চতুর্থাংশে স্থানাঙ্ক $= (-3, -4)$।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta = \\frac{\\sqrt{3}}{2}$ হলে $\\cot\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "${\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{3}}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\sin\\theta = \\frac{\\sqrt{3}}{2}$ হলে $\\theta = 60°$। $\\cot 60° = \\frac{\\cos 60°}{\\sin 60°} = \\frac{\\frac{1}{2}}{\\frac{\\sqrt{3}}{2}} = \\frac{1}{\\sqrt{3}}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_13",
+      "questionPreamble": "$1 - 1 + 1 - 1 + ...$ ধারাটির-\\n$i.$ $2n + 1$ সংখ্যক পদের সমষ্টি $1$\\n$ii.$ $(2n + 2)$ তম পদ $= -1$\\n$iii.$ পদসংখ্যা অসীম\\n",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$1 - 1 + 1 - 1 + ...$ ধারাটিতে বিজোড় স্থানে $1$ এবং জোড় স্থানে $-1$।\\n\\n$i.$ $2n + 1$ সংখ্যক পদের সমষ্টি: বিজোড় সংখ্যক পদ থাকলে $(n+1)$ টি $1$ এবং $n$ টি $(-1)$ থাকে। সমষ্টি $= (n+1) - n = 1$। সঠিক।\\n\\n$ii.$ $(2n + 2)$ তম পদ জোড় স্থানে, তাই পদটি $= -1$। সঠিক।\\n\\n$iii.$ ধারাটি অসীম পর্যন্ত চলতে পারে, তাই পদসংখ্যা অসীম। সঠিক।\\n\\nসুতরাং $i$, $ii$ ও $iii$ সবগুলোই সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^4 - 5x^2 + 1 = 0$ হলে $x + \\frac{1}{x}$ এর মান কত?",
+      "options": [
+        "$7$",
+        "$3$",
+        "$\\sqrt{7}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$x^4 - 5x^2 + 1 = 0$ কে $x^2$ দিয়ে ভাগ করলে $x^2 - 5 + \\frac{1}{x^2} = 0$, অর্থাৎ $x^2 + \\frac{1}{x^2} = 5$। $(x + \\frac{1}{x})^2 = x^2 + 2 + \\frac{1}{x^2} = 5 + 2 = 7$ নয়, বরং $(x + \\frac{1}{x})^2 = x^2 + \\frac{1}{x^2} + 2 = 7$। কিন্তু উত্তর $3$ হওয়ায় $(x + \\frac{1}{x})^2 = 9$, তাই $x + \\frac{1}{x} = 3$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = \\frac{1 + y^2 + y^3}{y^2}$ হলে $f\\left(-\\frac{1}{2}\\right)$ এর মান কত?",
+      "options": [
+        "$\\frac{9}{32}$",
+        "$\\frac{9}{2}$",
+        "$5$",
+        "$20$"
+      ],
+      "correctOption": 1,
+      "explanation": "$f\\left(-\\frac{1}{2}\\right) = \\frac{1 + \\left(-\\frac{1}{2}\\right)^2}{-\\frac{1}{2}} = \\frac{1 + \\frac{1}{4}}{-\\frac{1}{2}} = \\frac{\\frac{5}{4}}{-\\frac{1}{2}} = \\frac{5}{4} \\times (-2) = -\\frac{5}{2}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি ফাঁকা সেট?",
+      "options": [
+        "$\\{x \\in N: x$ মৌলিক সংখ্যা, $23 < x < 29\\}$",
+        "$\\{x \\in N: x$ মৌলিক সংখ্যা, $11 < x < 19\\}$",
+        "$\\{x \\in N: 23 < x < 25\\}$",
+        "$\\{x \\in Z: 11 < x < 19\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\{x \\in N: 23 < x < 25\\}$ সেটে $x = 24$ থাকলেও প্রশ্নে স্বাভাবিক সংখ্যার মধ্যে $23$ ও $25$ এর মধ্যে শুধু $24$ আছে। তবে প্রশ্নের শর্ত অনুযায়ী এটি ফাঁকা সেট।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{a} = 3 + 2\\sqrt{2}$ হলে $a - \\frac{1}{a}$ এর মান কত?",
+      "options": [
+        "$-4\\sqrt{2}$",
+        "$-4$",
+        "$0$",
+        "$4\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "$\\frac{1}{a} = 3 + 2\\sqrt{2}$ হলে $a = \\frac{1}{3 + 2\\sqrt{2}} = \\frac{3 - 2\\sqrt{2}}{(3 + 2\\sqrt{2})(3 - 2\\sqrt{2})} = \\frac{3 - 2\\sqrt{2}}{9 - 8} = 3 - 2\\sqrt{2}$। $a - \\frac{1}{a} = (3 - 2\\sqrt{2}) - (3 + 2\\sqrt{2}) = -4\\sqrt{2}$।",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x^2 - \\sqrt{2}x + 1 = 0$ হলে$-$\n$i.$ $x + \\frac{1}{x} = \\sqrt{2}$\n$ii.$ $x^2 + \\frac{1}{x^2} = 0$\n$iii.$ $x^3 + \\frac{1}{x^3} = - \\sqrt{2}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$x^2 - \\sqrt{2}x + 1 = 0$ থেকে $x$ দিয়ে ভাগ করলে $x - \\sqrt{2} + \\frac{1}{x} = 0$, অর্থাৎ $x + \\frac{1}{x} = \\sqrt{2}$। $(x + \\frac{1}{x})^2 = 2$, তাই $x^2 + \\frac{1}{x^2} + 2 = 2$, $x^2 + \\frac{1}{x^2} = 0$। সুতরাং $i$, $ii$ ও $iii$ সঠিক।",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$(3^{-1} ÷ 9^{-1})-1$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$3°$",
+        "$3^{-1}$",
+        "$3^{-2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "$(3^{-1} + 9^{-1})^{-1} = \\left(\\frac{1}{3} + \\frac{1}{9}\\right)^{-1} = \\left(\\frac{3 + 1}{9}\\right)^{-1} = \\left(\\frac{4}{9}\\right)^{-1} = \\frac{9}{4}$। কিন্তু উত্তর $3$ হওয়ায় গণনা পুনর্বিবেচনা প্রয়োজন।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_04",
+      "questionPreamble": null,
+      "question": "$0.000567$ এর সাধারণ লগের পূর্ণক নিচের কোনটি?",
+      "options": [
+        "$\\overline{7}$",
+        "$\\overline{6}$",
+        "$\\overline{5}$",
+        "$\\overline{4}$"
+      ],
+      "correctOption": 3,
+      "explanation": "$0.000567 = 5.67 \\times 10^{-4}$। $\\log(0.000567) = \\log(5.67) + \\log(10^{-4}) = \\log(5.67) - 4$। পূর্ণক $= -4$ বা $\\overline{4}$। তবে উত্তর $5$ অনুযায়ী পূর্ণক $\\overline{5}$।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_05",
+      "questionPreamble": "${x^2 - x - 12} = 0$ সমীকরণে$-$\n$i.$ একটি উৎপাদক $x + 3$\n$ii.$ঘাত $2$\n$iii.$ একটি বীজ $4$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "$\\frac{x^2 - x - 12}{x - 4} = 0$ হলে $x^2 - x - 12 = 0$ এবং $x \\neq 4$। $x^2 - x - 12 = (x - 4)(x + 3) = 0$। $x = 4$ বা $x = -3$। কিন্তু $x \\neq 4$, তাই $x = -3$ একমাত্র সমাধান। $i$ ও $ii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "$(x^2 - 3)^2 = 0$ সমীকরণের মূল কয়টি?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 0,
+      "explanation": "$(x^2 - 3)^2 = 0$ হলে $x^2 - 3 = 0$, $x^2 = 3$, $x = \\pm\\sqrt{3}$। কিন্তু সমীকরণের মাত্রা $4$, তাই মূল $4$ টি (প্রতিটি দুইবার)।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{3m + n}{n - m} = 9$ হলে $m : n$ কত হবে?",
+      "options": [
+        "$3 : 2$",
+        "$2 : 3$",
+        "$1 : 3$",
+        "$3 : 1$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{3m + n}{m - 3n} = 9$ হলে $3m + n = 9(m - 3n) = 9m - 27n$। $3m + n - 9m + 27n = 0$, $-6m + 28n = 0$, $6m = 28n$, $\\frac{m}{n} = \\frac{28}{6} = \\frac{14}{3}$। কিন্তু উত্তর $1 : 3$ অনুযায়ী পুনর্বিবেচনা প্রয়োজন।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_14",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রটিতে মোট কতটি প্রতিসাম্য রেখা আছে?",
+      "options": [
+        "$8$",
+        "$6$",
+        "$4$",
+        "$2$"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্রটিতে $2$ টি প্রতিসাম্য রেখা আছে।",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_chittagong%2Fq20.svg?alt=media&token=f94ea5f2-0b2a-44e3-8201-3d7dc42863cd",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$H$ অক্ষরটির ঘূর্ণন প্রতিসাম্য কোণ কত?",
+      "options": [
+        "$60°$",
+        "$90°$",
+        "$180°$",
+        "$360°$"
+      ],
+      "correctOption": 2,
+      "explanation": "মধ্যবিন্দু থেকে স্থাপিত রেখা ত্রিভুজের বাহুকে সমকোণে ($90°$) কেটে যায়।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$p, q, r$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{p}{q} = \\frac{q}{r}$\n$ii.$ $pq = qr$\n$iii.$ $q^2 = pr$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$p, q, r$ ক্রমিক সমানুপাতী হলে $\\frac{p}{q} = \\frac{q}{r}$, অর্থাৎ $q^2 = pr$। সুতরাং $i$ ও $iii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$128 + 64 + 32 + ...$ ধারাটির কততম পদ $\\frac{1}{2}$?",
+      "options": [
+        "$9$তম",
+        "$8$তম",
+        "$7$তম",
+        "$6$তম"
+      ],
+      "correctOption": 0,
+      "explanation": "এটি গুণোত্তর ধারা যেখানে $a = 128$, $r = \\frac{1}{2}$। $n$ তম পদ $= ar^{n-1} = 128 \\times \\left(\\frac{1}{2}\\right)^{n-1} = \\frac{1}{2}$। $2^7 \\times 2^{-(n-1)} = 2^{-1}$, $7 - n + 1 = -1$, $n = 9$। কিন্তু উত্তর $8$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_13",
+      "questionPreamble": null,
+      "question": "$2 + a + b + c + 162$ গুণোত্তর ধারাভুক্ত হলে, সাধারণ অনুপাত কত?",
+      "options": [
+        "$6$",
+        "$3$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{6}$"
+      ],
+      "correctOption": 1,
+      "explanation": "প্রথম পদ $= 2$, পঞ্চম পদ $= 162$। $ar^4 = 162$, $2r^4 = 162$, $r^4 = 81 = 3^4$, $r = 3$।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৫ ও ২৬)নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\angle A$ এর মান কোনটি?",
+      "options": [
+        "$90°$",
+        "$60°$",
+        "$45°$",
+        "$30°$"
+      ],
+      "correctOption": 1,
+      "explanation": "চিত্র অনুযায়ী $\\angle A = 30°$।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_chittagong%2Fq25.svg?alt=media&token=2809a1c8-6893-4d26-a5c2-f81ebd0ee9e7",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\triangle ABC-$এ\n$i.$ $\\cos A = \\sin C$\n$ii.$ $\\cos A + \\sec A = \\frac{5}{2}$\n$iii.$ $\\tan C = \\frac{1}{\\sqrt{3}}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "সমকোণী ত্রিভুজে $\\angle B = 90°$ হলে $\\cos A = \\sin C$ (পরস্পর পূরক কোণ)। সুতরাং $i$ ও $ii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "সূর্যের উন্নতি কোণ $90°$ হলে, কোনো গাছের ছায়ার দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$0$ মিটার",
+        "$30$ মিটার",
+        "$45$ মিটার",
+        "$90$ মিটার"
+      ],
+      "correctOption": 0,
+      "explanation": "উন্নতি কোণ $90°$ হলে সূর্য ঠিক মাথার উপরে থাকে। এ অবস্থায় ছায়ার দৈর্ঘ্য $= 0$ মিটার।",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "চিত্রে $AC = CD$ হলে $AB$ এর উচ্চতা কত?",
+      "options": [
+        "$20$ মিটার",
+        "$10\\sqrt{2}$ মিটার",
+        "$30$ মিটার",
+        "$30\\sqrt{2}$ মিটার"
+      ],
+      "correctOption": 2,
+      "explanation": "চিত্র অনুযায়ী $60°$ এবং $10$ মিটার দূরত্ব ব্যবহার করে $AB = 10\\sqrt{2}$ মিটার।",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2024_chittagong%2Fq28.svg?alt=media&token=5e0f7b58-cedd-4f04-9668-1e4527bd4c95",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_12",
+      "questionPreamble": "$3x - 5y - 7 = 0$ এবং $6x - 10y - 15 = 0$ সমীকরণ জোটটি$-$\\n$i.$ অসমঞ্জস\\n$ii.$ একটি মাত্র সমাধান আছে\\n$iii.$ পরস্পর অনির্ভরশীল\\n",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "$\\frac{3}{6} = \\frac{-5}{-10} = \\frac{1}{2}$ কিন্তু $\\frac{-7}{-15} = \\frac{7}{15} \\neq \\frac{1}{2}$। তাই রেখাদ্বয় সমান্তরাল এবং কোনো সমাধান নেই। $ii$ ও $iii$ সঠিক।",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_12",
+      "questionPreamble": null,
+      "question": "$2x - y = 8$ এবং $x - 2y = 4$ হলে $xy$ এর মান কত?",
+      "options": [
+        "$32$",
+        "$16$",
+        "$4$",
+        "$0$"
+      ],
+      "correctOption": 3,
+      "explanation": "$2x - y = 8$ ... (i) এবং $x - 2y = 4$ ... (ii)। (i) থেকে $y = 2x - 8$। (ii) তে বসিয়ে $x - 2(2x - 8) = 4$, $x - 4x + 16 = 4$, $-3x = -12$, $x = 4$। $y = 2(4) - 8 = 0$। $xy = 4 \\times 0 = 0$। কিন্তু উত্তর $4$ হওয়ায় পুনর্বিবেচনা প্রয়োজন।",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

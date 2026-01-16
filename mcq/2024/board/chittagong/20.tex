@@ -1,0 +1,22 @@
+\begin{tikzpicture}
+    % Define the dimensions
+    \def\barwidth{0.8cm}
+    \def\barlength{3.2cm}
+    \def\radius{0.4cm} % Must be half of barwidth for round ends
+
+    % Style settings
+    \tikzset{
+        capsule/.style={
+            draw=black,
+            thick,
+            rounded corners=\radius
+        }
+    }
+
+    % Horizontal Capsule
+    \draw[capsule] (-\barlength/2, -\barwidth/2) rectangle (\barlength/2, \barwidth/2);
+
+    % Vertical Capsule
+    \draw[capsule] (-\barwidth/2, -\barlength/2) rectangle (\barwidth/2, \barlength/2);
+
+\end{tikzpicture}
