@@ -16,7 +16,7 @@
       "questionNumber": 1,
       "chapterId": "chapter_03",
       "questionPreamble": null,
-      "question": "$b$,$a$,$c$ ক্রমিক সমানুপতী হলে$-$\n$i.$ $a^2 = bc$\n$ii.$ $\\frac{b}{c} = \\frac{c}{a}$\n$iii.$ $\\frac{a + b}{a - b} = \\frac{c + a}{c - a}$\n\nনিচের কোনটি সঠিক?",
+      "question": "$b$,$a$,$c$ ক্রমিক সমানুপতী হলে$-$\n$i.$  $a^2 = bc$\n$ii.$  $\\frac{b}{c} = \\frac{c}{a}$\n$iii.$  $\\frac{a + b}{a - b} = \\frac{c + a}{c - a}$\n\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$ii$ ও $iii$",
@@ -35,7 +35,7 @@
     {
       "questionNumber": 2,
       "chapterId": "chapter_06",
-      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২ ও ৩নং প্রশ্নের উত্তর দাও:",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২ ও ৩ নং প্রশ্নের উত্তর দাও $:$",
       "question": "$AC$ এর দৈর্ঘ্য কত?",
       "options": [
         "$9$ মিটার",
@@ -55,7 +55,7 @@
     {
       "questionNumber": 3,
       "chapterId": "chapter_06",
-      "questionPreamble": null,
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২ ও ৩ নং প্রশ্নের উত্তর দাও $:$",
       "question": "$AD$ এর দৈর্ঘ্য কত মিটার?",
       "options": [
         "$36\\sqrt{3}$",
@@ -66,9 +66,9 @@
       "correctOption": 0,
       "explanation": "ত্রিভুজের সমরূপতা বা ত্রিকোণমিতি ব্যবহার করে AD = 12 মিটার পাওয়া যায়।",
       "difficulty": "medium",
-      "imageUrl": null,
+      "imageUrl": "https://i.imgur.com/Yn2Xkf1.png",
       "imageCaption": null,
-      "imagePosition": "belowQuestion",
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
@@ -156,7 +156,7 @@
       "questionNumber": 8,
       "chapterId": "chapter_08",
       "questionPreamble": null,
-      "question": "$PQR$ সমবাহু ত্রিভুজে $\\angle Q = 1$ সমকোণ এবং $\\angle P = 2\\angle R$ হলে নিচের কোনটি সঠিক?",
+      "question": "$PQR$ সমকোণী ত্রিভুজের $\\angle Q = 1$ সমকোণ এবং $\\angle P = 2\\angle R$ হলে নিচের কোনটি সঠিক?",
       "options": [
         "$PR = 2QR$",
         "$PQ = 2PR$",
@@ -176,7 +176,7 @@
       "questionNumber": 9,
       "chapterId": "chapter_02",
       "questionPreamble": null,
-      "question": "$A = \\{6, 7, 8, 9, 11, 12, 13\\}$, $B = \\{x : x \\in A$ এবং $x, 3$ এর গুণিতক$\\}$ হলে B সেট নিচের কোনটি?",
+      "question": "$A = \\{6, 7, 8, 9, 11, 12, 13\\}$, $B = \\{x : x \\in A$ এবং $x, 3$ এর গুণিতক$\\}$ হলে, $B$ সেট নিচের কোনটি?",
       "options": [
         "$\\{6, 9\\}$",
         "$\\{6, 12\\}$",
@@ -195,7 +195,7 @@
     {
       "questionNumber": 10,
       "chapterId": "chapter_13",
-      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১০ এবং ১১নং প্রশ্নের উত্তর দাও :",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১০ ও ১১ নং প্রশ্নের উত্তর দাও :",
       "question": "মধ্যক শ্রেণির গণসংখ্যা কত?",
       "options": [
         "$10$",
@@ -206,16 +206,16 @@
       "correctOption": 0,
       "explanation": "গণসংখ্যা বিন্যাস থেকে মধ্যক শ্রেণি নির্ণয় করলে 51-60 পাওয়া যায়।",
       "difficulty": "medium",
-      "imageUrl": null,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq10.svg?alt=media&token=8bfa470b-af92-46cf-855a-39f454fa7119",
       "imageCaption": null,
-      "imagePosition": "belowQuestion",
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
     {
       "questionNumber": 11,
       "chapterId": "chapter_17",
-      "questionPreamble": null,
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ১০ ও ১১ নং প্রশ্নের উত্তর দাও :",
       "question": "প্রচুরক কত?",
       "options": [
         "$64.33$",
@@ -226,9 +226,9 @@
       "correctOption": 1,
       "explanation": "প্রদত্ত তথ্য থেকে গড় = $\\frac{\\sum fx}{\\sum f}$ = 57.67।",
       "difficulty": "medium",
-      "imageUrl": null,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq11.svg?alt=media&token=9ffc76b9-40ac-4346-af18-5075d281bd4c",
       "imageCaption": null,
-      "imagePosition": "belowQuestion",
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
@@ -236,7 +236,7 @@
       "questionNumber": 12,
       "chapterId": "chapter_08",
       "questionPreamble": null,
-      "question": "কোনো উপাত্তের পরিসর $67$ এবং সর্বোচ্চ মান $85$ হলে সর্বনিম্ন মান কত?",
+      "question": "কোনো উপাত্তের পরিসর $67$ এবং সর্বোচ্চ মান $85$ হলে, সর্বনিম্ন মান কত?",
       "options": [
         "$17$",
         "$18$",
@@ -276,7 +276,7 @@
       "questionNumber": 14,
       "chapterId": "chapter_04",
       "questionPreamble": null,
-      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ-",
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ$-$",
       "options": [
         "পূরককোণ",
         "সমকোণ",
@@ -336,7 +336,7 @@
       "questionNumber": 17,
       "chapterId": "chapter_13",
       "questionPreamble": null,
-      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের $-$",
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের$-$",
       "options": [
         "অর্ধেক",
         "সমান",
@@ -376,7 +376,7 @@
       "questionNumber": 19,
       "chapterId": "chapter_03",
       "questionPreamble": null,
-      "question": "$64 + 32 + 16 + 8 + \\dots$ ধারার অষ্টম পদ কত?",
+      "question": "$64 + 32 + 16 + 8 \\dots$ ধারার অষ্টম পদ কত?",
       "options": [
         "$\\frac{1}{4}$",
         "$\\frac{1}{2}$",
@@ -395,7 +395,7 @@
     {
       "questionNumber": 20,
       "chapterId": "chapter_06",
-      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
       "question": "$x + \\frac{1}{x} = $ কত?",
       "options": [
         "$-3$",
@@ -415,7 +415,7 @@
     {
       "questionNumber": 21,
       "chapterId": "chapter_06",
-      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
+      "questionPreamble": "নিচের তথ্যের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও :\n$x^2 = \\sqrt{5}x  - 1$",
       "question": "$x3 + \\frac{1}{x^3}$ এর মান নিচের কোনটি?",
       "options": [
         "$0$",
@@ -456,7 +456,7 @@
       "questionNumber": 23,
       "chapterId": "chapter_16",
       "questionPreamble": null,
-      "question": "চিত্রে $\\theta$ এর মান কত?",
+      "question": "চিত্রে, $\\theta$ এর মান কত?",
       "options": [
         "$90^{\\circ}$",
         "$60^{\\circ}$",
@@ -468,7 +468,7 @@
       "difficulty": "medium",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq23.svg?alt=media&token=9e5cc6ea-ee39-4c6f-baf0-f9b819d144a5",
       "imageCaption": null,
-      "imagePosition": "belowQuestion",
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
@@ -596,7 +596,7 @@
       "questionNumber": 30,
       "chapterId": "chapter_16",
       "questionPreamble": null,
-      "question": "চিত্রের আয়তক্ষেত্রের দাগাঙ্কিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "question": "চিত্রে,আয়তক্ষেত্রের দাগাঙ্কিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
       "options": [
         "$28.27$",
         "$31.73$",
@@ -608,7 +608,7 @@
       "difficulty": "medium",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_comilla%2Fq30.svg?alt=media&token=c2e996af-bd3c-4178-b0f4-e09c28d5c007",
       "imageCaption": null,
-      "imagePosition": "belowQuestion",
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     }

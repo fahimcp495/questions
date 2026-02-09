@@ -55,7 +55,7 @@
     {
       "questionNumber": 3,
       "chapterId": "chapter_14",
-      "questionPreamble": "একটি রম্বসের—\\ni. প্রতিসাম্য রেখা ২টি\\nii. ঘূর্ণনকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু\\niii. ঘূর্ণন প্রতিসমতার কোণ $90^{\\circ}$",
+      "questionPreamble": "একটি রম্বসের—\n$i$.  প্রতিসাম্য রেখা ২টি\n$ii$.  ঘূর্ণনকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু\n$iii$.  ঘূর্ণন প্রতিসমতার কোণ $90^{\\circ}$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -76,7 +76,7 @@
       "questionNumber": 4,
       "chapterId": "chapter_09",
       "questionPreamble": null,
-      "question": "$\\sin 3A = \\text{cosec} 3A$ হলে $A$-এর মান কত?",
+      "question": "$\\sin 3A = \\text{cosec} 3A$ হলে, $A$-এর মান কত?",
       "options": [
         "$10^{\\circ}$",
         "$15^{\\circ}$",
@@ -96,7 +96,7 @@
       "questionNumber": 5,
       "chapterId": "chapter_06",
       "questionPreamble": null,
-      "question": "$\\Delta ABC$-এ $AC=BC$ এবং $\\angle A = 25^{\\circ}$ হলে $\\angle ACB =$ কত?",
+      "question": "$\\Delta ABC$-এ $AC=BC$ এবং $\\angle A = 25^{\\circ}$ হলে, $\\angle ACB =$ কত?",
       "options": [
         "$25^{\\circ}$",
         "$50^{\\circ}$",
@@ -107,7 +107,7 @@
       "explanation": "যেহেতু $AC=BC$, তাই $\\angle B = \\angle A = 25^{\\circ}$।\nআমরা জানি, ত্রিভুজের তিন কোণের সমষ্টি $180^{\\circ}$।\n$\\therefore \\angle ACB = 180^{\\circ} - (25^{\\circ} + 25^{\\circ}) = 180^{\\circ} - 50^{\\circ} = 130^{\\circ}$।",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -115,7 +115,7 @@
     {
       "questionNumber": 6,
       "chapterId": "chapter_04",
-      "questionPreamble": "$a^x = b^y$ এর ক্ষেত্রে—\\ni. $\\log_a b^{\\frac{y}{x}} = 1$\\nii. $\\log_a b = \\frac{x}{y}$\\niii. $\\log_a b = \\frac{y}{x}$",
+      "questionPreamble": "$a^x = b^y$ এর ক্ষেত্রে—\n$i$.  $\\log_a b^{\\frac{y}{x}} = 1$\n$ii$.  $\\log_a b = \\frac{x}{y}$\n$iii$ . $\\log_a b = \\frac{y}{x}$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -135,7 +135,7 @@
     {
       "questionNumber": 7,
       "chapterId": "chapter_09",
-      "questionPreamble": "নিচের উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও:\\n$\\sin A = \\frac{1}{x}$ এবং $\\cos B = \\frac{1}{y}$",
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ৭ ও ৮ নং প্রশ্নের উত্তর দাও $:$\\n$\\sin A = \\frac{1}{x}$ এবং $\\cos B = \\frac{1}{y}$",
       "question": "$\\cot A$ এর মান নিচের কোনটি?",
       "options": [
         "$\\sqrt{x-1}$",
@@ -156,7 +156,7 @@
       "questionNumber": 8,
       "chapterId": "chapter_09",
       "questionPreamble": null,
-      "question": "$y=\\sqrt{2}$ হলে $\\text{cosec}^2 B - \\cos^2 B$ এর মান কোনটি?",
+      "question": "$y=\\sqrt{2}$ হলে, $\\text{cosec}^2 B - \\cos^2 B$ এর মান কোনটি?",
       "options": [
         "$\\frac{-3}{2}$",
         "$\\frac{-1}{2}$",
@@ -216,7 +216,7 @@
       "questionNumber": 11,
       "chapterId": "chapter_11",
       "questionPreamble": null,
-      "question": "$\\frac{2a}{y} = \\frac{m^2+n^2}{mn}$ হলে $\\frac{\\sqrt{a-y}}{\\sqrt{a+y}} = ?$",
+      "question": "$\\frac{2a}{y} = \\frac{m^2+n^2}{mn}$ হলে, $\\frac{\\sqrt{a-y}}{\\sqrt{a+y}} = ?$",
       "options": [
         "$\\frac{m-n}{m+n}$",
         "$\\frac{m+n}{m-n}$",
@@ -227,7 +227,7 @@
       "explanation": "যোজন-বিয়োজন প্রক্রিয়ার মাধ্যমে সমাধান করলে পাওয়া যায় $\\frac{y}{a} = \\frac{2mn}{m^2+n^2}$। এরপর $\\frac{a-y}{a+y}$ বের করে বর্গমূল করলে $\\frac{m-n}{m+n}$ পাওয়া যায়।",
       "difficulty": "hard",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -236,7 +236,7 @@
       "questionNumber": 12,
       "chapterId": "chapter_10",
       "questionPreamble": null,
-      "question": "একটি দালান হতে $9\\sqrt{3}$ মিটার দূরে দালানের শীর্ষের অবনতি কোণ $30^{\\circ}$ হলে দালানের উচ্চতা কত মিটার?",
+      "question": "একটি দালান হতে $9\\sqrt{3}$ মিটার দূরে দালানের শীর্ষের অবনতি কোণ $30^{\\circ}$ হলে, দালানের উচ্চতা কত মিটার?",
       "options": [
         "$3\\sqrt{3}$",
         "$9$",
@@ -275,7 +275,7 @@
     {
       "questionNumber": 14,
       "chapterId": "chapter_16",
-      "questionPreamble": "অন্তর্লিখিত চতুর্ভুজটি একটি বর্গ হলে—\\ni. কর্ণের দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\\nii. বাহুর দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\\niii. ক্ষেত্রফল $121$ বর্গ সে.মি.",
+      "questionPreamble": "অন্তর্লিখিত চতুর্ভুজটি একটি বর্গ হলে—\n$i$.  কর্ণের দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\n$ii$.  বাহুর দৈর্ঘ্য $11\\sqrt{2}$ সে.মি.\n$iii$.  ক্ষেত্রফল $121$ বর্গ সে.মি.",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -335,7 +335,7 @@
     {
       "questionNumber": 17,
       "chapterId": "chapter_13",
-      "questionPreamble": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :\\nপ্রথম $n$ সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি $441$।",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :\\nপ্রথম $n$ সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি $441$ ।",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$(1+2+3+\\dots+n)^2=441$",
@@ -415,7 +415,7 @@
     {
       "questionNumber": 21,
       "chapterId": "chapter_17",
-      "questionPreamble": null,
+      "questionPreamble": "নিচের উদ্দীপকের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও :\\n$8, 15, 4, 6, 0, 4, 10, 9$",
       "question": "উপাত্তগুলোর গড় কত?",
       "options": [
         "$7$",
@@ -496,7 +496,7 @@
       "questionNumber": 25,
       "chapterId": "chapter_12",
       "questionPreamble": null,
-      "question": "$(x+y, 6) = (6, x-y)$ হলে $(x, y)$ নিচের কোনটি?",
+      "question": "$(x+y, 6) = (6, x-y)$ হলে, $(x, y)$ নিচের কোনটি?",
       "options": [
         "$(3, 3)$",
         "$(0, 6)$",
@@ -507,7 +507,7 @@
       "explanation": "ক্রমজোড়ের শর্তমতে: $x+y=6$ এবং $x-y=6$।\nযোগ করলে $2x=12 \\Rightarrow x=6$।\nবিয়োগ করলে $2y=0 \\Rightarrow y=0$।\nনির্ণেয় মান $(6, 0)$।",
       "difficulty": "medium",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -516,7 +516,7 @@
       "questionNumber": 26,
       "chapterId": "chapter_11",
       "questionPreamble": null,
-      "question": "$m:n = 4:5$, $n:l = 5:4$ হলে $m:l =$ কত?",
+      "question": "$m:n = 4:5$, $n:l = 5:4$ হলে, $m:l =$ কত?",
       "options": [
         "$20:25$",
         "$25:20$",
@@ -527,7 +527,7 @@
       "explanation": "$\\frac{m}{n} = \\frac{4}{5}$, $\\frac{n}{l} = \\frac{5}{4}$।\nগুণ করলে: $\\frac{m}{n} \\times \\frac{n}{l} = \\frac{4}{5} \\times \\frac{5}{4} = 1$।\n$\\therefore m:l = 1:1$ বা $20:20$।",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -536,7 +536,7 @@
       "questionNumber": 27,
       "chapterId": "chapter_03",
       "questionPreamble": null,
-      "question": "$x+y=\\sqrt{13}$ এবং $x-y=\\sqrt{5}$ হলে $2xy=$ কত?",
+      "question": "$x+y=\\sqrt{13}$ এবং $x-y=\\sqrt{5}$ হলে, $2xy=$ কত?",
       "options": [
         "$2$",
         "$4$",
@@ -547,7 +547,7 @@
       "explanation": "আমরা জানি, $4xy = (x+y)^2 - (x-y)^2$।\n$4xy = (\\sqrt{13})^2 - (\\sqrt{5})^2 = 13 - 5 = 8$।\n$\\therefore 2xy = \\frac{8}{2} = 4$।",
       "difficulty": "medium",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -563,7 +563,7 @@
         "$f(\\frac{-2}{5})$",
         "$f(\\frac{-5}{2})$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "উৎপাদক উপপাদ্য অনুযায়ী, যদি $(ax+b)$ উৎপাদক হয়, তবে $f(-\\frac{b}{a}) = 0$ হবে।\nএখানে $2x+5=0 \\Rightarrow x = -\\frac{5}{2}$। তাই $f(-\\frac{5}{2})$ শূন্য হবে।",
       "difficulty": "medium",
       "imageUrl": null,

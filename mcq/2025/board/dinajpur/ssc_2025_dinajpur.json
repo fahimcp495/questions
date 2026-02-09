@@ -75,7 +75,7 @@
     {
       "questionNumber": 4,
       "chapterId": "chapter_03",
-      "questionPreamble": "নিচের তথ্যের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও:\\n$a + b = \\sqrt{6}$ এবং $a - b = 2$",
+      "questionPreamble": "নিচের তথ্যের আলোকে ৪ ও ৫ নং প্রশ্নের উত্তর দাও $:$\\n$a + b = \\sqrt{6}$ এবং $a - b = 2$",
       "question": "$a^2 + b^2 =$ কত?",
       "options": [
         "$15$",
@@ -116,7 +116,7 @@
       "questionNumber": 6,
       "chapterId": "chapter_04",
       "questionPreamble": null,
-      "question": "$0.0124$ সংখ্যাটির$-$\n$i.$ সামান্য ভগ্নাংশ $\\frac{31}{2500}$\n$ii.$ বৈজ্ঞানিক আকার $1.24 \\times 10^{-2}$\n$iii.$ সাধারণ লগের পূর্ণক $\\bar{2}$\nনিচের কোনটি সঠিক?",
+      "question": "$0.0124$ সংখ্যাটির$-$\n$i.$  সামান্য ভগ্নাংশ $\\frac{31}{2500}$\n$ii.$  বৈজ্ঞানিক আকার $1.24 \\times 10^{-2}$\n$iii.$  সাধারণ লগের পূর্ণক $\\bar{2}$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -195,8 +195,8 @@
     {
       "questionNumber": 10,
       "chapterId": "chapter_08",
-      "questionPreamble": "নিচের তথ্যের আলোকে ১০ ও ১১নং প্রশ্নের উত্তর দাও:\nচিত্রে $ABCD$ হলো $O$ কেন্দ্রবিশিষ্ট বৃত্তে অন্তর্লিখিত বর্গ।\\n$AC$ বৃত্তটির ব্যাস এবং $AC = 4\\sqrt{2}$ সে.মি.",
-      "question": "চিত্রানুসারে $x : y =$ কত?",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১০ ও ১১ নং প্রশ্নের উত্তর দাও $:$",
+      "question": "চিত্রে, $ABCD$ হলো $O$ কেন্দ্রবিশিষ্ট বৃত্তে অন্তর্লিখিত বর্গ ।\\n$AC$ বৃত্তটির ব্যাস এবং $AC = 4\\sqrt{2}$ সে.মি.\nচিত্রানুসারে $x : y =$ কত?",
       "options": [
         "$3 : 4$",
         "$4 : 3$",
@@ -236,7 +236,7 @@
       "questionNumber": 12,
       "chapterId": "chapter_08",
       "questionPreamble": null,
-      "question": "পরিবৃত্তের কেন্দ্র$-$\n$i.$ সূক্ষ্মকোণী ত্রিভুজের অভ্যন্তরে অবস্থিত\n$ii.$ স্থূলকোণী ত্রিভুজের বহির্ভাগে অবস্থিত\n$iii.$ সমকোণী ত্রিভুজের অতিভুজের উপর অবস্থিত\nনিচের কোনটি সঠিক?",
+      "question": "পরিবৃত্তের কেন্দ্র$-$\n$i.$  সূক্ষ্মকোণী ত্রিভুজের অভ্যন্তরে অবস্থিত\n$ii.$  স্থূলকোণী ত্রিভুজের বহির্ভাগে অবস্থিত\n$iii.$  সমকোণী ত্রিভুজের অতিভুজের উপর অবস্থিত\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -415,8 +415,8 @@
     {
       "questionNumber": 21,
       "chapterId": "chapter_09",
-      "questionPreamble": "নিচের চিত্রের আলোকে ২১ ও ২২নং প্রশ্নের উত্তর দাও:\\nচিত্রে $BC > AB$ এবং $\\triangle ABC$ এর $\\angle ABC = 90°$",
-      "question": "চিত্রানুসারে কোনটি সঠিক?",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২১ ও ২২ নং প্রশ্নের উত্তর দাও $:$",
+      "question": "\\nচিত্রে, $BC > AB$ এবং $\\triangle ABC$ এর $\\angle ABC = 90°$\nচিত্রানুসারে কোনটি সঠিক?",
       "options": [
         "$\\sin\\theta > 1$",
         "$\\cos\\theta > 1$",
@@ -435,8 +435,8 @@
     {
       "questionNumber": 22,
       "chapterId": "chapter_09",
-      "questionPreamble": null,
-      "question": "$\\cot\\theta =$ কত?",
+      "questionPreamble": "নিচের চিত্রের আলোকে ২১ ও ২২ নং প্রশ্নের উত্তর দাও $:$",
+      "question": "\\nচিত্রে, $BC > AB$ এবং $\\triangle ABC$ এর $\\angle ABC = 90°$\\n$\\cot\\theta =$ কত?",
       "options": [
         "$\\frac{BC}{AC}$",
         "$\\frac{AB}{AC}$",
@@ -446,9 +446,9 @@
       "correctOption": 2,
       "explanation": "$\\theta$ কোণটি C বিন্দুতে। $\\cot\\theta = \\frac{\\text{সংলগ্ন বাহু}}{\\text{বিপরীত বাহু}} = \\frac{BC}{AB}$।",
       "difficulty": "easy",
-      "imageUrl": "",
-      "imageCaption": "",
-      "imagePosition": "",
+      "imageUrl": "https://i.imgur.com/0ipvUeQ.png",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
@@ -456,7 +456,7 @@
       "questionNumber": 23,
       "chapterId": "chapter_12",
       "questionPreamble": null,
-      "question": "$x - 2y = 6$ এবং $x = 2$ হলে $y$ এর মান কত?",
+      "question": "$x - 2y = 6$ এবং $x = 2$ হলে, $y$ এর মান কত?",
       "options": [
         "$-6$",
         "$-2$",
@@ -467,8 +467,8 @@
       "explanation": "$x = 2$ বসিয়ে, $2 - 2y = 6$, $-2y = 4$, $y = -2$।",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
-      "imagePosition": "",
+      "imageCaption": null,
+      "imagePosition": "belowQuestion",
       "isPublished": true,
       "isExplanationPublished": false
     },
@@ -476,7 +476,7 @@
       "questionNumber": 24,
       "chapterId": "chapter_15",
       "questionPreamble": null,
-      "question": "চিত্রে $ABCD$ একটি সামান্তরিক। $\\triangle ABD$ এর ক্ষেত্রফল নিচের কোনটি?",
+      "question": "চিত্রে, $ABCD$ একটি সামান্তরিক। $\\triangle ABD$ এর ক্ষেত্রফল নিচের কোনটি?",
       "options": [
         "$\\frac{1}{2} \\square ABCD$",
         "$\\frac{1}{2} \\triangle ABC$",
