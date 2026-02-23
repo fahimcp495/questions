@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_police_lines_school_and_college_rangpur",
+    "title": "পুলিশ লাইন্স স্কুল এন্ড কলেজ, রংপুর - ২০২৫",
+    "titleEn": "পুলিশ লাইন্স স্কুল এন্ড কলেজ, রংপুর - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A$ সেটের উপাদান সংখ্যা পাঁচটি হলে, $A$ সেটের প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$31$",
+        "$32$",
+        "$16$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$2x - \\frac{1}{3x} = 2$ হলে, $3x - \\frac{1}{2x}$ এর মান কত?",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$1$",
+        "$\\frac{3}{2}$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$4a^2 + 25b^2$ এর সাথে কত যোগ করলে যোগফল পূর্ণবর্গ হবে?",
+      "options": [
+        "$200ab$",
+        "$100ab$",
+        "$-120ab$",
+        "$20ab$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "শতকরা বার্ষিক $3.50$ টাকা হার মুনাফায় $350$ টাকার $4$ বছরের মুনাফা কত টাকা?",
+      "options": [
+        "$43$",
+        "$47$",
+        "$48$",
+        "$49$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের উপচাপের অনুবন্ধী চাপে অন্তর্লিখিত কোণ নিচের কোনটি?",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ",
+        "সমকোণ",
+        "প্রবৃদ্ধকোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তস্থ সামান্তরিক একটি ........... ।",
+      "options": [
+        "বর্গক্ষেত্র",
+        "রম্বস",
+        "আয়তক্ষেত্র",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "কোনো ত্রিভুজের কয়টি বহিঃবৃত্ত আঁকা যায়?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "যদি $\\frac{x}{y} = \\frac{2}{3}$ হয়, তবে $\\frac{6x + y}{3x + 2y}$ এর মান কত?",
+      "options": [
+        "$\\frac{4}{5}$",
+        "$\\frac{14}{15}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{20}{13}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_15",
+      "questionPreamble": "",
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের কতগুণ?",
+      "options": [
+        "$\\frac{1}{4}$ গুণ",
+        "$\\frac{1}{2}$ গুণ",
+        "$2$ গুণ",
+        "$4$ গুণ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের আয়তন $24\\sqrt{3}$ ঘন সে.মি. হলে, এর কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$12$",
+        "$8$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "$i.$ বৃত্তচাপের দৈর্ঘ্য, $S = \\frac{\\theta \\times 2\\pi r}{360^{\\circ}}$\n$ii.$ বৃত্তের দৈর্ঘ্যকে পরিধি বলে\n$iii.$ বৃত্তকলার ক্ষেত্রফল, $A = \\frac{\\theta \\times \\pi r^2}{360^{\\circ}}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১২ ও ১৩) নং প্রশ্নের উত্তর দাও :",
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে $F_c$ এর মান কত?",
+      "options": [
+        "$12$",
+        "$13.5$",
+        "$15$",
+        "$19$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_police_lines_school_and_college_rangpur%2Fq12.svg?alt=media&token=325a7fd8-a958-4160-9ce7-67d3c835bb19",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১২ ও ১৩) নং প্রশ্নের উত্তর দাও :",
+      "question": "শ্রেণিব্যাপ্তিসমূহের প্রচুরক নিচের কোনটি?",
+      "options": [
+        "$262$",
+        "$73$",
+        "$67.25$",
+        "$65.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_police_lines_school_and_college_rangpur%2Fq13.svg?alt=media&token=c99c41db-0078-456e-929e-b2e535e15dcc",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$P = 9 + 4\\sqrt{5}$ হলে, $\\sqrt{P} = ?$",
+      "options": [
+        "$\\sqrt{4} + \\sqrt{6}$",
+        "$\\sqrt{5} + \\sqrt{4}$",
+        "$\\sqrt{5} - \\sqrt{4}$",
+        "$\\sqrt{3} + \\sqrt{4}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^3 + \\frac{1}{27}$ এর উৎপাদক—\n$i.$ $3a - 1$\n$ii.$ $(3a + 1)$\n$iii.$ $(9a^2 - 3a + 1)$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^3 - b^3 = 513$ এবং $a - b = 3$ হলে, $\\frac{a}{2} \\cdot \\frac{b}{2}$ কত?",
+      "options": [
+        "$54$",
+        "$27$",
+        "$13\\frac{1}{2}$",
+        "$27\\frac{1}{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan M = 1$ হলে, $\\sec 2M$ এর মান কত?",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{2}$",
+        "$2$",
+        "অসংজ্ঞায়িত"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cos^2 \\theta + 1 = \\sec^2 \\theta$ হলে, $\\frac{\\cos^2 \\theta}{1 + \\cos^2 \\theta}$ এর মান কত?",
+      "options": [
+        "$\\sin^2 \\theta$",
+        "$\\tan^2 \\theta$",
+        "$\\text{cosec}^2 \\theta$",
+        "$\\cos^2 \\theta$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\Delta ABC$ এ, $\\angle B = 1$ সমকোণ। যদি $AC = 2AB$ হয়, তবে $\\tan C$ এর মান কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$1$",
+        "অসংজ্ঞায়িত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বৃত্তের ব্যাসার্ধ $50\\%$ বৃদ্ধি করলে বৃত্তের ক্ষেত্রফল শতকরা বৃদ্ধি পাবে?",
+      "options": [
+        "$100\\%$",
+        "$125\\%$",
+        "$150\\%$",
+        "$50\\%$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সমবাহু ত্রিভুজের উচ্চতা কত একক? যখন একবাহু $a$ হয়—",
+      "options": [
+        "$\\frac{\\sqrt{3}}{4} a^2$",
+        "$\\frac{\\sqrt{3}}{2} a$",
+        "$\\frac{3}{4} a$",
+        "$\\frac{\\sqrt{2}}{2} a$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "পরীক্ষায় প্রাপ্ত GPA কোন ধরনের চলক?",
+      "options": [
+        "বিচ্ছিন্ন",
+        "অবিচ্ছিন্ন",
+        "বাস্তব",
+        "অবিন্যস্ত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$L = 61, f_1 = 4, f_2 = 3$ এবং $h = 10$ হলে, প্রচুরক নির্ণয় কর।",
+      "options": [
+        "$71.43$",
+        "$66.71$",
+        "$72.43$",
+        "$65.79$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সুষম দশভুজের একটি শীর্ষকোণের মান কত ডিগ্রি?",
+      "options": [
+        "$144^{\\circ}$",
+        "$132^{\\circ}$",
+        "$135^{\\circ}$",
+        "$108^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$(2x - 3y, 3) = (-1, x + 2y)$ হলে, $(x, y) = $ কত?",
+      "options": [
+        "$(1, 1)$",
+        "$(-1, 1)$",
+        "$(1, -1)$",
+        "$(-1, -1)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে। কোন ক্ষেত্রে ত্রিভুজ আঁকা সম্ভব নয়?",
+      "options": [
+        "$2$ cm, $3$ cm, $5$ cm",
+        "$6$ cm, $8$ cm, $10$ cm",
+        "$5$ cm, $7$ cm, $9$ cm",
+        "$5$ cm, $12$ cm, $13$ cm"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "গোলকের আয়তনের সূত্র কোনটি?",
+      "options": [
+        "$\\frac{4}{3} \\pi r^2$ ঘন একক",
+        "$\\frac{4}{3} \\pi r^3$ ঘন একক",
+        "$4 \\pi r^2$ ঘন একক",
+        "$\\frac{4}{3} r^3$ ঘন একক"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "অজিভ রেখা অঙ্কনের ক্ষেত্রে $y$-অক্ষ বরাবর নিচের কোনটি স্থাপন করা হয়?",
+      "options": [
+        "শ্রেণি মধ্যবিন্দু",
+        "যোজিত গঠন সংখ্যা",
+        "শ্রেণি নিম্নসীমা",
+        "শ্রেণি ঊর্ধ্বসীমা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের একই চাপের উপর বৃত্তস্থ কোণ ও কেন্দ্রস্থ কোণের মান যথাক্রমে $(2y + 10^{\\circ})$ এবং $(y + 110^{\\circ})$ হলে, $y$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "ত্রিকোণমিতির ক্ষেত্রে—\n$i.$ $\\cos^2 \\theta + \\sin^2 \\theta = 1$\n$ii.$ $\\cos(90^{\\circ} - \\theta) = \\sin \\theta$\n$iii.$ $\\tan^2 \\theta = 1 + \\sec^2 \\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

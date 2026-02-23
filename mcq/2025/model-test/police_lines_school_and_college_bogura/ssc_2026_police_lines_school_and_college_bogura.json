@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2026_police_lines_school_and_college_bogura",
+    "title": "পুলিশ লাইন্স স্কুল অ্যান্ড কলেজ, বগুড়া",
+    "titleEn": "পুলিশ লাইন্স স্কুল অ্যান্ড কলেজ, বগুড়া",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": "motijheel_ideal",
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = \\frac{x - 3}{x + 1}$ হলে, $f(0) = $ কত?",
+      "options": [
+        "$-6$",
+        "$-3$",
+        "$-2$",
+        "$0$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$B$ সেট হতে $C$ সেটে $R$ একটি অন্বয় হলে, নিচের কোনটি সত্য?",
+      "options": [
+        "$R \\subseteq C$",
+        "$R \\subseteq B$",
+        "$R \\subseteq C \\times B$",
+        "$R \\subseteq B \\times C$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + y = 3$ এবং $xy = 1$ হলে, $x^3 + y^3 + (x - y)^2$ এর মান কত?",
+      "options": [
+        "$23$",
+        "$31$",
+        "$41$",
+        "$49$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$2a + 3b = \\sqrt{2}$, $4a^2 - 6ab + 9b^2 = \\sqrt{8}$ হলে, $8a^3 + 27b^3 = $ ?",
+      "options": [
+        "$4$",
+        "$2\\sqrt{2}$",
+        "$2$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "যদি $x = 2 + \\sqrt{3}$ হয়, তবে $x^2$ এর মান কত?",
+      "options": [
+        "$7 - 4\\sqrt{3}$",
+        "$7 + 4\\sqrt{3}$",
+        "$2 + \\sqrt{3}$",
+        "$\\frac{1}{2 - \\sqrt{3}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + \\frac{2}{x} = 3$ হলে, $x^3 + \\frac{8}{x^3}$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$9$",
+        "$8$",
+        "$16$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$10\\%$ হার মুনাফায় $3000$ টাকার $3$ বছরের সরল মুনাফা কত টাকা?",
+      "options": [
+        "$90$",
+        "$300$",
+        "$900$",
+        "$9000$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$x : y = 5 : 6$ হলে, $3x : 5y = $ ?",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{5}{3}$",
+        "$\\frac{25}{18}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$(\\frac{1}{a} + \\frac{1}{b}) : 1 = 2 : x$ হলে, $(a + b) : 2a = $ কত?",
+      "options": [
+        "$a : x$",
+        "$x : a$",
+        "$b : x$",
+        "$x : b$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "দুইটি বাহু ও তাদের একটি বিপরীত কোণ দেওয়া থাকলে, কয়টি ত্রিভুজ আঁকা সম্ভব?",
+      "options": [
+        "$4$টি",
+        "$3$টি",
+        "$2$টি",
+        "$1$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "রম্বসের প্রতিটি বাহু তার পরিসীমার কতগুণ?",
+      "options": [
+        "$4$",
+        "$2$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য $4^{\\circ}$ হলে ক্ষুদ্রতম কোণের মান কত ডিগ্রি?",
+      "options": [
+        "$41$",
+        "$43$",
+        "$45$",
+        "$49$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি রম্বসের পরিসীমা $a$ এবং একটি কোণ $\\angle x$ দেওয়া থাকলে নিচের কোন শর্তে এটি আঁকা সম্ভব?",
+      "options": [
+        "$\\angle x = 0^{\\circ}$",
+        "$\\angle x = 120^{\\circ}$",
+        "$\\angle x = 180^{\\circ}$",
+        "$\\angle x = 200^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৪ ও ১৫) নং প্রশ্নের উত্তর দাও:",
+      "question": "$O$ কেন্দ্রবিশিষ্ট $PQR$ বৃত্তে $PQ$ ব্যাস ভিন্ন জ্যা এবং $M, PQ$ এর মধ্যবিন্দু।\n$PQ = 8$ সে.মি. এবং বৃত্তটির ব্যাসার্ধ $5$ সে.মি. হলে $OM$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_police_lines_school_and_college_bogura%2Fq14.svg?alt=media&token=9ec2c294-d926-4fac-9ad4-f71abf09c303",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৪ ও ১৫) নং প্রশ্নের উত্তর দাও:",
+      "question": "$O$ কেন্দ্রবিশিষ্ট $PQR$ বৃত্তে $PQ$ ব্যাস ভিন্ন জ্যা এবং $M, PQ$ এর মধ্যবিন্দু।\n$\\angle OPM = 55^{\\circ}$ হলে $\\angle POQ = $ কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$70^{\\circ}$",
+        "$110^{\\circ}$",
+        "$290^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_police_lines_school_and_college_bogura%2Fq15.svg?alt=media&token=e4ae31f9-eb3d-411f-b8c8-cd67a1e94107",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$P$ কেন্দ্র বিশিষ্ট $ABCD$ বৃত্তের জন্য নিচের কোনটি বৃত্তস্থ কোণ?",
+      "options": [
+        "$\\angle ABC$",
+        "$\\angle APD$",
+        "$\\angle APC$",
+        "$\\angle BPC$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের অধিচাপের উপর দণ্ডায়মান বৃত্তস্থ কোণের মান নিচের কোনটি হওয়ার সম্ভাবনা আছে?",
+      "options": [
+        "$30^{\\circ}$",
+        "$90^{\\circ}$",
+        "$110^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "$\\triangle ABC$ এ $\\angle B$ ও $\\angle C$ এর অন্তদ্বিখণ্ডক ও বহির্দ্বিখণ্ডক যথাক্রমে $P$ ও $Q$ বিন্দুতে মিলিত হলে—\n$i. \\angle P = \\frac{1}{2} \\angle A + 90^{\\circ}$\n$ii. \\angle Q = \\frac{1}{2} \\angle A - 90^{\\circ}$\n$iii. B, P, C, Q$ বিন্দু চারটি সমবৃত্ত\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan \\theta + \\cot \\theta = 2$ হলে, $\\tan \\theta - \\cot \\theta = $ কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$4$",
+        "$\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sec^2 \\theta - 1$ সমান কত?",
+      "options": [
+        "$\\cot^2 \\theta$",
+        "$\\sin^2 \\theta \\sec^2 \\theta$",
+        "$\\cos^2 \\theta$",
+        "$\\cos^2 \\theta \\sec^2 \\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin 5A = \\cos 5A$ হলে, $\\cot(90^{\\circ} - 5A) = $ কত?",
+      "options": [
+        "$1$",
+        "$-1$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sec \\theta = \\frac{2}{\\sqrt{2}}$ হলে $\\cos \\theta = $ কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$2$",
+        "$\\frac{2}{\\sqrt{2}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সুষম অষ্টভুজের প্রতিটি অন্তঃস্থ কোণের মান কত?",
+      "options": [
+        "$135^{\\circ}$",
+        "$180^{\\circ}$",
+        "$67.5^{\\circ}$",
+        "$42^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা $8$ সে.মি. এবং ভূমি $6$ সে.মি. হলে, উচ্চতা কত সে.মি.?",
+      "options": [
+        "$12$",
+        "$8$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গক্ষেত্রে একটি বৃত্ত অন্তর্লিখিত করা হলো। বৃত্তক্ষেত্রের ক্ষেত্রফল ঐ বর্গক্ষেত্রের ক্ষেত্রফলের শতকরা কত ভাগ?",
+      "options": [
+        "$54.78\\%$",
+        "$78.43\\%$",
+        "$78.54\\%$",
+        "$87.54\\%$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "বৃত্তের পরিধি ও ব্যাসের অনুপাত কত?",
+      "options": [
+        "$1 : \\pi$",
+        "$2\\pi : 1$",
+        "$1 : 2\\pi$",
+        "$\\pi : 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৭ ও ২৮) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রদত্ত সারণির মধ্যক কত?",
+      "options": [
+        "$33$",
+        "$38$",
+        "$38.33$ (প্রায়)",
+        "$43.33$ (প্রায়)"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_police_lines_school_and_college_bogura%2Fq27.svg?alt=media&token=db8f53f7-426e-4bd6-aed6-0bf22fd4c364",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৭ ও ২৮) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রদত্ত সারণির প্রচুরক কত?",
+      "options": [
+        "$46.67$ (প্রায়)",
+        "$41.67$ (প্রায়)",
+        "$38.33$ (প্রায়)",
+        "$37.50$ (প্রায়)"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_police_lines_school_and_college_bogura%2Fq28.svg?alt=media&token=83b073f5-b232-42ff-8f9c-2d787cf7a183",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "অজিভ রেখা অঙ্কনে $X$ অক্ষ বরাবর কোনটি ধরা হয়?",
+      "options": [
+        "গণসংখ্যা",
+        "মধ্যমান",
+        "শ্রেণির উচ্চসীমা",
+        "ক্রমযোজিত গণসংখ্যা"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কোনো শ্রেণির $40$ জন ছাত্রীর প্রাপ্ত নম্বরের গড় হলো $70$। যদি প্রতি ছাত্রীর প্রাপ্ত নম্বরের সাথে $5$ যোগ করা হয়, তবে গড় কত হবে?",
+      "options": [
+        "$50$",
+        "$60$",
+        "$70$",
+        "$75$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

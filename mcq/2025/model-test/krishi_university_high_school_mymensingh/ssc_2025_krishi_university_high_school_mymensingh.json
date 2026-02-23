@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_krishi_university_high_school_mymensingh",
+    "title": "কৃষি বিশ্ববিদ্যালয় হাই স্কুল, ময়মনসিংহ",
+    "titleEn": "কৃষি বিশ্ববিদ্যালয় হাই স্কুল, ময়মনসিংহ",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A$ সেটের উপসেট সংখ্যা $64$ হলে, $A$ এর সদস্য সংখ্যা কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\emptyset, B = \\{1\\}$ হলে, $A \\cup B = ?$",
+      "options": [
+        "$\\emptyset$",
+        "$\\{\\emptyset\\}$",
+        "$\\{1\\}$",
+        "$\\{1, \\emptyset\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$y = x^{2} - 5x + 6$ হলে স্বাধীন চলক কোনটি?",
+      "options": [
+        "$x$",
+        "$y$",
+        "$x^{2} - 5x$",
+        "$x^{2} - 5x + 6$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + \\frac{1}{x} = 0$ হলে $\\sqrt{2} (\\sqrt{x} + \\frac{1}{\\sqrt{x}})$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও:\n$4\\%$ হার চক্রবৃদ্ধি মুনাফায় $625$ টাকা $2$ বছরের জন্য বিনিয়োগ করা হলো।",
+      "question": "সবৃদ্ধি মূলধন কত টাকা?",
+      "options": [
+        "$650$",
+        "$676$",
+        "$725$",
+        "$750$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও:\n$4\\%$ হার চক্রবৃদ্ধি মুনাফায় $625$ টাকা $2$ বছরের জন্য বিনিয়োগ করা হলো।",
+      "question": "সরল মুনাফা ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+      "options": [
+        "$0.1$",
+        "$1$",
+        "$1.25$",
+        "$2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে অঙ্কন সম্ভব—\n$i.$ সুষম ত্রিভুজ\n$ii.$ বর্গ\n$iii.$ রম্বস\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "শুধু পরিসীমা জানা থাকলেই আঁকা সম্ভব—\n$i.$ বর্গক্ষেত্র\n$ii.$ আয়তক্ষেত্র\n$iii.$ সমবাহু ত্রিভুজ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৯ ও ১০) নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $ABD$ বৃত্তের কেন্দ্র $O$, $OB = 5$ সে.মি. এবং $OP = 3$ সে.মি., $OP \\perp BD$, $\\angle BAD = y$\n$BD$ এর মান কত সে.মি.?",
+      "options": [
+        "$11.66$",
+        "$8$",
+        "$5.83$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_krishi_university_high_school_mymensingh%2Fq09.svg?alt=media&token=599cf4f6-3e41-4503-b44c-5b3252455460",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৯ ও ১০) নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $ABD$ বৃত্তের কেন্দ্র $O$, $OB = 5$ সে.মি. এবং $OP = 3$ সে.মি., $OP \\perp BD$, $\\angle BAD = y$\n$y$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$36^{\\circ}$",
+        "$60^{\\circ}$",
+        "$72^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_krishi_university_high_school_mymensingh%2Fq10.svg?alt=media&token=976123a0-dd30-461a-9131-8f35104174de",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{\\sin \\theta} \\sqrt{\\text{cosec}^{2} \\theta - \\cot^{2} \\theta} = $ কত?",
+      "options": [
+        "$\\sin \\theta$",
+        "$\\text{cot} \\theta$",
+        "$\\cosec \\theta$",
+        "$\\tan \\theta$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan \\theta = \\frac{3}{4}$ হলে, $\\cos^{2} \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{16}{9}$",
+        "$\\frac{25}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{16}{25}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\theta = 30^{\\circ}$ হলে—\n$i. 4 \\sin \\theta = \\frac{1}{\\cos 2\\theta}$\n$ii. \\tan 2\\theta = \\sec 2\\theta$\n$iii. \\tan 2\\theta = 2 \\sin 2\\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\triangle PQR$ এর $\\angle Q = 90^{\\circ}$ এবং $\\angle P = 2 \\angle R$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$PQ = 2QR$",
+        "$PR = 2PQ$",
+        "$QR = 2PQ$",
+        "$PQ = 2PR$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "একটি দ্রব্য $20\\%$ ক্ষতিতে বিক্রয় করা হলে, ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কোনটি?",
+      "options": [
+        "$4 : 5$",
+        "$5 : 4$",
+        "$5 : 6$",
+        "$6 : 5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$x : y = 7 : 5 ; y : z = 5 : 7$ হলে, $x : z = $ কত?",
+      "options": [
+        "$35 : 49$",
+        "$25 : 49$",
+        "$7 : 8$",
+        "$1 : 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin \\theta \\sqrt{\\text{cosec}^{2} \\theta - 1} = $ কত?",
+      "options": [
+        "$\\sin \\theta$",
+        "$\\cos \\theta$",
+        "$\\tan \\theta$",
+        "$\\cot \\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot \\theta = \\sqrt{3}$ হলে—\n$i. \\tan \\theta = \\frac{1}{\\sqrt{3}}$\n$ii. \\sec \\theta = 2 \\tan \\theta$\n$iii. 4 \\sin \\theta = \\frac{2}{\\cos 2\\theta}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot (\\theta - 60^{\\circ}) = \\sqrt{3}$ হলে, $\\cos \\theta = $ কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$A = 30^{\\circ}$ হলে, $\\tan A \\tan 2A$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "দুইটি সংখ্যার অনুপাত $2 : 5$ এবং এদের অন্তর $36$ হলে, ক্ষুদ্রতম সংখ্যাটি কত?",
+      "options": [
+        "$12$",
+        "$24$",
+        "$36$",
+        "$60$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য তিনগুণ করলে এর ক্ষেত্রফল কত গুণ হবে?",
+      "options": [
+        "$3$ গুণ",
+        "$6$ গুণ",
+        "$8$ গুণ",
+        "$9$ গুণ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $6\\sqrt{3}$ বর্গমিটার হলে, এর পরিসীমা কত মিটার?",
+      "options": [
+        "$4.89$",
+        "$14.69$",
+        "$19.59$",
+        "$72.00$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি রম্বসের একটি কর্ণ $8$ মিটার এবং ক্ষেত্রফল $40$ বর্গমিটার হলে, অপর কর্ণ কত মিটার?",
+      "options": [
+        "$5$",
+        "$8$",
+        "$10$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৫ ও ২৬) নং প্রশ্নের উত্তর দাও:\nএকটি সিলিন্ডারের উচ্চতা $h$ সে.মি. এবং ভূমির ব্যাস $14$ সে.মি.।",
+      "question": "সিলিন্ডারটির আয়তন কত ঘন সে.মি.?",
+      "options": [
+        "$153.938$",
+        "$1339.39$",
+        "$1439.39$",
+        "$1239.38$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৫ ও ২৬) নং প্রশ্নের উত্তর দাও:\nএকটি সিলিন্ডারের উচ্চতা $h$ সে.মি. এবং ভূমির ব্যাস $14$ সে.মি.।",
+      "question": "সমগ্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$351.86$",
+        "$847.8$",
+        "$747.7$",
+        "$947.8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$13, 11, 8, 9, 15, 5$ সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$8.5$",
+        "$9$",
+        "$10$",
+        "$10.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "লেখ নির্দিষ্ট করতে কতগুলো বিন্দু নেওয়া আবশ্যক?",
+      "options": [
+        "একটি",
+        "একাধিক",
+        "দুই বা ততোধিক",
+        "অসংখ্য"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "অজিভ রেখার ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        "ঊর্ধ্বগামী",
+        "সমান্তরাল",
+        "নিম্নগামী",
+        "উলম্ব"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "অনুপাতের শর্ত—\n$i. x:y=y:x$ হলে, $x=y$\n$ii. x:y=m:n$ হলে, $(x+y):y=(m+n):n$\n$iii. x:y=z:p$ হলে, $yz=xp$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+\documentclass[border=5pt]{standalone}
+
+% Required for Bengali text rendering
+\usepackage{fontspec}
+\usepackage{amsmath} % গাণিতিক সিম্বলের জন্য
+\setmainfont{Noto Sans Bengali}
+
+\begin{document}
+
+% arraystretch increases the vertical padding inside cells
+\renewcommand{\arraystretch}{1.5}
+
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    $x$ & $61-65$ & $66-70$ & $71-75$ & $76-80$ & $81-85$ \\
+    \hline
+    $f$ & 2 & 8 & 20 & 7 & 3 \\
+    \hline
+\end{tabular}
+
+\end{document}

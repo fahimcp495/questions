@@ -1,0 +1,25 @@
+\documentclass[border=5pt]{standalone}
+
+% Required for Bengali text rendering
+\usepackage{fontspec}
+\usepackage{amsmath}
+\setmainfont{Noto Sans Bengali}
+
+\begin{document}
+
+% Increase horizontal padding (default is 6pt)
+\setlength{\tabcolsep}{12pt}
+% Increase vertical padding
+\renewcommand{\arraystretch}{2.2}
+
+{\large % Increases font size to match the image scale
+\begin{tabular}{|c|c|c|c|c|}
+    \hline
+    শ্রেণি & 11--20 & 21--30 & 31--40 & 41--50 \\
+    \hline
+    গণসংখ্যা & 4 & 18 & 22 & 16 \\
+    \hline
+\end{tabular}
+}
+
+\end{document}

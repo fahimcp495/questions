@@ -1,0 +1,21 @@
+\documentclass[border=5pt]{standalone}
+
+% Required for Bengali text rendering as requested
+\usepackage{fontspec}
+\setmainfont{Noto Sans Bengali}
+
+\begin{document}
+
+% scale = 1 as per instructions
+% arraystretch increases the vertical padding inside cells to match the image style
+\renewcommand{\arraystretch}{1.5}
+
+\begin{tabular}{|c|c|c|c|c|}
+    \hline
+    শ্রেণিব্যাপ্তি & $20-29$ & $30-39$ & $40-49$ & $50-59$ \\
+    \hline
+    গণসংখ্যা & 5 & 6 & 7 & 2 \\
+    \hline
+\end{tabular}
+
+\end{document}

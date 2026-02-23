@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2026_motijheel_govt_girls_high_school_dhaka",
+    "title": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা",
+    "titleEn": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": "motijheel_ideal",
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{2, 3, 79\\}$ হলে, সেট $A$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{Z} : x^2 - 9 = 0\\}$ এর তালিকা পদ্ধতিতে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        "$\\varnothing$",
+        "$\\{-3\\}$",
+        "$\\{3\\}$",
+        "$\\{-3, 3\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = x^2 - 5x + 6$ এবং $f(x) = 0$ হলে, $x = $ কত?",
+      "options": [
+        "$2, 3$",
+        "$-5, 1$",
+        "$-2, 3$",
+        "$1, -5$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{0, 2\\}, B = \\{-1, 0, 1\\}$ হলে,\n$i. B \\setminus A$ এর প্রকৃত উপসেট সংখ্যা $3$\n$ii. A \\cap B = \\{0\\}$\n$iii. A - B = \\{2\\}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও: \n$a^2 - 5a - 1 = 0$",
+      "question": "$a^2 + \\frac{1}{a^2}$ এর মান কত?",
+      "options": [
+        "$23$",
+        "$25$",
+        "$27$",
+        "$29$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও: \n$a^2 - 5a - 1 = 0$",
+      "question": "$a + \\frac{1}{a}$ এর মান কত?",
+      "options": [
+        "$\\sqrt{27}$",
+        "$\\sqrt{29}$",
+        "$\\sqrt{31}$",
+        "$\\sqrt{23}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + y = 3$ এবং $xy = 1$ হলে $x^3 + y^3 + (x - y)^2$ এর মান কত?",
+      "options": [
+        "$23$",
+        "$31$",
+        "$41$",
+        "$49$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$35 - 2x - x^2$ এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?",
+      "options": [
+        "$(7 - x)(5 + x)$",
+        "$(7 - x)(5 - x)$",
+        "$(7 + x)(5 - x)$",
+        "$(7 + x)(5 + x)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$3x^3 + 2x^2 - 21x - 20$ একটি বহুপদী রাশি। $x + 2$ দ্বারা ভাগ করলে ভাগশেষ কত হবে?",
+      "options": [
+        "$-30$",
+        "$30$",
+        "$6$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$5\\%$ হার মুনাফায় $500$ টাকার $3$ বছরের চক্রবৃদ্ধি মুনাফা কত টাকা?",
+      "options": [
+        "$78.81$",
+        "$178.81$",
+        "$187.81$",
+        "$87.81$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "একটি ক্রমিক সমানুপাতীর প্রান্তীয় রাশি দুইটি $4$ এবং $16$ হলে এর মধ্য সমানুপাতী কত?",
+      "options": [
+        "$6$",
+        "$8$",
+        "$10$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{x}{z - y} =  \\frac{z}{x - y}$ এবং $x \\neq z $ হলে প্রতিটি অনুপাতের মান কত?",
+      "options": [
+        "$-1$",
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "$1$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 2$ এবং এদের ল.সা.গু $42$ হলে, সংখ্যা দুইটির গ.সা.গু কত?",
+      "options": [
+        "$6$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের তিনটি কোণের অনুপাত $3 : 4 : 5$ হলে বৃহত্তর ও ক্ষুদ্রতর কোণদ্বয়ের পার্থক্য কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$50^{\\circ}$",
+        "$40^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৫ ও ১৬) নং প্রশ্নের উত্তর দাও:\nএকটি সমকোণী ত্রিভুজের অতিভুজ $13$ সেমি এবং অপর দুটি বাহুর অন্তর $7$ সেমি।",
+      "question": "ক্ষুদ্রতর বাহুর দৈর্ঘ্য কত সেমি?",
+      "options": [
+        "$5$",
+        "$8$",
+        "$9$",
+        "$11$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৫ ও ১৬) নং প্রশ্নের উত্তর দাও: \nএকটি সমকোণী ত্রিভুজের অতিভুজ $13$ সেমি এবং অপর দুটি বাহুর অন্তর $7$ সেমি।",
+      "question": "অপর বাহুটির দৈর্ঘ্য কত সেমি?",
+      "options": [
+        "$5$",
+        "$7$",
+        "$12$",
+        "$24$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি রম্বস আঁকা যাবে যদি দেওয়া থাকে—\n$i.$ ১টি বাহুর দৈর্ঘ্য\n$ii.$ ১টি বাহু ও ১টি কর্ণের দৈর্ঘ্য\n$iii.$ ১টি বাহু ও ১টি কোণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$26$ সে.মি. ব্যাসবিশিষ্ট বৃত্তের কেন্দ্র থেকে $5$ সে.মি. দূরে অবস্থিত জ্যা-এর দৈর্ঘ্য কত?",
+      "options": [
+        "$12$ সে.মি.",
+        "$18$ সে.মি.",
+        "$21$ সে.মি.",
+        "$24$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের কেন্দ্র $O$ থেকে $AB$ ও $CD$ জ্যাদ্বয়ের দূরত্ব যথাক্রমে $OE$ ও $OF$ এবং $AB > CD$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$OE > OF$",
+        "$OF > OE$",
+        "$OE = OF$",
+        "$OE = OF > 0$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:",
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10$ cm, $CD = 4$ cm.\n$\\frac{1}{2} \\angle ABC = $ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_motijheel_govt_girls_high_school_dhaka%2Fq20.svg?alt=media&token=1d3ec823-b216-4e44-9853-757e97591855",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:",
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10$ cm, $CD = 4$ cm.\n$\\Delta BOD$ এর পরিসীমা কত?",
+      "options": [
+        "$12$ cm",
+        "$13$ cm",
+        "$16$ cm",
+        "$18$ cm"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2026_motijheel_govt_girls_high_school_dhaka%2Fq21.svg?alt=media&token=d74c474c-2895-4505-a783-8f7d37af317a",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি—",
+      "options": [
+        "বর্গ",
+        "রম্বস",
+        "আয়তক্ষেত্র",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তে অন্তর্লিখিত $ABCD$ চতুর্ভুজের $\\angle A = 75^{\\circ}$ এর বিপরীত কোণ $\\angle C = $ কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$105^{\\circ}$",
+        "$75^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$8$ মিটার ও $6$ মিটার ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কত মিটার?",
+      "options": [
+        "$2$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি ত্রিভুজের—\n$i.$ বহির্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$ii.$ অন্তর্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$iii.$ পরিবৃত্তের কেন্দ্র ত্রিভুজের বাহিরে হলে ত্রিভুজটি স্থূলকোণী\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec \\theta \\sqrt{\\cot^2 \\theta \\sqrt{\\sin^4 \\theta}}$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$\\tan \\theta$",
+        "$\\sec \\theta$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot \\theta = \\sqrt{3}$ হলে—\n$i. \\tan \\theta = \\frac{1}{\\sqrt{3}}$\n$ii. \\sec \\theta = 2 \\tan \\theta$\n$iii. 4 \\sin \\theta = \\frac{1}{\\cos 2 \\theta}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $25\\sqrt{3}$ বর্গমিটার হলে ত্রিভুজটির বাহুর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$5$",
+        "$10$",
+        "$50$",
+        "$100$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সুষম পঞ্চভুজের একটি শীর্ষকোণ কত ডিগ্রী?",
+      "options": [
+        "$108$",
+        "$120$",
+        "$180$",
+        "$360$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$L = 48, F_c = 31, f_m = 25, h = 5$ এবং $n = 72$ হলে, মধ্যক কত?",
+      "options": [
+        "$48$",
+        "$49$",
+        "$50$",
+        "$51$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

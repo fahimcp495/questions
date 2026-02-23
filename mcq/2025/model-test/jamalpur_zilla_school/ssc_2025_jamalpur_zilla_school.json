@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_jamalpur_zilla_school",
+    "title": "জামালপুর জিলা স্কুল - ২০২৫",
+    "titleEn": "জামালপুর জিলা স্কুল - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "একটি সেটের সদস্য সংখ্যা $p$ হলে, এর প্রকৃত উপসেটের সংখ্যা কতটি হবে?",
+      "options": [
+        "$p^{2}$",
+        "$2^{p}$",
+        "$p^{2}-1$",
+        "$2^{p}-1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = ax^{3} + bx^{2} + cx + d$ সমীকরণে স্বাধীন চলক কোনটি?",
+      "options": [
+        "$b$",
+        "$c$",
+        "$d$",
+        "$x$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$-y + 3x - 6 = 0$ সমীকরণটির লেখ কিরূপ হবে?",
+      "options": [
+        "সরলরেখা",
+        "বৃত্ত",
+        "বক্ররেখা",
+        "পরাবৃত্ত"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{N} : 37 < x < 41$ এবং $x$ মৌলিক সংখ্যা$\\}$ সেটটি কোন প্রকারের সেট?",
+      "options": [
+        "শূণ্য",
+        "ছেদ",
+        "সংযোগ",
+        "ফাঁকা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$9x^{2} + 30x$ এর সাথে কমপক্ষে কত যোগ করলে যোগফল পূর্ণবর্গ হবে?",
+      "options": [
+        "$25$",
+        "$36$",
+        "$64$",
+        "$100$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$(x+y)^{2} = \\sqrt[3]{27}$ এবং $xy = 0$ হলে\n$i. x^{2}+y^{2}=3$\n$ii. x-y = \\sqrt{3}$\n$iii. x^{3}+y^{3} = 3\\sqrt{3}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^{4} + 27a$ এর উৎপাদক কয়টি?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "ক্রয়মূল্য বিক্রয়মূল্যের চারগুণ হলে, শতকরা ক্ষতি কত টাকা?",
+      "options": [
+        "$25$",
+        "$50$",
+        "$75$",
+        "$80$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "মিষ্টির উপর ভ্যাটের পরিমাণ $x\\%।$ কোন ব্যক্তি $2300$ টাকার মিষ্টি কিনলে তাকে কত টাকা ভ্যাট দিতে হবে?",
+      "options": [
+        "$23$",
+        "$230$",
+        "$23x$",
+        "$2300x$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$30^{\\circ}$ ও $50^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$",
+        "$45^{\\circ}$ ও $45^{\\circ}$",
+        "$30^{\\circ}$ ও $60^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১১ ও ১২) নং প্রশ্নের উত্তর দাও : \n$a = 4$ সে.মি., $b = 6$ সে.মি., $\\angle x = 70^{\\circ}$ এবং $\\angle y = 55^{\\circ}$",
+      "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $b$ এবং একটি মধ্যমার দৈর্ঘ্য $\\frac{\\sqrt{3}b}{2}$ হলে, মধ্যমাত্রয়ের দৈর্ঘ্যের সমষ্টি কত সে.মি.?",
+      "options": [
+        "$3\\sqrt{3}$",
+        "$9\\sqrt{3}$",
+        "$18$",
+        "$18\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_07",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১১ ও ১২) নং প্রশ্নের উত্তর দাও : \n$a = 4$ সে.মি., $b = 6$ সে.মি., $\\angle x = 70^{\\circ}$ এবং $\\angle y = 55^{\\circ}$",
+      "question": "পরিসীমা $2(a+b)$ ও $\\angle y$ দেওয়া থাকলে কোনটি অঙ্কন সম্ভব?",
+      "options": [
+        "বর্গ",
+        "আয়ত",
+        "রম্বস",
+        "সামান্তরিক"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের যেকোনো জ্যা-এর মধ্যবিন্দু ও কেন্দ্রের সংযোজক রেখাংশ জ্যা-এর সাথে উৎপন্ন কোণ কত হবে?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$90^{\\circ}$",
+        "$100^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের একই চাপের উপর দন্ডায়মান—\n$i.$ বৃত্তস্থ কোণগুলো পরস্পর সমান\n$ii.$ অর্ধবৃত্তস্থ কোণ দুই সমকোণ\n$iii.$ বৃত্তস্থ কোণ কেন্দ্রস্থ কোণের অর্ধেক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে ঐ বৃত্তে সর্বোচ্চ কয়টি স্পর্শক আঁকা যাবে?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$4\\sin^{2}\\theta = 1$ হলে, $\\cot\\theta = $ কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$",
+        "অসংজ্ঞায়িত",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও :",
+      "question": "$2\\angle R$ এর মান নিচের কোনটি?",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jamalpur_zilla_school%2Fq17.svg?alt=media&token=04f45a72-838d-4038-86da-f6f58d0611be",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\triangle MNR$ এর ক্ষেত্রে—\n$i. \\sec M = \\text{cosec } R$\n$ii. \\cos M + \\sec M = \\frac{5}{2}$\n$iii. \\tan R = \\frac{1}{\\sqrt{3}}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jamalpur_zilla_school%2Fq18.svg?alt=media&token=f5c5f099-06a2-4712-9bb6-937742367632",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$B = 45^{\\circ}$ হলে, $\\frac{1-\\tan^{2}B}{1+\\tan^{2}B} =$ কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$0$",
+        "$-\\frac{1}{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "পিতার বয়স পুত্রের বয়সের $\\frac{7}{2}$ গুণ হলে, পুত্র ও পিতার বয়সের অনুপাত কত?",
+      "options": [
+        "$1:7$",
+        "$2:7$",
+        "$7:2$",
+        "$3:7$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a, b, c$ ক্রমিক সমানুপাতী হবে যদি—\n$i. a^{2}=bc$\n$ii. \\frac{a}{b} = \\frac{b}{c}$\n$iii. ac-b^{2}=0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "কোনটি সমকোণী ত্রিভুজের কোণগুলোর অনুপাত?",
+      "options": [
+        "$6:13:18$",
+        "$1:5:9$",
+        "$3:5:10$",
+        "$7:8:15$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৩ ও ২৪) নং প্রশ্নের উত্তর দাও : \n$ABC$ একটি সমদ্বিবাহু ত্রিভুজ যার $AB = AC, AD \\perp BC, AD = 4$ সে.মি., $BC = 6$ সে.মি.।",
+      "question": "$AB =$ কত সে.মি.?",
+      "options": [
+        "$5$",
+        "$5.3$",
+        "$6$",
+        "$7$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৩ ও ২৪) নং প্রশ্নের উত্তর দাও : \n$ABC$ একটি সমদ্বিবাহু ত্রিভুজ যার $AB = AC, AD \\perp BC, AD = 4$ সে.মি., $BC = 6$ সে.মি.।",
+      "question": "$\\triangle ABC$-এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$12$",
+        "$24$",
+        "$25$",
+        "$150$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের পরিসীমা $16$ মিটার হলে এর কর্ণ কত মিটার?",
+      "options": [
+        "$4\\sqrt{2}$",
+        "$4\\sqrt{3}$",
+        "$8\\sqrt{2}$",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সুষম ষড়ভুজের প্রত্যেক কোণের পরিমাণ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$108^{\\circ}$",
+        "$120^{\\circ}$",
+        "$125^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৭ ও ২৮) নং প্রশ্নের উত্তর দাও :",
+      "question": "প্রদত্ত উপাত্তের মধ্যক কত?",
+      "options": [
+        "$60$",
+        "$62.5$",
+        "$65$",
+        "$67.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jamalpur_zilla_school%2Fq27.svg?alt=media&token=4a012225-d9b3-43ed-ac2a-e8f4de2c4c2c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৭ ও ২৮) নং প্রশ্নের উত্তর দাও :",
+      "question": "প্রদত্ত উপাত্তের গড় কত?",
+      "options": [
+        "$60.00$",
+        "$62.5$",
+        "$63.25$",
+        "$65.00$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jamalpur_zilla_school%2Fq28.svg?alt=media&token=5b6bba62-18cd-4346-b729-bc652790ef25",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের শীর্ষবিন্দুগামী বৃত্তের নাম কী?",
+      "options": [
+        "পরিবৃত্ত",
+        "উপবৃত্ত",
+        "বহির্বৃত্ত",
+        "অন্তবৃত্ত"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$80p^{6} - 5$ এর উৎপাদক কোনটি?",
+      "options": [
+        "$4p^{6}-1$",
+        "$4p^{2}-1$",
+        "$4p^{3}+1$",
+        "$4p^{4}+1$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

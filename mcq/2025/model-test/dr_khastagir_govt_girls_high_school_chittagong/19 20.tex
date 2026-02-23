@@ -1,0 +1,31 @@
+\documentclass[tikz,border=10pt]{standalone}
+\usepackage{fontspec}
+\usepackage{tikz}
+
+% Define the Bengali font specifically so it doesn't take over the whole document
+\newfontfamily\bengali{Noto Sans Bengali}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1, line cap=round, line join=round]
+
+% Define Coordinates
+\coordinate (Q) at (0,0);
+\coordinate (P) at (0,2);
+\coordinate (R) at (4,0);
+
+% Draw Triangle segments
+\draw[thick] (P) -- (Q) -- (R) -- cycle;
+
+% Add Labels - Using Math Mode ($ $) forces LaTeX to use the standard math font
+\node[left=3pt] at (P) {$P$};
+\node[left=3pt] at (Q) {$Q$};
+\node[right=3pt] at (R) {$R$};
+
+% Add Bengali measurements using the defined font family
+\node[left=5pt] at (0,1) {{\bengali 1 একক}};
+\node[above right] at (2,1) {{\bengali 2 একক}};
+
+\end{tikzpicture}
+
+\end{document}

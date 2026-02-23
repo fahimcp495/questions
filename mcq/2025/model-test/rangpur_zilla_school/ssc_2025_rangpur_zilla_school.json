@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_rangpur_zilla_school",
+    "title": "রংপুর জিলা স্কুল - ২০২৫",
+    "titleEn": "রংপুর জিলা স্কুল - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{Z} : x^2 - 9 = 0\\}$ এর তালিকা পদ্ধতিতে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        "$\\{3\\}$",
+        "$\\{-3\\}$",
+        "$\\{3\\}$",
+        "$\\{-3, 3\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$Q = \\{x, y, z\\}$ এবং $R = \\{q, r\\}$ হলে, $Q \\setminus R$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$1$ টি",
+        "$3$ টি",
+        "$7$ টি",
+        "$8$ টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$y = \\sqrt{x}$ লেখচিত্রের কোনো বিন্দুর কোটি $4$ হলে, বিন্দুটির স্থানাঙ্ক কী হবে?",
+      "options": [
+        "$(4, \\pm 2)$",
+        "$(4, 2)$",
+        "$(2, 4)$",
+        "$(16, 4)$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p^2 - 1 = \\sqrt{5}p$ হলে, যেখানে $p > 0$\n$i.$  $p + \\frac{1}{p} = 3$\n$ii.$  $p - \\frac{1}{p} = \\sqrt{5}$\n$iii.$  $p^2 + \\frac{1}{p^2} = 7$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৫$ ও $৬$) নং প্রশ্নের উত্তর দাও :\n$a + \\frac{1}{a} = $ 4",
+      "question": "$(a - \\frac{1}{a})^2 = $ কত?",
+      "options": [
+        "$8$",
+        "$12$",
+        "$14$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "$a + \\frac{1}{a} = 4$ তথ্যের জন্য।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৫$ ও $৬$) নং প্রশ্নের উত্তর দাও :\n$a + \\frac{1}{a} = $ 4",
+      "question": "$\\frac{a}{a^2 + a + 1}$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "$a + \\frac{1}{a} = 4$ তথ্যের জন্য।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x^2 - 1 + 2y - y^2$ এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$x + y - 1$",
+        "$x + y + 1$",
+        "$y - x + 1$",
+        "$x - y - 1$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "যদি $\\frac{x}{y} = \\frac{2}{3}$ হয়, তবে $\\frac{6x + y}{3x + 2y}$ এর মান কত?",
+      "options": [
+        "$\\frac{4}{5}$",
+        "$\\frac{14}{15}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{20}{13}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য দ্বিগুণ করলে তার ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+      "options": [
+        "$2$ গুণ",
+        "$3$ গুণ",
+        "$4$ গুণ",
+        "$8$ গুণ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "একটি দ্রব্য $20\\%$ ক্ষতিতে বিক্রয় করা হলো। ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কোনটি?",
+      "options": [
+        "$4 : 5$",
+        "$5 : 4$",
+        "$5 : 6$",
+        "$6 : 5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য $4^{\\circ}$ হলে, বৃহত্তম সূক্ষ্মকোণের মান কত ডিগ্রী?",
+      "options": [
+        "$41^{\\circ}$",
+        "$42^{\\circ}$",
+        "$49^{\\circ}$",
+        "$53^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের একটি কোণ—\n$i.$  সমকোণ হলে, তা সমকোণী ত্রিভুজ\n$ii.$  স্থূলকোণ হলে, তা স্থূলকোণী ত্রিভুজ\n$iii.$  সূক্ষ্মকোণ হলে, তা সূক্ষ্মকোণী ত্রিভুজ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "শুধু পরিসীমা দেওয়া থাকলে নিচের কোনটি আঁকা যায়?",
+      "options": [
+        "রম্বস",
+        "ট্রাপিজিয়াম",
+        "আয়ত",
+        "বর্গ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সামান্তরিকের পরিসীমা $28$ সে.মি. এবং সন্নিহিত বাহুদ্বয়ের অনুপাত $4 : 3$ হলে, বৃহত্তম বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$8$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$26$ সে.মি. ব্যাসবিশিষ্ট বৃত্তের কেন্দ্র থেকে $5$ সে.মি. দূরে অবস্থিত জ্যা এর দৈর্ঘ্য কত?",
+      "options": [
+        "$12$ সে.মি.",
+        "$18$ সে.মি.",
+        "$21$ সে.মি.",
+        "$24$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "সমকোণ",
+        "স্থূলকোণ",
+        "সূক্ষ্মকোণ",
+        "প্রবৃদ্ধকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$4$ সে.মি. ও $6$ সে.মি. ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব নিচের কোনটি?",
+      "options": [
+        "$1$ সে.মি.",
+        "$2$ সে.মি.",
+        "$7$ সে.মি.",
+        "$14$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে ($১৮-২০$) নং প্রশ্নের উত্তর দাও :\n$ABC$ সমদ্বিবাহু সমকোণী ত্রিভুজে $\\angle B = 90^{\\circ}$ এবং $AB = 1$ ।",
+      "question": "$AC = $ কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমদ্বিবাহু সমকোণী ত্রিভুজ $ABC$ যেখানে $AB = 1$।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে ($১৮-২০$) নং প্রশ্নের উত্তর দাও :\n$ABC$ সমদ্বিবাহু সমকোণী ত্রিভুজে $\\angle B = 90^{\\circ}$ এবং $AB = 1$ ।",
+      "question": "$\\tan A = $ কত?",
+      "options": [
+        "$2$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমদ্বিবাহু সমকোণী ত্রিভুজ $ABC$ যেখানে $AB = 1$।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে ($১৮-২০$) নং প্রশ্নের উত্তর দাও :\n$ABC$ সমদ্বিবাহু সমকোণী ত্রিভুজে $\\angle B = 90^{\\circ}$ এবং $AB = 1$ ।",
+      "question": "$2\\sin A \\cdot \\cos A = $ কত?",
+      "options": [
+        "$1$",
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}$",
+        "$2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "সমদ্বিবাহু সমকোণী ত্রিভুজ $ABC$ যেখানে $AB = 1$।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "ত্রিকোণমিতিক অনুপাতের ক্ষেত্রে—\n$i. \\ \\tan 30^{\\circ} \\cdot \\cot 30^{\\circ} = 1$\n$ii. \\ \\sec^2 60^{\\circ} - \\tan^2 60^{\\circ} = 1$\n$iii. \\ \\tan \\theta \\sqrt{1 - \\sin^2 \\theta} = \\sin \\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot(\\theta - 30^{\\circ}) = \\frac{1}{\\sqrt{3}}$ হলে $\\sin \\theta = $ কত?",
+      "options": [
+        "$1$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{2}$",
+        "$0$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো সমবাহু ত্রিভুজের উচ্চতা $2\\sqrt{3}$ সে.মি. হলে এর প্রতি বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$4$",
+        "$2\\sqrt{3}$",
+        "$2$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৪$ ও $২৫$) নং প্রশ্নের উত্তর দাও :\nএকটি বেলনের উচ্চতা $8$ সে.মি. এবং ভূমির ব্যাস $12$ সে.মি.।",
+      "question": "বেলনটির বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$37.70$",
+        "$50.27$",
+        "$301.59$",
+        "$603.19$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৪$ ও $২৫$) নং প্রশ্নের উত্তর দাও :\nএকটি বেলনের উচ্চতা $8$ সে.মি. এবং ভূমির ব্যাস $12$ সে.মি.।",
+      "question": "বেলনটির আয়তন কত ঘন সে.মি.?",
+      "options": [
+        "$3619.12$",
+        "$904.78$",
+        "$301.59$",
+        "$-150.58$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের ধার $7$ সে.মি. হলে—\n$i.$ আয়তন $343$ ঘন সে.মি.\n$ii.$ কর্ণের দৈর্ঘ্য $12.12$ সে.মি.\n$iii.$ সমগ্রতলের ক্ষেত্রফল $150$ বর্গ সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$30$ থেকে $75$ এর মধ্যবর্তী মৌলিক সংখ্যাগুলোর মধ্যক নিচের কোনটি?",
+      "options": [
+        "$47$",
+        "$53$",
+        "$59$",
+        "$61$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "পরীক্ষায় প্রাপ্ত জিপিএ কোন ধরনের চলক?",
+      "options": [
+        "বিচ্ছিন্ন",
+        "অবিচ্ছিন্ন",
+        "বিন্যস্ত",
+        "অবিন্যস্ত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কোনো শ্রেণির ঊর্ধ্বসীমা $37$ এবং শ্রেণির মধ্যমান $34$ হলে, ঐ শ্রেণির নিম্নসীমা কত?",
+      "options": [
+        "$40$",
+        "$35.5$",
+        "$34$",
+        "$31$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ থেকে $19$ পর্যন্ত মৌলিক সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "$9.63$",
+        "$9.5$",
+        "$8.67$",
+        "$8.23$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

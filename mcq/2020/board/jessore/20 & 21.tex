@@ -1,0 +1,47 @@
+
+\documentclass[tikz, border=10pt]{standalone}
+\usepackage{fontspec}
+
+% Set the Bengali font (Ensure compiler is XeLaTeX or LuaLaTeX)
+\newfontfamily\bengalifont[Script=Bengali]{Noto Sans Bengali}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1.0]
+
+% 1. Main Triangle PQR
+\draw[ultra thick] (0,0) coordinate (Q) -- (6,0) coordinate (R) -- (3,5.2) coordinate (P) -- cycle;
+
+% 2. Parallel line DE
+\draw[ultra thick] (1.15,2.0) coordinate (D) -- (4.85,2.0) coordinate (E);
+
+% 3. Point Labels
+\node[above, font=\Large\bfseries, yshift=5pt] at (P) {P};
+\node[left, font=\Large\bfseries, xshift=-5pt] at (Q) {Q};
+\node[right, font=\Large\bfseries, xshift=5pt] at (R) {R};
+\node[left, font=\Large\bfseries, xshift=-5pt] at (D) {D};
+\node[right, font=\Large\bfseries, xshift=5pt] at (E) {E};
+
+% 4. Angle at P (55 degrees)
+\begin{scope}
+    \clip (Q) -- (R) -- (P) -- cycle;
+    \draw[thick] (P) circle (1.2cm);
+\end{scope}
+% Shifted 0.8cm from P to sit inside the 1.2cm arc
+\node[font=\large\bfseries] at ([shift={(-90:0.8cm)}]P) {$55^{\circ}$};
+
+% 5. Angle at R (60 degrees)
+\begin{scope}
+    \clip (Q) -- (R) -- (P) -- cycle;
+    \draw[thick] (R) circle (1.2cm);
+\end{scope}
+% Shifted 0.8cm from R along the 150-degree bisector
+\node[font=\large\bfseries] at ([shift={(150:0.8cm)}]R) {$60^{\circ}$};
+
+% 6. Side measurements in Bengali
+\node[left, font=\Large, xshift=-8pt] at (2.075, 3.6) {{\bengalifont ২ সে.মি.}};
+\node[left, font=\Large, xshift=-8pt] at (0.575, 1.0) {{\bengalifont ৩ সে.মি.}};
+
+\end{tikzpicture}
+
+\end{document}

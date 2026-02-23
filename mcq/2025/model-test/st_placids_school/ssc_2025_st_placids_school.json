@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_st_placids_school",
+    "title": "সেন্ট প্লাসিডস্ স্কুল এন্ড কলেজ, চট্টগ্রাম - ২০২৫",
+    "titleEn": "সেন্ট প্লাসিডস্ স্কুল এন্ড কলেজ, চট্টগ্রাম - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": "motijheel_ideal",
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{x \\in \\mathbb{N} : 6 < x < 7$ এবং $x$ মৌলিক সংখ্যা$}$ কে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হয়?",
+      "options": [
+        "$\\{ \\}$",
+        "$\\{0\\}$",
+        "$\\{ \\phi \\}$",
+        "$\\{6, 7\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{a, b, c, d\\}$ হলে $P(A)$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$4$",
+        "$14$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$P \\cap Q = \\{ \\}$ হলে, $P$ ও $Q$ পরস্পর—",
+      "options": [
+        "উপসেট",
+        "নিচ্ছেদ সেট",
+        "সার্বিক সেট",
+        "ছেদ সেট"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৪ ও ৫) নং প্রশ্নের উত্তর দাও :\n$C = \\{3, 4\\}$ এবং $D = \\{2, 5\\}$",
+      "question": "$C \\times D = $ কী?",
+      "options": [
+        "$\\{(3, 4), (2, 5)\\}$",
+        "$\\{(2, 3), (4, 5)\\}$",
+        "$\\{(3, 2), (3, 5), (4, 2), (4, 5)\\}$",
+        "$\\{2, 3, 4, 5\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_02",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৪ ও ৫) নং প্রশ্নের উত্তর দাও :\n$C = \\{3, 4\\}$ এবং $D = \\{2, 5\\}$",
+      "question": "$C$ ও $D$ এর উপাদানগুলোর মধ্যে $x < y$ সম্পর্ক বিবেচনায় অন্বয়টি কী হবে?",
+      "options": [
+        "$\\{(3, 2), (3, 5), (4, 2), (4, 5)\\}$",
+        "$\\{(3, 2), (4, 2)\\}$",
+        "$\\{(3, 5), (4, 5)\\}$",
+        "$\\{(2, 3), (4, 2)\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$b + \\frac{1}{b} = 6$ হলে, $b - \\frac{1}{b}$ এর মান কত?",
+      "options": [
+        "$4\\sqrt{2}$",
+        "$2\\sqrt{10}$",
+        "$34$",
+        "$38$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$\\sqrt{x} + \\frac{1}{\\sqrt{x}} = 3$ হলে $x + \\frac{1}{x} = $ কত?",
+      "options": [
+        "$9$",
+        "$7$",
+        "$2$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + y = \\sqrt{7}$ এবং $x - y = \\sqrt{6}$ হলে $x^2 + y^2$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{13}{2}$",
+        "$13$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$5\\%$ হার মুনাফায় $1500$ টাকার $3$ বছরের সরল মুনাফা কত টাকা?",
+      "options": [
+        "$225$",
+        "$625$",
+        "$725$",
+        "$775$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "একটি কলম $220$ টাকায় বিক্রয় করলে $10\\%$ লাভ হয়, কলমটির ক্রয়মূল্য কত টাকা?",
+      "options": [
+        "$210$",
+        "$200$",
+        "$190$",
+        "$180$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a, b, c$ ক্রমিক সমানুপাতী হলে—\n$i.$ $b^2 = ac$\n$ii.$ $2b = a + c$\n$iii.$ $\\frac{a + b}{b} = \\frac{b + c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$5, 10, 8$ এর চতুর্থ সমানুপাতী কোনটি?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$14$",
+        "$16$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$p : q = 3 : 4$ এবং $q : r = 5 : 7$ হলে $p : q : r$ এর মান কত?",
+      "options": [
+        "$3 : 4 : 7$",
+        "$3 : 5 : 7$",
+        "$12 : 20 : 28$",
+        "$15 : 20 : 28$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a : b = c : d$ হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        "$bc = ad$",
+        "$ab = cd$",
+        "$abc = d$",
+        "$bcd = a$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের দুটি ভিন্ন বিন্দুর সংযোজক রেখাংশকে কী বলে?",
+      "options": [
+        "ব্যাস",
+        "ব্যাসার্ধ",
+        "চাপ",
+        "জ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$5$ সে. মি. ব্যাসার্ধ বিশিষ্ট কোন বৃত্তের $AB$ জ্যা এর দৈর্ঘ্য $6$ সে. মি.। বৃত্তটির একটি ব্যাস $AD$ হলে, $\\frac{1}{2}BD$ এর দৈর্ঘ্য কত সে. মি.?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$8$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের উপচাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের—\n$i.$ যেকোনো জ্যা এর লম্ব দ্বিখণ্ডক কেন্দ্রগামী\n$ii.$ সকল সমান জ্যা কেন্দ্র হতে সমদূরবর্তী\n$iii.$ একই চাপের উপর দণ্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি অর্ধবৃত্তের ব্যাস এর উপর উৎপন্ন বৃত্তস্থ কোণের মান কত ডিগ্রী?",
+      "options": [
+        "$60$",
+        "$90$",
+        "$180$",
+        "$360$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "দুই সমকোণ অপেক্ষা বড় কিন্তু চার সমকোণ অপেক্ষা ছোট কোণকে কী বলে?",
+      "options": [
+        "স্থূলকোণ",
+        "সম্পূরক কোণ",
+        "পূরক কোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\text{cosec } \\theta = \\frac{\\sqrt{5}}{2}$ হলে, $2\\tan \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২২ ও ২৩) নং প্রশ্নের উত্তর দাও :",
+      "question": "$PM$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_st_placids_school%2Fq22.svg?alt=media&token=00205e3f-5d62-450f-b20d-9376a69734fc",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২২ ও ২৩) নং প্রশ্নের উত্তর দাও :",
+      "question": "$\\cos P$ এর মান কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{1}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_st_placids_school%2Fq23.svg?alt=media&token=5aab808f-39cc-481b-8f62-1290fdc20676",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\text{cosec}(90^\\circ - \\theta) = \\frac{5}{3}$ হলে, $\\sec \\theta - \\cot \\theta = $ কত?",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{11}{12}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\text{cosec } \\theta = x + \\frac{1}{4x}$ হলে, $\\cot \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{8x}$",
+        "$x - \\frac{1}{4x}$",
+        "$2x$",
+        "$x + \\frac{1}{8x}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "বৃত্তের ব্যাসার্ধ দ্বিগুণ করলে ক্ষেত্রফল কতগুণ বাড়বে?",
+      "options": [
+        "তিনগুণ",
+        "চারগুণ",
+        "আটগুণ",
+        "নয়গুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "যদি একটি বৃত্তের পরিধি ও ব্যাসের অন্তর $50$ সে. মি. হয় তবে বৃত্তের ব্যাসার্ধ কত সে. মি. (প্রায়)?",
+      "options": [
+        "$25$",
+        "$11.67$",
+        "$5.84$",
+        "$100$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৮ ও ২৯) নং প্রশ্নের উত্তর দাও :",
+      "question": "$৪$র্থ শ্রেণির মধ্যবিন্দু কত?",
+      "options": [
+        "$71$",
+        "$75$",
+        "$76$",
+        "$78$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_st_placids_school%2Fq28.svg?alt=media&token=46c30ac8-3eb2-4dc3-b109-ae0b7af0eb97",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৮ ও ২৯) নং প্রশ্নের উত্তর দাও :",
+      "question": "$(f_1 + f_2)$ এর মান কোনটি?",
+      "options": [
+        "$15$",
+        "$25$",
+        "$27$",
+        "$28$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_st_placids_school%2Fq29.svg?alt=media&token=742e4d2f-ca59-4a53-ba13-ccd24b9f0e1e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "ট্যালি চিহ্ন দ্বারা কী নির্ণয় করা হয়?",
+      "options": [
+        "পরিসর",
+        "শ্রেণি মধ্যমান",
+        "শ্রেণি ব্যবধান",
+        "শ্রেণি গণসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

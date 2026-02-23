@@ -1,0 +1,40 @@
+\documentclass[tikz, border=10pt]{standalone}
+\usepackage{fontspec}
+\usetikzlibrary{patterns}
+
+% Set the Bengali font for Overleaf (XeLaTeX or LuaLaTeX)
+\newfontfamily\bengalifont[Script=Bengali]{Noto Sans Bengali}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1]
+
+% 1. Define dimensions
+% Using 10 and 6 to match your labels exactly
+\def\rectwidth{10}
+\def\rectheight{6}
+
+% 2. Draw the shaded rectangle with horizontal pattern
+\draw[ultra thick, pattern={horizontal lines}, pattern color=gray!60] (0,0) rectangle (\rectwidth, \rectheight);
+
+% 3. Draw the white circle in the center
+% Radius is 3 (half of height 6) so it touches the top and bottom edges
+\fill[white] (\rectwidth/2, \rectheight/2) circle (\rectheight/2);
+\draw[ultra thick] (\rectwidth/2, \rectheight/2) circle (\rectheight/2);
+
+% 4. Center point of the circle
+\filldraw (\rectwidth/2, \rectheight/2) circle (2.5pt);
+
+% 5. Right-angle symbol at the bottom-left corner
+\draw[thick] (0, 0.4) -- (0.4, 0.4) -- (0.4, 0);
+
+% 6. Labels in Bengali (সে.মি.)
+% Bottom measurement (১০ সে.মি.)
+\node[below, font=\Large, yshift=-8pt] at (\rectwidth/2, 0) {{\bengalifont ১০ সে.মি.}};
+
+% Right side measurement (৬ সে.মি.)
+\node[right, font=\Large, xshift=8pt] at (\rectwidth, \rectheight/2) {{\bengalifont ৬ সে.মি.}};
+
+\end{tikzpicture}
+
+\end{document}

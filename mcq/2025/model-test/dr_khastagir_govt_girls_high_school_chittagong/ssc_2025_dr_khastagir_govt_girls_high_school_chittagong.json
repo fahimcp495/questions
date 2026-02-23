@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_dr_khastagir_govt_girls_high_school_chittagong",
+    "title": "ডাঃ খাস্তগীর সরকারি বালিকা উচ্চ বিদ্যালয়, চট্টগ্রাম - ২০২৫",
+    "titleEn": "ডাঃ খাস্তগীর সরকারি বালিকা উচ্চ বিদ্যালয়, চট্টগ্রাম - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x \\in \\mathbb{N} : 2 \\le x \\le 5\\}$ হলে $A$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{0\\}$ হলে $P(A)$ নিচের কোনটি?",
+      "options": [
+        "$\\{\\{0\\}\\}$",
+        "$\\{\\{0\\}, \\emptyset \\}$",
+        "$\\{\\}$",
+        "$\\{\\emptyset\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "সেট $A$ হতে সেট $B$ একটি সম্পর্ক $R$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$R \\subset A$",
+        "$R \\subset B \\times A$",
+        "$R \\subseteq A \\times B$",
+        "$A \\times B \\subseteq R$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a = 7 + 4\\sqrt{3}$ হলে $(a\\sqrt{a} - \\frac{1}{a\\sqrt{a}})$ এর মান কত?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$18\\sqrt{3}$",
+        "$30\\sqrt{3}$",
+        "$52$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$y = 5x$ ফাংশনের—\n$i.$ লেখচিত্র মূলবিন্দুগামী সরলরেখা\n$ii.$ ডোমেন ও রেঞ্জ একই\n$iii.$ লেখচিত্রের একটি বিন্দু $(2, 10)$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৬ ও ৭) নং প্রশ্নের উত্তর দাও: \n$\\frac{a}{b} + \\frac{b}{a} = 2$",
+      "question": "$a - b =$ কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$ab$",
+        "$2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৬ ও ৭) নং প্রশ্নের উত্তর দাও: \n$\\frac{a}{b} + \\frac{b}{a} = 2$",
+      "question": "$(\\frac{a}{b})^3 + (\\frac{b}{a})^3$ এর মান নিচের কোনটি?",
+      "options": [
+        "$8$",
+        "$6$",
+        "$4$",
+        "$2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$(a+5)(a-9)-15$ এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$a+10$",
+        "$a-10$",
+        "$a-6$",
+        "$a+5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$5\\%$ হারে $500$ টাকার $3$ বছরের সরল-মুনাফা কত টাকা?",
+      "options": [
+        "$15$",
+        "$45$",
+        "$60$",
+        "$75$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১০ ও ১১) নং প্রশ্নের উত্তর দাও:\nএকটি বইয়ের প্রকৃত মূল্যের $20\\%$ কমিশনে $48$ টাকায় ক্রয় করা হলো।",
+      "question": "বইয়ের প্রকৃত মূল্য কত টাকা?",
+      "options": [
+        "$96$",
+        "$72$",
+        "$60$",
+        "$56$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১০ ও ১১) নং প্রশ্নের উত্তর দাও:\nএকটি বইয়ের প্রকৃত মূল্যের $20\\%$ কমিশনে $48$ টাকায় ক্রয় করা হলো।",
+      "question": "প্রকৃত মূল্য বিক্রয়-মূল্যের শতকরা কত?",
+      "options": [
+        "$32\\%$",
+        "$48\\%$",
+        "$64\\%$",
+        "$125\\%$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে—\n$i. \\text{ACB}$ ও $\\text{ADB}$ একে অপরের অনুবন্ধী চাপ\n$ii. \\angle A$ ও $\\angle B$ পরস্পর সম্পূরক কোণ\n$iii. A, B, C$ ও $D$ বিন্দু-চারটি সমবৃত্ত\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq12.svg?alt=media&token=a7fe602d-d049-4ce1-a15b-59d09f6814f3",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি আঁকা যাবে?",
+      "options": [
+        "রম্বস",
+        "বর্গ",
+        "আয়ত",
+        "সামান্তরিক"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "নির্দিষ্ট একটি চতুর্ভুজ অঙ্কনের জন্য কয়টি স্বতন্ত্র উপাত্তের প্রয়োজন?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে $4$ সে.মি. ও $10$ সে.মি. হলে তৃতীয় বাহুর দৈর্ঘ্য কত সে.মি. হবে?",
+      "options": [
+        "$5$",
+        "$6$",
+        "$8$",
+        "$14$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক আঁকা যায়?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$4$ সে.মি., $6$ সে.মি. ও $6$ সে.মি. ব্যাস-বিশিষ্ট তিনটি বৃত্ত পরস্পর বহিঃস্পর্শ করলে কেন্দ্রত্রয় দ্বারা গঠিত ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "options": [
+        "$32$",
+        "$16$",
+        "$8$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রানুসারে—\n$i. \\triangle ABC$ এর ক্ষেত্রফল $6$ বর্গ একক\n$ii. \\sin A + \\cos C > 1$\n$iii. AB > BC$ হলে $\\angle C > \\angle B$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq18.svg?alt=media&token=c927bcca-172c-4f7f-9ce0-1cb9b832cac0",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\angle R$ এর মান নিচের কোনটি?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq19.svg?alt=media&token=0631581d-8bba-4f2f-9810-1d78604bb387",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\triangle PQR$-এ—\n$i. \\sec P = \\csc R$\n$ii. \\cos P + \\sec P = \\frac{5}{2}$\n$iii. \\tan R = \\frac{1}{\\sqrt{3}}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq20.svg?alt=media&token=a503bfc3-67f4-4223-9787-9793dfe98ce7",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cos \\theta + \\cos^2 \\theta = 1$ হলে $\\cot \\theta = $ ?",
+      "options": [
+        "$\\sin \\theta$",
+        "$\\cos \\theta$",
+        "$\\tan \\theta$",
+        "$\\csc \\theta$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$x : y = 5 : 2$ এবং $y : z = 10 : 4$ হলে—\n$i. x, y, z$ ক্রমিক সমানুপাতিক\n$ii. z : y = 25 : 4$\n$iii. y^2 + zx = 5yz$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য দ্বিগুণ হলে তার ক্ষেত্রফল কতগুণ বৃদ্ধি পায়?",
+      "options": [
+        "$2$ গুণ",
+        "$3$ গুণ",
+        "$4$ গুণ",
+        "$6$ গুণ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$\\triangle ABC$-এ $\\angle A : \\angle B  = 1 : 2  $  এবং $   \\angle B : \\angle C  = 2 : 3  $ হলে $\\angle B$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "বর্গের এক বাহু $3$ একক হলে—\n$i.$ পরিসীমা $12$ একক\n$ii.$ কর্ণ $3\\sqrt{2}$ একক\n$iii.$ ক্ষেত্রফল $9$ বর্গ একক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সমবাহু ত্রিভুজের উচ্চতা $2\\sqrt{3}$ সে.মি. হলে এর বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$2$",
+        "$2\\sqrt{3}$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি রম্বসের কর্ণ $4$ সে.মি. এবং ক্ষেত্রফল $20$ বর্গ সে.মি. হলে অপর কর্ণ কত সে.মি.?",
+      "options": [
+        "$5$",
+        "$10$",
+        "$20$",
+        "$40$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের আয়তন $24\\sqrt{3}$ ঘন সে.মি. হলে তার ধার কত সে.মি.?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$6\\sqrt{3}$",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০) নং প্রশ্নের উত্তর দাও:",
+      "question": "সারণি থেকে মধ্যক নির্ণয়ের জন্য $f_m$ এর মান নিচের কোনটি?",
+      "options": [
+        "$20$",
+        "$31$",
+        "$40$",
+        "$54$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq29.svg?alt=media&token=b2b3baab-e1a7-4469-9698-295559388f02",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        "$34$",
+        "$35$",
+        "$36$",
+        "$41$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dr_khastagir_govt_girls_high_school_chittagong%2Fq30.svg?alt=media&token=51fc61b6-a347-4bbe-9f10-d7e04fd50302",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

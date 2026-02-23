@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_chittagong_city_corporation_inter_school",
+    "title": "চট্টগ্রাম সিটি কর্পোরেশন আন্তঃবিদ্যালয় - ২০২৫",
+    "titleEn": "চট্টগ্রাম সিটি কর্পোরেশন আন্তঃবিদ্যালয় - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণ দুইটির পরিমাপ দেওয়া থাকলে নিচের কোন ক্ষেত্রে ত্রিভুজ অঙ্কন করা সম্ভব?",
+      "options": [
+        "$60^{\\circ}$ ও $36^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$",
+        "$30^{\\circ}$ ও $70^{\\circ}$",
+        "$80^{\\circ}$ ও $20^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের কোণগুলোর অনুপাত $1:1:2$ আকারে থাকলে কোন ধরণের ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "স্থূলকোণী",
+        "সমকোণী",
+        "সূক্ষ্মকোণী",
+        "বিষমবাহু"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$ABCD$ সামান্তরিকের $\\angle C = 80^{\\circ}$ হলে $\\angle B =$ কত?",
+      "options": [
+        "$80^{\\circ}$",
+        "$90^{\\circ}$",
+        "$100^{\\circ}$",
+        "$150^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(a-b)^3 = 3\\sqrt{3}$ হলে $a^2 - 2ab + b^2$ এর মান কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$3$",
+        "$3\\sqrt{3}$",
+        "$9$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^3 + \\frac{1}{27}$ এর উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$(a - \\frac{1}{3})$",
+        "$(a + \\frac{1}{3})$",
+        "$(a^2 + \\frac{a}{3} + \\frac{1}{9})$",
+        "$(a^2 - \\frac{a}{9} + \\frac{1}{9})$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$5, 0, 2, 0, 7, 4, 3$ উপাত্তগুলোর—\n$i.$ গড় $3$\n$ii.$ প্রচুরক $0$\n$iii.$ মধ্যক $0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রের ক্ষেত্রে কোনটি প্রবৃদ্ধ কোণ?",
+      "options": [
+        "$X^{\\circ}$",
+        "$Y^{\\circ}$",
+        "$\\angle BOC$",
+        "$\\angle AOC$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_chittagong_city_corporation_inter_school%2Fq07.svg?alt=media&token=4cabb6b5-63ba-4cde-9e6f-0362ee3ce9a7",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{1, 4\\}, B = \\{4, 5\\}, C = \\{5, 7\\}$ হলে—\n$i.$ $(A \\cap B) \\cup C = \\{4, 5, 7\\}$\n$ii.$ $(A \\cup B) \\times C$ এর উপাদান সংখ্যা $6$ টি\n$iii.$ $P(B \\cup C)$ এর উপাদান সংখ্যা $6$ টি\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$\\triangle ABC$ এর পরিকেন্দ্র $O$, $AB = AC$ এবং $\\angle ABC = 55^{\\circ}$ হলে $\\angle BOC$ এর মান কত?",
+      "options": [
+        "$140^{\\circ}$",
+        "$125^{\\circ}$",
+        "$110^{\\circ}$",
+        "$70^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র কোথায় অবস্থিত?",
+      "options": [
+        "ত্রিভুজের অভ্যন্তরে",
+        "ত্রিভুজের বহির্ভাগে",
+        "লম্বের উপর",
+        "অতিভুজের উপর"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "নির্দিষ্ট আয়ত আঁকতে কমপক্ষে কয়টি উপাত্তের প্রয়োজন?",
+      "options": [
+        "৫টি",
+        "৪টি",
+        "৩টি",
+        "২টি"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "দুইটি সংখ্যার অনুপাত $3:4$ এবং সংখ্যা দুইটির সমষ্টি $42$ হলে, বৃহত্তম সংখ্যাটি কত?",
+      "options": [
+        "$12$",
+        "$18$",
+        "$24$",
+        "$42$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি আয়তের সন্নিহিত দুইটি বাহুর দৈর্ঘ্য যথাক্রমে $5$ ও $7$ সে.মি.। অন্তর্ভুক্ত কোণ কত হলে আয়তটি আঁকা যাবে?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin\\theta = \\frac{3}{5}$ হলে—\n$i.$ $\\text{cosec}\\theta = \\frac{5}{3}$\n$ii.$ $\\tan\\theta = \\frac{3}{4}$\n$iii.$ $\\cos\\theta = \\frac{5}{4}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$ii$ ও $iii$",
+        "$i$ ও $ii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{N} : 6 < x < 7\\} =$ কত?",
+      "options": [
+        "$\\emptyset$",
+        "$\\{6\\}$",
+        "$\\{7\\}$",
+        "$\\{6, 7\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$ABCD$ সামান্তরিকে $\\angle B = \\angle 100^{\\circ}$ হলে $\\angle C =$ কত?",
+      "options": [
+        "$70^{\\circ}$",
+        "$80^{\\circ}$",
+        "$50^{\\circ}$",
+        "$40^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_chittagong_city_corporation_inter_school%2Fq16.svg?alt=media&token=ea749cfc-0b3a-4522-8aca-8676d1cf779a",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "দুইটি বর্গের বাহু $a$ ও $b$ একক হলে, তাদের ক্ষেত্রফলের অনুপাত কত?",
+      "options": [
+        "$ab : a^2$",
+        "$a^2 : b^2$",
+        "$\\sqrt{a} : \\sqrt{b}$",
+        "$a^2 : ab^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "একটি কলম $10$ টাকায় ক্রয় করে $10\\%$ লাভে বিক্রয় করলে কলমটির বিক্রয়মূল্য কত টাকা হবে?",
+      "options": [
+        "$11$",
+        "$12$",
+        "$20$",
+        "$21$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\tan\\theta + \\sin\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{27}{20}$",
+        "$\\frac{7}{5}$",
+        "$\\frac{29}{15}$",
+        "$\\frac{29}{12}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_chittagong_city_corporation_inter_school%2Fq19.svg?alt=media&token=b5c541c8-3532-4bb3-b6a7-d0f3202ebc94",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\frac{1 - \\text{sec}\\theta}{1 + \\text{sec}\\theta}$ এর মান কত?",
+      "options": [
+        "$-\\frac{1}{4}$",
+        "$-\\frac{4}{7}$",
+        "$-\\frac{1}{8}$",
+        "$-\\frac{1}{9}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_chittagong_city_corporation_inter_school%2Fq20.svg?alt=media&token=6afdff29-63a8-4ec8-8221-ab79da7ca139",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের কেন্দ্র থেকে বৃহত্তম জ্যা এর লম্ব দূরত্ব কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$(a + \\frac{1}{a}) = 10$ হলে, $(a - \\frac{1}{a})^2$ এর মান কোনটি?",
+      "options": [
+        "$46$",
+        "$96$",
+        "$100$",
+        "$110$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + y = 2, xy = 1$ হলে $(x - y)^2$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সিলিন্ডারের ব্যাস $4$ সে.মি. এবং উচ্চতা $3$ সে.মি. হলে এর আয়তন কত?",
+      "options": [
+        "$48\\pi$ ঘন সে.মি.",
+        "$24\\pi$ ঘন সে.মি.",
+        "$12\\pi$ ঘন সে.মি.",
+        "$6\\pi$ ঘন সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$3x : 5y = 1 : 2$ হলে $x : y = $ কত?",
+      "options": [
+        "$5:6$",
+        "$6:5$",
+        "$3:5$",
+        "$5:12$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কেন্দ্রীয় প্রবণতার পরিমাপ কয়টি?",
+      "options": [
+        "১",
+        "২",
+        "৩",
+        "৪"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a : b = 2 : 3, a : c = 3 : 4$ হলে $b : c = $ কত?",
+      "options": [
+        "$1:2$",
+        "$3:4$",
+        "$8:9$",
+        "$9:8$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের একই চাপের উপর দণ্ডায়মান কেন্দ্রস্থ কোণ $(x + 80)^{\\circ}$ এবং বৃত্তস্থ কোণ $(x + 10)^{\\circ}$ হলে, $x$ এর মান কত?",
+      "options": [
+        "$50^{\\circ}$",
+        "$60^{\\circ}$",
+        "$70^{\\circ}$",
+        "$80^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "দুইটি বৃত্তের পরিধির অনুপাত $3:5$; তাদের ক্ষেত্রফলের অনুপাত কত?",
+      "options": [
+        "$3:5$",
+        "$9:25$",
+        "$5:3$",
+        "$18:45$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি বৃত্তের অন্তর্লিখিত সামান্তরিক একটি—",
+      "options": [
+        "বর্গ",
+        "রম্বস",
+        "আয়ত",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

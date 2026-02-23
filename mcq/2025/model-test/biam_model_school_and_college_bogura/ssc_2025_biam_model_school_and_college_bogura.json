@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_biam_model_school_and_college_bogura",
+    "title": "বিয়াম মডেল স্কুল ও কলেজ, বগুড়া",
+    "titleEn": "বিয়াম মডেল স্কুল ও কলেজ, বগুড়া",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{N} : 9 < x < 10\\}$ এরূপ সেটকে কী বলে?",
+      "options": [
+        "নিচ্ছেদ সেট",
+        "অসীম সেট",
+        "ফাঁকা সেট",
+        "সসীম সেট"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = x^2 - 4x + a$ হলে $a$ এর কোন মানের জন্য $f(-1) = 8$ হবে?",
+      "options": [
+        "$3$",
+        "$5$",
+        "$11$",
+        "$12$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = \\frac{1 + y^2 + y^3}{y^2}$ হলে $f\\left(-\\frac{1}{2}\\right)$ এর মান কত?",
+      "options": [
+        "$\\frac{9}{32}$",
+        "$\\frac{9}{2}$",
+        "$5$",
+        "$20$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a = 2 - \\sqrt{3}$ হলে $a^2 - \\frac{1}{a^2}$ এর মান কোনটি?",
+      "options": [
+        "$-8\\sqrt{3}$",
+        "$4$",
+        "$10$",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$p + \\frac{1}{p} = 0$ হলে $\\sqrt{2}\\left(\\sqrt{p} + \\frac{1}{\\sqrt{p}}\\right)$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x - \\frac{3}{x} = 2$ হলে $\\frac{5}{x^2 - 2x + 2}$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a = -1 - \\frac{1}{b}$ হলে $a^3 + 3a^2 + 3a + 1 = $ কত?",
+      "options": [
+        "$\\frac{1}{b^3}$",
+        "$-\\frac{1}{b^3}$",
+        "$-b^3$",
+        "$b^3$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$\\frac{1}{3}x^2 - 3$ এর উৎপাদকে বিশ্লেষণ নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{3}(x+3)\\left(\\frac{x}{3}-1\\right)$",
+        "$3\\left(\\frac{x}{3}+1\\right)(x-1)$",
+        "$3\\left(\\frac{x}{3}-1\\right)(x+1)$",
+        "$\\frac{1}{3}(x+3)(x-3)$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^2 + \\frac{1}{a^2} = 18$ হলে—\n$i. a - \\frac{1}{a} = 4$\n$ii. \\left(a + \\frac{1}{a}\\right)^2 = 20$\n$iii. a^3 - \\frac{1}{a^3} = 76$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$3 : 8 = x : 32$ হলে $x$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$12$",
+        "$15$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১১ ও ১২) নং প্রশ্নের উত্তর দাও:\n$x = 7 + 4\\sqrt{3}$",
+      "question": "$x^2 + \\frac{1}{x^2}$ এর মান কত?",
+      "options": [
+        "$190$",
+        "$194$",
+        "$198$",
+        "$200$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১১ ও ১২) নং প্রশ্নের উত্তর দাও:\n$x = 7 + 4\\sqrt{3}$",
+      "question": "$\\sqrt{x} - \\frac{1}{\\sqrt{x}}$ এর মান কত?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$4$",
+        "$8\\sqrt{3}$",
+        "$14$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "যদি $\\sec A + \\tan A = \\sqrt{5}$ হয় তবে $\\sin A = $ কত?",
+      "options": [
+        "$\\sqrt{5}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{\\sqrt{5}}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$2\\cos(\\theta - 30^\\circ) = \\sqrt{3}$ হলে $\\theta$ এর মান কত?",
+      "options": [
+        "$90^\\circ$",
+        "$60^\\circ$",
+        "$30^\\circ$",
+        "$0^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot(\\theta - 60^\\circ) = \\sqrt{3}$ হলে $\\cos\\theta = $ কত?",
+      "options": [
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের পরিসীমা $36$ মিটার হলে, বর্গটির একটি কর্ণের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$6\\sqrt{2}$",
+        "$6\\sqrt{3}$",
+        "$9\\sqrt{2}$",
+        "$9\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বৃত্তের পরিধি $14\\pi$ সে.মি. হলে, ঐ বৃত্তের ক্ষেত্রফল কত বর্গসে.মি.?",
+      "options": [
+        "$\\sqrt{7\\pi}$",
+        "$\\sqrt{14\\pi}$",
+        "$49\\pi$",
+        "$196\\pi$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "সময়",
+        "উচ্চতা",
+        "বয়স",
+        "জনসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক শ্রেণির গণসংখ্যা কত?",
+      "options": [
+        "$10$",
+        "$8$",
+        "$6$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_biam_model_school_and_college_bogura%2Fq19.svg?alt=media&token=7ee5bf60-5bbc-42ca-9e5f-784ae5d858c9",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$64.33$",
+        "$57.67$",
+        "$56$",
+        "$51$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_biam_model_school_and_college_bogura%2Fq20.svg?alt=media&token=67d9618b-b4eb-4e0a-b632-a22d15bd0a06",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "বৃত্তের ব্যাসার্ধ দ্বিগুণ করলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+      "options": [
+        "তিনগুণ",
+        "চারগুণ",
+        "আটগুণ",
+        "নয়গুণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ $5$ সে.মি. এবং উচ্চতা $7$ সে.মি. হলে, এর—\n$i.$ ভূমির ক্ষেত্রফল $25\\pi$ বর্গ সে.মি.\n$ii.$ বক্রতলের ক্ষেত্রফল $70\\pi$ বর্গ সে.মি.\n$iii.$ আয়তন $350\\pi$ ঘন সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$26$ সে.মি. ব্যাসবিশিষ্ট বৃত্তের কেন্দ্র থেকে $5$ সে.মি. দূরে অবস্থিত জ্যা এর দৈর্ঘ্য কত?",
+      "options": [
+        "$12$ সে.মি.",
+        "$18$ সে.মি.",
+        "$21$ সে.মি.",
+        "$24$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বর্গে অন্তর্লিখিত বৃত্তের স্পর্শকের সংখ্যা কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "দুইটি বৃত্ত পরস্পরকে ছেদ করলে তাদের মধ্যে সর্বোচ্চ কয়টি সাধারণ স্পর্শক অঙ্কন করা সম্ভব?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ হচ্ছে—",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি রম্বস অঙ্কন করতে ন্যূনতম কয়টি উপাত্ত প্রয়োজন?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "সর্বনিম্ন কয়টি উপাত্ত জানা থাকলে একটি সামান্তরিক অঙ্কন সম্ভব?",
+      "options": [
+        "$6$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$Q = \\{x, y, z\\}$ এবং $R = \\{q, r\\}$ হলে $Q \\setminus R$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$3$ টি",
+        "$4$ টি",
+        "$7$ টি",
+        "$8$ টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "ক্রমযোজিত গণসংখ্যা প্রয়োজন—\n$i.$ মধ্যক নির্ণয়ে\n$ii.$ অজিভ রেখা অঙ্কনে\n$iii.$ প্রচুরক নির্ণয়ে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

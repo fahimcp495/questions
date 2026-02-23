@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_willes_little_flower_school_and_college",
+    "title": "উইল্‌স লিটল ফ্লাওয়ার স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "titleEn": "উইল্‌স লিটল ফ্লাওয়ার স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{x \\in \\mathbb{N} : 6 < x < 7$ এবং $x$ মৌলিক সংখ্যা$\\}$-কে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হয়?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{0\\}$",
+        "$\\{x\\}$",
+        "$\\{6, 7\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a + b = 5, a - b = 3$ হলে, $4ab$ এর মান নিচের কোনটি?",
+      "options": [
+        "$16$",
+        "$25$",
+        "$30$",
+        "$34$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$x + y = 3, x - y = 1$ হলে, $(x, y) = $ কত?",
+      "options": [
+        "$(2, 1)$",
+        "$(1, 2)$",
+        "$(4, 1)$",
+        "$(1, 4)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = \\frac{1 + x^2 + x^4}{x^2}$ এর জন্য নিচের কোনটি প্রযোজ্য?",
+      "options": [
+        "$f(x) = f(x^2)$",
+        "$f(\\frac{1}{x}) = f(x)$",
+        "$f(\\frac{1}{x}) = f(x^2)$",
+        "$f(x^2) = \\{f(x)\\}^2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x = \\sqrt{6} - \\sqrt{5}$ হলে, $x^2 + \\frac{1}{x^2}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$12$",
+        "$18$",
+        "$25$",
+        "$22$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$m + n = \\sqrt{3}$ এবং $m - n = \\sqrt{2}$ হলে, $8mn(m^2 + n^2)$ এর মান কত?",
+      "options": [
+        "$7$",
+        "$5$",
+        "$9$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$S = \\{(x, y) : x \\in A, y \\in A$ এবং $y = x^2\\}$ যেখানে, $A = \\{-3, -2, -1, 0, 1, 2\\}$ সেটটির ডোমেন নিচের কোনটি?",
+      "options": [
+        "$\\{-1, 0, 1\\}$",
+        "$\\{0, 1\\}$",
+        "$\\{0, 1, 2\\}$",
+        "$\\{0, \\pm 1, \\pm 2, -3\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = x^2 - 3x + 2$ হলে $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "$(-1, -2)$",
+        "$(0, -2)$",
+        "$(-1, 0)$",
+        "$(1, 2)$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "তিনটি বাহু ও কয়টি কর্ণের মান জানা থাকলে একটি নির্দিষ্ট চতুর্ভুজ আঁকা সম্ভব?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "প্রত্যেক কর্ণ সামান্তরিককে—",
+      "options": [
+        "দুইটি সমবাহু ত্রিভুজে বিভক্ত করে",
+        "দুইটি সর্বসম ত্রিভুজে বিভক্ত করে",
+        "দুইটি সমান অংশে বিভক্ত করে না",
+        "দুইটি সমদ্বিবাহু ত্রিভুজে বিভক্ত করে না"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "নির্দিষ্ট চতুর্ভুজ অঙ্কনে প্রয়োজন—\n$i.$ চারটি বাহু ও একটি কোণ\n$ii.$ চারটি বাহু ও দুইটি কর্ণ\n$iii.$ তিনটি কোণ ও দুইটি বাহু\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan\\theta = \\frac{3}{4}$ হলে $\\cos^2\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{16}{9}$",
+        "$\\frac{25}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{16}{25}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তের $PA$ স্পর্শক হলে $\\angle PAO$ এর পরিমাণ কত?",
+      "options": [
+        "$60^\\circ$",
+        "$65^\\circ$",
+        "$90^\\circ$",
+        "$180^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৪-১৬) নং প্রশ্নের উত্তর দাও:\nউপরিউক্ত বৃত্তটির জ্যা এর ওপর পতিত লম্বের দৈর্ঘ্য অর্ধ-জ্যা অপেক্ষা $2$ সে.মি. কম। বৃত্তটির ব্যাসার্ধ $10$ সে.মি.।",
+      "question": "$OC$ সমান নিচের কোনটি?",
+      "options": [
+        "$6$ সে.মি.",
+        "$8$ সে.মি.",
+        "$5$ সে.মি.",
+        "$10$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq14.svg?alt=media&token=8bbdf5b8-ee6f-462e-b269-8dc62e9a085e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৪-১৬) নং প্রশ্নের উত্তর দাও:\nউপরিউক্ত বৃত্তটির জ্যা এর ওপর পতিত লম্বের দৈর্ঘ্য অর্ধ-জ্যা অপেক্ষা $2$ সে.মি. কম। বৃত্তটির ব্যাসার্ধ $10$ সে.মি.।",
+      "question": "বৃত্তের ব্যাস নিচের কোনটি?",
+      "options": [
+        "$20$ সে.মি.",
+        "$25$ সে.মি.",
+        "$30$ সে.মি.",
+        "$24$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq15.svg?alt=media&token=22741098-77d3-4e75-9fbb-e6810177b901",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৪-১৬) নং প্রশ্নের উত্তর দাও:\nউপরিউক্ত বৃত্তটির জ্যা এর ওপর পতিত লম্বের দৈর্ঘ্য অর্ধ-জ্যা অপেক্ষা $2$ সে.মি. কম। বৃত্তটির ব্যাসার্ধ $10$ সে.মি.।",
+      "question": "$DC$ সমান কত?",
+      "options": [
+        "$6$ সে.মি.",
+        "$7$ সে.মি.",
+        "$8$ সে.মি.",
+        "$9$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq16.svg?alt=media&token=742672d8-88fe-48fd-b64e-90e415f74fdb",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সামান্তরিকের কোনো এক শীর্ষ বিন্দুগামী বাহুদ্বয় সমান হলে এবং এর একটি কোণও সমকোণ না হলে, তাকে কী বলে?",
+      "options": [
+        "আয়ত",
+        "বর্গ",
+        "রম্বস",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "একটি ত্রিভুজের—\n$i.$ বহির্ভৃত্তগুলো বাহুগুলোকে স্পর্শ করে\n$ii.$ অন্তর্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$iii.$ পরিবৃত্ত বাহুগুলোকে স্পর্শ করে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের পরিবৃত্তের কেন্দ্র—\n$i.$ অতিভুজের ওপর থাকবে যদি তা সমকোণী ত্রিভুজ হয়\n$ii.$ ত্রিভুজের ভিতরে থাকবে যদি তা সূক্ষ্মকোণী ত্রিভুজ হয়\n$iii.$ ত্রিভুজের বাইরে থাকবে যদি তা স্থূলকোণী ত্রিভুজ হয়\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২০-২২) নং প্রশ্নের উত্তর দাও:\nমনে করি, $\\theta = \\angle XOA$ একটি সূক্ষ্মকোণ।",
+      "question": "$OP \\div PM$ প্রকাশক মান নিচের কোনটি?",
+      "options": [
+        "$\\cosec\\theta$",
+        "$\\sec\\theta$",
+        "$\\tan\\theta$",
+        "$\\sin\\theta$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq20.svg?alt=media&token=5c1ad7bb-9675-471d-b149-78e6ddeb0ac4",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২০-২২) নং প্রশ্নের উত্তর দাও:\nমনে করি, $\\theta = \\angle XOA$ একটি সূক্ষ্মকোণ।",
+      "question": "নিচের কোনটি $\\csc\\theta$ এর মান প্রকাশ করে?",
+      "options": [
+        "$1 + \\tan\\theta$",
+        "$\\sqrt{1 + \\cot^2\\theta}$",
+        "$1 + \\cos^2\\theta$",
+        "$\\cot^2\\theta - 1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq21.svg?alt=media&token=d9cab0b0-c4c2-4ce5-9060-138f422af3eb",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২০-২২) নং প্রশ্নের উত্তর দাও:\nমনে করি, $\\theta = \\angle XOA$ একটি সূক্ষ্মকোণ।",
+      "question": "$OP = 2a$ এবং $PM = a$ হলে, $\\cos\\theta$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_willes_little_flower_school_and_college%2Fq22.svg?alt=media&token=f4b9ddde-7c30-4bbb-95a1-219276646a64",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ত্রিভুজের দুই বাহুর দৈর্ঘ্য যথাক্রমে $5$ সে.মি. এবং $10$ সে.মি. এবং এদের অন্তর্ভুক্ত কোণ $30^\\circ$ হলে, ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$8.5$",
+        "$10$",
+        "$12.5$",
+        "$15$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "একটি সমকোণী ত্রিভুজের অতিভুজ $\\sqrt{3}$ মি. এর ভূমি সংলগ্ন কোণ $30^\\circ$ হলে, লম্বের দৈর্ঘ্য কত মি.?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "গুণবাচক নয় এমন সংখ্যাসূচক তথ্যাবলিকে পরিসংখ্যানের ভাষায় কী বলে?",
+      "options": [
+        "কাঁচামাল",
+        "উপাত্ত",
+        "সারণি",
+        "সিদ্ধান্ত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "অনুসন্ধানাধীন উপাত্ত পরিসংখ্যানের কী হিসেবে বিবেচিত?",
+      "options": [
+        "ট্যালি",
+        "কাঁচামাল",
+        "চলক",
+        "ফলাফল"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "উপাত্তসমূহের সারণিভুক্ত করাকে কী বলা হয়?",
+      "options": [
+        "উপাত্তের বিশ্লেষণ",
+        "পরিসর নির্ধারণ",
+        "উপাত্তের উপস্থাপন",
+        "উপাত্তের অনুসন্ধান"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কোনটি অবিন্যস্ত থাকে?",
+      "options": [
+        "অবিচ্ছিন্ন ব্যাপ্তি",
+        "বিচ্ছিন্ন ব্যাপ্তি",
+        "সংখ্যাসূচক তথ্য",
+        "মধ্যক"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কোনো উপাত্তকে সারণিভুক্ত করতে হলে প্রথমে তার কী নির্ধারণ করতে হয়?",
+      "options": [
+        "শ্রেণি ব্যবধান",
+        "পরিসর",
+        "শ্রেণি সংখ্যা",
+        "ট্যালি চিহ্ন"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "নিচের তথ্যগুলো লক্ষ কর:\n$i.$ সংখ্যাসূচক তথ্যাবলি পরিসংখ্যানের উপাত্ত\n$ii.$ অনুসন্ধানাধীন উপাত্ত পরিসংখ্যানের কাঁচামাল\n$iii.$ উপাত্তসমূহের সারণিভুক্ত করা হলো অবিন্যস্তকরণ\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

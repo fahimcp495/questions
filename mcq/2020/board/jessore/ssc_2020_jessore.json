@@ -236,7 +236,7 @@
       "questionNumber": 12,
       "chapterId": "chapter_11",
       "questionPreamble": null,
-      "question": "$j, k, l$ ও $m$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{j}{k} = \\frac{l}{m}$\n$ii.$ $\\frac{j}{k} = \\frac{k}{l}$\n$iii.$ $\\frac{k}{l} = \\frac{l}{m}$\nনিচের কোনটি সঠিক?",
+      "question": "$j, k, l$ ও $m$ ক্রমিক সমানুপাতী হলে$-$\n$i.$  $\\frac{j}{k} = \\frac{l}{m}$\n$ii.$  $\\frac{j}{k} = \\frac{k}{l}$\n$iii.$  $\\frac{k}{l} = \\frac{l}{m}$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$ii$ ও $iii$",

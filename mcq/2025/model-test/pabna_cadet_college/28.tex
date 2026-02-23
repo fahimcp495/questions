@@ -1,0 +1,21 @@
+\documentclass[border=5pt]{standalone}
+
+% Required for Bengali text rendering
+\usepackage{fontspec}
+\usepackage{amsmath}
+\setmainfont{Noto Sans Bengali}
+
+\begin{document}
+
+% arraystretch adds vertical padding inside cells
+\renewcommand{\arraystretch}{1.5}
+
+\begin{tabular}{|c|c|c|c|c|}
+    \hline
+    শ্রেণিব্যাপ্তি & $21-30$ & $31-40$ & $41-50$ & $51-60$ \\
+    \hline
+    গণসংখ্যা & $5$ & $8$ & $10$ & $12$ \\
+    \hline
+\end{tabular}
+
+\end{document}

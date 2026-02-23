@@ -1,0 +1,38 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+    % Define the center point O
+    \coordinate (O) at (0,0);
+
+    % Define ray endpoints based on the image proportions
+    \coordinate (A) at (3,0);
+    \coordinate (B) at (-2.1,1.8);
+    \coordinate (C) at (-3,0);
+
+    % Draw the rays with arrowheads
+    \draw[thick, ->] (O) -- (A) node[right] {A};
+    \draw[thick, ->] (O) -- (B) node[above left] {B};
+    \draw[thick, ->] (O) -- (C) node[left] {C};
+
+    % Label for the center point O
+    \node[below] at (0,-0.1) {O};
+
+    % --- TOP SECTION ---
+    % X degree arc: Spans from Ray A (0°) to Ray B (approx 140°)
+    \draw[thick] (0.6,0) arc (0:140:0.6);
+    % Position label X° above the center of its specific arc
+    \node at (0.45,0.8) {$X^{\circ}$};
+
+    % Note: The segment from B to C (140° to 180°) is intentionally left blank.
+
+    % --- BOTTOM SECTION ---
+    % Y degree arc: A reflex arc starting at Ray A (0°)
+    % It sweeps clockwise through the bottom and ends at Ray B
+    \draw[thick] (0.75,0) arc (360:140:0.75);
+    % Position label Y° at the bottom center of the sweep
+    \node at (0.6,-1.1) {$Y^{\circ}$};
+
+\end{tikzpicture}
+\end{document}
