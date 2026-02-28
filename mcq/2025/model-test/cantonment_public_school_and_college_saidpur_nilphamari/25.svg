@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174.92271pt" height="115.5253pt" viewBox="-72 -72 174.92271 115.5253" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-29.19090270996093,-14.507354736328121)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 M 42.67911 0.0 C 42.67911 23.57132 23.57132 42.67911 0.0 42.67911 C -23.57132 42.67911 -42.67911 23.57132 -42.67911 0.0 C -42.67911 -23.57132 -23.57132 -42.67911 0.0 -42.67911 C 23.57132 -42.67911 42.67911 -23.57132 42.67911 0.0 Z M 0.0 0.0  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 113.81097 0.0 L -24.15337 55.14503  " fill="none"/>
+ <g transform="matrix(-0.92853,0.37112,-0.37112,-0.92853,-24.52477,55.29347)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.56 3.12257 C -2.0923 1.24901 -1.05006 0.3643 0.0 0.0 C -1.05006 -0.3643 -2.0923 -1.24901 -2.56 -3.12257  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 113.81097 0.0 L -24.15337 -55.14503  " fill="none"/>
+ <g transform="matrix(-0.92853,-0.37112,0.37112,-0.92853,-24.52477,-55.29347)">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -2.56 3.12257 C -2.0923 1.24901 -1.05006 0.3643 0.0 0.0 C -1.05006 -0.3643 -2.0923 -1.24901 -2.56 -3.12257  " fill="none"/>
+ </g>
+ </g>
+ </g>
+  </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 21.33955 36.96129  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 21.33955 -36.96129  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 113.81097 0.0 M 99.02672 8.5359 C 95.97763 3.25464 95.97763 -3.25464 99.02672 -8.5359  " fill="none"/>
+ </g>
+ <g transform="translate(17.93677,42.49426)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-25.857574462890618,-14.507354736328121)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-14.507354736328121" x="-25.857574462890618" style="font-family: cmr10;" font-size="10">P</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(17.45065,-49.32758)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-25.857574462890618,-14.507354736328121)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-14.507354736328121" x="-25.857574462890618" style="font-family: cmr10;" font-size="10">Q</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-13.31078,-3.41666)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-25.857574462890618,-14.507354736328121)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-14.507354736328121" x="-25.857574462890618" style="font-family: cmr10;" font-size="10">O</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(119.34395,-3.41666)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-25.857574462890618,-14.507354736328121)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-14.507354736328121" x="-25.857574462890618" style="font-family: cmr10;" font-size="10">M</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(78.0596,-3.44293)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-25.857574462890618,-14.507354736328121)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-14.507354736328121" x="-25.857574462890618" style="font-family: cmr10;" font-size="10">50</text>
+<text alignment-baseline="baseline" y="-18.136276245117184" x="-15.857536315917965" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ </g>
+ </g>
+ </g></g></svg>

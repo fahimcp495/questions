@@ -1,0 +1,35 @@
+\begin{tikzpicture}[scale=1]
+
+    % Define the center of the circle
+    \coordinate (O) at (0,0);
+
+    % Draw the circle
+    \draw[thick] (O) circle (1.5);
+
+    % Define points on the circle
+    \coordinate (P) at (60:1.5);
+    \coordinate (Q) at (300:1.5);
+
+    % Define the external point M
+    \coordinate (M) at (4,0);
+
+    % Draw the lines and segments
+    \draw[thick, ->] (M) -- ($(P)!-0.5!(M)$);
+    \draw[thick, ->] (M) -- ($(Q)!-0.5!(M)$);
+    \draw[thick] (O) -- (P);
+    \draw[thick] (O) -- (Q);
+
+    % Draw the angle arcs
+    % Arc at M
+    \draw[thick] (M) ++(150:0.6) arc (150:210:0.6);
+
+    % Add labels for the points
+    \node[above, yshift=2pt] at (P) {P};
+    \node[below, yshift=-2pt] at (Q) {Q};
+    \node[left, xshift=-2pt] at (O) {O};
+    \node[right, xshift=2pt] at (M) {M};
+
+    % Add angle values
+    \node at (3,0) {$50^{\circ}$};
+
+\end{tikzpicture}
