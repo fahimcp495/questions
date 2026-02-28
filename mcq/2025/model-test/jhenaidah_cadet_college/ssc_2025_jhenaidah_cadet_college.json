@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_jhenaidah_cadet_college",
+    "title": "ঝিনাইদহ ক্যাডেট কলেজ - ২০২৫",
+    "titleEn": "ঝিনাইদহ ক্যাডেট কলেজ - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $2a$ একক হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}a^2$",
+        "$\\frac{\\sqrt{3}}{4}a^2$",
+        "$\\sqrt{3}a$",
+        "$\\sqrt{3}a^2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{6, 7, 8, 9, 10, 11, 12, 13\\}$ হলে $A$ এর কোন উপসেটটি $3$ এর গুণিতক দ্বারা গঠিত?",
+      "options": [
+        "$\\{6, 9, 12\\}$",
+        "$\\{9, 12, 15\\}$",
+        "$\\{6,11\\}$",
+        "$\\{3, 6\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $2$ মিটার। যদি ত্রিভুজের বাহুর দৈর্ঘ্য দ্বিগুণ করা হয় তবে ক্ষেত্রফল বৃদ্ধির পরিমাণ কত বর্গমিটার?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$4\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$A = \\{a, b, c\\}, B = \\{a, b, c, p, q\\}$ হলে—\n$i.$ $A \\backslash B$ একটি ফাঁকা সেট\n$ii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা শূন্য\n$iii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা $1$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{\\emptyset\\}$ সেটটি কি ধরনের সেট?",
+      "options": [
+        "সেট নয়",
+        "ফাঁকা সেট",
+        "পূরক সেট",
+        "ফাঁকা সেটের শক্তি সেট"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{3, 4, 5\\}$ এবং $B = \\{4, 5, 6\\}$ হলে $P(A \\cap B) = $ কত?",
+      "options": [
+        "$\\{\\{4, 5\\}, \\{4\\}, \\{5\\}, 12\\}$",
+        "$\\{\\{4\\}, \\{5\\},\\{4, 5\\},\\emptyset\\}$",
+        "$\\{\\{4, 5\\}, \\{4\\}\\}$",
+        "$\\{\\{4, 5\\}, \\{4\\}, \\{5\\}\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৭ ও ৮) নং প্রশ্নের উত্তর দাও: \n$p - \\frac{1}{p} = 7$",
+      "question": "$(p + \\frac{1}{p})^2 = $ কত?",
+      "options": [
+        "$53$",
+        "$51$",
+        "$47$",
+        "$45$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\frac{p}{p^2 - 6p - 1}$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{12}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$X = \\{a, b\\}, Y = \\{b, c\\}, Z = \\{3, 4\\}$ হলে, $P(X \\cup Y \\cup Z)$ সেটটির উপাদান সংখ্যা কত?",
+      "options": [
+        "$2$",
+        "$8$",
+        "$\\frac{10}{3}$",
+        "$32$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনো উপাত্তকে শ্রেণিবদ্ধ করা হলে প্রতিটি শ্রেণিতে অন্তর্ভুক্ত উপাত্তকে কি বলা হয়?",
+      "options": [
+        "প্রচুরক",
+        "কেন্দ্রীয় প্রবণতা",
+        "গড়",
+        "গণসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": "শুধুমাত্র পরিসীমা দেওয়া থাকলে নিচের কোনটি অঙ্কন করা সম্ভব—\n$i.$ বর্গ\n$ii.$ আয়ত\n$iii.$ সমবাহু ত্রিভুজ",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\frac{x^2}{y^2} + \\frac{y^2}{x^2} = 2$ হলে $\\frac{x}{y} + \\frac{y}{x} = $ কত?",
+      "options": [
+        "$0$",
+        "$\\pm 2$",
+        "$\\pm 1$",
+        "$\\pm 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$2x + \\frac{2}{x} = 3$ হলে $x^2 + \\frac{1}{x^2}$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$1$",
+        "$4$",
+        "$\\frac{2}{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও: \n$\\triangle ABC$ এর বহিঃবৃত্তটির কেন্দ্র $O$.",
+      "question": "$\\triangle ABC$ এর আরো কয়টি বহিঃবৃত্ত অঙ্কন করা সম্ভব?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$3$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jhenaidah_cadet_college%2Fq14.svg?alt=media&token=1d523251-d35c-4033-8515-0f39fd32799b",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle DCO$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}\\angle ABC$",
+        "$\\frac{1}{2}\\angle ACB$",
+        "$\\frac{1}{2}\\angle BAC$",
+        "$\\frac{1}{2}\\angle ACD$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "$\\\\triangle ABC$ এর বহিঃবৃত্তটির চিত্র",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$U = \\{x \\in \\mathbb{N} : 1 < x \\le 12\\}$ এবং $A$ = $\\{x : x$ একটি মৌলিক সংখ্যা$\\}$ হলে নিচের কোনটি তালিকা পদ্ধতিতে $A$ সেটকে নির্দেশ করে?",
+      "options": [
+        "$\\{1, 2, 3, 5, 7, 11\\}$",
+        "$\\{2, 3, 5, 7, 11\\}$",
+        "$\\{2, 3, 5, 7, 11, 17\\}$",
+        "$\\{\\emptyset\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\frac{1 - \\tan^2 60^\\circ}{1 + \\sin^2 60^\\circ} + 2\\sin^2 60^\\circ$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$\\frac{5}{14}$",
+        "$5$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য $4$ মিটার হলে, ত্রিভুজটির ক্ষেত্রফল কত বর্গমিটার?",
+      "options": [
+        "$4\\sqrt{3}$",
+        "$16\\sqrt{3}$",
+        "$\\sqrt{3}$",
+        "$6\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\theta + \\phi = 90^\\circ$ এবং $\\tan \\theta = \\frac{1}{\\sqrt{3}}$ হলে $\\phi = $ কত?",
+      "options": [
+        "$30^\\circ$",
+        "$45^\\circ$",
+        "$18^\\circ$",
+        "$60^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের কেন্দ্রগামী জ্যা এর দৈর্ঘ্য $6$ সে.মি. হলে বৃত্তটির ব্যাসার্ধ কত সে.মি.?",
+      "options": [
+        "$12$",
+        "$6$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{b+c}{a} = \\frac{c+a}{b} = \\frac{a+b}{c}$ এবং $a = b = c$ হলে, প্রতিটি অনুপাতের মান কত?",
+      "options": [
+        "$1$",
+        "$-1$",
+        "$2$",
+        "$5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য $6$ সে.মি. ও $7$ সে.মি. এবং বাহুদ্বয়ের অন্তর্ভুক্ত কোণ $60^\\circ$ হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$10.99$",
+        "$14.92$",
+        "$18.19$",
+        "$36.23$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্তের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব এদের ব্যাসার্ধের সমষ্টির সমান হলে বৃত্তদ্বয়ের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        "দুইটি বৃত্ত সমান",
+        "বৃত্তদ্বয় পরস্পরকে বহিঃস্থভাবে স্পর্শ করে",
+        "বৃত্তদ্বয় পরস্পরকে অন্তঃস্থভাবে স্পর্শ করে",
+        "বৃত্তদ্বয় পরস্পরকে ছেদ করে"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$(x - y)^2$ এর সাথে কত যোগ করলে যোগফল $(x + y)^2$ হবে?",
+      "options": [
+        "$-4xy$",
+        "$4xy$",
+        "$-2xy$",
+        "$2xy$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^6 - y^6$ এর উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$(x^3 + y^3)(x^2 - y^2)$",
+        "$(x^4 + y^4)(x^2 - y^2)$",
+        "$(x^3 + y^3)(x^3 - y^3)$",
+        "$(x^4 + y^4)(x^3 - y^3)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "শ্রেণি মধ্যবিন্দু বরাবর গণসংখ্যা নিয়ে যোগ করে কোন লেখচিত্রটি পাওয়া যাবে?",
+      "options": [
+        "গণসংখ্যা বহুভুজ",
+        "অজিভ রেখা",
+        "আয়তলেখ",
+        "স্তম্ভলেখ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{3m+n}{n-m} = 9$ হলে $m : n = $ কত?",
+      "options": [
+        "$1 : 5$",
+        "$2 : 3$",
+        "$3 : 2$",
+        "$4 : 1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec \\theta = \\sqrt{2}$ হলে $\\operatorname{cosec}(\\theta + 45^\\circ)$ এর মান নিচের কোনটি?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সমবাহু ত্রিভুজের বাহুকে বর্ধিত করে উৎপন্ন বহিঃস্থ কোণের মান কত?",
+      "options": [
+        "$90^\\circ$",
+        "$120^\\circ$",
+        "$110^\\circ$",
+        "$105^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে সামান্তরিকটিতে $x$ এর মান কত ডিগ্রি?",
+      "options": [
+        "$35$",
+        "$41$",
+        "$33$",
+        "$65$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jhenaidah_cadet_college%2Fq30.svg?alt=media&token=a5cea553-85a1-44f2-893f-9f32c84c5fa1",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
