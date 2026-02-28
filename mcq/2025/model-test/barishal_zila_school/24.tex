@@ -1,0 +1,45 @@
+\documentclass[tikz, border=5pt]{standalone}
+\usepackage{fontspec}
+\setmainfont{Noto Sans Bengali}
+
+\begin{document}
+\begin{tikzpicture}[scale=1]
+
+    % Define the center of the circles
+    \coordinate (O) at (0,0);
+
+    % Fill the sector region AOB first so borders draw over it
+    % Using gray!50 to represent the shaded (গাঢ়) region clearly
+    \fill[gray!50] (O) -- (-120:2.4) arc (-120:-60:2.4) -- cycle;
+
+    % Draw the inner circle
+    \draw[thick] (O) circle (2.4);
+
+    % Draw the outer circle 
+    \draw[thick] (O) circle (3.2);
+
+    % Define the points A and B on the inner circle
+    \coordinate (A) at (-120:2.4);
+    \coordinate (B) at (-60:2.4);
+
+    % Draw the boundary radii for the shaded sector
+    \draw[thick] (O) -- (A);
+    \draw[thick] (O) -- (B);
+
+    % Add the labels for the points exactly as shown in the image
+    \node at (0, 0.4) {$O$};
+    \node at (-125:2.8) {$A$};
+    \node at (-55:2.8) {$B$};
+    
+    % Label C is situated in the annular gap in the top-left quadrant
+    \node at (135:2.8) {$C$};
+
+    % Add the measurement labels using math mode numbers and Bengali text
+    % 6 cm is placed inside the sector and shifted further to the right
+    \node[right] at (1.0, -1.2) {$6$ সেমি}; 
+    
+    % 2 cm is placed in the gap and shifted a bit to the right using xshift
+    \node[right, xshift=0.3cm] at (25:2.8) {$2$ সেমি};  
+
+\end{tikzpicture}
+\end{document}
