@@ -1,0 +1,45 @@
+\begin{tikzpicture}[scale=1]
+
+  % Define the center of the circle and its radius
+  \coordinate (O) at (0,0);
+  \def\R{1.2}
+
+  % Draw the circle and fill its center point
+  \draw[thick] (O) circle (\R);
+  \fill (O) circle (1.5pt);
+
+  % Define the external point M. We use the coordinates from the user's final good derivation block.
+  \coordinate (M) at (-3.5, 0.2);
+
+  % Define the points of tangency P and Q. (Angles provide approximate 60° total angle for MP and MQ).
+  \coordinate (P) at (115:\R);
+  \coordinate (Q) at (245:\R);
+
+  % Draw tangent rays from M extending visually past P and Q.
+  \draw[thick] (M) -- ($(M)!1.3!(P)$);
+  \draw[thick] (M) -- ($(M)!1.3!(Q)$);
+
+  % Draw radius lines from the center O to P and Q
+  \draw[thick] (O) -- (P);
+  \draw[thick] (O) -- (Q);
+
+  % Draw angle arc at M to denote the 60° angle.
+  % We calculate the correct angles between the vectors MP and MQ.
+  \draw[thick] (M) let
+      \p1 = ($(P)-(M)$),
+      \p2 = ($(Q)-(M)$),
+      \n1 = {atan2(\y1,\x1)},
+      \n2 = {atan2(\y2,\x2)}
+    in
+      +(\n1:0.6) arc (\n1:\n2:0.6);
+
+  % Add point labels exactly as in the image.
+  \node[left] at (M) {M};
+  \node[above] at (P) {P};
+  \node[below] at (Q) {Q};
+  \node[right] at (O) {O};
+
+  % Add the 60° angle label inside the arc.
+  \node at (-2.5, 0.2) {$60^\circ$};
+
+\end{tikzpicture}

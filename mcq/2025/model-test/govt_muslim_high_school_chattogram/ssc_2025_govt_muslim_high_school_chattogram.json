@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_govt_muslim_high_school_chattogram",
+    "title": "গভ. মুসলিম হাই স্কুল, চট্টগ্রাম - ২০২৫",
+    "titleEn": "গভ. মুসলিম হাই স্কুল, চট্টগ্রাম - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{x \\in \\mathbb{N} : x^2 \\ge 4$ এবং $x^3 < 100\\}$ সেটটির তালিকা পদ্ধতিতে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        "$\\{2, 3, 4\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{3, 4, 5\\}$",
+        "$\\{4, 5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$U$ সেটের উপসেটের সংখ্যা $64$ হলে, $U$ এর সদস্য সংখ্যা কত?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = y^2 - \\left(a + \\frac{1}{a}\\right)y + 1$ হলে $y$ এর কোন মানের জন্য $f(y) = 0$ হবে?",
+      "options": [
+        "$0, a$",
+        "$0, \\frac{1}{a}$",
+        "$a, \\frac{-1}{a}$",
+        "$a, \\frac{1}{a}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^4 - 5x^2 + 1 = 0$ হলে, $x + \\frac{1}{x}$ এর মান কত?",
+      "options": [
+        "7$",
+        "$3$",
+        "$\\sqrt{7}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + \\frac{1}{x} = 0$ হলে, $\\sqrt{2}\\left(\\sqrt{x} + \\frac{1}{\\sqrt{x}}\\right)$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 + \\frac{1}{x^2} = 1$ হলে, $x^3 + \\frac{1}{x^3} = $ কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\frac{1}{2}(p^2 - 5p + 4)$ এর উৎপাদক কোনটি?",
+      "options": [
+        "$\\frac{1}{2}(p-4)(p+1)$",
+        "$\\frac{1}{2}(p+4)(p-1)$",
+        "$\\frac{1}{2}(p-4)(p-1)$",
+        "$(p-4)(p+1)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "সরল মুনাফার ক্ষেত্রে সবৃদ্ধি মূলধন $A$ এর মান নিচের কোনটি?",
+      "options": [
+        "$p(1+r)^n$",
+        "$p(p+nr)$",
+        "$p(1+nr)$",
+        "$p(1+r)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x$ টাকার এক বছরের সরল মুনাফা $x^2$ টাকা হলে, মুনাফার হার কত?",
+      "options": [
+        "$\\frac{x}{50}\\%$",
+        "$\\frac{x}{2}\\%$",
+        "$\\frac{x}{100}\\%$",
+        "$100x\\%$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$1$ ঘন সে.মি. কাঠের ওজন $7$ ডেসিগ্রাম। কাঠের ওজন সমায়তন পানির ওজনের শতকরা কতভাগ?",
+      "options": [
+        "$7$",
+        "$10$",
+        "$30$",
+        "$70$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$5, 10, 8$ এর চতুর্থ সমানুপাতি কোনটি?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$14$",
+        "$16$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "কোনটি সমানুপাত?",
+      "options": [
+        "$1 : 2 = 3 : 4$",
+        "$2 : 5 = 6 : 15$",
+        "$4 : 6 = 9 : 4$",
+        "$10 : 5 = 5 : 10$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{a}{b} = \\frac{b}{c}$ হলে, নিচের যোজন প্রক্রিয়া কোনটি?",
+      "options": [
+        "$\\frac{a+b}{b} = \\frac{b+c}{c}$",
+        "$\\frac{a + b}{a - b} = \\frac{b+ c}{b - c}$",
+        "$\\frac{a}{a+b} = \\frac{b}{b+c}$",
+        "$\\frac{a+b}{b} = \\frac{b+c}{c}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $AB$ জ্যা $= AC$ জ্যা, $\\angle OAC = 30^\\circ$ হলে, $\\angle OAB = $ কত?",
+      "options": [
+        "$60^\\circ$",
+        "$15^\\circ$",
+        "$30^\\circ$",
+        "$20^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq14.svg?alt=media&token=d1d8e17c-98e7-4fa1-b00e-2b22ec6bf21e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "কোনো সমতলে$-$\n$i.$ দুইটি নির্দিষ্ট বিন্দু দিয়ে অসংখ্য বৃত্ত আঁকা যায়\n$ii.$ সমরেখ নয় এমন তিনটি বিন্দু দিয়ে কেবল $১$টি বৃত্ত আঁকা যায়\n$iii.$ বৃত্তের ব্যাস অন্য যেকোনো জ্যা অপেক্ষা বৃহত্তর",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "বৃত্তের$-$\n$i.$ ব্যাসই বৃহত্তম জ্যা\n$ii.$ সকল সমান জ্যা কেন্দ্র থেকে সমদূরবর্তী\n$iii.$ কেন্দ্র থেকে সমদূরবর্তী সকল জ্যা পরস্পর সমান",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $AB = CD$ এবং $OE = 3$ সে.মি. হলে, বৃত্তটির ব্যাস কত সে.মি. হওয়া সম্ভব?",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$10$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq17.svg?alt=media&token=8fb2d89c-9e53-4fb5-bf3e-970b79a11020",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের একই চাপের উপর দণ্ডায়মান বৃত্তস্থ কোণ কেন্দ্রস্থ কোণের কতগুণ?",
+      "options": [
+        "দ্বিগুণ",
+        "তিনগুণ",
+        "অর্ধেক",
+        "একগুণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্র বিশিষ্ট বৃত্তে $OA$ একটি ব্যাসার্ধ, $A$ বিন্দুতে কয়টি স্পর্শক অঙ্কন করা যায়?",
+      "options": [
+        "$4$",
+        "$3$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq19.svg?alt=media&token=bad77685-9653-4d54-b4e1-caefbf29c0f8",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $PM$ ও $QM$ দুইটি স্পর্শক এবং $\\angle PMQ = 60^\\circ$ হলে, $\\angle POQ = $ কত?",
+      "options": [
+        "$300^\\circ$",
+        "$270^\\circ$",
+        "$120^\\circ$",
+        "$90^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq20.svg?alt=media&token=569d51e8-2762-47be-9599-a69ff232df73",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তে একটি চতুর্ভুজ অন্তর্লিখিত হলে বৃত্তটিকে চতুর্ভুজটির কী বলে?",
+      "options": [
+        "অন্তর্বৃত্ত",
+        "পরিবৃত্ত",
+        "বহির্বৃত্ত",
+        "সমবৃত্ত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "কোনো ত্রিভুজের কোণগুলোর অনুপাত $1:1:2$ আকারে থাকলে কোন ধরনের ত্রিভুজ অঙ্কন করা যায়?",
+      "options": [
+        "স্থূলকোণী",
+        "সমকোণী",
+        "সূক্ষ্মকোণী",
+        "বিষমবাহু"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রের ভিত্তিতে $AC$ রেখাংশের দৈর্ঘ্য কত?",
+      "options": [
+        "$a$",
+        "$b$",
+        "$c$",
+        "$\\frac{1}{2}(a+b)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq23.svg?alt=media&token=4ae04fd9-9d3f-419d-9493-bed8e39f4497",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$4\\sin A = 3$ হলে, $\\tan A$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{\\sqrt{7}}{3}$",
+        "$\\frac{3}{\\sqrt{7}}$",
+        "$\\frac{4}{\\sqrt3}$",
+        "$\\frac{\\sqrt{3}}{4}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\operatorname{cosec}\\theta = \\frac{a}{b}$ হলে, $\\tan\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{b}{\\sqrt{a^2-b^2}}$",
+        "$\\frac{\\sqrt{a^2-b^2}}{b}$",
+        "$\\frac{\\sqrt{a^2+b^2}}{b}$",
+        "$\\frac{b}{\\sqrt{a^2+b^2}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\cot(A + 30^\\circ) = 0$ হলে, $\\sin A = $ কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{2}$",
+        "$0$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য $6$ সে.মি. হলে, তার পরিসীমা কত সে.মি.?",
+      "options": [
+        "$3\\sqrt{2}$",
+        "$6\\sqrt{2}$",
+        "$8\\sqrt{2}$",
+        "$12\\sqrt{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "একটি সমবৃত্তভূমিক বেলনের উচ্চতা $1$ মিটার হলে এবং ভূমির ব্যাস $2$ মিটার হলে, এর$-$\n$i.$ বক্রতলের ক্ষেত্রফল $6.2832$ বর্গমিটার\n$ii.$ আয়তন $3.1416$ ঘনমিটার\n$iii.$ ভূমির ক্ষেত্রফল $3.1416$ বর্গমিটার",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$13, 11, 8, 9, 15, 5$ সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$8.5$",
+        "$9$",
+        "$10$",
+        "$10.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$25$টি পরিবারের সন্তান সংখ্যা জরিপ করে প্রাপ্ত ফলাফল নিচের সারণির অনুরূপ:\nনিচের কোন সংখ্যাটি ঐ সব পরিবারের সন্তানের সংখ্যার সঠিক গড়?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "Note: There is a mismatch between answer key and mathematical correctness for question 13, where option (ঘ) is 'যোজন-বিয়োজন' but the question asks for 'যোজন'. The JSON strictly follows the provided answer key.",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_muslim_high_school_chattogram%2Fq30.svg?alt=media&token=e7e8443e-9434-4ea5-bcd9-c4ed882cfd06",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
