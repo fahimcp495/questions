@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi",
+    "title": "নাছিমা কাদির মোল্লা হাই স্কুল এন্ড হোমস, নরসিংদী - ২০২৫",
+    "titleEn": "নাছিমা কাদির মোল্লা হাই স্কুল এন্ড হোমস, নরসিংদী - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x+y = \\sqrt{8}, x-y = \\sqrt{5}$ হলে-\n$i.\\ xy$ এর মান $\\frac{3}{4}$\n$ii.\\ x^2 + y^2$ এর মান $\\frac{13}{2}$\n$iii.\\ x^2 - y^2$ এর মান $\\sqrt{40}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + \\frac{1}{a} = \\sqrt{5}$ হলে, $\\left(a - \\frac{1}{a}\\right)^2$ এর মান কত?",
+      "options": [
+        "$10$",
+        "$6$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 + y^2 = 5xy$ হলে, $\\frac{x^2}{y^2} + \\frac{y^2}{x^2}$ এর মান কত?",
+      "options": [
+        "$14$",
+        "$23$",
+        "$25$",
+        "$30$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$5\\%$ হার মুনাফায় $5000$ টাকার $3$ বছরের চক্রবৃদ্ধি মূলধন কত?",
+      "options": [
+        "$788.125$",
+        "$4788.125$",
+        "$5788.125$",
+        "$6788.125$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $2 : 3$ এবং ল.সা.গু. $90$ হলে, গ.সা.গু. কত?",
+      "options": [
+        "$15$",
+        "$14$",
+        "$12$",
+        "$9$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$x : y = 3 : 4, y : z = 5 : 4$ হলে, $x : y : z = $ কত?",
+      "options": [
+        "$20 : 15 : 16$",
+        "$16 : 15 : 20$",
+        "$15 : 20 : 16$",
+        "$20 : 16 : 15$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য $20\\%$ বৃদ্ধি ও প্রস্থ $20\\%$ হ্রাস পেলে আয়তক্ষেত্রের ক্ষেত্রফল শতকরা কত বৃদ্ধি বা হ্রাস পাবে?",
+      "options": [
+        "$4\\%$ বৃদ্ধি",
+        "$4\\%$ হ্রাস",
+        "$1\\%$ বৃদ্ধি",
+        "$1\\%$ হ্রাস"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "নিচের কোন যুগল কোণ দ্বারা সমদ্বিবাহু ত্রিভুজ আঁকা যাবে?",
+      "options": [
+        "$36^{\\circ}$ ও $70^{\\circ}$",
+        "$75^{\\circ}$ ও $30^{\\circ}$",
+        "$63^{\\circ}$ ও $34^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "রম্বসের দুইটি কর্ণ $12$ সে.মি. ও $16$ সে.মি. হলে, পরিসীমা কত সে.মি.?",
+      "options": [
+        "$20$",
+        "$30$",
+        "$40$",
+        "$50$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_07",
+      "questionPreamble": "একটি ত্রিভুজ আঁকার জন্য প্রয়োজন-\n$i.$ দুইটি কোণ ও একটির বিপরীত বাহু।\n$ii.$ দুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণ।\n$iii.$ দুইটি সূক্ষ্মকোণ ও তাদের সংলগ্ন বাহু।",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": "বৃত্তের ক্ষেত্রে-\n$i.$ যেকোনো জ্যা এর লম্ব সমদ্বিখণ্ডক কেন্দ্রগামী।\n$ii.$ কেন্দ্র থেকে সমদূরবর্তী সকল জ্যা পরস্পর সমান।\n$iii.$ একই চাপে দণ্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের অর্ধেক।",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের অধিচাপে দণ্ডায়মান বৃত্তস্থ কোণ-",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $x$ এর মান কত?",
+      "options": [
+        "$80^{\\circ}$",
+        "$70^{\\circ}$",
+        "$60^{\\circ}$",
+        "$50^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq13.svg?alt=media&token=f286e2e3-cf48-4f71-80a5-70ba0cc4d8e2",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $O$ কেন্দ্রবিশিষ্ট বৃত্তে $\\angle ACB$ এর সম্পূরক কোণ কত?",
+      "options": [
+        "$130^{\\circ}$",
+        "$120^{\\circ}$",
+        "$60^{\\circ}$",
+        "$40^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq14.svg?alt=media&token=1e950ef0-fc78-4eb9-98ef-d9c77c6babea",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$P(A)$ এর উপাদান সংখ্যা $ = \\frac{2}{2^{1-2n}}$ হলে, $A$ এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$-2n$",
+        "$n$",
+        "$2n$",
+        "$2^n$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $A, B, C$ কেন্দ্রবিশিষ্ট তিনটি বৃত্তের ব্যাস যথাক্রমে $6$ সে.মি., $8$ সে.মি. ও $10$ সে.মি.। $ABC$ ত্রিভুজের পরিসীমা কত?",
+      "options": [
+        "$15$ সে.মি.",
+        "$18$ সে.মি.",
+        "$24$ সে.মি.",
+        "$30$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq16.svg?alt=media&token=912ba79a-c423-4eb0-864d-6dc979eb774a",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\theta$ কোণের মান কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq17.svg?alt=media&token=55dc1be0-3f40-415f-b889-e4970e59e82b",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\triangle DGF$-এ $\\cos F = $ কত?",
+      "options": [
+        "$2\\sqrt{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{6}$",
+        "$\\frac{1}{\\sqrt{3}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "DGF একটি সমকোণী ত্রিভুজ যার $\\angle G = 90^{\\circ}$। G, F রেখাংশের উপর E একটি বিন্দু। $DG = 2$, $DE = 2\\sqrt{2}$ এবং $\\angle DFE = 30^{\\circ}$। $\\angle EDF$ কে $\\theta$ দ্বারা চিহ্নিত করা হয়েছে।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গক্ষেত্রের ক্ষেত্রফল $400$ বর্গ সে.মি. হলে, বর্গটির পরিবৃত্তের ব্যাস কত সে.মি.?",
+      "options": [
+        "$2\\sqrt{10}$",
+        "$20\\sqrt{2}$",
+        "$10\\sqrt{2}$",
+        "$2\\sqrt{20}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "একটি ঘনকের ধার $3$ সে.মি. হলে ঘনকের-\n$i.$ আয়তন $27$ ঘন সে.মি.\n$ii.$ কর্ণের দৈর্ঘ্য $3\\sqrt{3}$ সে.মি.\n$iii.$ সম্পূর্ণ তলের ক্ষেত্রফল $54$ বর্গ সে.মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২১ ও ২২) নং প্রশ্নের উত্তর দাও:\nচিত্রে, $ABCD$ একটি আয়ত, $AD = 8$ সে.মি., $AB = 6$ সে.মি., $\\angle BEC = 90^\\circ$ এবং $BE = CE$",
+      "question": "$\\triangle BEC$ এর পরিসীমা কত?",
+      "options": [
+        "$11.32$ সে.মি.",
+        "$14.32$ সে.মি.",
+        "$17.32$ সে.মি.",
+        "$19.32$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq21.svg?alt=media&token=b2252ccd-67ed-4d18-9e17-d1efcb1b6f1c",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২১ ও ২২) নং প্রশ্নের উত্তর দাও:\nচিত্রে, $ABCD$ একটি আয়ত, $AD = 8$ সে.মি., $AB = 6$ সে.মি., $\\angle BEC = 90^\\circ$ এবং $BE = CE$",
+      "question": "চিত্রে গাঢ় চিহ্নিত অংশের ক্ষেত্রফল কত?",
+      "options": [
+        "$30.54$ বর্গ সে.মি.",
+        "$65.09$ বর্গ সে.মি.",
+        "$78.54$ বর্গ সে.মি.",
+        "$126.54$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "O কেন্দ্রবিশিষ্ট একটি বৃত্তে ABCD আয়তক্ষেত্রটি অন্তর্লিখিত। আয়তক্ষেত্রের AD = $8$ সে.মি., AB = $6$ সে.মি.। বৃত্তের পরিধির উপর E একটি বিন্দু যেখানে $\\angle BEC = 90^{\\circ}$ এবং BE = CE। বৃত্তের যে অংশ আয়তক্ষেত্রের বাইরে তা গাঢ় করে চিহ্নিত।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = \\frac{4y+1}{4y-1}$ হলে, $\\frac{f(\\frac{1}{y})+1}{f(\\frac{1}{y})-1}$ এর মান কত?",
+      "options": [
+        "$y$",
+        "$\\frac{1}{y}$",
+        "$\\frac{3}{y}$",
+        "$\\frac{4}{y}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "সুষম বহুভুজের প্রতিটি অন্তঃস্থ কোণ $135^{\\circ}$ হলে, কর্ণের সংখ্যা কত?",
+      "options": [
+        "$6$টি",
+        "$12$টি",
+        "$20$টি",
+        "$54$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "পাশের চিত্রে $AB = 10$ সে.মি. এবং $OA = 7$ সে.মি. হলে, $\\triangle AOB$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$10\\sqrt{6}$",
+        "$70$",
+        "$2\\sqrt{6}$",
+        "$6\\sqrt{10}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq25.svg?alt=media&token=5653dd95-b5b5-45eb-bf28-0a78805ffb0a",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "পাশের চিত্র অনুযায়ী $\\angle AED$ এর পরিমাণ কত?",
+      "options": [
+        "$65^{\\circ}$",
+        "$70^{\\circ}$",
+        "$75^{\\circ}$",
+        "$80^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq26.svg?alt=media&token=73090751-3bb7-4536-bf10-ab309c3625e5",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": "পাশের চিত্রে-\n$i.\\ x = 45^{\\circ}$\n$ii.\\ \\text{cosec}(x+y) = \\frac{2}{\\sqrt{3}}$\n$iii.\\ (x+y) : (x-y) = 1 : 3$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq27.svg?alt=media&token=12182980-a31f-46dd-9b80-60f74d5c41cd",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের উচ্চতা $\\frac{5\\sqrt{3}}{2}$ একক হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        "$\\frac{9\\sqrt{3}}{4}$",
+        "$\\frac{25\\sqrt{3}}{4}$",
+        "$\\frac{5\\sqrt{3}}{4}$",
+        "$\\frac{5\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক শ্রেণির পরের শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$62.5$",
+        "$44.5$",
+        "$50.5$",
+        "$56.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_nachima_kadir_molla_high_school_and_homes_narsingdi%2Fq29.svg?alt=media&token=cae3c098-0a19-465e-9873-8d2c2a26787a",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক শ্রেণির ক্রমযোজিত গণসংখ্যা কত?",
+      "options": [
+        "$23$",
+        "$13$",
+        "$27$",
+        "$35$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
