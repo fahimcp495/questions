@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_motijheel_ideal_school_and_college",
+    "title": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা - ২০২৫",
+    "titleEn": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্য $10\\%$ ক্ষতিতে বিক্রয় করা হলে, বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত হবে?",
+      "options": [
+        "$9 : 10$",
+        "$10 : 9$",
+        "$11 : 9$",
+        "$5 : 6$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\sin(90^\\circ - \\theta) = \\frac{\\sqrt{3}}{2}$ হলে—\n$i. \\theta = 60^\\circ$\n$ii. \\cos 3\\theta\\ = 0$\n$iii. 1 + \\tan^2 \\theta = \\frac{4}{3}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "নিচের কোন তথ্য দেওয়া থাকলে রম্বস অঙ্কন করা যায়?",
+      "options": [
+        "রম্বসের পরিসীমা",
+        "বাহুর দৈর্ঘ্য",
+        "একটি কর্ণের দৈর্ঘ্য",
+        "একটি কর্ণ ও একটি বাহুর দৈর্ঘ্য"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপে অন্তলিখিত কোণ—",
+      "options": [
+        "স্থূলকোণ",
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "প্রবৃদ্ধকোণ"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য সে.মি. এককে দেওয়া হলো। নিচের কোন ক্ষেত্রে ত্রিভুজ অঙ্কন করা যায়?",
+      "options": [
+        "$5, 6, 18$",
+        "$6, 7, 19$",
+        "$7, 8, 17$",
+        "$9, 6, 13$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $O$ বৃত্তের কেন্দ্র। $\\angle AOC = 100^\\circ$ হলে, $\\angle ABC = $ কত?",
+      "options": [
+        "$50^\\circ$",
+        "$90^\\circ$",
+        "$130^\\circ$",
+        "$150^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_motijheel_ideal_school_and_college%2Fq06.svg?alt=media&token=083f3878-fd20-4850-a3dd-b60f49882c19",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$30^\\circ$ ও $50^\\circ$",
+        "$30^\\circ$ ও $60^\\circ$",
+        "$40^\\circ$ ও $50^\\circ$",
+        "$45^\\circ$ ও $45^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\tan\\theta = \\frac{1}{\\sqrt{3}}$ হলে, $\\sin\\theta = $ কত?",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\theta = 0^\\circ$ কোণের ক্ষেত্রে—\n$i. \\text{cosec } \\theta$ ও $\\cot\\theta$ এর মান অসংজ্ঞায়িত\n$ii. \\sec\\theta$ ও $\\tan\\theta$ এর মান সংজ্ঞায়িত\n$iii.$ প্রান্তীয় বাহু ও আদি বাহু একই রশ্মি",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের এক বাহুর দৈর্ঘ্য $a$ সে.মি. হলে, বর্গটির কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$a^2$",
+        "$a\\sqrt{2}$",
+        "$2a^2$",
+        "$4a^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল $4\\sqrt{3}$ বর্গমিটার হলে, এর বাহুর দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "$16$",
+        "$4$",
+        "$\\frac{\\sqrt{3}}{4}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_15",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১২ ও ১৩) নং প্রশ্নের উত্তর দাও \nচিত্রে $ABCD$ একটি সামান্তরিক যার $\\angle DOC = 90^\\circ$, $DC = 5$ সে.মি. ও $OC = 4$ সে.মি.",
+      "question": "$BD$ এর মান কত সে.মি.?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$8$",
+        "$10$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_motijheel_ideal_school_and_college%2Fq12.svg?alt=media&token=a70f437f-9338-43e9-a13a-cceb79986742",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_15",
+      "questionPreamble": null,
+      "question": "$ABCD$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$48$",
+        "$25$",
+        "$24$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": "সামান্তরিক $ABCD$ এর কর্ণদ্বয় পরস্পরকে $O$ বিন্দুতে ছেদ করেছে",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$a : b = 2 : 1$ এবং $b : c = 2 : 1$ হলে—\n$i. a, b, c$ ক্রমিক সমানুপাতিক\n$ii. c : a = 1 : 4$\n$iii. b^2 + ca = 2bc$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$ii$ ও $iii$",
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$p^2 = 13 + \\sqrt{168}$ হলে, $\\frac{1}{p}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\sqrt{7} - \\sqrt{6}$",
+        "$\\sqrt{7} + \\sqrt{6}$",
+        "$\\sqrt{13} + 42$",
+        "$\\sqrt{13} - 42$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$5$ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের কেন্দ্র থেকে কোনো জ্যা এর উপর অঙ্কিত লম্বের দৈর্ঘ্য $3$ সে.মি.। ঐ জ্যা এর দৈর্ঘ্য কত?",
+      "options": [
+        "$16$ সে.মি.",
+        "$10$ সে.মি.",
+        "$8$ সে.মি.",
+        "$6$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "তাপমাত্রা",
+        "বয়স",
+        "উচ্চতা",
+        "জনসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৮ - ২০) নং প্রশ্নের উত্তর দাও :\n$1$ থেকে $30$ এর মধ্যে মৌলিক সংখ্যাগুলোর—",
+      "question": "মধ্যক কত?",
+      "options": [
+        "$12$",
+        "$13$",
+        "$19$",
+        "$23$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "পরিসর কত?",
+      "options": [
+        "$25$",
+        "$27$",
+        "$28$",
+        "$30$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "গাণিতিক গড় কত?",
+      "options": [
+        "$9.05$",
+        "$10.7$",
+        "$11.5$",
+        "$12.9$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{1, 2, 3, 4\\}$ হলে, $A$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$4$",
+        "$14$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{3, 5\\}, B = \\{1, 3, 4\\}$ হলে $B \\setminus A = $ কত?",
+      "options": [
+        "$\\{1, 4\\}$",
+        "$\\{1, 3\\}$",
+        "$\\{3, 4\\}$",
+        "$\\{1, 5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "যদি $f(x) = 3x^2 + 4kx$ হয় তবে $k$ এর কোন মানের জন্য $f(-2) = 0$ হবে?",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{-3}{2}$",
+        "$-3$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$U = \\{2, 6, 7\\}, A = \\{2, 7\\}, B = \\{2, 6\\}$\n$i. A \\cup B = U$\n$ii. A' \\cap B = B$\n$iii. (A')' = A$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a + b = \\sqrt{5}, a - b = 1$ হলে, $2(a^2 + b^2)$ এর মান নিচের কোনটি?",
+      "options": [
+        "$6$",
+        "$4$",
+        "$\\sqrt{5} + 1$",
+        "$\\sqrt{5} - 1$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$x + \\frac{1}{x} = \\sqrt{5}$ হলে—\n$i. x^2 - \\sqrt{5}x = -1$\n$ii. x - \\frac{1}{x} = 1$\n$iii. x^2 + \\frac{1}{x^2} = 5$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$ii$ ও $iii$",
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২৭ ও ২৮) নং প্রশ্নের উত্তর দাও : \n$x^4 + 1 = 3x^2$ হলে,",
+      "question": "$x - \\frac{1}{x} = $ কত?",
+      "options": [
+        "$-\\sqrt{3}$",
+        "$\\sqrt{3}$",
+        "$3$",
+        "$1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^3 + \\frac{1}{x^3} = $ কত?",
+      "options": [
+        "$3\\sqrt{5}$",
+        "$2\\sqrt{5}$",
+        "$0$",
+        "$-6\\sqrt{5}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$p, q, r$ ক্রমিক সমানুপাতী হলে, $\\frac{p^2 + q^2}{q^2 + r^2} = $ কত?",
+      "options": [
+        "$\\frac{r}{p}$",
+        "$\\frac{q}{p}$",
+        "$\\frac{p}{r}$",
+        "$\\frac{q}{r}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$x : y = 5 : 6$ হলে, $3x : 5y = $ কত?",
+      "options": [
+        "$1 : 2$",
+        "$2 : 1$",
+        "$6 : 5$",
+        "$2 : 3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
