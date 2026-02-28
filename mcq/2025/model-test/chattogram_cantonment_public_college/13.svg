@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184.87425pt" height="113.0947pt" viewBox="-72 -72 184.87425 113.0947" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-25.857574462890618,-15.722656249999996)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 M 42.67911 0.0 C 42.67911 23.57132 23.57132 42.67911 0.0 42.67911 C -23.57132 42.67911 -42.67911 23.57132 -42.67911 0.0 C -42.67911 -23.57132 -23.57132 -42.67911 0.0 -42.67911 C 23.57132 -42.67911 42.67911 -23.57132 42.67911 0.0 Z M 0.0 0.0  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 124.7903 0.0 L -25.08176 54.54686  " fill="none"/>
+ <g transform="matrix(-0.9397,0.342,-0.342,-0.9397,-25.08176,54.54684)">
+ <path d=" M 4.6799 0.0 C 3.29324 0.26 1.03998 1.03998 -0.51999 1.94995 L -0.51999 -1.94995 C 1.03998 -1.03998 3.29324 -0.26 4.6799 0.0  " stroke="none"/>
+  </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 124.7903 0.0 L -25.08176 -54.54686  " fill="none"/>
+ <g transform="matrix(-0.9397,-0.342,0.342,-0.9397,-25.08176,-54.54684)">
+ <path d=" M 4.6799 0.0 C 3.29324 0.26 1.03998 1.03998 -0.51999 1.94995 L -0.51999 -1.94995 C 1.03998 -1.03998 3.29324 -0.26 4.6799 0.0  " stroke="none"/>
+  </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 14.59714 40.10544 L 0.0 0.0 L 14.59714 -40.10544  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 14.59714 40.10544 L 14.59714 -40.10544  " fill="none"/>
+ </g>
+ <g transform="translate(-11.31078,-3.41666)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-22.52424621582031,-15.722656249999996)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-15.722656249999996" x="-22.52424621582031" style="font-family: cmr10;" font-size="10">O</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(10.84714,43.63841)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-22.52424621582031,-15.722656249999996)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-15.722656249999996" x="-22.52424621582031" style="font-family: cmr10;" font-size="10">A</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(11.05547,-50.47173)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-22.52424621582031,-15.722656249999996)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-15.722656249999996" x="-22.52424621582031" style="font-family: cmr10;" font-size="10">B</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(128.32327,-3.41666)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-22.52424621582031,-15.722656249999996)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-15.722656249999996" x="-22.52424621582031" style="font-family: cmr10;" font-size="10">P</text>
+</g> </g>
+ </g></g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 M 3.89218 -10.69452 C 9.79866 -8.5448 12.84395 -2.01382 10.69423 3.89265 C 9.54375 7.05342 7.05295 9.54422 3.89218 10.6947  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g></g></svg>

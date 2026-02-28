@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.61096pt" height="127.91023pt" viewBox="-72 -72 114.61096 127.91023" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-14.964523315429684,-1.6652526855468746)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 M 56.90549 0.0 C 56.90549 31.42844 31.42844 56.90549 0.0 56.90549 C -31.42844 56.90549 -56.90549 31.42844 -56.90549 0.0 C -56.90549 -31.42844 -31.42844 -56.90549 0.0 -56.90549 C 31.42844 -56.90549 56.90549 -31.42844 56.90549 0.0 Z M 0.0 0.0  " fill="none"/>
+ </g>
+ <path d=" M 0.0 0.0 M 1.5 0.0 C 1.5 0.82843 0.82843 1.5 0.0 1.5 C -0.82843 1.5 -1.5 0.82843 -1.5 0.0 C -1.5 -0.82843 -0.82843 -1.5 0.0 -1.5 C 0.82843 -1.5 1.5 -0.82843 1.5 0.0 Z M 0.0 0.0  " stroke="none"/>
+ <g transform="translate(-3.8889,3.53297)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmr10;" font-size="10">O</text>
+</g> </g>
+ </g></g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 51.21501 L -42.67911 -37.55782  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 51.21501 L 42.67911 -37.55782  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L -42.67911 -37.55782  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 42.67911 -37.55782  " fill="none"/>
+ </g>
+ <g transform="translate(-3.75,60.43846)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmr10;" font-size="10">A</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-53.29543,-47.9241)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmr10;" font-size="10">B</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(46.21208,-47.9241)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmr10;" font-size="10">C</text>
+</g> </g>
+ </g></g>
+ <g stroke-width="0.8">
+ <path d=" M -8.5359 34.1432 C -3.25464 31.09412 3.25464 31.09412 8.5359 34.1432  " fill="none"/>
+ </g>
+ <g transform="translate(-2.6389,37.6809)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmr10;" font-size="10">x</text>
+</g> </g>
+ </g></g>
+ <g stroke-width="0.8">
+ <path d=" M -19.91682 -17.07181 C -14.03703 -24.07887 -4.86255 -27.41849 4.14586 -25.83015 C 10.0741 -24.78494 15.44635 -21.68288 19.31541 -17.07181  " fill="none"/>
+ </g>
+ <g transform="translate(-16.26733,-34.32446)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-11.631195068359373,-1.6652526855468746)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="-1.6652526855468746" x="-11.631195068359373" style="font-family: cmmi10;" font-size="10">x</text>
+<text alignment-baseline="baseline" y="-1.6652526855468746" x="-3.6937427520751944" style="font-family: cmr10;" font-size="10">+</text>
+<text alignment-baseline="baseline" y="-1.6652526855468746" x="6.3062305450439435" style="font-family: cmr10;" font-size="10">20</text>
+<text alignment-baseline="baseline" y="-5.294174194335937" x="16.306268692016598" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ </g>
+ </g>
+ </g></g></svg>
