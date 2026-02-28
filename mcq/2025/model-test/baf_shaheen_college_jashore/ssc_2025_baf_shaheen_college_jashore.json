@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_baf_shaheen_college_jashore",
+    "title": "বাংলাদেশ বিমান বাহিনী শাহীন কলেজ, যশোর - ২০২৫",
+    "titleEn": "বাংলাদেশ বিমান বাহিনী শাহীন কলেজ, যশোর - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^4 + 5x + 3$ হলে, $f(-2)$ এর মান কত?",
+      "options": [
+        "$-23$",
+        "$-17$",
+        "$1$",
+        "$9$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{3, 4, 5\\}$ সেটটির উপসেট কয়টি?",
+      "options": [
+        "$3$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{3, 4, 5\\}$ এবং $B = \\{1, 2, 3\\}$ হলে, $A \\setminus B = $ কত?",
+      "options": [
+        "$\\{1, 2, 4, 5\\}$",
+        "$\\{1, 2\\}$",
+        "$\\{4, 5\\}$",
+        "$\\{3, 4, 5\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + y = 2, xy = 1$ হলে, $(x - y)^2$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$6$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^3 - 2x - 4$ রাশির উৎপাদক কোনটি?",
+      "options": [
+        "$x - 4$",
+        "$x - 2$",
+        "$x + 2$",
+        "$x + 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^2 - 5 - 2\\sqrt{6} = 0$ হলে, $x$ এর মান কোনটি?",
+      "options": [
+        "$\\sqrt{3} + \\sqrt{2}$",
+        "$\\sqrt{3} - \\sqrt{2}$",
+        "$(\\sqrt{3} + \\sqrt{2})^2$",
+        "$\\sqrt{(\\sqrt{3} - \\sqrt{2})}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + y = \\sqrt{7}$ এবং $x - y = \\sqrt{6}$ হলে, $x^2 + y^2$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\frac{13}{2}$",
+        "$13$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "যদি $a^2 - \\sqrt{2}a + 1 = 0$ হয় তবে—\n$i.$ $a + \\frac{1}{a} = \\sqrt{2}$\n$ii.$ $a^2 + \\frac{1}{a^2} = 2$\n$iii.$ $a^3 + \\frac{1}{a^3} = -\\sqrt{2}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "বার্ষিক শতকরা $5$ টাকা হারে $500$ টাকার $3$ বছরের সরল মুনাফা কত?",
+      "options": [
+        "$15$ টাকা",
+        "$45$ টাকা",
+        "$60$ টাকা",
+        "$75$ টাকা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$5, 10, 8$ এর চতুর্থ সমানুপাতী কোনটি?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$14$",
+        "$16$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$a, b, c$ ক্রমিক সমানুপাতী হলে—\n$i.$ $b^2 = ac$\n$ii.$ $2b = a + c$\n$iii.$ $\\frac{a + b}{b} = \\frac{b + c}{c}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বর্গক্ষেত্রের পরিসীমা ও কর্ণের দৈর্ঘ্যের অনুপাত কত?",
+      "options": [
+        "$2\\sqrt{2} : 4$",
+        "$2\\sqrt{2} : 3$",
+        "$2\\sqrt{2} : 2$",
+        "$2\\sqrt{2} : 1$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_16",
+      "questionPreamble": "একটি বর্গের বাহুর দৈর্ঘ্য $80$ মি.। এর প্রত্যেক বাহুর দৈর্ঘ্য $10\\%$ বাড়লে—\n$i.$ প্রত্যেক বাহুর দৈর্ঘ্য হবে $88$ মি.\n$ii.$ এর ক্ষেত্রফল বাড়বে $21\\%$\n$iii.$ এর কর্ণের দৈর্ঘ্য বাড়বে $10\\sqrt{2}$ মি.",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$a : b = c : d$ হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        "$bc = ad$",
+        "$ab = cd$",
+        "$abc = d$",
+        "$bcd = a$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য কতটি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+      "options": [
+        "$3$ টি",
+        "$4$ টি",
+        "$5$ টি",
+        "$6$ টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "অর্ধবৃত্ত অপেক্ষা ছোট চাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "সরলকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তে $p$ একটি বহিঃস্থ বিন্দু এবং $P$ বিন্দু থেকে $PA$ ও $PB$ দুইটি স্পর্শক",
+      "question": "কোনটি সঠিক?",
+      "options": [
+        "$OP = PA$",
+        "$PA = PB$",
+        "$AO^2 + OB^2 = AB^2$",
+        "$PA = PM$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_baf_shaheen_college_jashore%2Fq17.svg?alt=media&token=1de19944-e4ca-4ec2-afdd-fd5316881bdc",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তে $p$ একটি বহিঃস্থ বিন্দু এবং $P$ বিন্দু থেকে $PA$ ও $PB$ দুইটি স্পর্শক",
+      "question": "$\\angle OPA$-এর সমান কোণ কোনটি?",
+      "options": [
+        "$\\angle OAP$",
+        "$\\angle OPB$",
+        "$\\angle AOP$",
+        "$\\angle BOP$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $P$ একটি বহিঃস্থ বিন্দু এবং $P$ বিন্দু থেকে $PA$ ও $PB$ দুইটি স্পর্শক।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের কোনো চাপের উপর দণ্ডায়মান কেন্দ্রস্থ $\\angle BOC = 120^{\\circ}$ হলে, ঐ একই চাপের উপর দণ্ডায়মান বৃত্তস্থ $\\angle BAC$ এর মান কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$240^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক আঁকা যায়?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "অর্ধবৃত্তস্থ কোণ $=$ কত?",
+      "options": [
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$",
+        "$270^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$10$ সে.মি. ব্যাস ও $4$ সে.মি. ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করেছে। এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "options": [
+        "$1$ সে.মি.",
+        "$4$ সে.মি.",
+        "$5$ সে.মি.",
+        "$9$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুইটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        "$30^{\\circ}$ ও $60^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$",
+        "$45^{\\circ}$ ও $45^{\\circ}$",
+        "$50^{\\circ}$ ও $30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের কয়টি বহির্বৃত্ত অঙ্কন করা যায়?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "কোনো চতুর্ভুজের পরিসীমা ও একটি কোণ $60^{\\circ}$ দেওয়া আছে। নিচের কোনটি আঁকা সম্ভব?",
+      "options": [
+        "সামান্তরিক",
+        "রম্বস",
+        "আয়ত",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২৬ ও ২৭) নং প্রশ্নের উত্তর দাও:\n$\\triangle ABC$-এ $\\angle B = 90^{\\circ}$ এবং $AB = 1$ একক।",
+      "question": "$AC$-এর পরিমাণ কত?",
+      "options": [
+        "$0$ একক",
+        "$1$ একক",
+        "$\\sqrt{2}$ একক",
+        "$2$ একক"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_baf_shaheen_college_jashore%2Fq26.svg?alt=media&token=c38989ac-d4b3-47ee-8187-b57dab2af0a8",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২৬ ও ২৭) নং প্রশ্নের উত্তর দাও:\n$\\triangle ABC$-এ $\\angle B = 90^{\\circ}$ এবং $AB = 1$ একক।",
+      "question": "$x$-এর মান কত?",
+      "options": [
+        "$0^{\\circ}$",
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "চিত্রে $\\triangle ABC$-এ $\\angle B = 90^{\\circ}$, $AB = 1$ একক এবং $BC = \\sqrt{3}$ একক। $\\angle A = x+y$ এবং $\\angle C = x-y$।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ $3$ সে.মি. ও উচ্চতা $7$ সে.মি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত?",
+      "options": [
+        "$9\\pi$ বর্গ সে.মি.",
+        "$21\\pi$ বর্গ সে.মি.",
+        "$42\\pi$ বর্গ সে.মি.",
+        "$63\\pi$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের পরিধি $14\\pi$ সে.মি. হলে, ঐ বৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        "$\\sqrt{7}\\pi$ বর্গ সে.মি.",
+        "$\\sqrt{14}\\pi$ বর্গ সে.মি.",
+        "$49\\pi$ বর্গ সে.মি.",
+        "$196\\pi$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "তাপমাত্রা",
+        "পাখির সংখ্যা",
+        "বয়স",
+        "উচ্চতা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
