@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_joypurhat_girls_cadet_college",
+    "title": "জয়পুরহাট গার্লস ক্যাডেট কলেজ - ২০২৫",
+    "titleEn": "জয়পুরহাট গার্লস ক্যাডেট কলেজ - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "কোনো সেটের শক্তি সেটের উপাদান সংখ্যা $32$ হলে সেটির উপাদান সংখ্যা কত?",
+      "options": [
+        "$16$",
+        "$6$",
+        "$5$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "স্বাধীন চলকের সেট নিচের কোনটি?",
+      "options": [
+        "ডোমেন",
+        "রেঞ্জ",
+        "কো-ডোমেন",
+        "ফাংশন"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\sqrt{p} + \\frac{1}{\\sqrt{p}} = 2$ হলে $\\sqrt{p} - \\frac{1}{\\sqrt{p}} = $ ?",
+      "options": [
+        "$0$",
+        "$\\sqrt{2}$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_05",
+      "questionPreamble": null,
+      "question": "একটি নৌকা স্রোতের অনুকূলে প্রতি ঘণ্টায় $15$ কি.মি. যায় এবং স্রোতের প্রতিকূলে $5$ ঘণ্টায় $25$ কি.মি. যায়। স্রোতের বেগ ঘণ্টায় কত কি.মি.?",
+      "options": [
+        "$5$",
+        "$10$",
+        "$15$",
+        "$20$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য (একই এককে) দেওয়া থাকলে নিচের কোন ক্ষেত্রে একটি ত্রিভুজ অঙ্কন করা যাবে?",
+      "options": [
+        "$2.4, 4, 6.2$",
+        "$2.5, 4, 6.5$",
+        "$2, 4.5, 6.8$",
+        "$2.9, 4.1, 7.2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$6$ সে.মি., $8$ সে.মি. ও $10$ সে.মি. দৈর্ঘ্যের বাহুবিশিষ্ট ত্রিভুজের পরিব্যাসার্ধ কত সে.মি.?",
+      "options": [
+        "$10$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের চিত্রানুসারে ($7$ ও $8$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\triangle ADE$ কি ধরনের ত্রিভুজ?",
+      "options": [
+        "সমবাহু ত্রিভুজ",
+        "বিষমবাহু ত্রিভুজ",
+        "স্থূলকোণী ত্রিভুজ",
+        "সমদ্বিবাহু ত্রিভুজ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_joypurhat_girls_cadet_college%2Fq07.svg?alt=media&token=f7595d50-0a58-4f21-b54d-f07ebaa2c910",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের চিত্রানুসারে ($7$ ও $8$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\angle ABC = 35^\\circ$ এবং $\\angle ACB = 30^\\circ$ হলে $\\angle DAE = $ ?",
+      "options": [
+        "$65^\\circ$",
+        "$50^\\circ$",
+        "$35^\\circ$",
+        "$25^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_joypurhat_girls_cadet_college%2Fq07.svg?alt=media&token=f7595d50-0a58-4f21-b54d-f07ebaa2c910",
+      "imageCaption": "একটি ত্রিভুজ ABC যার অভ্যন্তরে DE সমান্তরাল BC এবং বাহুতে টিক চিহ্ন দেওয়া",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_02",
+      "questionPreamble": "$A, B$ এর প্রকৃত উপসেট হলে$-$\n$i.$ $A \\cap B = A$\n$ii.$ $A \\cup B = B$\n$iii.$ $A \\setminus B = 0$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$2 + \\tan^2 A = 5$ হলে $A$ এর মান কত?",
+      "options": [
+        "$0^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$60^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$35 - 2x - x^2$ এর উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$5 + x$",
+        "$x - 7$",
+        "$5 - x$",
+        "$-x - 5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$x : y = 1 : 2$ হলে $3x : 4y = $ ?",
+      "options": [
+        "$3 : 4$",
+        "$3 : 8$",
+        "$4 : 3$",
+        "$3 : 6$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 2$ এবং এদের ল.সা.গু. $42$ হলে গ.সা.গু কত?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$6$",
+        "$7$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^4 + x^2 y^2 + y^4 = 3$ এবং $x^2 + xy + y^2 = 3$ হলে $x^2 + y^2 = $ ?",
+      "options": [
+        "$6$",
+        "$4$",
+        "$2$",
+        "$1$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "বিক্রয়মূল্য, ক্রয়মূল্যের দ্বিগুণ হলে মুনাফার হার কত?",
+      "options": [
+        "$50\\%$",
+        "$100\\%$",
+        "$200\\%$",
+        "$400\\%$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তের বহিঃস্থ কোনো বিন্দু $C$ হতে বৃত্তের উপরস্থ $A$ ও $B$ বিন্দুতে স্পর্শক অঙ্কন করা হলো। $\\angle ACB = 30^\\circ$ হলে $\\angle AOB = $ ?",
+      "options": [
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$120^\\circ$",
+        "$150^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে এদের মধ্যে সর্বোচ্চ কয়টি সাধারণ স্পর্শক থাকবে?",
+      "options": [
+        "একটি",
+        "দুইটি",
+        "তিনটি",
+        "অসংখ্য"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "উপরোক্ত চিত্রে $O$ বিন্দুটির নাম কী?",
+      "options": [
+        "লম্বকেন্দ্র",
+        "অন্তঃকেন্দ্র",
+        "বহিঃকেন্দ্র",
+        "পরিকেন্দ্র"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_joypurhat_girls_cadet_college%2Fq18.svg?alt=media&token=06f8cead-f03f-4382-b69d-60643ac7e715",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "উপরের চিত্রে, $O$ কেন্দ্রবিশিষ্ট বৃত্তে প্রবৃদ্ধ $\\angle AOB = 272^\\circ$ হলে $\\angle ACB = $ ?",
+      "options": [
+        "$136^\\circ$",
+        "$120^\\circ$",
+        "$88^\\circ$",
+        "$44^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_joypurhat_girls_cadet_college%2Fq19.svg?alt=media&token=7c1eebbf-24b3-49fd-b94f-10179f6860f9",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "$\\cot \\theta = \\sqrt{3}$ হলে$-$\n$i.$ $\\tan \\theta = \\frac{1}{\\sqrt{3}}$\n$ii.$ $\\sec \\theta = 2 \\tan \\theta$\n$iii.$ $4 \\sin \\theta = \\frac{1}{\\cos 2\\theta}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{x + y}{2z} = \\frac{y + z}{2x} = \\frac{z + x}{2y}$ হলে প্রতিটি অনুপাতের মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$",
+        "$0$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ঘনকের আয়তন এবং সমগ্রতলের ক্ষেত্রফল সংখ্যাগতভাবে সমান হলে ঘনকের এক বাহুর দৈর্ঘ্য কত একক?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$6$",
+        "$9$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec^2 \\theta + \\tan^2 \\theta = 3$ হলে $\\text{cosec} \\theta$ এর মান কত? (যেখানে $\\theta$ সূক্ষ্মকোণ)",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\sqrt{2}$",
+        "$1$",
+        "$\\frac{1}{\\sqrt{32}}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$10$ জন কর্মীর মঙ্গলবার দিনের মজুরি$-$ $150, 130, 145, 170, 140, 190, 180, 165, 175, 200$ উপাত্তগুলোর পরিসর কত?",
+      "options": [
+        "$69$",
+        "$70$",
+        "$71$",
+        "$75$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "উচ্চতাগুলোর মধ্যক কত?",
+      "options": [
+        "$125$",
+        "$130$",
+        "$135$",
+        "$140$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_joypurhat_girls_cadet_college%2Fq25.svg?alt=media&token=3389a6c3-d6c3-4e10-9b84-f77cc10cb118",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$4A = 8B = 8C$ হলে $A : B : C = $ ?",
+      "options": [
+        "$4 : 8 : 8$",
+        "$2 : 1 : 1$",
+        "$1 : 2 : 2$",
+        "$2 : 4 : 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সিলিন্ডারের ব্যাসার্ধ $3$ সে.মি. এবং উচ্চতা $10$ সে.মি. হলে সিলিন্ডারটির বক্রতলের ক্ষেত্রফল কত?",
+      "options": [
+        "$62.63$ সে.মি.$^2$",
+        "$94.25$ সে.মি.$^2$",
+        "$188.49$ সে.মি.$^2$",
+        "$376.99$ সে.মি.$^2$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ব্যাস $16$ সে.মি. এবং বৃত্তচাপ কেন্দ্রে $56^\\circ$ কোণ উৎপন্ন করে। বৃত্তাংশটির ক্ষেত্রফল বর্গ সে.মি. তে কত?",
+      "options": [
+        "$7.82$",
+        "$15.6$",
+        "$31.3$",
+        "$62.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$ABCDEF$ ষড়ভুজটিতে $AB = BC = CD = DE = EF = FA = 2$ সে.মি. হলে ষড়ভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$6\\sqrt{3}$",
+        "$\\frac{6}{\\sqrt{3}}$",
+        "$2\\sqrt{3}$",
+        "$\\frac{2}{\\sqrt{3}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "বয়স, উচ্চতা, ওজনের জন্য ব্যবহৃত চলক—",
+      "options": [
+        "বিচ্ছিন্ন",
+        "অবিচ্ছিন্ন",
+        "পূর্ণসংখ্যা",
+        "মূলদ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
