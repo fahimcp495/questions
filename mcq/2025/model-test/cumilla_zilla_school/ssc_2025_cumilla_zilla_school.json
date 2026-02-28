@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_cumilla_zilla_school",
+    "title": "কুমিল্লা জিলা স্কুল - ২০২৫",
+    "titleEn": "কুমিল্লা জিলা স্কুল - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{x \\in \\mathbb{N} : x^2 > 9$ এবং $x^3 < 220\\}$ সেটের তালিকা পদ্ধতিতে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        "$\\{4, 5, 6\\}$",
+        "$\\{3, 4, 5, 6\\}$",
+        "$\\{4, 5\\}$",
+        "$\\{3, 4, 5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{a, b, c, d\\}$ হলে, $P(A)$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$13$",
+        "$14$",
+        "$15$",
+        "$16$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "যদি $f(x) = x^3 + px^2 - 6x - 9$ হলে, $p$ এর কোন মানের জন্য $f(-1) = 0$ হবে?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$-3$",
+        "$-4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "$a^2 + b^2 = 9$ এবং $ab = 3$ হলে,\n$i.$ $(a - b)^2 = 3$\n$ii.$ $(a + b)^2 = 15$\n$iii.$ $a^2 + b^2 + a^2b^2 = 18$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও:\n$x^3 + \\frac{1}{x^3} = 0$",
+      "question": "$\\left(x + \\frac{1}{x}\\right)^2$ এর মান কত?",
+      "options": [
+        "$3$",
+        "$\\sqrt{3}$",
+        "$-3$",
+        "$-\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাও:\n$x^3 + \\frac{1}{x^3} = 0$",
+      "question": "$x^2 + \\frac{1}{x^2}$ এর মান কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$-1$",
+        "$2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x) = x^2 - (a + b)x + ab$ এবং $f(x) = 0$ হলে, $x = $ কত?",
+      "options": [
+        "$a, b$",
+        "$-a, -b$",
+        "$\\frac{1}{a}, \\frac{1}{b}$",
+        "$-\\frac{1}{a}, -\\frac{1}{b}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$a, b, c$ ক্রমিক সমানুপাতিক হলে—\n$i.$ $a : b = b : c$\n$ii.$ $b^2 = ac$\n$iii.$ $a^2 = bc$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্যের ক্রয়মূল্য : বিক্রয়মূল্য $= 5 : 6$ হলে, কোনটি সঠিক?",
+      "options": [
+        "$20\\%$ ক্ষতি",
+        "$20\\%$ লাভ",
+        "$25\\%$ ক্ষতি",
+        "$25\\%$ লাভ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$25\\%$ লাভে ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        "$5 : 4$",
+        "$4 : 3$",
+        "$4 : 5$",
+        "$3 : 4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "দুটি বৃত্তের ক্ষেত্রফলের অনুপাত $49 : 81$ হলে, তাদের ব্যাসের অনুপাত কত?",
+      "options": [
+        "$7 : 9$",
+        "$9 : 7$",
+        "$7 : 3$",
+        "$3 : 7$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": "$a : b = c : d$ হলে,\n$i.$ $\\frac{a+b}{b} = \\frac{c+d}{d}$\n$ii.$ $\\frac{a-b}{b} = \\frac{c-d}{d}$\n$iii.$ $\\frac{a+b}{a-b} = \\frac{c+d}{c-d}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{a}{2} = \\frac{b}{3} = \\frac{c}{4}$ হলে, কোনটি সঠিক?",
+      "options": [
+        "$a : b : c = 2 : 3 : 4$",
+        "$a : b : c = 4 : 3 : 2$",
+        "$a : b : c = 8 : 9 : 6$",
+        "$a : b : c = 6 : 8 : 9$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুটি সংখ্যার অনুপাত $7 : 5$ এবং এদের গ.সা.গু $6$ হলে, এদের ল.সা.গু কত?",
+      "options": [
+        "$120$",
+        "$140$",
+        "$240$",
+        "$210$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি রম্বস আঁকতে কমপক্ষে কতটি উপাত্ত প্রয়োজন?",
+      "options": [
+        "$2$টি",
+        "$3$টি",
+        "$4$টি",
+        "$5$টি"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "শুধু পরিসীমা দেওয়া থাকলে কোনটি আঁকা সম্ভব?",
+      "options": [
+        "সামান্তরিক",
+        "আয়ত",
+        "রম্বস",
+        "বর্গ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭-১৯) নং প্রশ্নের উত্তর দাও:\n$\\triangle ABC$-এ, $AB = AC = BC = 6$ সে.মি. এবং $AD \\perp BC$",
+      "question": "$\\angle BAC$ এর মান কত?",
+      "options": [
+        "$40^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭-১৯) নং প্রশ্নের উত্তর দাও:\n$\\triangle ABC$-এ, $AB = AC = BC = 6$ সে.মি. এবং $AD \\perp BC$",
+      "question": "$AD$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$3\\sqrt{3}$",
+        "$3\\sqrt{6}$",
+        "$4\\sqrt{3}$",
+        "$2\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৭-১৯) নং প্রশ্নের উত্তর দাও:\n$\\triangle ABC$-এ, $AB = AC = BC = 6$ সে.মি. এবং $AD \\perp BC$",
+      "question": "$\\triangle ABC$-এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$6\\sqrt{3}$",
+        "$3\\sqrt{6}$",
+        "$9\\sqrt{3}$",
+        "$9\\sqrt{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ—",
+      "options": [
+        "স্থূলকোণ",
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "সরলকোণ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ বৃত্তের কেন্দ্র $AB$ ব্যাস ভিন্ন জ্যা, $OD \\perp AB$, $OA = 10$ সে.মি., $AD = x$ সে.মি. এবং $OD = (x - 2)$ সে.মি.।\n$i.$ $AD = BD$\n$ii.$ $AB = 16$ সে.মি.\n$iii.$ $OD = 6$ সে.মি.\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "$O$ কেন্দ্রবিশিষ্ট বৃত্তের বহিঃস্থ বিন্দু $P$ হতে বৃত্তে $PA$ এবং $PB$ স্পর্শক, $AB$ স্পর্শ জ্যা এবং $OP, AB$ কে $M$ বিন্দুতে ছেদ করলে—\n$i.$ $PA = PB$\n$ii.$ $AM = BM$\n$iii.$ $\\angle AMP = 90^{\\circ}$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$ABC$ সমবাহু ত্রিভুজের পরিকেন্দ্র $O$ হলে, $\\angle BOC = $ কত ডিগ্রী?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও:\n$AB = 24$ সে.মি. এবং $OM = 5$ সে.মি. । $ ON, AB$ এর লম্ব সমদ্বিখণ্ডক",
+      "question": "বৃত্তটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$25\\pi$",
+        "$144\\pi$",
+        "$150\\pi$",
+        "$169\\pi$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_cumilla_zilla_school%2Fq24.svg?alt=media&token=da30efd3-f7fb-42d5-a571-9cb1d1a552d0",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্রের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও:\n$AB = 24$ সে.মি. এবং $OM = 5$ সে.মি. । $ ON, AB$ এর লম্ব সমদ্বিখণ্ডক",
+      "question": "$MN$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$8$",
+        "$4$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে AB জ্যা এবং OM $\\perp$ AB। OM রেখাংশকে বর্ধিত করলে তা বৃত্তটিকে N বিন্দুতে ছেদ করে। $AB = 24$ সে.মি. এবং $OM = 5$ সে.মি.। $ON, AB$ এর লম্ব সমদ্বিখণ্ডক।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": "চিত্রের ক্ষেত্রে—\n$i.$ $AC = 2$\n$ii.$ $\\theta = 30^{\\circ}$\n$iii.$ $\\angle A = 3\\theta$",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_cumilla_zilla_school%2Fq26.svg?alt=media&token=35625235-9435-4485-a362-0791f5e7b059",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin\\theta = \\frac{1}{2}$ হলে, $\\cot\\theta = $ কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$-\\sqrt{3}$",
+        "$-\\frac{1}{\\sqrt{3}}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "ঘনকের কর্ণের দৈর্ঘ্য $8\\sqrt{3}$ সে.মি. হলে, এর পৃষ্ঠতলের কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$3\\sqrt{2}$",
+        "$8\\sqrt{2}$",
+        "$4\\sqrt{2}$",
+        "$4\\sqrt{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$1$ থেকে $20$ পর্যন্ত মৌলিক সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$9$",
+        "$11$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "বর্গের বাহুর দৈর্ঘ্য $20\\%$ বৃদ্ধি পেলে এর ক্ষেত্রফল বৃদ্ধি—",
+      "options": [
+        "$20\\%$",
+        "$24\\%$",
+        "$34\\%$",
+        "$44\\%$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": null,
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
