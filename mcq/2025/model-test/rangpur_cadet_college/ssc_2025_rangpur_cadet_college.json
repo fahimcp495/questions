@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_rangpur_cadet_college",
+    "title": "রংপুর ক্যাডেট কলেজ - ২০২৫",
+    "titleEn": "রংপুর ক্যাডেট কলেজ - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$U = \\{1, 2, 3, 4, 5, 6, 7, 8, 9\\}, A = \\{1, 2, 3, 4\\}$ এবং $B = \\{2, 3, 5\\}$ হলে $A^c - B^c$ এর মান কত?",
+      "options": [
+        "$\\{1, 4\\}$",
+        "$\\{1, 2, 8\\}$",
+        "$\\{1, 2, 3\\}$",
+        "$\\{5\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^8 - a^4 - 2$ এর উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$(a^4 + 1)$",
+        "$(a^4 - 1)$",
+        "$(a^4 + 2)$",
+        "$(a^4 + 1)(a^4 + 2)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x - \\frac{2}{x} = 2m$ হলে $\\frac{6m}{x^2 - 2mx - 1}$ এর মান কত?",
+      "options": [
+        "$-6m$",
+        "$-3m$",
+        "$3m$",
+        "$6m$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{2, 3, 5\\}$ এবং $R = \\{(x, y) : x \\in A, y \\in A$ এবং $y = x - 1\\}$ হলে $R$ অন্বয়টি নিচের কোনটি?",
+      "options": [
+        "$\\{(2, 3)\\}$",
+        "$\\{(3, 2)\\}$",
+        "$\\{(3, 3)\\}$",
+        "$\\{(5, 5)\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "কোনো একটি পাত্রে দুধ ও পানির অনুপাত $5 : 2$। দুধের পরিমাণ পানির চেয়ে $6$ লিটার বেশি হলে পানির পরিমাণ কত লিটার?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$10$",
+        "$14$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো একটি বৃত্তচাপ বৃত্তের কেন্দ্রে $60^{\\circ}$ কোণ উৎপন্ন করে এবং বৃত্তের উপরস্থ $P$ বিন্দুতে $30^{\\circ}$ কোণ উৎপন্ন করে। $P$ বিন্দুটির অবস্থান কোথায়?",
+      "options": [
+        "উপচাপে",
+        "অধিচাপে",
+        "কেন্দ্রে",
+        "জ্যা এর মধ্যবিন্দুতে"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৭$ ও $৮$) নং প্রশ্নের উত্তর দাও:\nO কেন্দ্র বিশিষ্ট বৃত্তে AB একটি জ্যা এবং OP লম্ব AB। বৃত্তের উপর C একটি বিন্দু।",
+      "question": "$BC = 10$ সে.মি. এবং $AB = 8$ সে.মি. হলে $OP$ এর মান কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$5$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rangpur_cadet_college%2Fq07.svg?alt=media&token=8c8348e9-68e2-44d3-9e1f-5a18a9ef0c7d",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৭$ ও $৮$) নং প্রশ্নের উত্তর দাও:",
+      "question": "বৃত্তটির কেন্দ্র $O$, $BC = 10$ সে.মি. এবং $PB = 4$ সে.মি. হলে $\\Delta AOP$ এর পরিসীমা কত সে.মি.?",
+      "options": [
+        "$12$",
+        "$13$",
+        "$16$",
+        "$24$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rangpur_cadet_college%2Fq08.svg?alt=media&token=ec8c25d9-22e3-43e6-81a1-0ddd16d8dcff",
+      "imageCaption": "O কেন্দ্র বিশিষ্ট বৃত্তে AB একটি জ্যা এবং OP লম্ব AB। বৃত্তের উপর C একটি বিন্দু।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$(6x - y, 13) = (1, 3x + 2y)$ হলে $(x, y)$ এর মান কত?",
+      "options": [
+        "$(1, 5)$",
+        "$(5, 1)$",
+        "$(2, 5)$",
+        "$\\{1, 5\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "$10$ সে.মি. অতিভুজ ও $6$ সে.মি. বাহুবিশিষ্ট একটি সমকোণী ত্রিভুজ অঙ্কন করতে অতিভুজ অঙ্কনের আগে কোনটি করতে হবে?",
+      "options": [
+        "একটি প্রান্তে $45^{\\circ}$ কোণ অঙ্কন করা",
+        "একটি প্রান্তে লম্ব অঙ্কন করে $6$ সে.মি. চিহ্নিত করা",
+        "মধ্যবিন্দু থেকে উচ্চতা অঙ্কন করা",
+        "মধ্যবিন্দু থেকে $6$ সে.মি. ব্যাসার্ধবিশিষ্ট বৃত্তচাপ অঙ্কন করা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$\\frac{a}{b} = \\frac{c}{d} = \\frac{e}{f} = \\frac{4}{9}$ হলে $\\frac{a + c + e}{b + d + f}$ এর মান কত?",
+      "options": [
+        "$\\frac{4}{9}$",
+        "$\\frac{2}{3}$",
+        "$2$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো বর্গের ক্ষেত্রফল $16$ বর্গ সে.মি. হলে বর্গের কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$4$",
+        "$\\frac{4}{\\sqrt{2}}$",
+        "$4\\sqrt{2}$",
+        "$8\\sqrt{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে অঙ্কিত স্পর্শকদ্বয়ের মধ্যে অন্তর্ভুক্ত কোণ $70^{\\circ}$ হলে স্পর্শবিন্দুদ্বয় দ্বারা আবদ্ধ কেন্দ্রস্থ কোণ কত?",
+      "options": [
+        "$70^{\\circ}$",
+        "$110^{\\circ}$",
+        "$140^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "কোনো জমিতে সেচের আগের ও পরের ধান উৎপাদনের অনুপাত $5 : 7$। পূর্বে জমিটিতে ধান উৎপাদনের পরিমাণ $305$ কুইন্টাল হলে সেচের পরে ধান উৎপাদনের পরিমাণ কত কুইন্টাল?",
+      "options": [
+        "$217.86$",
+        "$427$",
+        "$472$",
+        "$477.94$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "কোনো স্থূলকোণী ত্রিভুজ অঙ্কন করতে স্থূলকোণ ব্যতীত অপর কোণদ্বয় নিচের কোনটি হবে?",
+      "options": [
+        "$30^{\\circ}$ এবং $60^{\\circ}$",
+        "$40^{\\circ}$ এবং $50^{\\circ}$",
+        "$45^{\\circ}$ এবং $45^{\\circ}$",
+        "$50^{\\circ}$ এবং $30^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "প্রচুরক শ্রেণির পূর্বের শ্রেণির মধ্যমান কত?",
+      "options": [
+        "$95.5$",
+        "$82.5$",
+        "$85.5$",
+        "$75.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rangpur_cadet_college%2Fq16.svg?alt=media&token=a6653534-97db-4954-90c0-682fc5014d69",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৭$ ও $১৮$) নং প্রশ্নের উত্তর দাও:\n$\\frac{\\sec^2 A}{\\text{cosec}^2 A} = \\frac{1}{3}$",
+      "question": "$\\frac{\\text{cosec} 2A - \\sec 2A}{\\text{cosec} 2A + \\sec 2A}$ এর মান কত?",
+      "options": [
+        "$\\frac{\\sqrt{5} + \\sqrt{3}}{2}$",
+        "$\\sqrt{3} - 2$",
+        "$2 - \\sqrt{3}$",
+        "$\\frac{\\sqrt{5} - \\sqrt{3}}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৭$ ও $১৮$) নং প্রশ্নের উত্তর দাও:\n$\\frac{\\sec^2 A}{\\text{cosec}^2 A} = \\frac{1}{3}$",
+      "question": "$\\tan A$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^3 - b^3 = 513$ এবং $a - b = 3$ হলে $5ab$ এর মান কত?",
+      "options": [
+        "$54$",
+        "$90$",
+        "$162$",
+        "$270$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো সুষম ষড়ভুজের শীর্ষবিন্দুতে উৎপন্ন কোণ কত?",
+      "options": [
+        "$45^{\\circ}$",
+        "$120^{\\circ}$",
+        "$135^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সিলিন্ডারের বক্রতলের ক্ষেত্রফল $4400$ বর্গ সে.মি.। সিলিন্ডারটির উচ্চতা $30$ সে.মি. হলে, ভূমির ব্যাসার্ধ কত?",
+      "options": [
+        "$7823.591$ সে.মি.",
+        "$7883.591$ সে.মি.",
+        "$46.34267$ সে.মি.",
+        "$23.34267$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x + \\frac{1}{x} = 5$ হলে$-$\n$i.$ $x^2 - \\frac{1}{x^2} = 5\\sqrt{21}$\n$ii.$ $x^3 + \\frac{1}{x^3} = 110$\n$iii.$ $x^2 - 5x - 1 = 0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "নিচের কোনটি নির্ণয়ের জন্য $F_c$ প্রয়োজন হয়?",
+      "options": [
+        "গড়",
+        "মধ্যক",
+        "প্রচুরক",
+        "পরিসর"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cos^2 A \\sqrt{\\sec^2 A - 1} = ?$",
+      "options": [
+        "$1$",
+        "$\\cos A$",
+        "$\\cos A \\sin A$",
+        "$\\cos A \\tan A$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রটিতে\n$i.$ $\\cos A = \\sin C$\n$ii.$ $\\cot C = \\frac{\\sqrt{3}}{2}$\n$iii.$ $\\sec A - \\cos A = \\frac{3}{2}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rangpur_cadet_college%2Fq25.svg?alt=media&token=ec91ac2d-0165-4744-ad47-d6cf1fb4d815",
+      "imageCaption": "একটি সমকোণী ত্রিভুজ ABC, যেখানে কোণ B = 90 ডিগ্রী, লম্ব AB = 1, অতিভুজ AC = 2",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো একটি বৃত্তের ক্ষেত্রফল বর্গক্ষেত্রের ক্ষেত্রফলের সমান হলে এদের পরিসীমার অনুপাত কত?",
+      "options": [
+        "$\\pi : 2$",
+        "$2 : \\pi$",
+        "$2 : \\sqrt{\\pi}$",
+        "$\\sqrt{\\pi} : 2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ থেকে $25$ পর্যন্ত স্বাভাবিক সংখ্যাগুলোর মধ্যে $3$ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$12$",
+        "$13.5$",
+        "$15$",
+        "$16.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "অজিভ রেখা অঙ্কনে $y$ অক্ষ বরাবর নিচে কোনটি নেওয়া হয়?",
+      "options": [
+        "গণসংখ্যা",
+        "মধ্যমান",
+        "শ্রেণির উচ্চসীমা",
+        "ক্রমযোজিত গণসংখ্যা"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin 4A = \\cos 5A$ হলে $A$ এর মান কত?",
+      "options": [
+        "$10^{\\circ}$",
+        "$20^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কোনো গণসংখ্যা সারণির প্রচুরক $42.666$, $L = 41, f_1 = 5, f_2 = 25$ হলে শ্রেণি ব্যবধান কত?",
+      "options": [
+        "$9$",
+        "$10$",
+        "$12$",
+        "$13$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

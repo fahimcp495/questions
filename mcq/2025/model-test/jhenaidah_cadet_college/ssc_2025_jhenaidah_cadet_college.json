@@ -75,7 +75,7 @@
     {
       "questionNumber": 4,
       "chapterId": "chapter_02",
-      "questionPreamble": "$A = \\{a, b, c\\}, B = \\{a, b, c, p, q\\}$ হলে—\n$i.$ $A \\backslash B$ একটি ফাঁকা সেট\n$ii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা শূন্য\n$iii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা $1$",
+      "questionPreamble": "$A = \\{a, b, c\\}, B = \\{a, b, c, p, q\\}$ হলে$-$\n$i.$ $A \\backslash B$ একটি ফাঁকা সেট\n$ii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা শূন্য\n$iii.$ $P(A \\backslash B)$ সেটের উপাদান সংখ্যা $1$",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -215,7 +215,7 @@
     {
       "questionNumber": 11,
       "chapterId": "chapter_07",
-      "questionPreamble": "শুধুমাত্র পরিসীমা দেওয়া থাকলে নিচের কোনটি অঙ্কন করা সম্ভব—\n$i.$ বর্গ\n$ii.$ আয়ত\n$iii.$ সমবাহু ত্রিভুজ",
+      "questionPreamble": "শুধুমাত্র পরিসীমা দেওয়া থাকলে নিচের কোনটি অঙ্কন করা সম্ভব$-$\n$i.$ বর্গ\n$ii.$ আয়ত\n$iii.$ সমবাহু ত্রিভুজ",
       "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
@@ -295,7 +295,7 @@
     {
       "questionNumber": 15,
       "chapterId": "chapter_08",
-      "questionPreamble": null,
+      "questionPreamble": "নিচের তথ্যের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও: \n$\\triangle ABC$ এর বহিঃবৃত্তটির কেন্দ্র $O$.",
       "question": "$\\angle DCO$ এর মান কত?",
       "options": [
         "$\\frac{1}{2}\\angle ABC$",
@@ -306,8 +306,8 @@
       "correctOption": 3,
       "explanation": "",
       "difficulty": "easy",
-      "imageUrl": null,
-      "imageCaption": "$\\\\triangle ABC$ এর বহিঃবৃত্তটির চিত্র",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_jhenaidah_cadet_college%2Fq14.svg?alt=media&token=1d523251-d35c-4033-8515-0f39fd32799b",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false

@@ -195,8 +195,8 @@
     {
       "questionNumber": 10,
       "chapterId": "chapter_03",
-      "questionPreamble": "",
-      "question": "$x+y = \\sqrt{3}$ এবং $x-y = \\sqrt{2}$ হলে—\n$i.$ $2(x^2+y^2) = 5$\n$ii.$ $4xy = 1$\n$iii.$ $x^2-y^2 = 6$\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "$x+y = \\sqrt{3}$ এবং $x-y = \\sqrt{2}$ হলে$-$\n$i.$ $2(x^2+y^2) = 5$\n$ii.$ $4xy = 1$\n$iii.$ $x^2-y^2 = 6$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -207,7 +207,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -235,11 +235,11 @@
     {
       "questionNumber": 12,
       "chapterId": "chapter_03",
-      "questionPreamble": "",
+      "questionPreamble": null,
       "question": "$x+y+z = 11$ এবং $x^2+y^2+z^2 = 31$ হলে $xy+yz+zx = $ কত?",
       "options": [
         "$-9$",
-        "$\\frac{9}{2}$",
+        "$-\\frac{9}{2}$",
         "$45$",
         "$90$"
       ],
@@ -247,7 +247,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -295,10 +295,10 @@
     {
       "questionNumber": 15,
       "chapterId": "chapter_03",
-      "questionPreamble": "",
+      "questionPreamble": null,
       "question": "$a-b = 5$ ও $ab = 36$ হলে $a^3 - b^3 = $ কত?",
       "options": [
-        "$415$",
+        "$-415$",
         "$125$",
         "$180$",
         "$665$"
@@ -307,7 +307,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -536,7 +536,7 @@
       "questionNumber": 27,
       "chapterId": "chapter_07",
       "questionPreamble": null,
-      "question": "একটি ত্রিভুজ অঙ্কন করতে প্রয়োজন—\n$i.$  তিনটি বাহু\n$ii.$  দুইটি বাহু এবং এদের অন্তর্ভুক্ত কোণ\n$iii.$  দুইটি কোণ এবং সংলগ্ন বাহু\nনিচের কোনটি সঠিক?",
+      "question": "একটি ত্রিভুজ অঙ্কন করতে প্রয়োজন$-$\n$i.$  তিনটি বাহু\n$ii.$  দুইটি বাহু এবং এদের অন্তর্ভুক্ত কোণ\n$iii.$  দুইটি কোণ এবং সংলগ্ন বাহু\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$ii$ ও $iii$",

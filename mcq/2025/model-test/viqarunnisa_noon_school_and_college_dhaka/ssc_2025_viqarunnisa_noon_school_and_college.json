@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_viqarunnisa_noon_school_and_college",
+    "title": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "titleEn": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "দুইটি সেট $A = \\{1, 2, 3\\}$ এবং $B = \\{a, b, 2\\}$ এর ক্ষেত্রে $A \\cap B$ এর প্রকৃত উপসেট$-$",
+      "options": [
+        "$\\{a, b, 1, 2, 3\\}$",
+        "$\\{a, b\\}$",
+        "$\\{1, 2, 3\\}$",
+        "$\\emptyset$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x \\in \\mathbb{N} : x \\le 19$ এবং $x, 3$ এর গুণিতক$\\}$ হলে$-$\n$i.$ $A$ সেটের উপাদান সংখ্যা $6$\n$ii.$ $6 \\in A$\n$iii.$ $A$ সেটের উপাদান হলো $2^3$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৩$ ও $৪$) নং প্রশ্নের উত্তর দাও:\n$x = 7 + 4\\sqrt{3}$",
+      "question": "$x^2 + \\frac{1}{x^2} =$ কত?",
+      "options": [
+        "$190$",
+        "$194$",
+        "$198$",
+        "$200$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৩$ ও $৪$) নং প্রশ্নের উত্তর দাও:\n$x = 7 + 4\\sqrt{3}$",
+      "question": "$\\sqrt{x} - \\frac{1}{\\sqrt{x}} =$ কত?",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$4$",
+        "$8\\sqrt{3}$",
+        "$14$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = \\frac{4}{x} + 1$ হলে $f\\left(\\frac{1}{x}\\right) =$ কত?",
+      "options": [
+        "$4x^2 + 1$",
+        "$4x + 1$",
+        "$\\frac{4x+1}{x}$",
+        "$\\frac{x}{4 + x}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$y = 2x + 3$ ফাংশনের লেখচিত্র$-$\n$i.$ একটি সরলরেখা\n$ii.$ একটি বৃত্ত\n$iii.$ $(1, 5)$ বিন্দুগামী\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = \\frac{x^2 + x^4 + x^6}{3x^2}$ হলে $f(-1) =$ কত?",
+      "options": [
+        "$1$",
+        "$\\frac{1}{3}$",
+        "$\\frac{3}{2}$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$3, 10, 0, 5, 15, 0$ এর প্রচুরক কত?",
+      "options": [
+        "$0$",
+        "$3$",
+        "$5$",
+        "$6.5$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের সারণি থেকে ($৯$ ও $১০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "শ্রেণি ব্যবধান কত?",
+      "options": [
+        "$9$",
+        "$10$",
+        "$11$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_viqarunnisa_noon_school_and_college%2Fq09.svg?alt=media&token=c67b52e9-931e-44fa-8c99-1b34a377dc4f",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের সারণি থেকে ($৯$ ও $১০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$46$",
+        "$56.6$",
+        "$53.3$",
+        "$57.5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_viqarunnisa_noon_school_and_college%2Fq10.svg?alt=media&token=4aab3bee-9bc2-4401-a9dd-106f73b76d83",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "ক্রমযোজিত গণসংখ্যার সারণি$-$\n$i.$ প্রচুরক নির্ণয়ের জন্য আবশ্যক\n$ii.$ মধ্যক নির্ণয়ের জন্য আবশ্যক\n$iii.$ অজিভ রেখা অঙ্কনের জন্য আবশ্যক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "নির্দিষ্ট চতুর্ভুজ অঙ্কনের জন্য কয়টি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+      "options": [
+        "$5$ টি",
+        "$4$ টি",
+        "$3$ টি",
+        "$2$ টি"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "শুধু পরিসীমা জানা থাকলে আঁকা যায়$-$\n$i.$ সুষম চতুর্ভুজ\n$ii.$ সুষম ত্রিভুজ\n$iii.$ রম্বস\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণের পরিমাপ হতে পারে?",
+      "options": [
+        "$80^{\\circ}$",
+        "$100^{\\circ}$",
+        "$110^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ($১৫$ ও $১৬$) নং প্রশ্নের উত্তর দাও:\nচিত্রে, $O$ বৃত্তের কেন্দ্র। $AB = 20$ সে.মি., $BD = 8$ সে.মি.।",
+      "question": "$\\frac{1}{2} \\angle ACB =$ কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_viqarunnisa_noon_school_and_college%2Fq15.svg?alt=media&token=e01e6ec4-3967-41fd-911c-7cadffbd5704",
+      "imageCaption": "একটি বৃত্তে ABC ত্রিভুজ অন্তর্লিখিত। AC বৃত্তের কেন্দ্র O গামী ব্যাস এবং OD জ্যা BC এর ওপর লম্ব।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের ভিত্তিতে ($১৫$ ও $১৬$) নং প্রশ্নের উত্তর দাও:\nচিত্রে, $O$ বৃত্তের কেন্দ্র। $AB = 20$ সে.মি., $BD = 8$ সে.মি.।",
+      "question": "$\\Delta BOD$ এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$24$",
+        "$40$",
+        "$48$",
+        "$80$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_viqarunnisa_noon_school_and_college%2Fq16.svg?alt=media&token=d058afca-7ab8-4d5a-930d-d78d317f5576",
+      "imageCaption": "একটি বৃত্তে ABC ত্রিভুজ অন্তর্লিখিত। AC বৃত্তের কেন্দ্র O গামী ব্যাস এবং OD জ্যা BC এর ওপর লম্ব।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের$-$\n$i.$ স্পর্শক, স্পর্শ বিন্দুগামী ব্যাসার্ধের উপর লম্ব\n$ii.$ অর্ধবৃত্তস্থ কোণ এক সমকোণ\n$iii.$ সকল সমান জ্যা কেন্দ্র থেকে সমদূরবর্তী\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোন বৃত্তে অন্তর্লিখিত সামান্তরিক একটি$-$",
+      "options": [
+        "বর্গ",
+        "রম্বস",
+        "আয়ত",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে ঐ বৃত্তে সর্বোচ্চ কয়টি স্পর্শক আঁকা যায়?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$6$ সে.মি. ব্যাস ও $4$ সে.মি. ব্যাসার্ধ বিশিষ্ট দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কত সে.মি.?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan^2 A - \\sec^2 A + \\frac{3}{2} =$ কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{7}{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin^4\\theta + \\sin^2\\theta = 1$ হলে$-$\n$i.$ $\\sin^2\\theta = \\cos\\theta$\n$ii.$ $\\tan\\theta \\cdot \\sin\\theta = 1$\n$iii.$ $\\tan\\theta \\cdot \\text{cosec}\\theta = 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cot^4\\theta - \\cot^2\\theta = 1$ হলে $\\cos^2\\theta$ এর মান নিচের কোনটি?",
+      "options": [
+        "$\\cot\\theta$",
+        "$\\tan\\theta$",
+        "$\\sin\\theta$",
+        "$\\text{cosec}\\theta$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি আয়তের দৈর্ঘ্য ও প্রস্থের অনুপাত $5 : 3$ এবং ক্ষেত্রফল $1500$ বর্গ মিটার হলে পরিসীমা কত মিটার?",
+      "options": [
+        "$80$",
+        "$120$",
+        "$160$",
+        "$200$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি রম্বসের দুইটি কর্ণের দৈর্ঘ্য $12$ সে.মি. ও $16$ সে.মি. হলে ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$192$",
+        "$144$",
+        "$128$",
+        "$96$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$\\angle BAC =$ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$50^{\\circ}$",
+        "$40^{\\circ}$",
+        "$20^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_viqarunnisa_noon_school_and_college%2Fq26.svg?alt=media&token=7a0ed67b-02c8-4de9-abd2-c1f49dbf1d1a",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট একটি বৃত্তে অন্তর্লিখিত কোণ BAC = x এবং কেন্দ্রস্থ কোণ BOC = x + 20°।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a : b = 3 : 2$ হলে, $5a : 4b =$ কত?",
+      "options": [
+        "$5 : 4$",
+        "$15 : 8$",
+        "$6 : 5$",
+        "$8 : 15$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a, b, c$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $b = \\frac{a + c}{2}$\n$ii.$ $\\frac{a}{b} = \\frac{b}{c}$\n$iii.$ $\\frac{a + b}{b} = \\frac{b + c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো বর্গের বাহুর দৈর্ঘ্য $10\\%$ হ্রাস পেলে ক্ষেত্রফল শতকরা কত হ্রাস পাবে?",
+      "options": [
+        "$1\\%$",
+        "$10\\%$",
+        "$19\\%$",
+        "$21\\%$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "ত্রিভুজের তিন কোণের অনুপাত $5 : 4 : 3$ হলে বড় ও ছোট কোণের পার্থক্য কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$40^{\\circ}$",
+        "$50^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

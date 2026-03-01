@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302.8871pt" height="132.58426pt" viewBox="-72 -72 302.8871 132.58426" style="position: absolute; top: 0pt; left: 0pt; overflow: visible;">
+<g transform="translate(-4.518020629882812,15.560836791992184)">
+<g stroke-miterlimit="10" transform="scale(1,-1)"><g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-width="0.8">
+ <path d=" M -64.01866 0.0 L 234.73512 0.0  " fill="none"/>
+ <path d=" M 42.68431 73.93158 L 0.0 0.0 L -25.60771 -44.35342  " fill="none"/>
+ <path d=" M 42.68431 73.93158 L 170.73729 0.0  " fill="none"/>
+ <path d=" M 17.07138 0.0 C 17.07138 6.0983 13.81683 11.73528 8.53569 14.78429  " fill="none"/>
+ <g transform="translate(24.8835,8.51698)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmmi10;" font-size="10">x</text>
+</g> </g>
+ </g></g>
+ <path d=" M 0.0 0.0 M -7.46896 -12.93605 C -0.32436 -17.06097 8.81174 -14.61296 12.93666 -7.46835 C 14.24728 -5.19814 14.93794 -2.62086 14.93794 0.00061  " fill="none"/>
+ <g transform="translate(1.93785,-23.77112)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmr10;" font-size="10">120</text>
+<text alignment-baseline="baseline" y="11.931915283203123" x="13.81536483764648" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ <path d=" M 170.73729 0.0 M 187.80867 0.0 C 187.80867 9.42838 180.16566 17.07138 170.73729 17.07138 C 164.63899 17.07138 159.00201 13.81683 155.953 8.53569  " fill="none"/>
+ <g transform="translate(168.11847,23.35263)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmr10;" font-size="10">150</text>
+<text alignment-baseline="baseline" y="11.931915283203123" x="13.81536483764648" style="font-family: cmsy7;" font-size="7">◦</text>
+</g> </g>
+ </g></g>
+ <path d=" M 42.68431 73.93158 M 35.21535 60.99551 C 42.35995 56.87059 51.49605 59.3186 55.62097 66.46321  " fill="none"/>
+ <g transform="translate(38.93431,77.66455)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmr10;" font-size="10">A</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(-12.81631,0.58334)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmr10;" font-size="10">B</text>
+</g> </g>
+ </g></g>
+ <g transform="translate(167.12617,-12.56628)">
+ <g stroke="none" transform="scale(-1.00375,1.00375)translate(-1.1846923828124998,15.560836791992184)scale(-1,-1)"><g fill="#000">
+ <g stroke="none"> <text alignment-baseline="baseline" y="15.560836791992184" x="-1.1846923828124998" style="font-family: cmr10;" font-size="10">C</text>
+</g> </g>
+ </g></g>
+ </g>
+ </g>
+ </g>
+ </g></g></svg>

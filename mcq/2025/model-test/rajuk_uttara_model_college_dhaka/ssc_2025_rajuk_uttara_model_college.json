@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_rajuk_uttara_model_college",
+    "title": "রাজউক উত্তরা মডেল কলেজ, ঢাকা - ২০২৫",
+    "titleEn": "রাজউক উত্তরা মডেল কলেজ, ঢাকা - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A$ সেটের উপাদান সংখ্যা $n$ হলে $A$ এর উপসেটের সংখ্যা কত?",
+      "options": [
+        "$2n - 1$",
+        "$2^n$",
+        "$2^n - 1$",
+        "$2^n - 2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$f(x) = x^3 - x - 24$ হলে $x$ এর কোন মানের জন্য $f(x) = 0$ হবে?",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$-4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$B$ সেট থেকে $A$ সেটে একটি সম্পর্ক $R$ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        "$R \\subseteq A \\times B$",
+        "$R \\subset A \\times B$",
+        "$R \\subset (A \\cup B)$",
+        "$R \\subseteq B \\times A$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\n$p - \\frac{1}{p} = 7$",
+      "question": "$\\left(p + \\frac{1}{p}\\right)^2$ এর মান কত?",
+      "options": [
+        "$45$",
+        "$47$",
+        "$51$",
+        "$53$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\n$p - \\frac{1}{p} = 7$",
+      "question": "$\\frac{p}{p^2 - 6p - 1}$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$",
+        "$12$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x + \\frac{1}{x} = 5$ হলে$-$\n$i.$ $x^2 - \\frac{1}{x^2} = 5\\sqrt{21}$\n$ii.$ $x^3 - \\frac{1}{x^3} = 110$\n$iii.$ $x^2 - 5x + 1 = 0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x^3 - y^3 = 63$ এবং $xy = 4$ হলে $x - y$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$18x^3 + 15x^2 - x - 2$ এর একটি উৎপাদক কোনটি?",
+      "options": [
+        "$3x + 1$",
+        "$3x - 2$",
+        "$2x + 1$",
+        "$2x - 1$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "একটি চতুর্ভুজের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করলে তা একটি .............।",
+      "options": [
+        "আয়ত",
+        "রম্বস",
+        "সামান্তরিক",
+        "ট্রাপিজিয়াম"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "কোনো বৃত্তের একই চাপের উপর বৃত্তস্থ কোণ ও কেন্দ্রস্থ কোণ যথাক্রমে $(2x + 10^{\\circ})$ এবং $(x + 110^{\\circ})$ হলে $x$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$6$ সে.মি. এবং $4$ সে.মি. ব্যাসার্ধের দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শভাবে স্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        "$2$",
+        "$4$",
+        "$5$",
+        "$10$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গ একটি বৃত্তে অন্তর্লিখিত। বৃত্তের ও বর্গের ক্ষেত্রফলের অনুপাত কত?",
+      "options": [
+        "$\\pi : 2\\sqrt{2}$",
+        "$\\pi : 2$",
+        "$\\pi : \\sqrt{2}$",
+        "$\\pi : 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৩$ ও $১৪$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\angle BMC$ এর মান কত?",
+      "options": [
+        "$110^{\\circ}$",
+        "$115^{\\circ}$",
+        "$120^{\\circ}$",
+        "$130^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rajuk_uttara_model_college%2Fq13.svg?alt=media&token=2824a5ec-3c9b-458b-a2dd-9785029668ae",
+      "imageCaption": "চিত্রে M বৃত্তের কেন্দ্র, AD = 10 সেমি। বৃত্তের অভ্যন্তরে কোণ MAB = 35° এবং কোণ MAC = 30°।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৩$ ও $১৪$) নং প্রশ্নের উত্তর দাও:",
+      "question": "বৃত্তের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$31.416$",
+        "$78.54$",
+        "$100.00$",
+        "$314.16$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rajuk_uttara_model_college%2Fq14.svg?alt=media&token=99904eff-b598-417b-957b-82fd0c0e269b",
+      "imageCaption": "চিত্রে M বৃত্তের কেন্দ্র, AD = 10 সেমি। বৃত্তের অভ্যন্তরে কোণ MAB = 35° এবং কোণ MAC = 30°।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin^2\\theta - \\cos^2\\theta = 1$ হলে, $\\sin^4\\theta - \\cos^4\\theta = ?$",
+      "options": [
+        "$1$",
+        "$2$",
+        "$4$",
+        "$16$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\frac{\\sin\\theta}{x} = \\frac{\\cos\\theta}{y}$ হলে $\\text{cosec}\\theta = ?$",
+      "options": [
+        "$\\frac{x^2 + y^2}{y}$",
+        "$\\frac{x^2 + y^2}{x}$",
+        "$\\frac{\\sqrt{x^2 + y^2}}{y}$",
+        "$\\frac{\\sqrt{x^2 + y^2}}{x}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\text{cosec} x = \\sqrt{2} = 2\\cos y$ হলে $\\cot(x + y) = ?$",
+      "options": [
+        "$0$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$",
+        "অসংজ্ঞায়িত"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো বর্গক্ষেত্রের বাহুর দৈর্ঘ্য $10\\%$ বৃদ্ধি পেলে ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+      "options": [
+        "$10\\%$",
+        "$20\\%$",
+        "$21\\%$",
+        "$44\\%$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৯$ ও $২০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$x$ এর মান কত?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rajuk_uttara_model_college%2Fq19.svg?alt=media&token=f57bace1-47b2-4e7f-b1fa-5d90126d90fd",
+      "imageCaption": "একটি সমকোণী ত্রিভুজ ABC, যার B কোণ সমকোণ, লম্ব AB = 1, ভূমি BC = \\sqrt{3}, A কোণ = x + y এবং C কোণ = x - y।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৯$ ও $২০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\text{cosec}(x + y)$ এর মান কত?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$2$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{2}{\\sqrt{3}}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_rajuk_uttara_model_college%2Fq20.svg?alt=media&token=930133e0-7526-4a47-8304-3bd42496911c",
+      "imageCaption": "একটি সমকোণী ত্রিভুজ ABC, যার B কোণ সমকোণ, লম্ব AB = 1, ভূমি BC = \\sqrt{3}, A কোণ = x + y এবং C কোণ = x - y।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{a, b, c, d, e\\}$ এর প্রকৃত উপসেটের সংখ্যা কত?",
+      "options": [
+        "$31$",
+        "$32$",
+        "$33$",
+        "$64$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "ধাপ বিচ্যুতি $-2$, শ্রেণি মধ্যমান $33$ এবং শ্রেণি ব্যবধান $5$ হলে অনুমিত গড় কত?",
+      "options": [
+        "$23$",
+        "$28$",
+        "$38$",
+        "$43$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a, b, c$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $b^2 = ac$\n$ii.$ $2b = a + c$\n$iii.$ $\\frac{a + b}{b} = \\frac{b + c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বৃত্তাংশের ক্ষেত্রফল $77$ বর্গমিটার এবং বৃত্তের ব্যাসার্ধ $21$ মিটার। বৃত্তচাপটি কেন্দ্রে প্রায় কত ডিগ্রি কোণ উৎপন্ন করে?",
+      "options": [
+        "$15^{\\circ}$",
+        "$20^{\\circ}$",
+        "$25^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "একটি সুষম অষ্টভুজের একটি শীর্ষ কোণের মান কত?",
+      "options": [
+        "$72^{\\circ}$",
+        "$108^{\\circ}$",
+        "$135^{\\circ}$",
+        "$360^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৬$ ও $২৭$) নং প্রশ্নের উত্তর দাও:\nএকটি সামান্তরিকের দুইটি বাহুর অনুপাত $2 : 3$ এবং পরিসীমা $60$ সে.মি.।",
+      "question": "সামান্তরিকটির বৃহত্তম বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$12$",
+        "$18$",
+        "$24$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৬$ ও $২৭$) নং প্রশ্নের উত্তর দাও:\nএকটি সামান্তরিকের দুইটি বাহুর অনুপাত $2 : 3$ এবং পরিসীমা $60$ সে.মি.।",
+      "question": "একটি কোণ $30^{\\circ}$ হলে সামান্তরিকটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$54$",
+        "$108$",
+        "$162$",
+        "$216$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের আয়তন $64$ ঘন সে.মি. হলে- ঘনকটির পৃষ্ঠতলের কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$4\\sqrt{2}$",
+        "$4\\sqrt{3}$",
+        "$8\\sqrt{2}$",
+        "$8\\sqrt{3}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$7, 15, 6, 9, 7, 11, 8, 14$ উপাত্ত সমূহের মধ্যক কত?",
+      "options": [
+        "$10.5$",
+        "$8.5$",
+        "$7.5$",
+        "$6.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "যোজিত গণসংখ্যা প্রয়োজন$-$\n$i.$ গড় নির্ণয়ে\n$ii.$ মধ্যক নির্ণয়ে\n$iii.$ অজিভ রেখা নির্ণয়ে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i$, $ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

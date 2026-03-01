@@ -101,7 +101,7 @@
         "$\\frac{-9}{2}$",
         "$\\frac{9}{2}$",
         "$\\frac{9}{32}$",
-        "$\\frac{21}{9}$"
+        "$\\frac{2}{9}$"
       ],
       "correctOption": 1,
       "explanation": "",
@@ -175,8 +175,8 @@
     {
       "questionNumber": 9,
       "chapterId": "chapter_14",
-      "questionPreamble": "",
-      "question": "দুইটি ত্রিভুজের উচ্চতা সমান হলে, ত্রিভুজদ্বয়ের ভূমি এবং ক্ষেত্রফল হবে—",
+      "questionPreamble": null,
+      "question": "দুইটি ত্রিভুজের উচ্চতা সমান হলে, ত্রিভুজদ্বয়ের ভূমি এবং ক্ষেত্রফল হবে$-$",
       "options": [
         "সমান",
         "অসমান",
@@ -187,7 +187,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -195,8 +195,8 @@
     {
       "questionNumber": 10,
       "chapterId": "chapter_06",
-      "questionPreamble": "",
-      "question": "একটি ত্রিভুজের মধ্যমাগুলো পরস্পর সমান হলে, ত্রিভুজটি হবে—",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের মধ্যমাগুলো পরস্পর সমান হলে, ত্রিভুজটি হবে$-$",
       "options": [
         "সমকোণী",
         "সমদ্বিবাহু",
@@ -207,7 +207,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -215,11 +215,11 @@
     {
       "questionNumber": 11,
       "chapterId": "chapter_08",
-      "questionPreamble": "",
+      "questionPreamble": null,
       "question": "অর্ধবৃত্তে অন্তর্লিখিত কোণের মান কত?",
       "options": [
         "$90^{\\circ}$",
-        "$75^{\\circ}$",
+        "$73^{\\circ}$",
         "$45^{\\circ}$",
         "$180^{\\circ}$"
       ],
@@ -227,7 +227,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -255,8 +255,8 @@
     {
       "questionNumber": 13,
       "chapterId": "chapter_08",
-      "questionPreamble": "",
-      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি—",
+      "questionPreamble": null,
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি$-$",
       "options": [
         "রম্বস",
         "আয়তক্ষেত্র",
@@ -267,7 +267,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -341,13 +341,13 @@
         "$\\frac{x}{y} = \\frac{7}{2}$",
         "$\\frac{x+5}{y+5} = \\frac{7}{2}$",
         "$\\frac{x}{y} = \\frac{2}{7}$",
-        "$\\frac{x+5}{y} = \\frac{7}{2}$"
+        "$\\frac{x+5}{y+5} = \\frac{2}{7}$"
       ],
       "correctOption": 0,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -395,8 +395,8 @@
     {
       "questionNumber": 20,
       "chapterId": "chapter_11",
-      "questionPreamble": "",
-      "question": "$p, q$ এবং $r$ ক্রমিক সমানুপাতী হলে—\n$i.$ $\\frac{p}{q} = \\frac{q}{r}$\n$ii.$ $pq = qr$\n$iii.$ $q^2 = pr$\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "$p, q$ এবং $r$ ক্রমিক সমানুপাতী হলে$-$\n$i.$ $\\frac{p}{q} = \\frac{q}{r}$\n$ii.$ $pq = qr$\n$iii.$ $q^2 = pr$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -407,7 +407,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -535,8 +535,8 @@
     {
       "questionNumber": 27,
       "chapterId": "chapter_17",
-      "questionPreamble": "",
-      "question": "উপাত্ত উপস্থাপনের জন্য ব্যবহার করা হয়—\n$i.$ পাইচিত্র\n$ii.$ অজিভ রেখা\n$iii.$ আয়তলেখ\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "উপাত্ত উপস্থাপনের জন্য ব্যবহার করা হয়$-$\n$i.$ পাইচিত্র\n$ii.$ অজিভ রেখা\n$iii.$ আয়তলেখ\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -547,7 +547,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
