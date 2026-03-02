@@ -15,8 +15,8 @@
     {
       "questionNumber": 1,
       "chapterId": "chapter_11",
-      "questionPreamble": "",
-      "question": "$146$ টি আম তিন ভাইয়ের মধ্যে $\\frac{1}{2} : \\frac{1}{5} : \\frac{1}{9}$ অনুপাতে ভাগ করে দেওয়া হলে প্রথম ভাইয়ের প্রাপ্ত আমের সংখ্যা কত?",
+      "questionPreamble": null,
+      "question": "$146$ টি আম তিনজন ভাইয়ের মধ্যে $\\frac{1}{2} : \\frac{1}{5} : \\frac{1}{9}$ অনুপাতে ভাগ করে দেওয়া হলে প্রথম ভাইয়ের প্রাপ্ত আমের সংখ্যা কত?",
       "options": [
         "$18$",
         "$45$",
@@ -27,7 +27,7 @@
       "explanation": "",
       "difficulty": "medium",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -283,7 +283,7 @@
         "$2\\sqrt{5}$",
         "$2\\sqrt{7}$"
       ],
-      "correctOption": 2,
+      "correctOption": 3,
       "explanation": "",
       "difficulty": "medium",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_mirzapur_cadet_college%2Fq14.svg?alt=media&token=827e0e5e-6dba-4b21-8196-41c398f0394a",
@@ -295,7 +295,7 @@
     {
       "questionNumber": 15,
       "chapterId": "chapter_08",
-      "questionPreamble": "নিচের চিত্রের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাওঃ",
+      "questionPreamble": "নিচের চিত্রের আলোকে(১৪ ও ১৫) নং প্রশ্নের উত্তর দাওঃ",
       "question": "$\\angle AOC = 55\\frac{1}{2}^{\\circ}$ হলে $\\angle OBC = ?$",
       "options": [
         "$34.5^{\\circ}$",
@@ -307,7 +307,7 @@
       "explanation": "",
       "difficulty": "hard",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_mirzapur_cadet_college%2Fq15.svg?alt=media&token=e6d80772-530d-45e6-b70c-1d8a3351d7f4",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -555,19 +555,19 @@
     {
       "questionNumber": 28,
       "chapterId": "chapter_17",
-      "questionPreamble": "নিচের তথ্যের আলোকে (২৯ ও ৩০) নং প্রশ্নের উত্তর দাওঃ",
-      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "questionPreamble": null,
+      "question": "নিচের কোনটি সুষম  বহুভুজ?",
       "options": [
-        "উচ্চতা",
-        "ওজন",
-        "জনসংখ্যা",
-        "তাপমাত্রা"
+        "ত্রিভুজ",
+        "বর্গ",
+        "পঞ্চভুজ",
+        "ষড়ভুজ"
       ],
       "correctOption": 2,
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false

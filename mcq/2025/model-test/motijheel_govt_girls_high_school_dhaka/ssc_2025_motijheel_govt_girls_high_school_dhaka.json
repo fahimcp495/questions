@@ -1,8 +1,8 @@
 {
   "paper": {
-    "id": "ssc_2026_motijheel_govt_girls_high_school_dhaka",
-    "title": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা",
-    "titleEn": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা",
+    "id": "ssc_2025_motijheel_govt_girls_high_school_dhaka",
+    "title": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা - ২০২৫",
+    "titleEn": "মতিঝিল সরকারি বালিকা উচ্চ বিদ্যালয়, ঢাকা - ২০২৫",
     "year": 2025,
     "type": "school",
     "board": null,
@@ -75,8 +75,8 @@
     {
       "questionNumber": 4,
       "chapterId": "chapter_02",
-      "questionPreamble": "",
-      "question": "$A = \\{0, 2\\}, B = \\{-1, 0, 1\\}$ হলে,\n$i. B \\setminus A$ এর প্রকৃত উপসেট সংখ্যা $3$\n$ii. A \\cap B = \\{0\\}$\n$iii. A - B = \\{2\\}$\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "$A = \\{0, 2\\}, B = \\{-1, 0, 1\\}$ হলে,\n$i.$ $B \\setminus A$ এর প্রকৃত উপসেট সংখ্যা $3$\n$ii.$ $A \\cap B = \\{0\\}$\n$iii.$ $A - B = \\{2\\}$\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -87,7 +87,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -335,8 +335,8 @@
     {
       "questionNumber": 17,
       "chapterId": "chapter_07",
-      "questionPreamble": "",
-      "question": "একটি রম্বস আঁকা যাবে যদি দেওয়া থাকে—\n$i.$ ১টি বাহুর দৈর্ঘ্য\n$ii.$ ১টি বাহু ও ১টি কর্ণের দৈর্ঘ্য\n$iii.$ ১টি বাহু ও ১টি কোণ\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "একটি রম্বস আঁকা যাবে যদি দেওয়া থাকে$-$\n$i.$ ১টি বাহুর দৈর্ঘ্য\n$ii.$ ১টি বাহু ও ১টি কর্ণের দৈর্ঘ্য\n$iii.$ ১টি বাহু ও ১টি কোণ\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -347,7 +347,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -395,8 +395,8 @@
     {
       "questionNumber": 20,
       "chapterId": "chapter_08",
-      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:",
-      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10$ cm, $CD = 4$ cm.\n$\\frac{1}{2} \\angle ABC = $ কত?",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10\\ cm,\\ CD = 4\\ cm.$",
+      "question": "$\\frac{1}{2} \\angle ABC = $ কত?",
       "options": [
         "$30^{\\circ}$",
         "$45^{\\circ}$",
@@ -415,13 +415,13 @@
     {
       "questionNumber": 21,
       "chapterId": "chapter_08",
-      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:",
+      "questionPreamble": "নিচের তথ্যের আলোকে (২০ ও ২১) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10\\ cm,\\ CD = 4\\ cm.$",
       "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $AC = 10$ cm, $CD = 4$ cm.\n$\\Delta BOD$ এর পরিসীমা কত?",
       "options": [
-        "$12$ cm",
-        "$13$ cm",
-        "$16$ cm",
-        "$18$ cm"
+        "$12\\ cm$",
+        "$13\\ cm$",
+        "$16\\ cm$",
+        "$18\\ cm$"
       ],
       "correctOption": 0,
       "explanation": "",
@@ -435,8 +435,8 @@
     {
       "questionNumber": 22,
       "chapterId": "chapter_08",
-      "questionPreamble": "",
-      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি—",
+      "questionPreamble": null,
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি$-$",
       "options": [
         "বর্গ",
         "রম্বস",
@@ -447,7 +447,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -495,8 +495,8 @@
     {
       "questionNumber": 25,
       "chapterId": "chapter_08",
-      "questionPreamble": "",
-      "question": "একটি ত্রিভুজের—\n$i.$ বহির্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$ii.$ অন্তর্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$iii.$ পরিবৃত্তের কেন্দ্র ত্রিভুজের বাহিরে হলে ত্রিভুজটি স্থূলকোণী\nনিচের কোনটি সঠিক?",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের$-$\n$i.$ বহির্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$ii.$ অন্তর্বৃত্ত বাহুগুলোকে স্পর্শ করে\n$iii.$ পরিবৃত্তের কেন্দ্র ত্রিভুজের বাহিরে হলে ত্রিভুজটি স্থূলকোণী\nনিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
@@ -507,7 +507,7 @@
       "explanation": "",
       "difficulty": "easy",
       "imageUrl": "",
-      "imageCaption": "",
+      "imageCaption": null,
       "imagePosition": "aboveQuestion",
       "isPublished": true,
       "isExplanationPublished": false
@@ -535,8 +535,8 @@
     {
       "questionNumber": 27,
       "chapterId": "chapter_09",
-      "questionPreamble": null,
-      "question": "$\\cot \\theta = \\sqrt{3}$ হলে—\n$i. \\tan \\theta = \\frac{1}{\\sqrt{3}}$\n$ii. \\sec \\theta = 2 \\tan \\theta$\n$iii. 4 \\sin \\theta = \\frac{1}{\\cos 2 \\theta}$\nনিচের কোনটি সঠিক?",
+      "questionPreamble": "$\\cot \\theta = \\sqrt{3}$ হলে$-$\n$i.$ $\\tan \\theta = \\frac{1}{\\sqrt{3}}$\n$ii.$ $\\sec \\theta = 2 \\tan \\theta$\n$iii.$ $4 \\sin \\theta = \\frac{1}{\\cos 2 \\theta}$",
+      "question": "নিচের কোনটি সঠিক?",
       "options": [
         "$i$ ও $ii$",
         "$i$ ও $iii$",
