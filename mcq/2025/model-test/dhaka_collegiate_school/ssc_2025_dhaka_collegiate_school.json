@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_dhaka_collegiate_school",
+    "title": "ঢাকা কলেজিয়েট স্কুল - ২০২৫",
+    "titleEn": "ঢাকা কলেজিয়েট স্কুল - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^2 + a - 20$ রাশিটির একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        "$a + 10$",
+        "$a + 2$",
+        "$a - 4$",
+        "$a - 5$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি রম্বসের একটি কর্ণ $8$ মি. এবং ক্ষেত্রফল $40$ বর্গ মিটার হলে অপর কর্ণ কত মিটার?",
+      "options": [
+        "$5$",
+        "$8$",
+        "$10$",
+        "$20$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $\\angle BOC = x + 110^{\\circ}$ ও বৃত্তস্থ $\\angle BAC = 2x + 10^{\\circ}$ হলে $x = ?$",
+      "options": [
+        "$18^{\\circ}$",
+        "$26^{\\circ}$",
+        "$30^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বেলনের ভূমির ব্যাস $12$ সে.মি. ও উচ্চতা $8$ সে.মি. হলে বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$37.70$",
+        "$50.27$",
+        "$301.59$",
+        "$603.19$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রের আলোকে $\\cos\\theta$ এর মান কত?",
+      "options": [
+        "$1$",
+        "$\\sqrt{3}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq05.svg?alt=media&token=1346bfb9-be99-47b3-9d92-43ae3329d1e5",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "যদি $\\sec\\theta + \\tan\\theta = \\frac{4}{3}$ হয় তবে $\\sec\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{25}{12}$",
+        "$\\frac{25}{24}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = x^3 + px^2 - 5x - 7$ হলে $p$ এর কোন মানের জন্য $f(-1) = 0$ হবে$-$",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x : x \\in \\mathbb{Z}$ এবং $x^2 \\le 4\\}$ হলে $P(A)$ এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$3$",
+        "$5$",
+        "$16$",
+        "$32$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_12",
+      "questionPreamble": "",
+      "question": "$(p + 2, q - 1) = (2q + 1, p - 2)$ হলে $(p, q)$ নিচের কোনটি?",
+      "options": [
+        "$(2, 3)$",
+        "$(3, 2)$",
+        "$(-3, 2)$",
+        "$(-3, -2)$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$g(t) = \\frac{1 + t^2 + t^4}{t^2}$ হলে $g(-3^{-1}) =$ কত?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{9}{4}$",
+        "$\\frac{91}{9}$",
+        "$\\frac{4}{91}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$z = 2 - \\frac{1}{z}$ হলে $z^5 + \\frac{1}{z^5} =$ কত?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$x - \\frac{1}{x} = p$ হলে $\\frac{c}{x(x - p)} =$ কত?",
+      "options": [
+        "$c$",
+        "$\\frac{1}{c}$",
+        "$c^2$",
+        "$\\frac{1}{c^2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_05",
+      "questionPreamble": "",
+      "question": "$x = \\sqrt{16x - 64}$ হলে $x =$ কত?",
+      "options": [
+        "$4$",
+        "$8$",
+        "$16$",
+        "$64$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$27x^3 + y^3 + 64z^3 = 36xyz$ হলে$-$\n$i.$ $3x + y + 4z = 0$\n$ii.$ $2y + 8z = -6x$\n$iii.$ $(3x + y)^2 = 4z^2$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$7\\%$ হার মুনাফায় $650$ টাকার $6$ বছরের মুনাফা কত টাকা?",
+      "options": [
+        "$2730$",
+        "$273$",
+        "$237$",
+        "$2370$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "চিত্রে, $x$ $-$ এর মান কত ডিগ্রী?",
+      "options": [
+        "$4^{\\circ}$",
+        "$5^{\\circ}$",
+        "$9^{\\circ}$",
+        "$10^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq16.svg?alt=media&token=6b17dceb-154d-41b8-85c6-cb2515cfd9be",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের চিত্রের আলোকে ($১৭$-$১৮$) নং প্রশ্নের উত্তর দাও।",
+      "question": "$x$ $-$ এর মান কত ডিগ্রী?",
+      "options": [
+        "$15^{\\circ}$",
+        "$30^{\\circ}$",
+        "$33^{\\circ}$",
+        "$41^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq17.svg?alt=media&token=71a4afa7-f6e4-409d-8ce1-3fe608615a49",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্রের আলোকে ($১৭$-$১৮$) নং প্রশ্নের উত্তর দাও।",
+      "question": "$BC = 3$ সে.মি., $CD = 4$ সে.মি. হলে $ABCD$ এর পরিসীমা কত সে.মি.?",
+      "options": [
+        "$7$",
+        "$10$",
+        "$14$",
+        "$28$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq18.svg?alt=media&token=9514b7b5-09f9-4ac9-8ea2-2e39c011ab46",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "দুইটি বৃত্ত বহিঃস্পর্শ করলে সর্বাধিক কয়টি স্পর্শক আঁকা সম্ভব?",
+      "options": [
+        "$1$ টি",
+        "$2$ টি",
+        "$3$ টি",
+        "$4$ টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ$-$",
+      "options": [
+        "সূক্ষ্মকোণ",
+        "সমকোণ",
+        "স্থূলকোণ",
+        "প্রবৃদ্ধকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$ABCD$ বৃত্তের কেন্দ্র $O$ হলে$-$\n$i.$ $BAD$ চাপে কেন্দ্রস্থ কোণ প্রবৃদ্ধ কোণ\n$ii.$ $\\angle BAD = \\frac{1}{2} \\angle BOD$\n$iii.$ $\\angle BAD + \\angle BCD = 180^{\\circ}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq21.svg?alt=media&token=7f58b5ad-ef8e-42b8-93bf-3bef226026e0",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে $AB$ একটি বৃত্তচাপ এবং $OA = 3$ সে.মি. হলে ক্ষেত্রটির পরিসীমা কত সে.মি.?",
+      "options": [
+        "$7.57$",
+        "$75.7$",
+        "$5.77$",
+        "$1.57$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq22.svg?alt=media&token=71d1eced-8ca6-45c0-a753-7f8a16b396d5",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রে $ABCD$ সামান্তরিক $DE = 4$ সে.মি. এবং $ABCD$ এর ক্ষেত্রফল $40$ বর্গ সে.মি., $AC =$ কত সে.মি.?",
+      "options": [
+        "$20$",
+        "$16$",
+        "$10$",
+        "$8$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq23.svg?alt=media&token=cad9db15-2f97-4873-8a77-445486d09446",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৪$ ও $২৫$) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$57$",
+        "$66$",
+        "$67$",
+        "$69.75$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq24.svg?alt=media&token=175a044c-ee88-47f3-a426-f13617db50a2",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৪$ ও $২৫$) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক নির্ণয়ের ক্ষেত্রে $F_c$ কত?",
+      "options": [
+        "$12$",
+        "$20$",
+        "$32$",
+        "$50$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_dhaka_collegiate_school%2Fq25.svg?alt=media&token=46f17c9e-1c2c-465c-b90e-791a64969bd3",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$5 : 8 :: y : 32$ হলে $y$-এর মান কত?",
+      "options": [
+        "$12$",
+        "$20$",
+        "$24$",
+        "$48$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি সুষম ষড়ভুজের কেন্দ্র থেকে কৌণিক দূরত্ব $4$ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+      "options": [
+        "$4\\sqrt{3}$",
+        "$6\\sqrt{3}$",
+        "$24\\sqrt{3}$",
+        "$48$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বৃত্ত ও বর্গের ক্ষেত্রফল সমান হলে তাদের পরিসীমার অনুপাত হবে$-$",
+      "options": [
+        "$2 : \\pi$",
+        "$\\sqrt{\\pi} : \\pi$",
+        "$\\sqrt{\\pi} : 2$",
+        "$\\sqrt{2} : \\sqrt{\\pi}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য $20\\%$ হ্রাস পেলে ক্ষেত্রফলের পরিবর্তন শতকরা কত হবে?",
+      "options": [
+        "$21\\%$",
+        "$44\\%$",
+        "$36\\%$",
+        "$19\\%$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a^2 + \\frac{1}{a^2} = 5$ হলে$-$\n$i.$ $\\left(a + \\frac{1}{a}\\right)^2 = 7$\n$ii.$ $\\left(a - \\frac{1}{a}\\right)^2 = 3$\n$iii.$ $a^4 + \\frac{1}{a^4} = 23$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

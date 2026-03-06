@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_engineering_university_girls_school_and_college",
+    "title": "ইঞ্জিনিয়ারিং ইউনিভার্সিটি গার্লস স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "titleEn": "ইঞ্জিনিয়ারিং ইউনিভার্সিটি গার্লস স্কুল এন্ড কলেজ, ঢাকা - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "দুইটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি আঁকা যাবে?",
+      "options": [
+        "ট্রাপিজিয়াম",
+        "রম্বস",
+        "সামান্তরিক",
+        "আয়ত"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sec A + \\tan A = \\sqrt{5}$ হলে, $\\sin A =$ কত?",
+      "options": [
+        "$\\frac{1}{\\sqrt{5}}$",
+        "$-\\frac{1}{\\sqrt{5}}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{2}{3}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\theta$ সূক্ষ্মকোণ হলে$-$\n$i.$ $\\sec^2\\theta - \\tan^2\\theta = 1$\n$ii.$ $\\cot^2\\theta = 1 - \\text{cosec}^2\\theta$\n$iii.$ $\\cos^2\\theta = 1 + \\sin^2\\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$ii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\nএকটি ত্রিভুজের তিন কোণের অনুপাত $2 : 7 : 9$",
+      "question": "একটি কোণ $2x$ হলে$-$\n$i.$ অপর একটি কোণ $7x$\n$ii.$ অপর একটি কোণ $9x$\n$iii.$ তিন কোণের সমষ্টি $15x$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\nএকটি ত্রিভুজের তিন কোণের অনুপাত $2 : 7 : 9$",
+      "question": "বৃহত্তম কোণের মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে $ABCD$ চতুর্ভুজটি বৃত্তে অন্তর্লিখিত। $\\angle CDE = 80^{\\circ}$ হলে $\\angle ABC =$ কত?",
+      "options": [
+        "$100^{\\circ}$",
+        "$180^{\\circ}$",
+        "$80^{\\circ}$",
+        "$280^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_engineering_university_girls_school_and_college%2Fq06.svg?alt=media&token=0930516c-01e5-44bc-b75c-adbf56f941a8",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$3$ সে.মি., $4$ সে.মি. ও $5$ সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পর বহিঃস্পর্শ করলে কেন্দ্রত্রয় দ্বারা গঠিত ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$12$",
+        "$24$",
+        "$60$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একই ব্যাসার্ধ ও একই উচ্চতাবিশিষ্ট একটি বেলন ও একটি কোণকের আয়তনের অনুপাত কত?",
+      "options": [
+        "$3 : 1$",
+        "$1 : 3$",
+        "$2 : 3$",
+        "$3 : 2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৯$ ও $১০$) নং প্রশ্নের উত্তর দাও:\nএকটি বৃত্তের ব্যাসার্ধ $8$ সে.মি. এবং একটি বৃত্তচাপ কেন্দ্রে $56^{\\circ}$ কোণ উৎপন্ন করে।",
+      "question": "বৃত্তচাপের দৈর্ঘ্য কত সে.মি. (আসন্ন)?",
+      "options": [
+        "$6.82$",
+        "$7.81$",
+        "$8.82$",
+        "$7.82$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৯$ ও $১০$) নং প্রশ্নের উত্তর দাও:\nএকটি বৃত্তের ব্যাসার্ধ $8$ সে.মি. এবং একটি বৃত্তচাপ কেন্দ্রে $56^{\\circ}$ কোণ উৎপন্ন করে।",
+      "question": "বৃত্তকলার ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$31.28$",
+        "$32.28$",
+        "$28.31$",
+        "$28.32$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$5, 0, 2, 0, 7, 4, 3$ উপাত্তগুলোর$-$\n$i.$ গড় $3$\n$ii.$ প্রচুরক $0$\n$iii.$ মধ্যক $0$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "পরীক্ষায় প্রাপ্ত জিপিএ কোন ধরনের চলক?",
+      "options": [
+        "বিচ্ছিন্ন চলক",
+        "অবিচ্ছিন্ন চলক",
+        "জিপি চলক",
+        "কোনোটিই নয়"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ থেকে $22$ পর্যন্ত স্বাভাবিক সংখ্যার মধ্যে $3$ দ্বারা বিভাজ্য সংখ্যার মধ্যক কোনটি?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$-4$ থেকে $6$ পর্যন্ত পূর্ণসংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$1$",
+        "$-1$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বৃত্তের ক্ষেত্রফল একটি বর্গের ক্ষেত্রফলের সমান হলে, বৃত্তের পরিসীমা ও বর্গের পরিসীমার অনুপাত কত?",
+      "options": [
+        "$2 : \\sqrt{\\pi}$",
+        "$\\pi : 4$",
+        "$\\sqrt{\\pi} : 2$",
+        "$4 : \\sqrt{\\pi}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "দুইটি বর্গক্ষেত্রের ক্ষেত্রফলের অনুপাত $9 : 16$ হলে, পরিসীমার অনুপাত কত?",
+      "options": [
+        "$9 : 16$",
+        "$16 : 9$",
+        "$4 : 3$",
+        "$3 : 4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি বর্গে অন্তর্লিখিত বৃত্তে কয়টি স্পর্শক পাওয়া যায়?",
+      "options": [
+        "$0$",
+        "$2$",
+        "$4$",
+        "অসংখ্য"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$\\Delta ABC$ সমবাহু ত্রিভুজের পরিকেন্দ্র $O$ হলে, $\\angle AOB =$ কত?",
+      "options": [
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$100^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "বর্গের একটি বাহু দেওয়া থাকলে বর্গটি আঁকা যায়। কারণ তাতে আছে $\\underline{\\hspace{1cm}}$ টি উপাত্ত আছে।",
+      "options": [
+        "$1$",
+        "$3$",
+        "$5$",
+        "$6$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$\\frac{a}{b} + \\frac{b}{a} = 2$ হলে, $a - b =$ কত?",
+      "options": [
+        "$0$",
+        "$1$",
+        "$ab$",
+        "$\\sqrt{ab}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(y) = y^2 - \\left(a + \\frac{1}{a}\\right)y + 1$ হলে, $y$ এর কোন মানের জন্য $f(y) = 0$ হবে?",
+      "options": [
+        "$0, a$",
+        "$0, \\frac{1}{a}$",
+        "$a, -\\frac{1}{a}$",
+        "$a, \\frac{1}{a}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$f(x)$ এর একটি উৎপাদক $(2x + 1)$ হলে, নিচের কোনটি শূন্য $(0)$ হবে?",
+      "options": [
+        "$f(-1)$",
+        "$f(1)$",
+        "$f\\left(-\\frac{1}{2}\\right)$",
+        "$f\\left(\\frac{1}{2}\\right)$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$0^{\\circ} \\le \\theta \\le 90^{\\circ}$ সীমায় $\\sin\\theta$ এর সর্বনিম্ন মান কত?",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\frac{\\sec\\theta + \\tan\\theta}{\\sec\\theta - \\tan\\theta} = 3$ হলে, $\\sin\\theta$ এর মান নিচের কোনটি?",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$2$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin^2 1^{\\circ} + \\sin^2 2^{\\circ} + \\sin^2 3^{\\circ} + \\sin^2 4^{\\circ} + ......... + \\sin^2 89^{\\circ} =$ কত?",
+      "options": [
+        "$0$",
+        "$44.5$",
+        "$90$",
+        "$4049.5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_01",
+      "questionPreamble": null,
+      "question": "$B = {1, 2, 3, 1, 4}$ হলে, সেট $B$ এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$32$",
+        "$31$",
+        "$16$",
+        "$15$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{a, b, c\\}, B = \\{1, 2, 3\\}$ হলে, $A \\times B$ এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$6$",
+        "$8$",
+        "$9$",
+        "$27$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৮$ ও $২৯$) নং প্রশ্নের উত্তর দাও:\nএকটি কলমের প্রকৃত মূল্যের $20\\%$ কমিশনে $48$ টাকায় কলমটি কেনা হল।",
+      "question": "কলমটির প্রকৃত মূল্য কত টাকা?",
+      "options": [
+        "$80$",
+        "$60$",
+        "$240$",
+        "$28$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৮$ ও $২৯$) নং প্রশ্নের উত্তর দাও:\nএকটি কলমের প্রকৃত মূল্যের $20\\%$ কমিশনে $48$ টাকায় কলমটি কেনা হল।",
+      "question": "বিক্রয়মূল্য প্রকৃত মূল্যের শতকরা কত?",
+      "options": [
+        "$80\\%$",
+        "$64\\%$",
+        "$48\\%$",
+        "$32\\%$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "নিচের কোন যুগল কোণ দ্বারা সমদ্বিবাহু ত্রিভুজ আঁকা যায়?",
+      "options": [
+        "$70^{\\circ}$ ও $40^{\\circ}$",
+        "$36^{\\circ}$ ও $74^{\\circ}$",
+        "$63^{\\circ}$ ও $34^{\\circ}$",
+        "$40^{\\circ}$ ও $50^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

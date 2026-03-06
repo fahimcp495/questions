@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_government_laboratory_high_school_tejgaon_dhaka",
+    "title": "গভর্নমেন্ট সায়েন্স হাই স্কুল, তেজগাঁও, ঢাকা",
+    "titleEn": "গভর্নমেন্ট সায়েন্স হাই স্কুল, তেজগাঁও, ঢাকা",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": "motijheel_ideal",
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$D = \\{y : y \\in \\mathbb{N}$ এবং $5 \\le y \\le 10\\}$ তালিকা পদ্ধতিতে নিচের কোনটি সঠিক?",
+      "options": [
+        "$\\{5,6, 7, 8, 9,10\\}$",
+        "$\\{ 6, 7, 8, 9\\}$",
+        "$\\{5,6, 7, 8, 9\\}$",
+        "$\\{ 6, 7, 8,9,10\\}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$\\{4, 5, 6, 7, 8\\}$ সেটের প্রকৃত উপসেট কয়টি?",
+      "options": [
+        "$10$",
+        "$32$",
+        "$31$",
+        "$33$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$f(x) = x^2 - 5x + 6$ হলে $f(x) = 0$ হলে $x =$ কত?",
+      "options": [
+        "$-5, 1$",
+        "$2, 3$",
+        "$-2, 3$",
+        "$1, -5$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(x) = x^4 + 5x + 3$ হলে, $f(-\\frac{1}{2}) =$ কত?",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{7}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{8}{5}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x^4 - 5x^2 + 1 = 0$ হলে $x + \\frac{1}{x} =$ কত?",
+      "options": [
+        "$7$",
+        "$3$",
+        "$\\sqrt{3}$",
+        "$\\sqrt{7}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$x+y = \\sqrt{8}, x-y = \\sqrt{5}$ হলে$-$\n$i.$ $xy = \\frac{3}{4}$\n$ii.$ $x^2 + y^2 = \\frac{13}{2}$\n$iii.$ $x^2 - y^2 = \\sqrt{40}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(x)$ এর একটি উৎপাদক $(2x+1)$ হলে নিচের কোনটি শূন্য হবে?",
+      "options": [
+        "$f(-1)$",
+        "$f(1)$",
+        "$f(-\\frac{1}{2})$",
+        "$f(\\frac{1}{2})$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি গাড়ির ক্রয়মূল্য $y$ টাকা $x\\%$ লাভ করতে হলে গাড়িটি কত মূল্যে বিক্রয় করতে হবে?",
+      "options": [
+        "$x(1 + \\frac{y}{100})$",
+        "$y(1 + \\frac{x}{100})$",
+        "$x(1 + \\frac{x}{100})$",
+        "$xy(1 + \\frac{1}{100})$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "একটি ত্রিভুজের দুইবাহুর দৈর্ঘ্য $4$ সে.মি. এবং $10$ সে.মি. হলে তৃতীয় বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$5$",
+        "$6$",
+        "$8$",
+        "$14$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "শুধু পরিসীমা ও একটি কোণ দেওয়া থাকলে নিচের কোনটি আঁকা সম্ভব?",
+      "options": [
+        "ট্রাপিজিয়াম",
+        "আয়ত",
+        "সামান্তরিক",
+        "রম্বস"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "দুটি বাহু ও কতগুলো কোণ দেওয়া থাকলে একটি চতুর্ভুজ আঁকা সম্ভব?",
+      "options": [
+        "$1$টি",
+        "$2$টি",
+        "$3$টি",
+        "$4$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোন বৃত্তের অধিচাপে অন্তর্লিখিত কোণ$-$",
+      "options": [
+        "পূরক কোন",
+        "সম্পূরক কোণ",
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রে $y$ এর মান কত?",
+      "options": [
+        "$80^\\circ$",
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_government_laboratory_high_school_tejgaon_dhaka%2Fq13.svg?alt=media&token=bcf67476-4d8c-47ec-9477-76e2fb97fce9",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$4$ সে.মি. ব্যাসার্ধ এবং $6$ সে.মি. ব্যাসবিশিষ্ট দুটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে, এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত ?",
+      "options": [
+        "$10$ সে.মি.",
+        "$7$ সে.মি.",
+        "$2$ সে.মি.",
+        "$1$ সে.মি."
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রে $\\sin B$ এর মান কত?",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{5}{3}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_government_laboratory_high_school_tejgaon_dhaka%2Fq15.svg?alt=media&token=721de0e3-2927-4ff8-a66d-4867abeb13be",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "ত্রিকোণমিতিক সম্পর্কের ক্ষেত্রে$-$\n$i.$ $\\text{cosec}^2 \\theta = 1 - \\cot^2 \\theta$\n$ii.$ $\\sec^2 \\theta - \\tan^2 \\theta = 1$\n$iii.$ $\\cos^2 \\theta = 1 - \\sin^2 \\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\sin(90^\\circ - 3\\theta) = \\frac{1}{\\sqrt{2}}$ হলে $ \\theta =$ কত?",
+      "options": [
+        "$15^\\circ$",
+        "$30^\\circ$",
+        "$45^\\circ$",
+        "$15^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_10",
+      "questionPreamble": null,
+      "question": "নিচের চিত্রে $x$ এর মান কত?",
+      "options": [
+        "$15^\\circ$",
+        "$30^\\circ$",
+        "$45^\\circ$",
+        "$60^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_government_laboratory_high_school_tejgaon_dhaka%2Fq18.svg?alt=media&token=eb7e57cb-9dc3-452c-b0e7-0fc2d025c0d6",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "একটি দ্রব্যের ক্রয়মূল্য $:$ বিক্রয়মূল্য $= 5:6$ হলে শতকরা লাভ কত?",
+      "options": [
+        "$20\\%$",
+        "$25\\%$",
+        "$30\\%$",
+        "$50\\%$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "পিতা ও পুত্রের বর্তমান বয়সের অনুপাত $8:3$। তাদের বয়সের সমষ্টি $55$ বছর হলে পুত্রের বর্তমান বয়স কত বছর হবে?",
+      "options": [
+        "$45$",
+        "$36$",
+        "$15$",
+        "$33$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২১$ ও $২২$) নং প্রশ্নের উত্তর দাও:\n$1011$ টাকা অন্তরা, শাম্মী ও আয়েশাকে $\\frac{3}{4} : \\frac{4}{5} : \\frac{6}{7}$ অনুপাতে ভাগ করে নেওয়া হলো।",
+      "question": "অনুপাতটির সরল অনুপাত কত?",
+      "options": [
+        "$3:4:6$",
+        "$3:5:7$",
+        "$35:36:40$",
+        "$105:112:120$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২১$ ও $২২$) নং প্রশ্নের উত্তর দাও:\n$1011$ টাকা অন্তরা, শাম্মী ও আয়েশাকে $\\frac{3}{4} : \\frac{4}{5} : \\frac{6}{7}$ অনুপাতে ভাগ করে নেওয়া হলো।",
+      "question": "অন্তরা কত টাকা পেল?",
+      "options": [
+        "$360$",
+        "$337$",
+        "$315$",
+        "$675$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজের দুই বাহুর দৈর্ঘ্য $2$ সে.মি., $8$ সে.মি. এবং ক্ষেত্রফল $4\\sqrt{3}$ সে.মি.। বাহুদ্বয়ের মধ্যবর্তি কোণ কত?",
+      "options": [
+        "$30^\\circ$",
+        "$45^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রের ছায়ানিবিদ্ধ অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$28.27$",
+        "$31.73$",
+        "$33.27$",
+        "$60$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_government_laboratory_high_school_tejgaon_dhaka%2Fq24.svg?alt=media&token=70cafbf9-f99f-4dea-892c-41906dec7023",
+      "imageCaption": "A rectangle with a circle inside. Rectangle dimensions 10 cm and 6 cm.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$3$ সে.মি. ও $2$ সে.মি. ব্যাসার্ধ বিশিষ্ট দইটি এককেন্দ্রিক বৃত্তক্ষেত্রের পরিধিদ্বয়ের মাঝের অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$\\pi$",
+        "$3\\pi$",
+        "$5\\pi$",
+        "$4\\pi$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল $216$ বর্গ মি. হলে এর আয়তন কত ঘন মি.?",
+      "options": [
+        "$6\\sqrt{6}$",
+        "$36$",
+        "$144$",
+        "$216$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "গড় নির্ণয়ের ক্ষেত্রে অনুমিত গড় $a = 32, u_3 = -3, h = 6$ হলে $x_3 =$ কত?",
+      "options": [
+        "$26$",
+        "$14$",
+        "$20$",
+        "$16$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "$1-19$ পর্যন্ত মৌলিক সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "$16.62$",
+        "$14.62$",
+        "$10.62$",
+        "$9.63$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ হতে $22$ পর্যন্ত স্বাভাবিক সংখ্যাগুলোর মধ্যে ৩ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কোনটি?",
+      "options": [
+        "$9$",
+        "$12$",
+        "$15$",
+        "$18$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "একটি গাণিতিক সমস্যা সমাধান করতে $7$ জন শিক্ষার্থীর নিচের উল্লেখিত সময় (মিনিট) লাগে:\n$3, 2, 5, 7, 7, 10, 15$",
+      "question": "নিচের কোনটি সঠিক?\n$i$. সংখ্যাগুলোর গড় $7$\n$ii$.  মধ্যক $5$ তম পদ\n$iii$. প্রচুরক $7$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

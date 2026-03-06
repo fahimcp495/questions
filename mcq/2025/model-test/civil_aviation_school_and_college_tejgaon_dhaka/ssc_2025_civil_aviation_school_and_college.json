@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_civil_aviation_school_and_college",
+    "title": "সিভিল এভিয়েশন স্কুল এন্ড কলেজ, তেজগাঁও, ঢাকা",
+    "titleEn": "সিভিল এভিয়েশন স্কুল এন্ড কলেজ, তেজগাঁও, ঢাকা",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$(x+3, y-5) = (5, 3)$ হলে, $(x, y) = $ কত?",
+      "options": [
+        "$(2, -2)$",
+        "$(2, 8)$",
+        "$(0, 10)$",
+        "$(8, 8)$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$S = \\{y : y, 12$ এর মৌলিক গুণনীয়ক$\\}$ সেটটির তালিকা পদ্ধতির প্রকাশ কোনটি?",
+      "options": [
+        "$\\{1, 2, 3\\}$",
+        "$\\{2, 3\\}$",
+        "$\\{2, 3, 6\\}$",
+        "$\\{1, 2, 3, 6\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "নিচের তথ্যগুলো লক্ষ কর$-$\n$i.$ $\\{(4, 8), (2, 6), (2, 8)\\}$ ইত্যাদি হলো ক্রমজোড়ের সেট\n$ii.$ সকল $x$ এর সেট $A$ এবং সকল $y$ এর সেট $B$ হলে $A \\times B = \\{(x, y) : x \\in A, y \\in B\\}$\n$iii.$ $A$ ও $B$ দুটি অশূন্য উপসেট হলে $A$ থেকে $B$ তে একটি অন্বয় হলো $A \\times B$ এর উপসেট\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($4$ ও $5$) নং প্রশ্নের উত্তর দাও:\n$p^2 = 3p + 1$ হলে$-$",
+      "question": "$p^2 - \\frac{1}{p^2}$ এর মান কোনটি?",
+      "options": [
+        "$39$",
+        "$13$",
+        "$\\sqrt{117}$",
+        "$3\\sqrt{13}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($4$ ও $5$) নং প্রশ্নের উত্তর দাও:\n$p^2 = 3p + 1$ হলে$-$",
+      "question": "$p^4 - \\frac{1}{p^4}$ এর মান কোনটি?",
+      "options": [
+        "$33\\sqrt{13}$",
+        "$119$",
+        "$429$",
+        "$27887$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$\\sqrt{x} + \\frac{1}{\\sqrt{x}} = a$ হলে, $x^2 + \\frac{1}{x^2}$ এর মান নিচের কোনটি?",
+      "options": [
+        "$a^2 - 2$",
+        "$a^4 - 2a^2 + 2$",
+        "$a^4 - 5$",
+        "$a^4 - 4a^2 + 2$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$a^3 + b^3 = 16, a + b = 2$ হলে, $a^2 - ab + b^2 = $ কত?",
+      "options": [
+        "$4$",
+        "$6$",
+        "$12$",
+        "$8$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$ax^2 + (a^2 + 1)x + a$ কে উৎপাদকে বিশ্লেষণ করলে নিচের কোনটি হবে?",
+      "options": [
+        "$(x + a)(ax + 1)$",
+        "$(x + a)(ax^2 + 1)$",
+        "$(x + 1)(ax + 1)$",
+        "$(x + 1)(ax^2 + 1)$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$f(a) = a^3 + 3a + 36$ এবং $(a + 3), f(a)$ এর একটি উৎপাদক হলে$-$\n$i.$ $f(-3) = 0$ হবে\n$ii.$ $(a - 4), f(a)$ এর একটি উৎপাদক হবে\n$iii.$ $(a^2 - 3a + 12), f(a)$ এর একটি উৎপাদক হবে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$6x^2 - 7x + 5$ কে $(x + 1)$ দ্বারা ভাগ করলে ভাগশেষ কত?",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$18$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "রোকন একটি পণ্য কিনল, যার মূল্য $220$ টাকা $+ 15\\%$ ভ্যাট। পণ্যটি কিনতে তাকে কত টাকা দিতে হবে?",
+      "options": [
+        "$212$",
+        "$175$",
+        "$253$",
+        "$223$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "পিতা ও পুত্রের বয়সের অনুপাত $4 : 1$ ও পুত্র ও কন্যার বয়সের অনুপাত $1 : 2$ হলে, পিতা ও কন্যার বয়সের অনুপাত কত?",
+      "options": [
+        "$2 : 1$",
+        "$1 : 2$",
+        "$2 : 3$",
+        "$3 : 2$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "কোনো পরীক্ষায় পরীক্ষার্থীর $80\\%$ গণিতে এবং $70\\%$ বাংলায় পাস করল। উভয় বিষয়ে $60\\%$ পাস করলে শতকরা কতজন উভয় বিষয়ে ফেল করে?",
+      "options": [
+        "$10$",
+        "$15$",
+        "$20$",
+        "$25$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "$1$ ঘন সেমি কাঠের ওজন $60$ সেন্টিগ্রাম। কাঠের ওজন সমআয়তন পানির ওজনের শতকরা কত ভাগ?",
+      "options": [
+        "$50\\%$",
+        "$60\\%$",
+        "$70\\%$",
+        "$80\\%$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "দুইটি সংখ্যার অনুপাত $3 : 4$ এবং তাদের লসাগু $180$ হলে নিচের কোনটি সংখ্যাদ্বয়ের মান?",
+      "options": [
+        "$(15, 20)$",
+        "$(45, 60)$",
+        "$(9, 12)$",
+        "$(36, 48)$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($16-18$) নং প্রশ্নের উত্তর দাও:\nএকটি ত্রিভুজের ভূমি $4$ সেমি., ভূমি সংলগ্ন কোণ $55^\\circ$ ও ভূমি সংলগ্ন অপর কোণ $90^\\circ$।",
+      "question": "ভূমির বিপরীত কোণের মান কত?",
+      "options": [
+        "$30^\\circ$",
+        "$35^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_06",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($16-18$) নং প্রশ্নের উত্তর দাও:\nএকটি ত্রিভুজের ভূমি $4$ সেমি., ভূমি সংলগ্ন কোণ $55^\\circ$ ও ভূমি সংলগ্ন অপর কোণ $90^\\circ$।",
+      "question": "অঙ্কিত ত্রিভুজটি কী ধরনের ত্রিভুজ?",
+      "options": [
+        "স্থূলকোণী",
+        "সূক্ষ্মকোণী",
+        "সমকোণী",
+        "সমদ্বিবাহু সমকোণী"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($16-18$) নং প্রশ্নের উত্তর দাও:\nএকটি ত্রিভুজের ভূমি $4$ সেমি., ভূমি সংলগ্ন কোণ $55^\\circ$ ও ভূমি সংলগ্ন অপর কোণ $90^\\circ$।",
+      "question": "ত্রিভুজটির লম্বের দৈর্ঘ্য কত সেমি?",
+      "options": [
+        "$5.71$",
+        "$7.14$",
+        "$3.27$",
+        "$4.28$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সামান্তরিকের সন্নিহিত দুই কোণের সমষ্টি কত?",
+      "options": [
+        "$180^\\circ$",
+        "$90^\\circ$",
+        "$360^\\circ$",
+        "$120^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "তিনটি বাহু ও কয়টি কর্ণের মান জানা থাকলে একটি নির্দিষ্ট চতুর্ভুজ আঁকা সম্ভব?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($21$ ও $22$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$\\angle ACB$ এর মান কত?",
+      "options": [
+        "$45^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$120^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_civil_aviation_school_and_college%2Fq21.svg?alt=media&token=44971133-9e4a-410c-9ca6-e5097a2b0b3a",
+      "imageCaption": "A circle with points A, B, C on circumference and center O.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($21$ ও $22$) নং প্রশ্নের উত্তর দাও:",
+      "question": "$AB$ এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$5$",
+        "$3$",
+        "$\\sqrt{5}$",
+        "$\\sqrt{3}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_civil_aviation_school_and_college%2Fq22.svg?alt=media&token=3b1ea3f4-b470-4849-a55d-1e76e875fdf1",
+      "imageCaption": "A circle showing a chord AB and radius 2cm.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্র বিশিষ্ট বৃত্তে $OM \\perp AB$, $OM = 6$ সেমি এবং $AB = 16$ সেমি. হলে $OB = $ কত সেমি.?",
+      "options": [
+        "$10$",
+        "$12$",
+        "$16$",
+        "$32$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_civil_aviation_school_and_college%2Fq23.svg?alt=media&token=0f6f4814-c1cf-4fc0-b2b1-d563d046a945",
+      "imageCaption": "Circle with chord AB and center O.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে$-$\n$i.$ $OA = OC$\n$ii.$ $AC$ বৃত্তের ব্যাস\n$iii.$ $BC$ কে বৃত্তের জ্যা বলা যায়\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_civil_aviation_school_and_college%2Fq24.svg?alt=media&token=28b8ce3a-d368-41a0-9a3e-a27abae40b5f",
+      "imageCaption": "A circle with center O and line segment AC.",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "$O$ কেন্দ্রবিশিষ্ট $ABC$ বৃত্তে $AB$ জ্যা এর মধ্যবিন্দু $D$ হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        "$OD \\perp AB$",
+        "$OD \\parallel AB$",
+        "$OD = AB$",
+        "$OD = AD$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan \\theta = \\frac{3}{4}$ হলে $\\cos^2 \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{16}{9}$",
+        "$\\frac{25}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{16}{25}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_09",
+      "questionPreamble": "চিত্রে $AB = 5$ সেমি., $BC = 12$ সেমি. এবং $\\angle ACB = \\theta$ হলে,",
+      "question": "$\\sin \\theta + \\cos \\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{5}{13}$",
+        "$\\frac{12}{13}$",
+        "$\\frac{17}{13}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_civil_aviation_school_and_college%2Fq27.svg?alt=media&token=09ca6717-16f6-4e81-b006-6e78136c25ad",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "ত্রিকোণমিতিক সম্পর্কের ক্ষেত্রে$-$\n$i.$ $\\cos^2 \\theta = 1 - \\sin^2 \\theta$\n$ii.$ $\\sec^2 \\theta - \\tan^2 \\theta = 1$\n$iii.$ $\\text{cosec}^2 \\theta = 1 - \\cot^2 \\theta$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($29$ ও $30$) নং প্রশ্নের উত্তর দাও:\nনিচে $10$ জন শ্রমিকের দৈনিক মজুরি (টাকায়) দেওয়া হলো: $150, 130, 145, 170, 200, 180, 190, 140, 165, 175।$",
+      "question": "উপাত্তের পরিসর কত?",
+      "options": [
+        "$50$",
+        "$71$",
+        "$85$",
+        "$90$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($29$ ও $30$) নং প্রশ্নের উত্তর দাও:\nনিচে $10$ জন শ্রমিকের দৈনিক মজুরি (টাকায়) দেওয়া হলো: $150, 130, 145, 170, 200, 180, 190, 140, 165, 175।$",
+      "question": "উপাত্তের গড় কত?",
+      "options": [
+        "$160$",
+        "$162.5$",
+        "$163$",
+        "$164.5$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

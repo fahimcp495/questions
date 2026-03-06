@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_dhaka_cantonment_girls_public_school_and_college",
+    "title": "ঢাকা ক্যান্টনমেন্ট গার্লস পাবলিক স্কুল এন্ড কলেজ - ২০২৫",
+    "titleEn": "ঢাকা ক্যান্টনমেন্ট গার্লস পাবলিক স্কুল এন্ড কলেজ - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x \\in \\mathbb{N} : x^{2} < 25\\}, B = \\{x \\in \\mathbb{N} : x$ মৌলিক সংখ্যা এবং $x^{2} < 25\\}, C = \\{x \\in \\mathbb{N} : x^{2} = 25\\}$ হলে, $(A \\cap B) \\cup C = $ কত?",
+      "options": [
+        "$\\{\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{-5, 2, 3, 5\\}$",
+        "$\\{1, 2, 3, 5\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$A = \\{a, b, c, d\\}$ এবং $B = \\{a, b, c\\}$ হলে$-$\n$i.$ $B \\cup (A \\cup B) = A \\cap B$\n$ii.$ $(A - B) \\cup B = A$\n$iii.$ $A = A \\cap (A \\cup B)$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$ii$ ও $iii$",
+        "$i$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a + \\frac{1}{a} = 3$ হলে $\\frac{2a}{3a^{2} - 2a + 3}$ এর মান কত?",
+      "options": [
+        "$\\frac{2}{7}$",
+        "$\\frac{7}{2}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{4}{5}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\n$x - \\frac{1}{x} = \\sqrt[3]{343}$",
+      "question": "$x^{2} + \\frac{1}{x^{2}}$ এর মান কত?",
+      "options": [
+        "$64$",
+        "$51$",
+        "$41$",
+        "$36$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৪$ ও $৫$) নং প্রশ্নের উত্তর দাও:\n$x - \\frac{1}{x} = \\sqrt[3]{343}$",
+      "question": "$x^{3} - \\frac{1}{x^{3}}$ এর মান কত?",
+      "options": [
+        "$64$",
+        "$264$",
+        "$364$",
+        "$624$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "একটি দ্রব্য $20\\%$ লাভে বিক্রয় করলে বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        "$5 : 3$",
+        "$3 : 5$",
+        "$6 : 5$",
+        "$5 : 6$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "নিচে ত্রিভুজের বাহুর দৈর্ঘ্য দেওয়া আছে। কোন ক্ষেত্রে ত্রিভুজটি আঁকা সম্ভব নয়?",
+      "options": [
+        "$2, 3, 5$ সে.মি.",
+        "$4, 5, 6$ সে.মি.",
+        "$3, 5, 7$ সে.মি.",
+        "$5, 6, 8$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৮-৯$) নং প্রশ্নের উত্তর দাও:\n$2022$ টাকা মাইশা, আলেয়া ও মেহজাবিন এর মধ্যে $\\frac{3}{4} : \\frac{4}{5} : \\frac{6}{7}$ অনুপাতে ভাগ করে দেওয়া হলো।",
+      "question": "অনুপাতের সরল অনুপাত কোনটি?",
+      "options": [
+        "$5 : 11 : 12$",
+        "$11 : 12 : 5$",
+        "$105 : 112 : 120$",
+        "$120 : 112 : 105$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_11",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($৮-৯$) নং প্রশ্নের উত্তর দাও:\n$2022$ টাকা মাইশা, আলেয়া ও মেহজাবিন এর মধ্যে $\\frac{3}{4} : \\frac{4}{5} : \\frac{6}{7}$ অনুপাতে ভাগ করে দেওয়া হলো।",
+      "question": "মাইশা কত টাকা পেল?",
+      "options": [
+        "$672$",
+        "$630$",
+        "$720$",
+        "$680$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "দুইটি বৃত্ত বহিঃস্থভাবে স্পর্শ করেছে, এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব $7$ সে.মি.। একটি বৃত্তের ব্যাসার্ধ $4$ সে.মি. হলে, অপর বৃত্তের ব্যাসার্ধ কত সে.মি.?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$7$",
+        "$8$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি বর্গে অন্তর্লিখিত বৃত্তের কয়টি স্পর্শক থাকে?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রের $\\angle RPQ = $ কত ডিগ্রী?",
+      "options": [
+        "$5^{\\circ}$",
+        "$45^{\\circ}$",
+        "$75^{\\circ}$",
+        "$85^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fdhaka_cantonment_girls_public_school_and_college%2Fq12.svg?alt=media&token=cde87022-be32-4f07-b1bd-701d5d2b6bf3",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ$-$",
+      "options": [
+        "সমকোণ",
+        "সূক্ষ্মকোণ",
+        "স্থূলকোণ",
+        "সরলকোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৪-১৫$) নং প্রশ্নের উত্তর দাও:\n$\\sqrt{2}\\sin(A - B) = 1, 2\\sin(A + B) = \\sqrt{3}$",
+      "question": "$A$ এর মান কত?",
+      "options": [
+        "$52\\frac{1}{2}^{\\circ}$",
+        "$45^{\\circ}$",
+        "$7\\frac{1}{2}^{\\circ}$",
+        "$37\\frac{1}{2}^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_09",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($১৪-১৫$) নং প্রশ্নের উত্তর দাও:\n$\\sqrt{2}\\sin(A - B) = 1, 2\\sin(A + B) = \\sqrt{3}$",
+      "question": "$B$ এর মান কত?",
+      "options": [
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$7\\frac{1}{2}^{\\circ}$",
+        "$37\\frac{1}{2}^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "একটি সরলরেখা একটি বৃত্তকে সর্বোচ্চ কয়টি বিন্দুতে ছেদ করতে পারে?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "অসংখ্য"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক একটি কী?",
+      "options": [
+        "বর্গক্ষেত্র",
+        "আয়তক্ষেত্র",
+        "ট্রাপিজিয়াম",
+        "রম্বস"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\tan\\theta = \\frac{3}{4}$ হলে $\\cos^{2}\\theta$ এর মান কত?",
+      "options": [
+        "$\\frac{16}{9}$",
+        "$\\frac{25}{16}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{16}{25}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cos\\theta = \\frac{1}{2}$ হলে, $\\tan\\theta$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$\\sqrt{3}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin 45^{\\circ} = \\sqrt{2}A$ হলে, $A =$ কত?",
+      "options": [
+        "$2$",
+        "$\\sqrt{3}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি সমবৃত্তভূমিক বেলনের উচ্চতা $2$ মিটার এবং ভূমির ব্যাসার্ধ $1$ মিটার হলে, এর$-$\n$i.$ বক্রতলের ক্ষেত্রফল $3\\pi$ বর্গমিটার\n$ii.$ আয়তন $2\\pi$ ঘনমিটার\n$iii.$ ভূমির ক্ষেত্রফল $\\pi$ বর্গমিটার\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$a, b, c$ ক্রমিক সমানুপাতি হলে$-$\n$i.$ $b^{2} = ac$\n$ii.$ $2b = a + c$\n$iii.$ $\\frac{a+b}{b} = \\frac{b+c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$x$ এর $10\\%$, যদি $y$ এর $20\\%$ এর সমান হয় তবে $x : y =$ কত?",
+      "options": [
+        "$1 : 2$",
+        "$2 : 1$",
+        "$5 : 1$",
+        "$10 : 1$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি ঘনকের আয়তন $24\\sqrt{3}$ ঘন সে.মি. হলে, এর কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        "$6$",
+        "$2\\sqrt{3}$",
+        "$4$",
+        "$3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৫$ ও $২৬$) নং প্রশ্নের উত্তর দাও:\nএকটি বেলনের উচ্চতা $8$ সে.মি. ও ভূমির ব্যাসার্ধ $12$ সে.মি.।",
+      "question": "বেলনের বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$37.70$",
+        "$50.27$",
+        "$301.59$",
+        "$603.18$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৫$ ও $২৬$) নং প্রশ্নের উত্তর দাও:\nএকটি বেলনের উচ্চতা $8$ সে.মি. ও ভূমির ব্যাসার্ধ $12$ সে.মি.।",
+      "question": "বেলনটির আয়তন কত ঘন সে.মি.?",
+      "options": [
+        "$3619.12$",
+        "$904.78$",
+        "$301.59$",
+        "$160.88$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "কেন্দ্রীয় প্রবণতার পরিমাপ হলো$-$\n$i.$ আয়তলেখ\n$ii.$ গড়\n$iii.$ মধ্যক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কেন্দ্রীয় প্রবণতার নির্ভরযোগ্য পরিমাপ কোনটি?",
+      "options": [
+        "গড়",
+        "মধ্যক",
+        "প্রচুরক",
+        "আয়ত"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৯-৩০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "মধ্যক শ্রেণির উচ্চসীমা কত?",
+      "options": [
+        "$64$",
+        "$69$",
+        "$74$",
+        "$79$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fdhaka_cantonment_girls_public_school_and_college%2Fq29.svg?alt=media&token=77bdc51b-c942-419a-897e-cb0976ac7c56",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্যের আলোকে ($২৯-৩০$) নং প্রশ্নের উত্তর দাও:",
+      "question": "প্রচুরক কত?",
+      "options": [
+        "$60$",
+        "$65$",
+        "$68.56$",
+        "$75.68$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fdhaka_cantonment_girls_public_school_and_college%2Fq30.svg?alt=media&token=f7bf92e7-7d33-41b6-9961-9cd2b301ee2b",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
