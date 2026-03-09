@@ -24,7 +24,7 @@
  <path d=" M 0.0 0.0 L 36.96129 -21.33955  " fill="none"/>
  </g>
  <g stroke-width="0.8">
- <path d=" M 0.0 0.0 M -7.3919 -4.26773 C -5.03482 -8.35033 0.18576 -9.74919 4.26836 -7.3921 C 5.56561 -6.64319 6.64381 -5.56499 7.39273 -4.26773  " fill="none"/>
+ <path d=" M 0.0 -42.67911 M -7.73575 -39.07173 C -6.12343 -34.64175 -1.22507 -32.35774 3.20491 -33.97006 C 5.09036 -34.65633 6.67444 -35.98552 7.67773 -37.72328  " fill="none"/>
  </g>
  <g stroke-width="0.8">
  <path d=" M 0.0 42.67911 M -4.97931 34.05507 C -1.89854 32.27643 1.89854 32.27643 4.97931 34.05507  " fill="none"/>
@@ -54,7 +54,7 @@
  <g stroke="none"> <text alignment-baseline="baseline" y="-13.891632080078121" x="-15.609436035156246" style="font-family: cmr10;" font-size="10">D</text>
 </g> </g>
  </g></g>
- <g transform="translate(-9.79863,-19.09203)">
+ <g transform="translate(-9.79863,-29.05022)">
  <g stroke="none" transform="scale(-1.00375,1.00375)translate(-15.609436035156246,-13.891632080078121)scale(-1,-1)"><g fill="#000">
  <g stroke="none"> <text alignment-baseline="baseline" y="-13.891632080078121" x="-15.609436035156246" style="font-family: cmr10;" font-size="10">120</text>
 <text alignment-baseline="baseline" y="-17.520553588867184" x="-0.6093788146972655" style="font-family: cmsy7;" font-size="7">◦</text>

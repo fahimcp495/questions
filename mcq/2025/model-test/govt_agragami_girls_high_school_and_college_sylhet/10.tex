@@ -1,0 +1,37 @@
+\begin{tikzpicture}[thick]
+
+% Define dimensions
+\def\w{4}  % width (horizontal) = 8 units scaled
+\def\h{4}  % height (vertical) = 6 units scaled
+
+% Coordinates
+\coordinate (A) at (0,0);
+\coordinate (B) at (\w,0);
+\coordinate (C) at (0,\h);
+
+% Fill the quarter circle with grey
+\fill[gray!50] (B) arc (0:90:\w) -- (A) -- cycle;
+
+% Remove (fill white) the triangle part to leave only the circular segment
+% Actually: grey region = quarter circle - right triangle
+% So fill quarter circle grey, then fill triangle white
+\fill[white] (A) -- (B) -- (C) -- cycle;
+
+% Now fill grey only the region between arc and hypotenuse
+\fill[gray!50] (B) arc (0:90:\w) -- cycle;
+
+% Draw the right triangle
+\draw (A) -- (B) -- (C) -- cycle;
+
+% Draw the quarter circle arc from B to C
+\draw (B) arc (0:90:\w);
+
+% Right angle mark at A
+\def\sq{0.2}
+\draw ($(A)+(\sq,0)$) -- ($(A)+(\sq,\sq)$) -- ($(A)+(0,\sq)$);
+
+% Labels
+\node[left] at ($(A)!0.5!(C)$) {$6$};
+\node[below] at ($(A)!0.5!(B)$) {$8$};
+
+\end{tikzpicture}

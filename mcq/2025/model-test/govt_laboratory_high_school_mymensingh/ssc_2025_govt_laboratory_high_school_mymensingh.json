@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_govt_laboratory_high_school_mymensingh",
+    "title": "গভর্ণমেন্ট ল্যাবরেটরী হাই স্কুল, ময়মনসিংহ - ২০২৫",
+    "titleEn": "গভর্ণমেন্ট ল্যাবরেটরী হাই স্কুল, ময়মনসিংহ - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{x \\in \\mathbb{Z} : 1 \\le x \\le 5\\}$ হলে, $P(A)$ এর উপাদান সংখ্যা কত?",
+      "options": [
+        "$16$",
+        "$9$",
+        "$32$",
+        "$64$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_02",
+      "questionPreamble": "",
+      "question": "$A = \\{3, 4, 5, 6, 7\\}$ এবং $B = \\{4, 6, 8, 9, 10\\}$ হলে, $A \\setminus B$ এর মান কত?",
+      "options": [
+        "$\\{3, 4, 5, 6, 7\\}$",
+        "$\\{4, 6, 8, 9, 10\\}$",
+        "$\\{8, 9, 10\\}$",
+        "$\\{3, 5, 7\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$3x = 2y = z$ হলে, $x : y : z = $ কত?",
+      "options": [
+        "$2 : 3 : 6$",
+        "$3 : 2 : 1$",
+        "$6 : 3 : 2$",
+        "$1 : 2 : 3$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_02",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৪ ও ৫) নং প্রশ্নের উত্তর দাও:\n$P = \\{2, 3\\}, Q = \\{3, 4, 6\\}$,\n$R = \\{(x, y) : x \\in P, y \\in Q$ এবং $y = 2x\\}$",
+      "question": "$R$ এর রেঞ্জ কোনটি?",
+      "options": [
+        "$\\{2, 3\\}$",
+        "$\\{2, 6\\}$",
+        "$\\{4, 3\\}$",
+        "$\\{4, 6\\}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_02",
+      "questionPreamble": "নিচের তথ্যের আলোকে (৪ ও ৫) নং প্রশ্নের উত্তর দাও:\n$P = \\{2, 3\\}, Q = \\{3, 4, 6\\}$,\n$R = \\{(x, y) : x \\in P, y \\in Q \\text{ এবং } y = 2x\\}$",
+      "question": "$R$ এর ডোমেন কোনটি?",
+      "options": [
+        "$\\{2, 6\\}$",
+        "$\\{3, 3\\}$",
+        "$\\{2, 3\\}$",
+        "$\\{3, 4\\}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$a - b = 5, ab = 6$ হলে, $a^{2} + b^{2} = $ কত?",
+      "options": [
+        "$37$",
+        "$36$",
+        "$35$",
+        "$1$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$f(x) = 6x^{2} - x - 1$ এর জন্য$-$\n$i.$ $f\\left(\\frac{1}{2}\\right) = 0$\n$ii.$ $f(0) = 1$\n$iii.$ $(3x + 1), f(x)$ এর একটি উৎপাদক\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "শতকরা বার্ষিক $4$ টাকা হারে মুনাফায় $350$ টাকার $4$ বছরের মুনাফা কত?",
+      "options": [
+        "$35$ টাকা",
+        "$46$ টাকা",
+        "$56$ টাকা",
+        "$60$ টাকা"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "পরিসীমা দেওয়া থাকলে কোন প্রকার ত্রিভুজ আঁকা সম্ভব?",
+      "options": [
+        "সমদ্বিবাহু ত্রিভুজ",
+        "সমবাহু ত্রিভুজ",
+        "বিষমবাহু ত্রিভুজ",
+        "সমকোণী ত্রিভুজ"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_07",
+      "questionPreamble": "",
+      "question": "কেবল একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে কোনটি অঙ্কন সম্ভব?",
+      "options": [
+        "সামান্তরিক",
+        "ট্রাপিজিয়াম",
+        "আয়তক্ষেত্র",
+        "বর্গক্ষেত্র"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি ত্রিভুজ অঙ্কন করা যায় যদি দেওয়া থাকে$-$\n$i.$ দুইটি বাহু ও অন্তর্ভুক্ত কোণ\n$ii.$ তিনটি বাহু\n$iii.$ দুটি কোণ ও একটি বাহু\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$8$ সে.মি. ও $6$ সে.মি. ব্যাস বিশিষ্ট দুটি বৃত্ত বহিঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি. হবে?",
+      "options": [
+        "$6$ সে.মি.",
+        "$7$ সে.মি.",
+        "$8$ সে.মি.",
+        "$9$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$2:5$ এবং $3:7$ এর ধারাবাহিক অনুপাত কোনটি?",
+      "options": [
+        "$6:9:15$",
+        "$6:10:15$",
+        "$6:15:21$",
+        "$6:15:35$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "কোনো বর্গের কর্ণের দৈর্ঘ্য ও বাহুর দৈর্ঘ্যের অনুপাত কত?",
+      "options": [
+        "$1 : 2$",
+        "$2 : 1$",
+        "$\\sqrt{2} : 1$",
+        "$1 : \\sqrt{2}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য $10\\%$ বৃদ্ধি পেলে ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+      "options": [
+        "$10\\%$",
+        "$11\\%$",
+        "$12\\%$",
+        "$21\\%$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_11",
+      "questionPreamble": "",
+      "question": "$a, b, c$ ক্রমিক সমানুপাতী হলে,\n$i.$ $b^{2} = ac$\n$ii.$ $b = \\frac{a+c}{2}$\n$iii.$ $\\frac{a+b}{b} = \\frac{b+c}{c}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "কোনো বৃত্তের উপচাপের উপর দণ্ডায়মান বৃত্তস্থ কোণ$-$",
+      "options": [
+        "সমকোণ",
+        "স্থূলকোণ",
+        "সূক্ষ্মকোণ",
+        "প্রবৃদ্ধ কোণ"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "চিত্রে, $O$ কেন্দ্র বিশিষ্ট বৃত্তে $PA$ ও $PB$ দুটি স্পর্শক হলে, $\\angle AOB = $ কত?",
+      "options": [
+        "$115^\\circ$",
+        "$120^\\circ$",
+        "$125^\\circ$",
+        "$130^\\circ$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_laboratory_high_school_mymensingh%2Fq18.svg?alt=media&token=7243cd7b-90b8-4f58-977b-cde61eb1c35d",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তের $AB$ জ্যা এর মধ্যবিন্দু $D$।",
+      "question": "$OA = 13$ সে.মি., $OD = 12$ সে.মি., $AB = $ কত?",
+      "options": [
+        "$6$ সে.মি.",
+        "$8$ সে.মি.",
+        "$10$ সে.মি.",
+        "$12$ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_laboratory_high_school_mymensingh%2Fq19.svg?alt=media&token=cab2fe19-5b10-4886-9d4a-7cf80d39a78f",
+      "imageCaption": "O কেন্দ্রবিশিষ্ট বৃত্তে AB একটি জ্যা এবং C বৃত্তের উপর একটি বিন্দু। D হলো AB জ্যা এর মধ্যবিন্দু।",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের তথ্যের আলোকে (১৯ ও ২০) নং প্রশ্নের উত্তর দাও:\n$O$ কেন্দ্রবিশিষ্ট বৃত্তের $AB$ জ্যা এর মধ্যবিন্দু $D$।",
+      "question": "$\\angle OAB = 40^\\circ$ হলে, $\\angle AOC = $ কত?",
+      "options": [
+        "$75^\\circ$",
+        "$80^\\circ$",
+        "$90^\\circ$",
+        "$100^\\circ$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "hard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_laboratory_high_school_mymensingh%2Fq20.svg?alt=media&token=d61815a9-5a67-4e6c-a16a-9890a72acc5b",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$O$ কেন্দ্রবিশিষ্ট বৃত্তে $ABCD$ একটি অন্তর্লিখিত চতুর্ভুজ। $\\angle A = 130^\\circ$ হলে, $\\angle C = $ কত?",
+      "options": [
+        "$50^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$225^\\circ$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sec \\theta = 2$ হলে, $\\tan \\theta = $ কত?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$4$",
+        "$\\frac{1}{4}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\sin \\theta - \\cos \\theta = 0$ হলে$-$\n$i.$ $\\sin \\theta + \\cos \\theta = 0$\n$ii.$ $\\sin \\theta . \\cos \\theta = \\frac{1}{2}$\n$iii.$ $\\tan \\theta = 1$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\frac{1 + \\tan^{2} \\theta}{1 - \\sin^{2} \\theta}$ এর মান কোনটি?",
+      "options": [
+        "$\\sin^{4} \\theta$",
+        "$\\cos^{4} \\theta$",
+        "$\\tan^{4} \\theta$",
+        "$\\sec^{4} \\theta$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "$9$ টি বাহু বিশিষ্ট সুষম বহুভুজের প্রতিটি শীর্ষ কোণের মান কত?",
+      "options": [
+        "$90^\\circ$",
+        "$120^\\circ$",
+        "$140^\\circ$",
+        "$160^\\circ$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": "",
+      "question": "স্থূলকোণী ত্রিভুজের পরিকেন্দ্র কোথায় অবস্থিত?",
+      "options": [
+        "বৃহত্তর বাহুর উপর",
+        "ক্ষুদ্রতর বাহুর উপর",
+        "ত্রিভুজের অভ্যন্তরে",
+        "ত্রিভুজের বহির্ভাগে"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$A$ ও $B$ কেন্দ্র বিশিষ্ট দুটি বৃত্ত পরস্পরকে $S$ বিন্দুতে বহিঃস্পর্শ করলে$-$\n$i.$ $AS = BS$\n$ii.$ $AS + BS = AB$\n$iii.$ $\\angle ASB = 180^\\circ$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_16",
+      "questionPreamble": "",
+      "question": "সামান্তরিকের দুইটি সন্নিহিত বাহুর দৈর্ঘ্য যথাক্রমে $12$ সে.মি. ও $4$ সে.মি.। এদের অন্তর্ভুক্ত কোণ $30^\\circ$। সামান্তরিকের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        "$96$",
+        "$48$",
+        "$24$",
+        "$12$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "medium",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "$1$ থেকে $22$ এর মধ্যে $4$ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        "$8$",
+        "$12$",
+        "$16$",
+        "$20$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_17",
+      "questionPreamble": "",
+      "question": "কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        "তাপমাত্রা",
+        "পাখির সংখ্যা",
+        "বয়স",
+        "উচ্চতা"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}

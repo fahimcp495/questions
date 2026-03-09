@@ -1,0 +1,616 @@
+{
+  "paper": {
+    "id": "ssc_2025_govt_agragami_girls_high_school_and_college_sylhet",
+    "title": "সরকারি অগ্রগামী বালিকা উচ্চ বিদ্যালয় ও কলেজ, সিলেট - ২০২৫",
+    "titleEn": "সরকারি অগ্রগামী বালিকা উচ্চ বিদ্যালয় ও কলেজ, সিলেট - ২০২৫",
+    "year": 2025,
+    "type": "school",
+    "board": null,
+    "school": null,
+    "totalQuestions": 30,
+    "durationMinutes": 30,
+    "questionPreamble": "প্রতিটি প্রশ্নের মান ১। প্রতিটি প্রশ্নের সঠিক উত্তরে ১ এবং ভুল উত্তরে ০ নম্বর দেওয়া হবে।"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "একটি চতুর্ভুজ আঁকতে কয়টি নিরপেক্ষ উপাদান প্রয়োজন?",
+      "options": [
+        "$৩$টি",
+        "$৪$টি",
+        "$৫$টি",
+        "$৬$টি"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 2,
+      "chapterId": "chapter_06",
+      "questionPreamble": null,
+      "question": "$50^{\\circ}$ কোণের সম্পূরক কোণের অর্ধেকের মান কত?",
+      "options": [
+        "$20^{\\circ}$",
+        "$25^{\\circ}$",
+        "$65^{\\circ}$",
+        "$130^{\\circ}$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 3,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$f(y) = y^3 - 5y + 2$ হলে $f(-2) = $ কত?",
+      "options": [
+        "$-16$",
+        "$0$",
+        "$2$",
+        "$4$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 4,
+      "chapterId": "chapter_03",
+      "questionPreamble": null,
+      "question": "$m^2 + m - 56$ এর উৎপাদক কোনটি?",
+      "options": [
+        "$m - 8$",
+        "$m - 7$",
+        "$m + 7$",
+        "$m + 14$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 5,
+      "chapterId": "chapter_06",
+      "questionPreamble": "",
+      "question": "সুষম অষ্টভুজের প্রতিটি কোণের মান কত?",
+      "options": [
+        "$135^{\\circ}$",
+        "$120^{\\circ}$",
+        "$108^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 6,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্য থেকে ৬ ও ৭ নং প্রশ্নের উত্তর দাও:\n15, 26, 12, 9, 17, 7, 18, 20 কয়েকটি সংখ্যা",
+      "question": "উক্ত সংখ্যা গুলোর মধ্যক কত?",
+      "options": [
+        "$17$",
+        "$16$",
+        "$13$",
+        "$9$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 7,
+      "chapterId": "chapter_17",
+      "questionPreamble": "নিচের তথ্য থেকে ৬ ও ৭ নং প্রশ্নের উত্তর দাও:\n15, 26, 12, 9, 17, 7, 18, 20 কয়েকটি সংখ্যা",
+      "question": "সংখ্যাগুলোর পরিসর কত?",
+      "options": [
+        "$17$",
+        "$18$",
+        "$19$",
+        "$20$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 8,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "শ্রেণি মধ্যবিন্দু প্রয়োজন হয়$-$\n$i.$ গাণিতিক গড় নির্ণয়ে\n$ii.$ আয়ত লেখ অঙ্কনে\n$iii.$ গণসংখ্যা বহুভুজ অঙ্কনে\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 9,
+      "chapterId": "chapter_17",
+      "questionPreamble": null,
+      "question": "নিচের কোনটির একাধিক মান থাকতে পারে?",
+      "options": [
+        "গাণিতিক গড়",
+        "মধ্যক",
+        "প্রচুরক",
+        "পরিসর"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 10,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "চিত্রের অর্ধবৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        "$24$ বর্গ সে.মি.",
+        "$48$ বর্গ সে.মি.",
+        "$\\frac{25\\pi}{2}$ বর্গ সে.মি.",
+        "$\\frac{100\\pi}{2}$ বর্গ সে.মি."
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq10.svg?alt=media&token=804f1b8a-9da6-46d2-8cb4-a610a12e6c04",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 11,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্র থেকে ($১১$ ও $১২$) নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $ABCD$ একটি রম্বস।\nউহার $AC = 12$ সে.মি.\n$BD = 16$ সে.মি.\nরম্বসের ক্ষেত্রফল কত?",
+      "options": [
+        "$96$ বর্গ সে.মি.",
+        "$72$ বর্গ সে.মি.",
+        "$64$ বর্গ সে.মি.",
+        "$48$ বর্গ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq11.svg?alt=media&token=561afd69-7344-4b44-8da8-1a653f2d6f3e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 12,
+      "chapterId": "chapter_16",
+      "questionPreamble": "নিচের চিত্র থেকে ($১১$ ও $১২$) নং প্রশ্নের উত্তর দাও:",
+      "question": "চিত্রে $ABCD$ একটি রম্বস।\nউহার $AC = 12$ সে.মি.\n$BD = 16$ সে.মি.\n$AB = $ কত?",
+      "options": [
+        "$10$ সে.মি.",
+        "$12$ সে.মি.",
+        "$16$ সে.মি.",
+        "$96$ সে.মি."
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq12.svg?alt=media&token=1b13217d-0c91-451c-b4a7-c2d366b76782",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 13,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য তিনগুণ করা হলে উহার ক্ষেত্রফল কতগুণ হবে?",
+      "options": [
+        "$2$ গুণ",
+        "$3$ গুণ",
+        "$4$ গুণ",
+        "$9$ গুণ"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 14,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$\\frac{2}{3} : \\frac{5}{6} : \\frac{4}{5}$ এর সরল অনুপাত কোনটি?",
+      "options": [
+        "$24 : 25 : 20$",
+        "$20 : 25 : 24$",
+        "$3 : 6 : 5$",
+        "$2 : 5 : 4$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 15,
+      "chapterId": "chapter_07",
+      "questionPreamble": null,
+      "question": "ত্রিভুজের অন্তর্বৃত্ত আঁকতে হলে$-$\n$i.$ বাহুকে সমদ্বিখণ্ডিত করতে হয়\n$ii.$ কোণকে সমদ্বিখণ্ডিত করতে হয়\n$iii.$ বৃত্তের ভিতরে ত্রিভুজ অংকন করা হয়\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$",
+        "$ii$",
+        "$iii$",
+        "$i$ ও $ii$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 16,
+      "chapterId": "chapter_03",
+      "questionPreamble": "",
+      "question": "$p + \\frac{1}{p} = 2\\sqrt{2}$ যেখানে $p > 0$ হলে $p - \\frac{1}{p}$ এর মান কত?",
+      "options": [
+        "$2$",
+        "$2\\sqrt{3}$",
+        "$6$",
+        "$8\\sqrt{2}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 17,
+      "chapterId": "chapter_16",
+      "questionPreamble": null,
+      "question": "কোন বর্গের বাহুর দৈর্ঘ্য $8$ সে.মি. হলে উহার কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        "$2\\sqrt{2}$ সে.মি.",
+        "$8\\sqrt{2}$ সে.মি.",
+        "$2\\sqrt{8}$ সে.মি.",
+        "$8\\sqrt{8}$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 18,
+      "chapterId": "chapter_09",
+      "questionPreamble": "",
+      "question": "$\\cos(90^{\\circ} - 2x) = \\sin 20^{\\circ}$ হলে $x = $ কত?",
+      "options": [
+        "$10^{\\circ}$",
+        "$20^{\\circ}$",
+        "$45^{\\circ}$",
+        "$55^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 19,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "চিত্রে $\\cot R = $ কত?",
+      "options": [
+        "$\\frac{4}{3}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq19.svg?alt=media&token=73c902af-9960-4039-9e15-b4f431ba3799",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 20,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\alpha, \\beta, \\gamma, \\theta$ বর্ণগুলো হলো$-$",
+      "options": [
+        "মিশরীয়",
+        "ইটালিয়ান",
+        "ব্যাবিলনীয়",
+        "গ্রিক"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 21,
+      "chapterId": "chapter_09",
+      "questionPreamble": null,
+      "question": "$\\text{cosec } A + \\cot A = \\frac{4}{7}$ হলে $\\cot A - \\text{cosec } A = $ কত?",
+      "options": [
+        "$\\frac{7}{4}$",
+        "$\\frac{4}{7}$",
+        "$-\\frac{4}{7}$",
+        "$-\\frac{7}{4}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 22,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্র থেকে ($২২$ ও $২৩$) নং প্রশ্নের উত্তর দাও:\nচিত্রে O বৃত্তের কেন্দ্র ।",
+      "question": "$x$ এর মান কত?",
+      "options": [
+        "$40^{\\circ}$",
+        "$75^{\\circ}$",
+        "$85^{\\circ}$",
+        "$115^{\\circ}$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq22.svg?alt=media&token=22f33f1f-6194-48aa-9422-ec7d1ed7761e",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 23,
+      "chapterId": "chapter_08",
+      "questionPreamble": "নিচের চিত্র থেকে ($২২$ ও $২৩$) নং প্রশ্নের উত্তর দাও:\nচিত্রে O বৃত্তের কেন্দ্র ।",
+      "question": "চিত্রে$-$\n$i.$ $ABCD$ একটি বৃত্তস্থ চতুর্ভুজ\n$ii.$ প্রবৃদ্ধ কোণের মান $220^{\\circ}$\n$iii.$ কেন্দ্রস্থ কোণের মান $140^{\\circ}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mathgen-app-2026.firebasestorage.app/o/questions%2Fssc_2025_govt_agragami_girls_high_school_and_college_sylhet%2Fq23.svg?alt=media&token=dd989572-52c8-47e5-8dd2-166890e629c5",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 24,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ কোনটি?",
+      "options": [
+        "$60^{\\circ}$",
+        "$75^{\\circ}$",
+        "$90^{\\circ}$",
+        "$108^{\\circ}$"
+      ],
+      "correctOption": 3,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 25,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "$y : x = z : y$ হলে$-$\n$i.$ $\\frac{y}{x} = \\frac{z}{y}$\n$ii.$ $\\frac{x}{y} = \\frac{y}{z}$\n$iii.$ $\\frac{z}{x} = \\frac{x}{y}$\nনিচের কোনটি সঠিক?",
+      "options": [
+        "$i$ ও $ii$",
+        "$i$ ও $iii$",
+        "$ii$ ও $iii$",
+        "$i, ii$ ও $iii$"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 26,
+      "chapterId": "chapter_08",
+      "questionPreamble": null,
+      "question": "$A$ ও $B$ কেন্দ্র বিশিষ্ট দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করেছে। $A$ কেন্দ্র বিশিষ্ট বৃত্তের ব্যাসার্ধ $7$ সে.মি. ও $B$ কেন্দ্র বিশিষ্ট বৃত্তের ব্যাস $6$ সে.মি., এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "options": [
+        "$1$ সে.মি.",
+        "$4$ সে.মি.",
+        "$10$ সে.মি.",
+        "$13$ সে.মি."
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 27,
+      "chapterId": "chapter_02",
+      "questionPreamble": null,
+      "question": "$\\{y \\in \\mathbb{N} : y$ মৌলিক সংখ্যা এবং $y < 7\\}$ সেটটির তালিকা পদ্ধতি কোনটি?",
+      "options": [
+        "$\\{1, 3, 5\\}$",
+        "$\\{2, 3, 5\\}$",
+        "$\\{2, 3, 5, 7\\}$",
+        "$\\{1, 3, 5, 7\\}$"
+      ],
+      "correctOption": 1,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 28,
+      "chapterId": "chapter_11",
+      "questionPreamble": null,
+      "question": "দুইটি সংখ্যার অনুপাত $7 : 3$ এবং এদের গ.সা.গু $4$ হলে সংখ্যা দুইটির অন্তরফল কত?",
+      "options": [
+        "$4$",
+        "$12$",
+        "$16$",
+        "$40$"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 29,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের উপাত্ত থেকে $২৯$ ও $৩০$ নং প্রশ্নের উত্তর দাও:\nশতকরা বার্ষিক $5$ টাকা হার মুনাফায় $500$ টাকা $3$ বছরের জন্য ব্যাংক জমা রাখা হলো।",
+      "question": "সরল মুনাফা কত?",
+      "options": [
+        "$7500$ টাকা",
+        "$1500$ টাকা",
+        "$75$ টাকা",
+        "$15$ টাকা"
+      ],
+      "correctOption": 2,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": null,
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    },
+    {
+      "questionNumber": 30,
+      "chapterId": "chapter_03",
+      "questionPreamble": "নিচের উপাত্ত থেকে $২৯$ ও $৩০$ নং প্রশ্নের উত্তর দাও:\nশতকরা বার্ষিক $5$ টাকা হার মুনাফায় $500$ টাকা $3$ বছরের জন্য ব্যাংক জমা রাখা হলো।",
+      "question": "সরল মুনাফা ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+      "options": [
+        "$3.81$ টাকা",
+        "$75.00$ টাকা",
+        "$78.81$ টাকা",
+        "$578.81$ টাকা"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "difficulty": "easy",
+      "imageUrl": "",
+      "imageCaption": "",
+      "imagePosition": "aboveQuestion",
+      "isPublished": true,
+      "isExplanationPublished": false
+    }
+  ]
+}
